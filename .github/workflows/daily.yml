@@ -37,6 +37,7 @@ jobs:
           git config --local user.name "Print Shop Bot"
           git add docs/
           git diff --staged --quiet || git commit -m "auto: new designs [$(date -u +'%Y-%m-%d')]"
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
           git push
 
       - name: Setup Pages
