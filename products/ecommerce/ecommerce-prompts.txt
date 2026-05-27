@@ -1,0 +1,236 @@
+============================================================
+  E-Commerce AI Prompts for Shopify Sellers
+  Boost sales with product descriptions that sell
+============================================================
+
+Included Prompts: 24
+Generated: May 27, 2026
+
+============================================================
+  HOW TO USE
+============================================================
+
+1. Copy a prompt below
+2. Paste into ChatGPT (or any AI chat)
+3. Replace the example details with your own
+4. Get professional results in seconds
+
+============================================================
+  THE PROMPTS
+============================================================
+
+
+  ========================================================
+  PRODUCT DESCRIPTION
+  ========================================================
+
+  Prompt #1: When creating a new product listing for a smartwatch on Shopify
+  ────────────────────────────────────────────────────────
+  Write a detailed and SEO-friendly product description for a new smartwatch that includes features such as heart rate monitoring, GPS tracking, and water resistance, targeting fitness enthusiasts who regularly engage in outdoor activities like hiking and running.
+
+  Prompt #2: When launching a new skincare product line on Shopify
+  ────────────────────────────────────────────────────────
+  Create a compelling product description for a luxury skincare set that includes a facial moisturizer, eye cream, and face mask, highlighting the natural ingredients and benefits for sensitive skin types, and optimize it for search terms like 'natural skincare' and 'sensitive skin care'.
+
+
+  ========================================================
+  CUSTOMER SERVICE
+  ========================================================
+
+  Prompt #1: When handling customer complaints about delayed orders on Shopify
+  ────────────────────────────────────────────────────────
+  Draft a response to a customer complaint about a delayed order, apologizing for the inconvenience, explaining the cause of the delay, and offering a discount on their next purchase, while also providing an estimated delivery date and a tracking number for the delayed order.
+
+
+  ========================================================
+  MARKETING STRATEGY
+  ========================================================
+
+  Prompt #1: When creating a social media marketing plan for an eco-friendly home goods store on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a social media marketing strategy for a Shopify store that sells eco-friendly home goods, including a content calendar, influencer partnerships, and paid advertising on Facebook and Instagram, targeting environmentally conscious consumers aged 25-45.
+
+
+  ========================================================
+  INVENTORY MANAGEMENT
+  ========================================================
+
+  Prompt #1: When preparing for seasonal changes in demand on Shopify
+  ────────────────────────────────────────────────────────
+  Create a plan for managing inventory levels for a Shopify store that sells seasonal clothing, including strategies for forecasting demand, optimizing stock levels, and clearing out excess inventory during off-seasons, and provide recommendations for inventory management software to streamline the process.
+
+
+  ========================================================
+  SUPPLY CHAIN OPTIMIZATION
+  ========================================================
+
+  Prompt #1: When looking to improve supply chain efficiency on Shopify
+  ────────────────────────────────────────────────────────
+  Analyze the current supply chain for a Shopify store that imports products from overseas manufacturers and provide recommendations for optimizing logistics, including strategies for reducing shipping costs, improving delivery times, and streamlining customs clearance, and suggest potential partners for freight forwarding and warehousing.
+
+
+  ========================================================
+  PRODUCT RECOMMENDATIONS
+  ========================================================
+
+  Prompt #1: When creating personalized product recommendations for customers on Shopify
+  ────────────────────────────────────────────────────────
+  Generate a list of product recommendations for a customer who has purchased a wireless charging pad, including complementary products such as phone cases, headphones, and power banks, and provide a personalized email template to promote these recommendations and encourage repeat business.
+
+
+  ========================================================
+  CUSTOMER SEGMENTATION
+  ========================================================
+
+  Prompt #1: When creating targeted marketing campaigns on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a customer segmentation strategy for a Shopify store that sells outdoor gear, including criteria for categorizing customers based on purchase history, browsing behavior, and demographic data, and provide recommendations for targeted marketing campaigns to each segment, such as email newsletters and social media ads.
+
+
+  ========================================================
+  RETURN POLICY
+  ========================================================
+
+  Prompt #1: When establishing a return and refund policy on Shopify
+  ────────────────────────────────────────────────────────
+  Draft a comprehensive return and refund policy for a Shopify store that sells furniture and home decor, including instructions for initiating returns, guidelines for packaging and shipping returned items, and a timeline for processing refunds, and ensure the policy is customer-friendly and compliant with relevant consumer protection laws.
+
+
+  ========================================================
+  LOYALTY PROGRAM
+  ========================================================
+
+  Prompt #1: When creating a loyalty program to retain customers on Shopify
+  ────────────────────────────────────────────────────────
+  Design a loyalty program for a Shopify store that sells pet supplies, including a points system, rewards tiers, and exclusive discounts for loyal customers, and provide recommendations for promoting the program through email marketing, social media, and in-store signage.
+
+
+  ========================================================
+  ABANDONED CART RECOVERY
+  ========================================================
+
+  Prompt #1: When recovering abandoned carts on Shopify
+  ────────────────────────────────────────────────────────
+  Create a series of email reminders to recover abandoned carts for a Shopify store that sells electronics, including a first email sent 24 hours after cart abandonment, a second email sent 3 days later, and a final email sent 7 days after abandonment, each with a increasingly persuasive offer to complete the purchase.
+
+
+  ========================================================
+  CONTENT CREATION
+  ========================================================
+
+  Prompt #1: When planning content marketing on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a content calendar for a Shopify store that sells artisanal food products, including blog posts, social media posts, and email newsletters, focusing on topics such as recipe ideas, product features, and company news, and provide recommendations for content creation tools and resources to streamline the process.
+
+
+  ========================================================
+  INFLUENCER PARTNERSHIPS
+  ========================================================
+
+  Prompt #1: When seeking influencer partnerships on Shopify
+  ────────────────────────────────────────────────────────
+  Identify potential influencers for a Shopify store that sells athletic wear, including fitness enthusiasts, athletes, and lifestyle bloggers, and provide a template for outreach emails to propose collaborations, including sponsored posts, product reviews, and affiliate partnerships.
+
+
+  ========================================================
+  SHIPPING AND FULFILLMENT
+  ========================================================
+
+  Prompt #1: When selecting shipping carriers and fulfillment options on Shopify
+  ────────────────────────────────────────────────────────
+  Compare and contrast different shipping carriers and fulfillment options for a Shopify store that sells large and heavy products, such as furniture and appliances, including USPS, UPS, FedEx, and freight carriers, and provide recommendations for optimizing shipping costs and delivery times based on customer location and order volume.
+
+
+  ========================================================
+  PRODUCT PHOTOGRAPHY
+  ========================================================
+
+  Prompt #1: When creating product photography for handmade products on Shopify
+  ────────────────────────────────────────────────────────
+  Provide guidelines for product photography for a Shopify store that sells handmade jewelry, including tips for lighting, composition, and styling, and recommend equipment and software for editing and optimizing product images for web use, such as image compression and alt text.
+
+
+  ========================================================
+  SEARCH ENGINE OPTIMIZATION
+  ========================================================
+
+  Prompt #1: When optimizing a Shopify store for search engines
+  ────────────────────────────────────────────────────────
+  Conduct an SEO audit for a Shopify store that sells outdoor equipment, including an analysis of keyword usage, meta tags, and site structure, and provide recommendations for optimizing product pages, category pages, and blog posts for search engines like Google, including suggestions for keyword research tools and SEO plugins.
+
+
+  ========================================================
+  CUSTOMER REVIEWS
+  ========================================================
+
+  Prompt #1: When collecting and managing customer reviews on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a strategy for encouraging customers to leave reviews for a Shopify store that sells baby products, including email reminders, in-package inserts, and social media requests, and provide a template for responding to both positive and negative reviews, including tips for handling complaints and showing appreciation for feedback.
+
+
+  ========================================================
+  EMAIL MARKETING
+  ========================================================
+
+  Prompt #1: When creating a welcome email sequence on Shopify
+  ────────────────────────────────────────────────────────
+  Create a welcome email sequence for a Shopify store that sells beauty products, including a series of 3-5 emails sent over the course of 2 weeks, introducing new subscribers to the brand, showcasing best-selling products, and offering exclusive discounts and promotions, and provide recommendations for email marketing automation tools to personalize and optimize the sequence.
+
+
+  ========================================================
+  SOCIAL MEDIA ADVERTISING
+  ========================================================
+
+  Prompt #1: When running social media ads on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a social media advertising strategy for a Shopify store that sells gaming accessories, including a budget allocation plan, ad creative guidelines, and targeting options for Facebook, Instagram, and Twitter, and provide recommendations for tracking and optimizing ad performance using metrics such as click-through rate, conversion rate, and return on ad spend.
+
+
+  ========================================================
+  STORE DESIGN
+  ========================================================
+
+  Prompt #1: When designing a Shopify store
+  ────────────────────────────────────────────────────────
+  Design a visually appealing and user-friendly store layout for a Shopify store that sells home decor, including a homepage, product pages, and category pages, and provide recommendations for customizing the theme, adding trust badges, and optimizing the mobile shopping experience.
+
+
+  ========================================================
+  PRODUCT BUNDLING
+  ========================================================
+
+  Prompt #1: When creating product bundles on Shopify
+  ────────────────────────────────────────────────────────
+  Create a product bundling strategy for a Shopify store that sells fitness equipment, including suggestions for bundling complementary products, such as yoga mats and blocks, and providing discounts for bulk purchases, and provide a template for promoting bundles through email marketing and social media.
+
+
+  ========================================================
+  GIFT GIVING
+  ========================================================
+
+  Prompt #1: When creating a gift-giving experience on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a gift-giving strategy for a Shopify store that sells luxury candles and home fragrances, including gift wrapping options, personalized notes, and curated gift collections, and provide recommendations for promoting gift-giving during holidays and special occasions, such as Valentine's Day and Mother's Day.
+
+
+  ========================================================
+  ANALYTICS AND REPORTING
+  ========================================================
+
+  Prompt #1: When setting up analytics and reporting on Shopify
+  ────────────────────────────────────────────────────────
+  Set up Google Analytics for a Shopify store that sells electronics, including tracking code installation, goal setup, and conversion tracking, and provide recommendations for creating custom reports and dashboards to monitor key metrics such as sales, revenue, and customer acquisition cost.
+
+
+  ========================================================
+  CUSTOMER RETENTION
+  ========================================================
+
+  Prompt #1: When improving customer retention on Shopify
+  ────────────────────────────────────────────────────────
+  Develop a customer retention strategy for a Shopify store that sells subscription-based services, including a loyalty program, exclusive content, and personalized communication, and provide recommendations for measuring retention rates and adjusting the strategy based on customer feedback and behavior.
+
+============================================================
+  Thank you for your purchase!
+  Share your results: @yourhandle
+============================================================
