@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PrintMint Shop</title>
+    <title>AI Prompt Store</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; min-height: 100vh; }
@@ -16,52 +16,36 @@
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
         .product { background: #1a1a1a; border-radius: 15px; overflow: hidden; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; }
         .product:hover { transform: translateY(-5px); box-shadow: 0 20px 40px rgba(102,126,234,0.2); }
-        .product img { width: 100%; height: 280px; object-fit: contain; background: #fff; padding: 20px; }
+        .product img { width: 100%; height: 300px; object-fit: cover; }
         .product .info { padding: 20px; }
         .product h3 { font-size: 1.1em; margin-bottom: 8px; }
         .product .tag { display: inline-block; padding: 4px 12px; background: #333; border-radius: 12px; font-size: 0.8em; color: #aaa; }
-        .product .price { float: right; color: #667eea; font-weight: bold; font-size: 1.2em; }
-        .buy-btn { display: block; width: 100%; padding: 12px; margin-top: 15px; background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; border: none; border-radius: 8px; font-size: 1em; font-weight: 600; cursor: pointer; transition: opacity 0.2s; }
-        .buy-btn:hover { opacity: 0.9; }
+        .product .prompts-count { display: inline-block; margin-left: 8px; padding: 4px 12px; background: #1a3a2a; border-radius: 12px; font-size: 0.8em; color: #4ade80; }
+        .product .price { float: right; color: #667eea; font-weight: bold; font-size: 1.3em; }
         footer { text-align: center; color: #555; margin-top: 60px; padding: 20px; font-size: 0.9em; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>PrintMint Shop</h1>
-            <p>Premium AI-crafted SVG designs for t-shirts, mugs, posters & more</p>
-            <a class="store-link" href="https://bybilal.gumroad.com" target="_blank">Visit Full Store on Gumroad →</a>
+            <h1>AI Prompt Store</h1>
+            <p>Premium ChatGPT prompt bundles — copy, paste, and get results</p>
+            <a class="store-link" href="https://bybilal.gumroad.com" target="_blank">View All Products on Gumroad →</a>
         </header>
         <div class="grid">
             
-        <div class="product" onclick="window.open('https://bybilal.gumroad.com/l/gjynw','_blank')">
-            <img src="designs/simple-shape-logo-design.svg" alt="Simple Shape Logo Design">
+        <div class="product" onclick="window.open('#','_blank')">
+            <img src="products/business/cover.svg" alt="Business AI Prompts: Strategy & Operations" onerror="this.style.display='none'">
             <div class="info">
-                <h3>Simple Shape Logo Design</h3>
-                <span class="tag">Minimalist Logo</span>
-                <span class="price">$2.99</span>
-            </div>
-        </div>
-        <div class="product" onclick="window.open('https://bybilal.gumroad.com/l/ddsuj','_blank')">
-            <img src="designs/code-runs-my-life.svg" alt="Code Runs My Life">
-            <div class="info">
-                <h3>Code Runs My Life</h3>
-                <span class="tag">Tech & Programming</span>
-                <span class="price">$2.99</span>
-            </div>
-        </div>
-        <div class="product" onclick="window.open('https://bybilal.gumroad.com/l/hqycms','_blank')">
-            <img src="designs/mystic-dragon-fire-emblem.svg" alt="Mystic Dragon Fire Emblem">
-            <div class="info">
-                <h3>Mystic Dragon Fire Emblem</h3>
-                <span class="tag">Fantasy & Magic</span>
-                <span class="price">$2.99</span>
+                <h3>Business AI Prompts: Strategy & Operations</h3>
+                <span class="tag">Business</span>
+                <span class="prompts-count">30 prompts</span>
+                <span class="price">$14</span>
             </div>
         </div>
         </div>
         <footer>
-            <p>© 2026 PrintMint Shop. Instant digital download. Print at home or use a print-on-demand service.</p>
+            <p>© 2026 AI Prompt Store. Instant digital download. Works with ChatGPT, Claude, Gemini & more.</p>
         </footer>
     </div>
 </body>

@@ -2,34 +2,22 @@ import os
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GUMROAD_TOKEN = os.environ.get("GUMROAD_TOKEN", "")
-GUMROAD_PRODUCT_ID = os.environ.get("GUMROAD_PRODUCT_ID", "")
 
-SHOP_NAME = "PrintMint Shop"
-SHOP_DESCRIPTION = "Premium AI-crafted SVG designs for t-shirts, mugs, posters & more"
-SHOP_URL = "https://bybilal.gumroad.com"
-
-PRODUCT_PRICE = 2.99
+PRODUCT_PRICES = {
+    "copywriting": 9,
+    "social_media": 9,
+    "email_marketing": 9,
+    "seo": 12,
+    "real_estate": 12,
+    "freelance": 14,
+    "business": 14,
+    "content_creation": 9,
+    "ecommerce": 12,
+    "blogging": 9,
+}
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DESIGNS_DIR = os.path.join(BASE_DIR, "docs", "designs")
+PRODUCTS_DIR = os.path.join(BASE_DIR, "products")
 STORE_FILE = os.path.join(BASE_DIR, "docs", "index.html")
 
-DESIGN_CATEGORIES = [
-    "Minimalist Logo",
-    "Typography Quote",
-    "Geometric Pattern",
-    "Nature & Outdoors",
-    "Tech & Programming",
-    "Fitness & Sports",
-    "Music & Arts",
-    "Animals & Pets",
-    "Funny & Meme",
-    "Vintage Retro",
-    "Abstract Art",
-    "Gaming",
-    "Travel & Adventure",
-    "Space & Science",
-    "Fantasy & Magic",
-]
-
-DAILY_OUTPUT = 3
+DAILY_OUTPUT = 2

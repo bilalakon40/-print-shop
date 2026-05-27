@@ -1,0 +1,295 @@
+============================================================
+  Business AI Prompts: Strategy & Operations
+  Make smarter business decisions with AI-powered analysis
+============================================================
+
+Included Prompts: 30
+Generated: May 27, 2026
+
+============================================================
+  HOW TO USE
+============================================================
+
+1. Copy a prompt below
+2. Paste into ChatGPT (or any AI chat)
+3. Replace the example details with your own
+4. Get professional results in seconds
+
+============================================================
+  THE PROMPTS
+============================================================
+
+
+  ========================================================
+  MARKETING STRATEGY
+  ========================================================
+
+  Prompt #1: When launching a new e-commerce business
+  ────────────────────────────────────────────────────────
+  Develop a comprehensive marketing strategy for a new e-commerce company that specializes in sustainable fashion, including social media campaigns, influencer partnerships, and email marketing initiatives. The target audience is environmentally conscious millennials and Gen Z consumers.
+
+
+  ========================================================
+  OPERATIONAL EFFICIENCY
+  ========================================================
+
+  Prompt #1: When optimizing supply chain operations
+  ────────────────────────────────────────────────────────
+  Analyze the current supply chain operations of a mid-sized manufacturing company and provide recommendations for streamlining logistics, reducing costs, and improving delivery times. Consider the impact of implementing a just-in-time inventory system and outsourcing non-core functions.
+
+
+  ========================================================
+  FINANCIAL PLANNING
+  ========================================================
+
+  Prompt #1: When creating a financial plan for a startup
+  ────────────────────────────────────────────────────────
+  Create a detailed financial plan for a startup in the software as a service (SaaS) industry, including projected revenue growth, expense management, and funding requirements for the next three years. Assume an initial investment of $1 million and a growth rate of 20% per annum.
+
+
+  ========================================================
+  HUMAN RESOURCES MANAGEMENT
+  ========================================================
+
+  Prompt #1: When developing a talent management program
+  ────────────────────────────────────────────────────────
+  Design a talent management program for a large corporation with multiple departments and locations, including strategies for recruitment, training and development, performance evaluation, and succession planning. Consider the importance of diversity, equity, and inclusion in the workplace.
+
+
+  ========================================================
+  RISK MANAGEMENT
+  ========================================================
+
+  Prompt #1: When assessing and mitigating risks
+  ────────────────────────────────────────────────────────
+  Conduct a risk assessment for a company in the cybersecurity industry and identify potential threats to its operations, including data breaches, regulatory non-compliance, and reputational damage. Provide recommendations for mitigating these risks and developing a business continuity plan.
+
+
+  ========================================================
+  INNOVATION MANAGEMENT
+  ========================================================
+
+  Prompt #1: When promoting a culture of innovation
+  ────────────────────────────────────────────────────────
+  Develop a framework for fostering a culture of innovation within a traditional industry, such as banking or healthcare, including strategies for encouraging employee experimentation, collaboration, and creativity. Consider the role of design thinking and agile methodologies in driving innovation.
+
+
+  ========================================================
+  CUSTOMER SERVICE
+  ========================================================
+
+  Prompt #1: When developing a customer service strategy
+  ────────────────────────────────────────────────────────
+  Create a customer service strategy for a company in the hospitality industry, including policies for handling customer complaints, providing personalized experiences, and using social media for customer engagement. Consider the importance of empathy, active listening, and timely resolution of issues.
+
+
+  ========================================================
+  DIGITAL TRANSFORMATION
+  ========================================================
+
+  Prompt #1: When undergoing digital transformation
+  ────────────────────────────────────────────────────────
+  Develop a roadmap for digital transformation in a traditional retail company, including plans for e-commerce platform development, digital marketing, and data analytics. Consider the impact of emerging technologies such as artificial intelligence, blockchain, and the Internet of Things.
+
+
+  ========================================================
+  SUSTAINABILITY AND SOCIAL RESPONSIBILITY
+  ========================================================
+
+  Prompt #1: When developing a corporate social responsibility program
+  ────────────────────────────────────────────────────────
+  Design a corporate social responsibility program for a large corporation in the energy industry, including initiatives for reducing carbon emissions, promoting renewable energy, and supporting local communities. Consider the importance of stakeholder engagement, transparency, and accountability.
+
+
+  ========================================================
+  CHANGE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When implementing organizational change
+  ────────────────────────────────────────────────────────
+  Develop a change management plan for a company undergoing significant restructuring, including strategies for communicating changes to employees, managing resistance, and maintaining productivity during the transition period. Consider the importance of leadership buy-in, employee engagement, and continuous feedback.
+
+
+  ========================================================
+  SUPPLY CHAIN MANAGEMENT
+  ========================================================
+
+  Prompt #1: When optimizing supply chain operations
+  ────────────────────────────────────────────────────────
+  Analyze the current supply chain operations of a company in the automotive industry and provide recommendations for improving supplier relationships, managing inventory, and reducing transportation costs. Consider the impact of globalization, trade policies, and emerging technologies on supply chain management.
+
+
+  ========================================================
+  BUSINESS DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When developing a business development strategy
+  ────────────────────────────────────────────────────────
+  Create a business development strategy for a company in the technology industry, including plans for market research, competitive analysis, and partnership development. Consider the importance of identifying new business opportunities, building strategic relationships, and driving revenue growth.
+
+
+  ========================================================
+  ORGANIZATIONAL DESIGN
+  ========================================================
+
+  Prompt #1: When designing an organizational structure
+  ────────────────────────────────────────────────────────
+  Design an organizational structure for a startup in the fintech industry, including roles and responsibilities, departmental functions, and reporting lines. Consider the importance of agility, adaptability, and scalability in the organizational design.
+
+
+  ========================================================
+  PERFORMANCE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When developing a performance management system
+  ────────────────────────────────────────────────────────
+  Develop a performance management system for a company in the services industry, including metrics for measuring employee performance, goals and objectives, and feedback mechanisms. Consider the importance of regular check-ins, continuous feedback, and employee development.
+
+
+  ========================================================
+  DATA-DRIVEN DECISION MAKING
+  ========================================================
+
+  Prompt #1: When developing a data analytics strategy
+  ────────────────────────────────────────────────────────
+  Create a data analytics strategy for a company in the retail industry, including plans for data collection, analysis, and visualization. Consider the importance of using data to inform business decisions, drive revenue growth, and improve customer experiences.
+
+
+  ========================================================
+  STAKEHOLDER ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When engaging with stakeholders
+  ────────────────────────────────────────────────────────
+  Develop a stakeholder engagement plan for a company in the construction industry, including strategies for communicating with investors, customers, employees, and the wider community. Consider the importance of transparency, accountability, and building trust with stakeholders.
+
+
+  ========================================================
+  CRISIS MANAGEMENT
+  ========================================================
+
+  Prompt #1: When responding to a crisis
+  ────────────────────────────────────────────────────────
+  Create a crisis management plan for a company in the food industry, including procedures for responding to product recalls, managing social media, and maintaining business continuity. Consider the importance of prompt action, transparency, and stakeholder communication during a crisis.
+
+
+  ========================================================
+  INNOVATION STRATEGY
+  ========================================================
+
+  Prompt #1: When developing an innovation strategy
+  ────────────────────────────────────────────────────────
+  Develop an innovation strategy for a company in the pharmaceutical industry, including plans for research and development, partnerships, and commercialization of new products. Consider the importance of staying ahead of the competition, addressing unmet customer needs, and driving revenue growth through innovation.
+
+
+  ========================================================
+  GLOBAL EXPANSION
+  ========================================================
+
+  Prompt #1: When expanding into new markets
+  ────────────────────────────────────────────────────────
+  Create a global expansion plan for a company in the software industry, including market research, competitive analysis, and entry strategies for new markets. Consider the importance of cultural adaptation, regulatory compliance, and partnerships in facilitating successful global expansion.
+
+
+  ========================================================
+  TALENT ACQUISITION
+  ========================================================
+
+  Prompt #1: When acquiring top talent
+  ────────────────────────────────────────────────────────
+  Develop a talent acquisition strategy for a company in the engineering industry, including plans for recruitment, employer branding, and candidate experience. Consider the importance of attracting top talent, reducing time-to-hire, and improving the overall recruitment process.
+
+
+  ========================================================
+  OPERATIONAL EXCELLENCE
+  ========================================================
+
+  Prompt #1: When optimizing operations
+  ────────────────────────────────────────────────────────
+  Analyze the current operations of a company in the manufacturing industry and provide recommendations for improving efficiency, reducing waste, and enhancing quality. Consider the importance of lean principles, Six Sigma methodologies, and continuous improvement in driving operational excellence.
+
+
+  ========================================================
+  DIGITAL MARKETING
+  ========================================================
+
+  Prompt #1: When developing a digital marketing strategy
+  ────────────────────────────────────────────────────────
+  Create a digital marketing strategy for a company in the entertainment industry, including plans for social media, content marketing, and paid advertising. Consider the importance of engaging with customers, building brand awareness, and driving conversions through digital channels.
+
+
+  ========================================================
+  STRATEGIC PLANNING
+  ========================================================
+
+  Prompt #1: When developing a strategic plan
+  ────────────────────────────────────────────────────────
+  Develop a strategic plan for a company in the education industry, including mission and vision statements, goals and objectives, and key performance indicators. Consider the importance of aligning the organization around a common purpose, driving growth, and achieving long-term sustainability.
+
+
+  ========================================================
+  CHANGE LEADERSHIP
+  ========================================================
+
+  Prompt #1: When leading organizational change
+  ────────────────────────────────────────────────────────
+  Create a change leadership plan for a company undergoing a major transformation, including strategies for communicating the vision, building a coalition of support, and driving employee engagement. Consider the importance of leadership buy-in, stakeholder management, and continuous communication during the change process.
+
+
+  ========================================================
+  CUSTOMER EXPERIENCE
+  ========================================================
+
+  Prompt #1: When developing a customer experience strategy
+  ────────────────────────────────────────────────────────
+  Design a customer experience strategy for a company in the hospitality industry, including plans for personalization, feedback mechanisms, and employee training. Consider the importance of creating memorable experiences, building customer loyalty, and driving revenue growth through customer satisfaction.
+
+
+  ========================================================
+  PARTNERSHIP DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When developing partnerships
+  ────────────────────────────────────────────────────────
+  Develop a partnership development strategy for a company in the technology industry, including plans for identifying potential partners, building relationships, and driving joint revenue growth. Consider the importance of aligning partner goals, managing partner relationships, and creating mutually beneficial partnerships.
+
+
+  ========================================================
+  ORGANIZATIONAL CULTURE
+  ========================================================
+
+  Prompt #1: When fostering a positive organizational culture
+  ────────────────────────────────────────────────────────
+  Create a plan for fostering a positive organizational culture in a company in the healthcare industry, including strategies for promoting employee engagement, recognizing and rewarding employees, and driving a culture of continuous improvement. Consider the importance of leadership buy-in, communication, and employee involvement in shaping the organizational culture.
+
+
+  ========================================================
+  BUSINESS MODEL INNOVATION
+  ========================================================
+
+  Prompt #1: When innovating business models
+  ────────────────────────────────────────────────────────
+  Develop a business model innovation strategy for a company in the transportation industry, including plans for disrupting traditional business models, creating new revenue streams, and driving growth through innovation. Consider the importance of staying ahead of the competition, addressing unmet customer needs, and leveraging emerging technologies to drive business model innovation.
+
+
+  ========================================================
+  MERGERS AND ACQUISITIONS
+  ========================================================
+
+  Prompt #1: When pursuing mergers and acquisitions
+  ────────────────────────────────────────────────────────
+  Create a mergers and acquisitions strategy for a company in the financial services industry, including plans for identifying potential targets, conducting due diligence, and integrating acquired companies. Consider the importance of aligning acquisition goals with overall business strategy, managing integration risks, and driving revenue growth through acquisitions.
+
+
+  ========================================================
+  CORPORATE GOVERNANCE
+  ========================================================
+
+  Prompt #1: When establishing corporate governance frameworks
+  ────────────────────────────────────────────────────────
+  Develop a corporate governance framework for a company in the energy industry, including plans for board composition, executive compensation, and risk management. Consider the importance of transparency, accountability, and stakeholder engagement in ensuring effective corporate governance.
+
+============================================================
+  Thank you for your purchase!
+  Share your results: @yourhandle
+============================================================

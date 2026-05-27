@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <circle cx="200" cy="200" r="150" fill="#FFFFFF" />
-  <circle cx="200" cy="200" r="120" fill="#87CEEB" />
-  <text x="200" y="220" font-size="40" text-anchor="middle" fill="#FFFFFF">WAF</text>
-  <text x="200" y="260" font-size="20" text-anchor="middle" fill="#FFFFFF">Wild Animal Friends Forever</text>
-  <text x="200" y="280" font-size="20" text-anchor="middle" fill="#FFFFFF">أصدقاء الحيوانات البرية للأبد</text>
-  <path d="M 170 170 L 230 170 L 200 130 Z" fill="#FFFFFF" />
-  <path d="M 200 130 L 200 90 L 220 110 L 180 110 Z" fill="#FFFFFF" />
-</svg>

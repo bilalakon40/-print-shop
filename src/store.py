@@ -1,21 +1,23 @@
 import os
 import json
-from config import SHOP_NAME, SHOP_DESCRIPTION, SHOP_URL, PRODUCT_PRICE, STORE_FILE, DESIGNS_DIR
+from config import PRODUCTS_DIR, STORE_FILE
 
 
-def generate_store_page(designs):
+def generate_store_page(products):
     cards = ""
-    for d in designs:
-        gumroad_info = d.get("gumroad") or {}
+    for p in products:
+        gumroad_info = p.get("gumroad") or {}
         gumroad_url = gumroad_info.get("url", "#")
-        file_name = d.get("file_name", "design.svg")
+        cover_file = p.get("cover_file", "")
+        price = p.get("price", 9)
         cards += f"""
         <div class="product" onclick="window.open('{gumroad_url}','_blank')">
-            <img src="designs/{file_name}" alt="{d['title']}">
+            <img src="{cover_file}" alt="{p['title']}" onerror="this.style.display='none'">
             <div class="info">
-                <h3>{d['title']}</h3>
-                <span class="tag">{d['category']}</span>
-                <span class="price">${PRODUCT_PRICE}</span>
+                <h3>{p['title']}</h3>
+                <span class="tag">{p['niche']}</span>
+                <span class="prompts-count">{p['prompts_count']} prompts</span>
+                <span class="price">${price}</span>
             </div>
         </div>"""
 
@@ -24,7 +26,7 @@ def generate_store_page(designs):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{SHOP_NAME}</title>
+    <title>AI Prompt Store</title>
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; min-height: 100vh; }}
@@ -37,28 +39,27 @@ def generate_store_page(designs):
         .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }}
         .product {{ background: #1a1a1a; border-radius: 15px; overflow: hidden; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; }}
         .product:hover {{ transform: translateY(-5px); box-shadow: 0 20px 40px rgba(102,126,234,0.2); }}
-        .product img {{ width: 100%; height: 280px; object-fit: contain; background: #fff; padding: 20px; }}
+        .product img {{ width: 100%; height: 300px; object-fit: cover; }}
         .product .info {{ padding: 20px; }}
         .product h3 {{ font-size: 1.1em; margin-bottom: 8px; }}
         .product .tag {{ display: inline-block; padding: 4px 12px; background: #333; border-radius: 12px; font-size: 0.8em; color: #aaa; }}
-        .product .price {{ float: right; color: #667eea; font-weight: bold; font-size: 1.2em; }}
-        .buy-btn {{ display: block; width: 100%; padding: 12px; margin-top: 15px; background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; border: none; border-radius: 8px; font-size: 1em; font-weight: 600; cursor: pointer; transition: opacity 0.2s; }}
-        .buy-btn:hover {{ opacity: 0.9; }}
+        .product .prompts-count {{ display: inline-block; margin-left: 8px; padding: 4px 12px; background: #1a3a2a; border-radius: 12px; font-size: 0.8em; color: #4ade80; }}
+        .product .price {{ float: right; color: #667eea; font-weight: bold; font-size: 1.3em; }}
         footer {{ text-align: center; color: #555; margin-top: 60px; padding: 20px; font-size: 0.9em; }}
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>{SHOP_NAME}</h1>
-            <p>{SHOP_DESCRIPTION}</p>
-            <a class="store-link" href="{SHOP_URL}" target="_blank">Visit Full Store on Gumroad →</a>
+            <h1>AI Prompt Store</h1>
+            <p>Premium ChatGPT prompt bundles — copy, paste, and get results</p>
+            <a class="store-link" href="https://bybilal.gumroad.com" target="_blank">View All Products on Gumroad →</a>
         </header>
         <div class="grid">
             {cards}
         </div>
         <footer>
-            <p>© 2026 {SHOP_NAME}. Instant digital download. Print at home or use a print-on-demand service.</p>
+            <p>© 2026 AI Prompt Store. Instant digital download. Works with ChatGPT, Claude, Gemini & more.</p>
         </footer>
     </div>
 </body>
@@ -70,18 +71,17 @@ def generate_store_page(designs):
     print(f"Store page generated: {STORE_FILE}")
 
 
-def generate_catalog_json(designs):
+def generate_catalog_json(products):
     catalog = []
-    for d in designs:
-        gumroad_info = d.get("gumroad") or {}
+    for p in products:
+        gumroad_info = p.get("gumroad") or {}
         catalog.append({
-            "title": d["title"],
-            "category": d["category"],
-            "description": d["description"],
-            "price": PRODUCT_PRICE,
-            "file": d.get("file_name", ""),
+            "title": p["title"],
+            "niche": p["niche"],
+            "price": p["price"],
+            "prompts_count": p["prompts_count"],
+            "description": p["description"],
             "gumroad_url": gumroad_info.get("url", ""),
-            "tags": d.get("tags", []),
         })
     catalog_path = os.path.join(os.path.dirname(STORE_FILE), "catalog.json")
     with open(catalog_path, "w", encoding="utf-8") as f:

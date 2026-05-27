@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <rect x="100" y="100" width="200" height="200" fill="#3498db"/>
-  <circle cx="200" cy="200" r="50" fill="#f1c40f"/>
-  <text x="200" y="220" font-size="36" font-family="Arial" text-anchor="middle" fill="#ffffff">CG</text>
-  <text x="200" y="300" font-size="24" font-family="Arial" text-anchor="middle" fill="#ffffff">Code Geek</text>
-  <text x="200" y="330" font-size="18" font-family="Arial" text-anchor="middle" fill="#ffffff">مبرمج</text>
-</svg>

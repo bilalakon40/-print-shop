@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <circle cx="200" cy="200" r="80" fill="#FF9900"/>
-  <polygon points="200,120 250,180 200,240 150,180" fill="#FFFFFF" stroke="#FF9900" stroke-width="10"/>
-  <text x="200" y="100" font-size="40" fill="#FFFFFF" text-anchor="middle">Mystic</text>
-  <text x="200" y="260" font-size="40" fill="#FFFFFF" text-anchor="middle">Dragon</text>
-  <text x="200" y="350" font-size="30" fill="#FFFFFF" text-anchor="middle">نار التنين السحري</text>
-</svg>

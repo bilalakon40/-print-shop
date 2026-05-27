@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <circle cx="200" cy="200" r="150" fill="#3498db"/>
-  <path d="M200 50L300 150L200 250L100 150L200 50" fill="#f1c40f"/>
-  <path d="M200 350L100 250L200 150L300 250L200 350" fill="#f1c40f"/>
-  <text x="200" y="220" font-size="30" font-family="Arial" text-anchor="middle" fill="#ffffff">Vibrant</text>
-  <text x="200" y="260" font-size="30" font-family="Arial" text-anchor="middle" fill="#ffffff">Abstract</text>
-  <text x="200" y="300" font-size="30" font-family="Arial" text-anchor="middle" fill="#ffffff">الفن المجرد</text>
-</svg>
