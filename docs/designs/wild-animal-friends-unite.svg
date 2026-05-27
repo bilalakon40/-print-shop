@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="200" cy="200" r="150" fill="#3498db"/>
+  <circle cx="200" cy="200" r="120" fill="#f1c40f"/>
+  <text x="200" y="220" font-size="40" text-anchor="middle" fill="#ffffff">WAFU</text>
+  <text x="200" y="260" font-size="24" text-anchor="middle" fill="#ffffff">Wild Animal Friends Unite</text>
+  <text x="200" y="280" font-size="20" text-anchor="middle" fill="#ffffff">أصدقاء الحيوانات البرية يتوحدون</text>
+</svg>
