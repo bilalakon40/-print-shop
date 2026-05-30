@@ -1,0 +1,150 @@
+============================================================
+  ChatGPT Prompts for Email Marketing
+  Write emails that get opened, read, and clicked
+============================================================
+
+Included Prompts: 25
+Generated: May 30, 2026
+
+============================================================
+  HOW TO USE
+============================================================
+
+1. Copy a prompt below
+2. Paste into ChatGPT (or any AI chat)
+3. Replace the example details with your own
+4. Get professional results in seconds
+
+============================================================
+  THE PROMPTS
+============================================================
+
+
+  ========================================================
+  EMAIL LIST BUILDING
+  ========================================================
+
+  Prompt #1: When launching a new email marketing campaign
+  ────────────────────────────────────────────────────────
+  Create a step-by-step plan to increase our email list by 20% within the next 3 months, including strategies for opt-in incentives, social media promotions, and website integration. Provide a detailed timeline and metrics for tracking progress.
+
+  Prompt #2: When looking to expand the email list
+  ────────────────────────────────────────────────────────
+  Research and compile a list of 10 effective strategies for growing an email list, including opt-in forms, lead magnets, and social media contests. Provide examples of successful email list building campaigns and metrics for measuring the effectiveness of each strategy.
+
+  Prompt #3: When leveraging social media for email marketing
+  ────────────────────────────────────────────────────────
+  Create a plan for integrating email marketing with social media, including strategies for promoting email content, growing the email list, and measuring the effectiveness of social media campaigns. Provide examples of successful social media campaigns and metrics for tracking progress.
+
+  Prompt #4: When expanding the email list
+  ────────────────────────────────────────────────────────
+  Research and compile a list of 10 effective strategies for growing an email list, including opt-in forms, lead magnets, and social media contests. Provide examples of successful email list building campaigns and metrics for measuring the effectiveness of each strategy.
+
+  Prompt #5: When leveraging influencer marketing for email marketing
+  ────────────────────────────────────────────────────────
+  Create a plan for integrating email marketing with influencer marketing, including strategies for promoting email content, growing the email list, and measuring the effectiveness of influencer campaigns. Provide examples of successful influencer campaigns and metrics for tracking progress.
+
+
+  ========================================================
+  EMAIL CONTENT CREATION
+  ========================================================
+
+  Prompt #1: When creating regular email newsletters for subscribers
+  ────────────────────────────────────────────────────────
+  Write a series of 5 email newsletters for a fashion e-commerce brand, each focusing on a different seasonal trend and including product recommendations, styling tips, and exclusive promotions. Ensure the tone is engaging, informative, and aligned with the brand's voice.
+
+  Prompt #2: When planning email content in advance
+  ────────────────────────────────────────────────────────
+  Create a content calendar for a monthly email newsletter, including topics, formats, and themes for each issue. Ensure the content is engaging, informative, and relevant to the target audience, and provide suggestions for repurposing content across other marketing channels.
+
+  Prompt #3: When launching a new product
+  ────────────────────────────────────────────────────────
+  Write a series of 3 email campaigns for a new product launch, including a pre-launch teaser, a launch announcement, and a post-launch follow-up. Ensure the content is engaging, informative, and aligned with the brand's voice, and provide suggestions for repurposing content across other marketing channels.
+
+  Prompt #4: When planning email content in advance
+  ────────────────────────────────────────────────────────
+  Create a content calendar for a quarterly email newsletter, including topics, formats, and themes for each issue. Ensure the content is engaging, informative, and relevant to the target audience, and provide suggestions for repurposing content across other marketing channels.
+
+  Prompt #5: When running a holiday promotion
+  ────────────────────────────────────────────────────────
+  Write a series of 5 email campaigns for a holiday promotion, including a pre-holiday teaser, a holiday announcement, and a post-holiday follow-up. Ensure the content is engaging, informative, and aligned with the brand's voice, and provide suggestions for repurposing content across other marketing channels.
+
+
+  ========================================================
+  EMAIL AUTOMATION
+  ========================================================
+
+  Prompt #1: When automating the customer onboarding process
+  ────────────────────────────────────────────────────────
+  Design an automated email workflow for a new customer onboarding process, including a welcome email, a series of 3 educational emails, and a final promotional email offering a discount on the customer's first purchase. Specify the triggers, timing, and content for each email.
+
+  Prompt #2: When reducing cart abandonment rates
+  ────────────────────────────────────────────────────────
+  Design an automated email sequence for abandoned cart recovery, including a series of 3 emails with escalating incentives and reminders. Specify the triggers, timing, and content for each email, and provide metrics for tracking the effectiveness of the sequence.
+
+  Prompt #3: When re-engaging inactive customers
+  ────────────────────────────────────────────────────────
+  Design an automated email workflow for a customer win-back campaign, including a series of 3 emails with escalating incentives and reminders. Specify the triggers, timing, and content for each email, and provide metrics for tracking the effectiveness of the campaign.
+
+  Prompt #4: When automating the new subscriber onboarding process
+  ────────────────────────────────────────────────────────
+  Design an automated email sequence for new subscriber onboarding, including a series of 3 emails with educational content, product recommendations, and exclusive offers. Specify the triggers, timing, and content for each email, and provide metrics for tracking the effectiveness of the sequence.
+
+  Prompt #5: When implementing a customer loyalty program
+  ────────────────────────────────────────────────────────
+  Design an automated email workflow for a customer loyalty program, including a series of 3 emails with exclusive offers, rewards, and reminders. Specify the triggers, timing, and content for each email, and provide metrics for tracking the effectiveness of the program.
+
+
+  ========================================================
+  EMAIL PERSONALIZATION
+  ========================================================
+
+  Prompt #1: When looking to increase email engagement and conversion rates
+  ────────────────────────────────────────────────────────
+  Develop a personalization strategy for email marketing campaigns, incorporating customer data such as purchase history, browsing behavior, and demographic information. Provide examples of personalized email content, including product recommendations, special offers, and tailored messaging.
+
+  Prompt #2: When enhancing the customer experience
+  ────────────────────────────────────────────────────────
+  Develop a framework for personalizing email content based on customer preferences, including favorite products, brands, and categories. Provide examples of personalized email content, including product recommendations, special offers, and tailored messaging.
+
+  Prompt #3: When enhancing the customer experience
+  ────────────────────────────────────────────────────────
+  Develop a strategy for personalizing email content based on customer behavior, including purchase history, browsing behavior, and search queries. Provide examples of personalized email content, including product recommendations, special offers, and tailored messaging.
+
+  Prompt #4: When enhancing the customer experience
+  ────────────────────────────────────────────────────────
+  Develop a framework for personalizing email content based on customer demographics, including age, location, and interests. Provide examples of personalized email content, including product recommendations, special offers, and tailored messaging.
+
+  Prompt #5: When enhancing the customer experience
+  ────────────────────────────────────────────────────────
+  Develop a strategy for personalizing email content based on customer preferences, including favorite products, brands, and categories. Provide examples of personalized email content, including product recommendations, special offers, and tailored messaging.
+
+
+  ========================================================
+  EMAIL ANALYTICS
+  ========================================================
+
+  Prompt #1: When evaluating the effectiveness of an email marketing campaign
+  ────────────────────────────────────────────────────────
+  Analyze the performance of a recent email marketing campaign, including open rates, click-through rates, conversion rates, and revenue generated. Identify areas for improvement and provide recommendations for optimizing future campaigns, such as A/B testing, subject line optimization, and email list segmentation.
+
+  Prompt #2: When evaluating the effectiveness of different email marketing strategies
+  ────────────────────────────────────────────────────────
+  Compare the performance of two different email marketing campaigns, including metrics such as open rates, click-through rates, conversion rates, and revenue generated. Identify the key factors contributing to the success of each campaign and provide recommendations for optimizing future campaigns.
+
+  Prompt #3: When evaluating the effectiveness of an email marketing campaign
+  ────────────────────────────────────────────────────────
+  Analyze the performance of a recent email marketing campaign, including metrics such as open rates, click-through rates, conversion rates, and revenue generated. Identify areas for improvement and provide recommendations for optimizing future campaigns, such as A/B testing, subject line optimization, and email list segmentation.
+
+  Prompt #4: When evaluating the effectiveness of different email marketing strategies
+  ────────────────────────────────────────────────────────
+  Compare the performance of two different email marketing campaigns, including metrics such as open rates, click-through rates, conversion rates, and revenue generated. Identify the key factors contributing to the success of each campaign and provide recommendations for optimizing future campaigns.
+
+  Prompt #5: When evaluating the effectiveness of an email marketing campaign
+  ────────────────────────────────────────────────────────
+  Analyze the performance of a recent email marketing campaign, including metrics such as open rates, click-through rates, conversion rates, and revenue generated. Identify areas for improvement and provide recommendations for optimizing future campaigns, such as A/B testing, subject line optimization, and email list segmentation.
+
+============================================================
+  Thank you for your purchase!
+  Share your results: @yourhandle
+============================================================
