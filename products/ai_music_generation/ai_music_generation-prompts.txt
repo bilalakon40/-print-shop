@@ -1,0 +1,170 @@
+============================================================
+  ChatGPT Prompts for AI Music Generation
+  Compose Like a Pro with AI
+============================================================
+
+Included Prompts: 30
+Generated: May 31, 2026
+
+============================================================
+  HOW TO USE
+============================================================
+
+1. Copy a prompt below
+2. Paste into ChatGPT (or any AI chat)
+3. Replace the example details with your own
+4. Get professional results in seconds
+
+============================================================
+  THE PROMPTS
+============================================================
+
+
+  ========================================================
+  MELODY GENERATION
+  ========================================================
+
+  Prompt #1: Creating a new pop song
+  ────────────────────────────────────────────────────────
+  Generate a catchy melody for a pop song about heartbreak, with a tempo of 120 BPM and a key of A minor, incorporating a mix of stepwise motion and leaps to create a sense of tension and release. The melody should be simple enough to be hummed by a wide audience, yet unique and memorable.
+
+  Prompt #2: Creating a song for a kids' TV show
+  ────────────────────────────────────────────────────────
+  Generate a melody for a children's song about friendship, with a tempo of 100 BPM and a key of C major, incorporating a simple and catchy melody with a repetitive structure to make it easy for kids to follow and remember. The melody should feature a mix of ascending and descending motion to create a sense of playfulness and energy.
+
+  Prompt #3: Composing a classical piece
+  ────────────────────────────────────────────────────────
+  Generate a melody for a classical piece in the style of Mozart, with a tempo of 80 BPM and a key of E flat major, incorporating a complex and intricate melody with a range of ornaments and embellishments to create a sense of elegance and refinement. The melody should feature a mix of motivic development and thematic transformation to create a sense of unity and coherence.
+
+  Prompt #4: Creating a song for a dance club
+  ────────────────────────────────────────────────────────
+  Generate a melody for an electronic dance music (EDM) track, with a tempo of 130 BPM and a key of D minor, incorporating a simple and catchy melody with a repetitive structure to create a sense of energy and momentum. The melody should feature a mix of ascending and descending motion to create a sense of tension and release.
+
+  Prompt #5: Composing a musical theater piece
+  ────────────────────────────────────────────────────────
+  Generate a melody for a musical theater piece, with a tempo of 110 BPM and a key of G major, incorporating a complex and intricate melody with a range of ornaments and embellishments to create a sense of drama and spectacle. The melody should feature a mix of motivic development and thematic transformation to create a sense of unity and coherence.
+
+  Prompt #6: Composing a film score
+  ────────────────────────────────────────────────────────
+  Generate a melody for a film score, with a tempo of 90 BPM and a key of C minor, incorporating a simple and haunting melody with a repetitive structure to create a sense of tension and foreboding. The melody should feature a mix of ascending and descending motion to create a sense of unease and uncertainty.
+
+
+  ========================================================
+  CHORD PROGRESSION
+  ========================================================
+
+  Prompt #1: Composing a jazz ballad
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a jazz standard in the style of Miles Davis, using extended chords such as 7ths, 9ths, and 11ths, and a tempo of 90 BPM. The progression should be suitable for a slow and introspective ballad, with a focus on minor and major 7th chords to create a sense of melancholy and longing.
+
+  Prompt #2: Composing a rock song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a rock song in the style of Led Zeppelin, using power chords and a driving rhythm to create a sense of energy and momentum. The progression should feature a mix of major and minor chords, with a focus on creating a sense of tension and release through the use of suspended and resolved chords.
+
+  Prompt #3: Composing a funk song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a funk song in the style of James Brown, using extended chords and a driving rhythm to create a sense of energy and momentum. The progression should feature a mix of major and minor chords, with a focus on creating a sense of tension and release through the use of suspended and resolved chords.
+
+  Prompt #4: Composing a blues song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a blues song in the style of B.B. King, using 7th chords and a slow, introspective tempo to create a sense of sadness and longing. The progression should feature a mix of major and minor chords, with a focus on creating a sense of tension and release through the use of suspended and resolved chords.
+
+  Prompt #5: Composing a reggae song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a reggae song in the style of Bob Marley, using extended chords and a laid-back, introspective tempo to create a sense of relaxation and contemplation. The progression should feature a mix of major and minor chords, with a focus on creating a sense of tension and release through the use of suspended and resolved chords.
+
+  Prompt #6: Composing a folk song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a folk song in the style of Woody Guthrie, using acoustic guitar and a simple, introspective tempo to create a sense of intimacy and warmth. The progression should feature a mix of major and minor chords, with a focus on creating a sense of tension and release through the use of suspended and resolved chords.
+
+
+  ========================================================
+  LYRICS WRITING
+  ========================================================
+
+  Prompt #1: Creating a song for a social justice movement
+  ────────────────────────────────────────────────────────
+  Write lyrics for a folk song about social justice, with a focus on themes of equality, freedom, and the struggle for human rights. The lyrics should be written in a storytelling style, with a clear narrative and a strong message, and should incorporate literary devices such as metaphor and allegory to convey the emotions and ideas.
+
+  Prompt #2: Creating a song for a hip-hop album
+  ────────────────────────────────────────────────────────
+  Write lyrics for a hip-hop song about personal growth and self-empowerment, with a focus on themes of perseverance, resilience, and determination. The lyrics should be written in a confident and assertive style, with a strong emphasis on rhythm and flow, and should incorporate literary devices such as wordplay and double meanings to add depth and complexity.
+
+  Prompt #3: Creating a song for a country album
+  ────────────────────────────────────────────────────────
+  Write lyrics for a country song about heartbreak, with a focus on themes of love, loss, and longing. The lyrics should be written in a storytelling style, with a clear narrative and a strong emotional resonance, and should incorporate literary devices such as metaphor and allegory to convey the emotions and ideas.
+
+  Prompt #4: Creating a song for a pop album
+  ────────────────────────────────────────────────────────
+  Write lyrics for a pop song about love and relationships, with a focus on themes of romance, passion, and commitment. The lyrics should be written in a conversational style, with a clear and relatable narrative, and should incorporate literary devices such as metaphor and allegory to convey the emotions and ideas.
+
+  Prompt #5: Creating a song for a rock album
+  ────────────────────────────────────────────────────────
+  Write lyrics for a rock ballad about social commentary, with a focus on themes of justice, equality, and freedom. The lyrics should be written in a storytelling style, with a clear narrative and a strong emotional resonance, and should incorporate literary devices such as metaphor and allegory to convey the emotions and ideas.
+
+  Prompt #6: Creating a song for a hip-hop album
+  ────────────────────────────────────────────────────────
+  Write lyrics for a hip-hop song about personal growth and self-empowerment, with a focus on themes of perseverance, resilience, and determination. The lyrics should be written in a confident and assertive style, with a strong emphasis on rhythm and flow, and should incorporate literary devices such as wordplay and double meanings to add depth and complexity.
+
+
+  ========================================================
+  MUSIC ARRANGEMENT
+  ========================================================
+
+  Prompt #1: Creating a piece for a chamber music concert
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a small ensemble, consisting of a piano, a violin, and a cello, with a focus on creating a sense of intimacy and warmth. The arrangement should feature a mix of legato and staccato playing, with a range of dynamics and articulations to create a sense of contrast and variety.
+
+  Prompt #2: Creating a piece for a symphonic concert
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a large orchestra, with a focus on creating a sense of grandeur and spectacle. The arrangement should feature a range of instruments, including strings, woodwinds, brass, and percussion, and should incorporate a mix of melodic and harmonic elements to create a sense of contrast and variety.
+
+  Prompt #3: Creating a piece for a jazz concert
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a jazz big band, with a focus on creating a sense of energy and excitement. The arrangement should feature a range of instruments, including saxophones, trumpets, trombones, and rhythm section, and should incorporate a mix of melodic and harmonic elements to create a sense of contrast and variety.
+
+  Prompt #4: Creating a piece for a live performance
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a small combo, consisting of a guitar, a bass, and a drum set, with a focus on creating a sense of intimacy and warmth. The arrangement should feature a mix of melodic and harmonic elements, with a range of dynamics and articulations to create a sense of contrast and variety.
+
+  Prompt #5: Creating a piece for a choral concert
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a large choir, with a focus on creating a sense of grandeur and spectacle. The arrangement should feature a range of vocal textures and harmonies, with a mix of melodic and harmonic elements to create a sense of contrast and variety.
+
+  Prompt #6: Creating a piece for a solo performance
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a solo instrument, such as a piano or a guitar, with a focus on creating a sense of intimacy and warmth. The arrangement should feature a mix of melodic and harmonic elements, with a range of dynamics and articulations to create a sense of contrast and variety.
+
+
+  ========================================================
+  SOUND DESIGN
+  ========================================================
+
+  Prompt #1: Creating a soundtrack for a sci-fi film
+  ────────────────────────────────────────────────────────
+  Create a soundscape for a science fiction film, with a focus on creating a sense of otherworldliness and unease. The soundscape should incorporate a range of electronic and acoustic elements, including ambient textures, percussive effects, and eerie atmospheres, to create a sense of tension and foreboding.
+
+  Prompt #2: Creating a soundtrack for a horror film
+  ────────────────────────────────────────────────────────
+  Create a soundscape for a horror film, with a focus on creating a sense of fear and unease. The soundscape should incorporate a range of eerie and unsettling elements, including creaking doors, howling wind, and eerie atmospheres, to create a sense of tension and dread.
+
+  Prompt #3: Creating a soundtrack for a fantasy film
+  ────────────────────────────────────────────────────────
+  Create a soundscape for a fantasy film, with a focus on creating a sense of wonder and enchantment. The soundscape should incorporate a range of magical and mystical elements, including ambient textures, percussive effects, and eerie atmospheres, to create a sense of awe and curiosity.
+
+  Prompt #4: Creating a soundtrack for a documentary film
+  ────────────────────────────────────────────────────────
+  Create a soundscape for a documentary film, with a focus on creating a sense of realism and authenticity. The soundscape should incorporate a range of natural and environmental elements, including ambient textures, percussive effects, and field recordings, to create a sense of place and atmosphere.
+
+  Prompt #5: Creating a soundtrack for a video game
+  ────────────────────────────────────────────────────────
+  Create a soundscape for a video game, with a focus on creating a sense of immersion and engagement. The soundscape should incorporate a range of electronic and acoustic elements, including ambient textures, percussive effects, and eerie atmospheres, to create a sense of tension and excitement.
+
+  Prompt #6: Creating a soundtrack for an art installation
+  ────────────────────────────────────────────────────────
+  Create a soundscape for an art installation, with a focus on creating a sense of atmosphere and mood. The soundscape should incorporate a range of electronic and acoustic elements, including ambient textures, percussive effects, and eerie atmospheres, to create a sense of tension and contemplation.
+
+============================================================
+  Thank you for your purchase!
+  Share your results: @yourhandle
+============================================================
