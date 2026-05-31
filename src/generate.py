@@ -254,20 +254,61 @@ def save_prompt_pack(template, prompts, text_content, svg):
     }
 
 
+def research_trending_niche():
+    prompt = """You are a market research expert. Analyze current digital product trends for 2025-2026 and suggest ONE specific, high-demand niche for a ChatGPT prompt pack.
+
+Rules:
+- Niche must be in high demand right now (e.g., AI video generation, no-code development, TikTok shop, etc.)
+- Must be DIFFERENT from these niches: copywriting, social media, email marketing, SEO, real estate, freelance, business strategy, content creation, ecommerce, blogging
+- Target audience must be willing to pay $9-14 for a prompt pack
+
+Return ONLY a JSON object (no markdown, no explanation):
+{
+  "id": "unique_slug",
+  "title": "ChatGPT Prompts for [Niche]",
+  "tagline": "Short compelling tagline in English",
+  "niche": "Category name",
+  "prompts_count": 30,
+  "description": "Compelling 2-sentence description of what the pack helps with"
+}"""
+
+    result = _groq_json(prompt, max_tokens=800)
+    if "```json" in result:
+        result = result.split("```json")[1].split("```")[0]
+    elif "```" in result:
+        result = result.split("```")[1].split("```")[0]
+    result = result.strip()
+    template = json.loads(result)
+    if not all(k in template for k in ("id", "title", "tagline", "niche", "prompts_count", "description")):
+        raise ValueError("Incomplete template from AI")
+    print(f"  Trend -> {template['title']} ({template['niche']})")
+    return template
+
+
 def generate_batch(count=None):
     if count is None:
         count = DAILY_OUTPUT
+    products = []
+    fixed_count = max(0, count - 1)
     available = [t for t in PRODUCT_TEMPLATES]
     random.shuffle(available)
-    selected = available[:count]
-    products = []
+    selected = available[:fixed_count]
+    if count > 0:
+        try:
+            print("Researching trending niche...")
+            trend_template = research_trending_niche()
+            selected.append(trend_template)
+        except Exception as e:
+            print(f"  Trend research failed: {e}. Using fixed template instead.")
+            fallback = [t for t in PRODUCT_TEMPLATES if t not in selected]
+            selected.append(fallback[0] if fallback else available[0])
     for i, template in enumerate(selected):
-        print(f"Generating product {i+1}/{count}: {template['title']}...")
+        print(f"Generating product {i+1}/{len(selected)}: {template['title']}...")
         prompts = generate_prompts(template, template.get("prompts_count", 25))
         if not prompts or len(prompts) < 5:
             print(f"  FAIL: Could not generate prompts")
             continue
-        price = PRODUCT_PRICES.get(template["id"], 9)
+        price = PRODUCT_PRICES.get(template["id"], 12)
         text_content = generate_pdf_content(template, prompts)
         svg = create_cover_svg(template, price)
         product = save_prompt_pack(template, prompts, text_content, svg)

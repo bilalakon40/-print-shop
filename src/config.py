@@ -20,4 +20,4 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR = os.path.join(BASE_DIR, "products")
 STORE_FILE = os.path.join(BASE_DIR, "docs", "index.html")
 
-DAILY_OUTPUT = 2
+DAILY_OUTPUT = 3
