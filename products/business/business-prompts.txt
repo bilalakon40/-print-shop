@@ -3,8 +3,8 @@
   Make smarter business decisions with AI-powered analysis
 ============================================================
 
-Included Prompts: 30
-Generated: June 01, 2026
+Included Prompts: 31
+Generated: June 03, 2026
 
 ============================================================
   HOW TO USE
@@ -21,148 +21,282 @@ Generated: June 01, 2026
 
 
   ========================================================
-  DIGITAL TRANSFORMATION
-  ========================================================
-
-  Prompt #1: When a retail company wants to leverage AI for business growth
-  ────────────────────────────────────────────────────────
-  Develop a comprehensive plan to implement artificial intelligence in a retail company to enhance customer experience and improve operational efficiency. The plan should include strategies for data collection, AI model training, and integration with existing systems.
-
-  Prompt #2: When a company wants to modernize its IT infrastructure
-  ────────────────────────────────────────────────────────
-  Develop a roadmap for migrating a company's legacy IT systems to a cloud-based infrastructure, including a detailed timeline, budget, and resource allocation plan. The roadmap should also address potential risks and mitigation strategies.
-
-  Prompt #3: When a small business wants to improve its customer engagement capabilities
-  ────────────────────────────────────────────────────────
-  Develop a strategy for implementing a customer relationship management (CRM) system in a small business to improve sales, marketing, and customer service processes. The strategy should include a detailed implementation plan, training program, and metrics for measuring success.
-
-  Prompt #4: When a company wants to improve its employees' digital literacy
-  ────────────────────────────────────────────────────────
-  Develop a digital literacy training program for a company's employees to improve their skills and knowledge in using digital tools and technologies. The program should include a detailed curriculum, training schedule, and metrics for measuring success.
-
-  Prompt #5: When a company wants to improve its cybersecurity capabilities
-  ────────────────────────────────────────────────────────
-  Develop a cybersecurity strategy for a company to protect its digital assets and prevent data breaches. The strategy should include recommendations for threat detection, incident response, and employee training.
-
-  Prompt #6: When a company wants to leverage data analytics for business growth
-  ────────────────────────────────────────────────────────
-  Develop a data analytics strategy for a company to improve its decision-making capabilities and drive business growth. The strategy should include recommendations for data collection, analysis, and visualization, as well as metrics for measuring success.
-
-
-  ========================================================
   MARKETING STRATEGY
   ========================================================
 
-  Prompt #1: When launching a new product in a competitive market
+  Prompt #1: When launching a new product or service
   ────────────────────────────────────────────────────────
-  Create a social media marketing campaign for a new energy drink product targeting young adults aged 18-30. The campaign should include a detailed content calendar, influencer partnerships, and paid advertising strategies.
-
-  Prompt #2: When a company wants to establish itself as a thought leader in its industry
-  ────────────────────────────────────────────────────────
-  Create a content marketing strategy for a financial services company to establish thought leadership and generate leads. The strategy should include a content calendar, distribution channels, and metrics for measuring success.
-
-  Prompt #3: When launching a new brand in a competitive market
-  ────────────────────────────────────────────────────────
-  Create a brand positioning strategy for a new sustainable fashion brand to differentiate itself from competitors and appeal to environmentally conscious consumers. The strategy should include a unique value proposition, brand messaging, and visual identity.
-
-  Prompt #4: When a company wants to reach a new target audience
-  ────────────────────────────────────────────────────────
-  Create a influencer marketing strategy for a beauty products company to reach a younger demographic and increase brand awareness. The strategy should include a detailed plan for identifying and partnering with influencers, as well as metrics for measuring success.
-
-  Prompt #5: When a company wants to increase its online presence
-  ────────────────────────────────────────────────────────
-  Create a social media advertising strategy for a company to increase brand awareness and drive website traffic. The strategy should include a detailed plan for ad targeting, budget allocation, and metrics for measuring success.
-
-  Prompt #6: When a company wants to establish itself as a thought leader in its industry
-  ────────────────────────────────────────────────────────
-  Create a content marketing strategy for a company to establish thought leadership and generate leads in a specific industry. The strategy should include a detailed plan for content creation, distribution, and measurement, as well as recommendations for influencer partnerships and event sponsorships.
+  Develop a comprehensive social media marketing plan for a new fashion brand targeting millennials, including specific tactics for Instagram, Facebook, and Twitter, as well as metrics for measuring success. The plan should include a detailed content calendar and budget allocation for advertising.
 
 
   ========================================================
-  SUPPLY CHAIN MANAGEMENT
+  OPERATIONAL EFFICIENCY
   ========================================================
 
-  Prompt #1: When a company wants to improve its supply chain efficiency
+  Prompt #1: When seeking to optimize supply chain operations
   ────────────────────────────────────────────────────────
-  Design a supply chain optimization strategy for a global electronics manufacturer to reduce logistics costs and improve delivery times. The strategy should include recommendations for supplier selection, inventory management, and transportation modes.
-
-  Prompt #2: When a company wants to reduce its supply chain risk exposure
-  ────────────────────────────────────────────────────────
-  Design a risk management plan for a global apparel manufacturer to mitigate the impact of supply chain disruptions, such as natural disasters, trade wars, and supplier insolvency. The plan should include strategies for supplier diversification, inventory management, and contingency planning.
-
-  Prompt #3: When a company wants to improve its sustainability credentials
-  ────────────────────────────────────────────────────────
-  Design a sustainable procurement strategy for a large consumer goods company to reduce its environmental impact and improve supplier relationships. The strategy should include recommendations for supplier selection, contract management, and performance monitoring.
-
-  Prompt #4: When an e-commerce company wants to improve its logistics capabilities
-  ────────────────────────────────────────────────────────
-  Design a logistics and transportation strategy for an e-commerce company to improve delivery times and reduce shipping costs. The strategy should include recommendations for carrier selection, route optimization, and warehouse management.
-
-  Prompt #5: When a company wants to improve its product quality and reliability
-  ────────────────────────────────────────────────────────
-  Design a quality control process for a manufacturing company to ensure the quality and reliability of its products. The process should include recommendations for supplier quality management, inspection and testing protocols, and defect prevention strategies.
-
-  Prompt #6: When a company wants to improve its supply chain visibility and control
-  ────────────────────────────────────────────────────────
-  Design a supply chain visibility system for a company to improve its ability to track and manage its inventory, shipments, and supplier performance. The system should include recommendations for data integration, dashboard design, and alert and notification protocols.
+  Analyze the current supply chain operations of a mid-sized manufacturing company and provide recommendations for improving efficiency, reducing costs, and enhancing customer satisfaction. Consider the implementation of lean principles, process automation, and supplier rationalization.
 
 
   ========================================================
-  FINANCIAL ANALYSIS
+  FINANCIAL PLANNING
   ========================================================
 
-  Prompt #1: When considering a merger or acquisition
+  Prompt #1: When developing a business plan or seeking investment
   ────────────────────────────────────────────────────────
-  Conduct a financial analysis of a potential acquisition target, including an examination of the company's revenue streams, profit margins, and debt obligations. The analysis should also identify potential risks and synergies with the acquirer's existing business.
-
-  Prompt #2: When evaluating the viability of a new business idea
-  ────────────────────────────────────────────────────────
-  Conduct a break-even analysis for a new e-commerce startup, including an examination of the company's revenue projections, cost structure, and cash flow requirements. The analysis should also identify potential risks and opportunities for growth.
-
-  Prompt #3: When evaluating the potential return on investment for a new technology platform
-  ────────────────────────────────────────────────────────
-  Conduct a cost-benefit analysis of a potential investment in a new technology platform for a manufacturing company. The analysis should include an examination of the potential costs, benefits, and return on investment, as well as recommendations for implementation and risk mitigation.
-
-  Prompt #4: When a startup company wants to create a comprehensive financial plan
-  ────────────────────────────────────────────────────────
-  Conduct a financial modeling exercise for a startup company to forecast its revenue and expenses over the next three years. The model should include assumptions about market growth, customer acquisition, and operational costs, as well as sensitivity analysis to test the robustness of the forecasts.
-
-  Prompt #5: When a company wants to expand into a new market
-  ────────────────────────────────────────────────────────
-  Conduct a market research study to identify opportunities for growth and expansion in a new geographic market. The study should include an analysis of market trends, customer needs, and competitor activity, as well as recommendations for market entry and expansion strategies.
-
-  Prompt #6: When considering a merger or acquisition
-  ────────────────────────────────────────────────────────
-  Conduct a financial due diligence review of a potential acquisition target to identify potential risks and opportunities. The review should include an examination of the company's financial statements, management team, and market position, as well as recommendations for integration and value creation strategies.
+  Create a detailed financial forecast for a startup in the software as a service (SaaS) industry, including projected revenue, expenses, and cash flow over the next three years. The forecast should take into account market trends, customer acquisition costs, and potential funding requirements.
 
 
   ========================================================
   HUMAN RESOURCES
   ========================================================
 
-  Prompt #1: When a company wants to improve its talent management capabilities
+  Prompt #1: When implementing a new hiring initiative or expanding workforce
   ────────────────────────────────────────────────────────
-  Develop a talent management program for a software development company to attract, retain, and develop top engineering talent. The program should include strategies for recruitment, training, and career development, as well as diversity and inclusion initiatives.
+  Design a comprehensive employee onboarding program for a large corporation, including a structured training schedule, mentorship assignments, and performance evaluation metrics. The program should aim to reduce new hire turnover rates and improve overall job satisfaction.
 
-  Prompt #2: When a company wants to improve its diversity and inclusion initiatives
-  ────────────────────────────────────────────────────────
-  Develop a diversity and inclusion training program for a large corporation to promote a culture of respect and empathy among employees. The program should include strategies for unconscious bias awareness, cultural competency, and inclusive leadership.
 
-  Prompt #3: When a family-owned business wants to ensure its long-term continuity
-  ────────────────────────────────────────────────────────
-  Develop a succession planning program for a family-owned business to ensure a smooth transition of leadership and ownership. The program should include strategies for identifying and developing future leaders, as well as a detailed transition plan and timeline.
+  ========================================================
+  DIGITAL TRANSFORMATION
+  ========================================================
 
-  Prompt #4: When a company wants to improve its employee engagement and retention
+  Prompt #1: When transitioning to online sales channels
   ────────────────────────────────────────────────────────
-  Develop a employee engagement and retention strategy for a company to improve job satisfaction and reduce turnover. The strategy should include recommendations for employee recognition, feedback and development opportunities, and work-life balance initiatives.
+  Develop a roadmap for migrating a traditional brick-and-mortar retail business to an e-commerce platform, including recommendations for website design, inventory management, and digital marketing strategies. The roadmap should prioritize customer experience, operational efficiency, and scalability.
 
-  Prompt #5: When a company wants to improve its performance management capabilities
-  ────────────────────────────────────────────────────────
-  Develop a performance management system for a company to improve employee productivity and job satisfaction. The system should include recommendations for goal setting, feedback and coaching, and performance evaluation metrics.
 
-  Prompt #6: When a company wants to develop its future leaders
+  ========================================================
+  RISK MANAGEMENT
+  ========================================================
+
+  Prompt #1: When evaluating potential risks or developing a business continuity plan
   ────────────────────────────────────────────────────────
-  Develop a leadership development program for a company to identify, develop, and retain future leaders. The program should include recommendations for leadership competencies, training and development opportunities, and succession planning strategies.
+  Conduct a risk assessment for a company operating in the cybersecurity industry, identifying potential threats, vulnerabilities, and mitigation strategies. The assessment should consider regulatory compliance, data protection, and business continuity planning.
+
+
+  ========================================================
+  INNOVATION MANAGEMENT
+  ========================================================
+
+  Prompt #1: When seeking to drive innovation and stay competitive
+  ────────────────────────────────────────────────────────
+  Establish a framework for fostering a culture of innovation within a large organization, including strategies for encouraging employee creativity, facilitating collaboration, and measuring the impact of innovative initiatives. The framework should prioritize agility, experimentation, and continuous learning.
+
+
+  ========================================================
+  CUSTOMER EXPERIENCE
+  ========================================================
+
+  Prompt #1: When seeking to improve customer satisfaction and loyalty
+  ────────────────────────────────────────────────────────
+  Design a customer journey mapping exercise for a financial services company, aiming to identify pain points, opportunities for improvement, and areas for personalization. The exercise should involve stakeholder interviews, customer surveys, and service blueprinting.
+
+
+  ========================================================
+  DATA-DRIVEN DECISION MAKING
+  ========================================================
+
+  Prompt #1: When seeking to inform business decisions with data
+  ────────────────────────────────────────────────────────
+  Develop a data analytics strategy for a retail company, including recommendations for data collection, storage, and analysis. The strategy should prioritize insights into customer behavior, sales trends, and operational efficiency, and provide guidance on data visualization and storytelling.
+
+
+  ========================================================
+  CHANGE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When implementing significant organizational changes
+  ────────────────────────────────────────────────────────
+  Create a change management plan for a company undergoing a major restructuring, including strategies for communicating with stakeholders, managing resistance, and ensuring a smooth transition. The plan should prioritize employee engagement, training, and support.
+
+
+  ========================================================
+  STRATEGIC PARTNERSHIPS
+  ========================================================
+
+  Prompt #1: When seeking to expand through partnerships
+  ────────────────────────────────────────────────────────
+  Identify potential partnership opportunities for a healthcare technology startup, including recommendations for target companies, partnership models, and key performance indicators. The analysis should consider market trends, competitive landscape, and potential synergies.
+
+
+  ========================================================
+  TALENT DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When developing future leaders
+  ────────────────────────────────────────────────────────
+  Design a leadership development program for a mid-sized company, including a curriculum for developing key skills, a coaching framework, and a succession planning process. The program should aim to build a strong pipeline of future leaders and improve overall organizational capability.
+
+
+  ========================================================
+  OPERATIONAL EXCELLENCE
+  ========================================================
+
+  Prompt #1: When seeking to improve manufacturing efficiency
+  ────────────────────────────────────────────────────────
+  Conduct a benchmarking study of best practices in manufacturing operations, including recommendations for implementing lean principles, total productive maintenance, and quality control systems. The study should consider industry trends, technological advancements, and global standards.
+
+
+  ========================================================
+  DIGITAL MARKETING
+  ========================================================
+
+  Prompt #1: When seeking to improve online visibility
+  ────────────────────────────────────────────────────────
+  Develop a search engine optimization (SEO) strategy for an e-commerce company, including recommendations for keyword research, on-page optimization, and link building. The strategy should prioritize improving search engine rankings, driving organic traffic, and enhancing customer experience.
+
+
+  ========================================================
+  INNOVATION STRATEGY
+  ========================================================
+
+  Prompt #1: When seeking to drive innovation in a specific industry
+  ────────────────────────────────────────────────────────
+  Create a innovation strategy for a company in the automotive industry, including recommendations for emerging technologies, research and development priorities, and partnership opportunities. The strategy should prioritize sustainability, electrification, and autonomous driving.
+
+
+  ========================================================
+  GLOBAL EXPANSION
+  ========================================================
+
+  Prompt #1: When expanding into new markets
+  ────────────────────────────────────────────────────────
+  Develop a market entry strategy for a company expanding into the Asian market, including recommendations for market research, partner identification, and regulatory compliance. The strategy should prioritize cultural adaptation, customer engagement, and local market conditions.
+
+
+  ========================================================
+  CRISIS MANAGEMENT
+  ========================================================
+
+  Prompt #1: When preparing for potential crises
+  ────────────────────────────────────────────────────────
+  Establish a crisis management plan for a company in the food industry, including procedures for responding to product recalls, managing social media, and maintaining stakeholder trust. The plan should prioritize transparency, communication, and customer safety.
+
+
+  ========================================================
+  ORGANIZATIONAL DESIGN
+  ========================================================
+
+  Prompt #1: When scaling a business
+  ────────────────────────────────────────────────────────
+  Design an organizational structure for a rapidly growing startup, including recommendations for departmentalization, role definition, and talent acquisition. The structure should prioritize agility, scalability, and collaboration.
+
+
+  ========================================================
+  PERFORMANCE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When seeking to improve performance
+  ────────────────────────────────────────────────────────
+  Develop a performance management system for a company in the service industry, including recommendations for setting goals, tracking key performance indicators, and providing feedback. The system should prioritize employee engagement, customer satisfaction, and continuous improvement.
+
+
+  ========================================================
+  SUPPLY CHAIN RESILIENCE
+  ========================================================
+
+  Prompt #1: When evaluating supply chain risks
+  ────────────────────────────────────────────────────────
+  Conduct a supply chain risk assessment for a company in the technology industry, identifying potential vulnerabilities, mitigation strategies, and contingency plans. The assessment should consider geopolitical factors, natural disasters, and supplier insolvency.
+
+
+  ========================================================
+  EMPLOYEE ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When seeking to improve employee satisfaction
+  ────────────────────────────────────────────────────────
+  Develop an employee engagement strategy for a company in the creative industry, including recommendations for improving work-life balance, recognizing employee contributions, and fostering a positive work culture. The strategy should prioritize diversity, inclusion, and employee well-being.
+
+
+  ========================================================
+  BUSINESS MODEL INNOVATION
+  ========================================================
+
+  Prompt #1: When seeking to disrupt a market or create a new offering
+  ────────────────────────────────────────────────────────
+  Design a new business model for a company in the education industry, including recommendations for revenue streams, cost structures, and key partnerships. The model should prioritize scalability, accessibility, and social impact.
+
+
+  ========================================================
+  DATA GOVERNANCE
+  ========================================================
+
+  Prompt #1: When seeking to manage data effectively
+  ────────────────────────────────────────────────────────
+  Establish a data governance framework for a company in the financial services industry, including policies for data quality, security, and compliance. The framework should prioritize regulatory requirements, customer trust, and data-driven decision making.
+
+
+  ========================================================
+  SUSTAINABILITY STRATEGY
+  ========================================================
+
+  Prompt #1: When seeking to improve sustainability
+  ────────────────────────────────────────────────────────
+  Develop a sustainability strategy for a company in the manufacturing industry, including recommendations for reducing energy consumption, waste management, and supply chain sustainability. The strategy should prioritize environmental responsibility, social accountability, and economic viability.
+
+
+  ========================================================
+  MERGERS AND ACQUISITIONS
+  ========================================================
+
+  Prompt #1: When evaluating potential acquisitions
+  ────────────────────────────────────────────────────────
+  Conduct a due diligence analysis for a potential acquisition in the healthcare industry, including recommendations for evaluating target companies, assessing integration risks, and prioritizing synergy opportunities. The analysis should consider market trends, regulatory requirements, and cultural fit.
+
+
+  ========================================================
+  PRODUCT DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When developing new products or services
+  ────────────────────────────────────────────────────────
+  Develop a product development roadmap for a company in the consumer goods industry, including recommendations for market research, product design, and launch planning. The roadmap should prioritize customer needs, competitor analysis, and time-to-market.
+
+
+  ========================================================
+  IT STRATEGY
+  ========================================================
+
+  Prompt #1: When seeking to improve IT capabilities
+  ────────────────────────────────────────────────────────
+  Create an IT strategy for a company in the retail industry, including recommendations for technology infrastructure, cybersecurity, and digital transformation. The strategy should prioritize customer experience, operational efficiency, and data-driven decision making.
+
+
+  ========================================================
+  CORPORATE SOCIAL RESPONSIBILITY
+  ========================================================
+
+  Prompt #1: When seeking to improve social responsibility
+  ────────────────────────────────────────────────────────
+  Develop a corporate social responsibility (CSR) strategy for a company in the energy industry, including recommendations for community engagement, environmental sustainability, and social impact. The strategy should prioritize stakeholder engagement, transparency, and accountability.
+
+
+  ========================================================
+  ECONOMIC ANALYSIS
+  ========================================================
+
+  Prompt #1: When evaluating market opportunities
+  ────────────────────────────────────────────────────────
+  Conduct an economic analysis of a potential market expansion for a company in the logistics industry, including recommendations for market sizing, competitor analysis, and regulatory considerations. The analysis should consider macroeconomic trends, industry dynamics, and potential risks.
+
+
+  ========================================================
+  STAKEHOLDER ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When seeking to improve stakeholder relationships
+  ────────────────────────────────────────────────────────
+  Develop a stakeholder engagement strategy for a company in the construction industry, including recommendations for communicating with local communities, managing stakeholder expectations, and building trust. The strategy should prioritize transparency, accountability, and social responsibility.
+
+
+  ========================================================
+  BUSINESS CONTINUITY
+  ========================================================
+
+  Prompt #1: When preparing for potential disruptions
+  ────────────────────────────────────────────────────────
+  Establish a business continuity plan for a company in the financial services industry, including procedures for responding to natural disasters, cyber attacks, and other potential disruptions. The plan should prioritize customer protection, operational resilience, and regulatory compliance.
 
 ============================================================
   Thank you for your purchase!
