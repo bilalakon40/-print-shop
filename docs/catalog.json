@@ -1,18 +1,26 @@
 [
   {
-    "title": "Freelancer's ChatGPT Prompt Kit",
-    "niche": "Freelancing",
-    "price": 14,
-    "prompts_count": 38,
-    "description": "40 essential ChatGPT prompts every freelancer needs. Write winning proposals, professional emails, client contracts, portfolio descriptions, and social proof content in half the time.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/iwhxyrl"
+    "title": "Real Estate AI Prompt Bundle",
+    "niche": "Real Estate",
+    "price": 12,
+    "prompts_count": 25,
+    "description": "Stand out in a competitive market. This bundle of 25 ChatGPT prompts helps agents write compelling listing descriptions, social media posts, email scripts, and client communication templates.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/vcgnkb"
   },
   {
     "title": "Business AI Prompts: Strategy & Operations",
     "niche": "Business",
     "price": 14,
-    "prompts_count": 31,
+    "prompts_count": 30,
     "description": "Run your business like a CEO. This pack of 30 ChatGPT prompts covers business strategy, financial analysis, competitor research, operational planning, and decision-making frameworks.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/atqzxa"
+    "gumroad_url": "https://bybilal.gumroad.com/l/dwaaqq"
+  },
+  {
+    "title": "ChatGPT Prompts for Mindful Meditation",
+    "niche": "Mindfulness and Meditation",
+    "price": 9,
+    "prompts_count": 30,
+    "description": "This prompt pack helps meditation enthusiasts and wellness professionals create personalized mindfulness exercises and guided meditations using ChatGPT, enhancing their mental wellbeing and self-care practices. With 30 tailored prompts, you'll be able to generate soothing meditation scripts, affirmations, and visualization techniques to calm the mind and uplift the spirit.",
+    "gumroad_url": ""
   }
 ]
