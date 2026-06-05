@@ -1,0 +1,295 @@
+============================================================
+  ChatGPT Prompts for AI Music Generation
+  Unlock Musical Creativity with AI
+============================================================
+
+Included Prompts: 30
+Generated: June 05, 2026
+
+============================================================
+  HOW TO USE
+============================================================
+
+1. Copy a prompt below
+2. Paste into ChatGPT (or any AI chat)
+3. Replace the example details with your own
+4. Get professional results in seconds
+
+============================================================
+  THE PROMPTS
+============================================================
+
+
+  ========================================================
+  MELODY GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new pop song and needing a memorable melody
+  ────────────────────────────────────────────────────────
+  Create a melody for a pop song in the style of Ariana Grande, with a focus on catchy hooks and a moderate tempo of 120 BPM. The melody should feature a mix of stepwise motion and leaps, and include a clear distinction between the verse and chorus.
+
+
+  ========================================================
+  CHORD PROGRESSION
+  ========================================================
+
+  Prompt #1: When creating a new jazz composition and needing a sophisticated chord progression
+  ────────────────────────────────────────────────────────
+  Generate a chord progression for a jazz standard in the style of John Coltrane, using extended chords such as 7th and 9th chords, and a mix of ii-V-I and iii-vi-ii-V progressions. The progression should be suitable for a slow tempo of 80 BPM and feature a mix of tension and release.
+
+
+  ========================================================
+  LYRICS GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new country song and needing meaningful lyrics
+  ────────────────────────────────────────────────────────
+  Write lyrics for a country song about heartbreak and lost love, in the style of Taylor Swift, with a focus on storytelling and vivid imagery. The lyrics should feature a clear narrative structure, including a verse, chorus, and bridge, and include themes of nostalgia and longing.
+
+
+  ========================================================
+  SOUND DESIGN
+  ========================================================
+
+  Prompt #1: When creating a new film score and needing a unique sound design
+  ────────────────────────────────────────────────────────
+  Create a sound design for a sci-fi film score, featuring a mix of electronic and acoustic elements, including distorted synths, haunting ambiance, and pounding percussion. The sound design should evoke a sense of otherworldliness and tension, and include a range of textures and timbres.
+
+
+  ========================================================
+  MUSIC ARRANGEMENT
+  ========================================================
+
+  Prompt #1: When creating a new classical music piece and needing a detailed arrangement
+  ────────────────────────────────────────────────────────
+  Arrange a music piece for a string quartet, using a mix of legato and staccato playing styles, and featuring a range of dynamics and articulations. The arrangement should include a clear distinction between the different instruments, and feature a balance of melodic and harmonic elements.
+
+
+  ========================================================
+  BEAT GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new hip-hop track and needing a compelling beat
+  ────────────────────────────────────────────────────────
+  Generate a beat for a hip-hop track in the style of Kendrick Lamar, featuring a mix of swung rhythms and syncopated patterns, and including a range of percussion elements such as kicks, snares, and hi-hats. The beat should be suitable for a moderate tempo of 100 BPM and feature a strong emphasis on groove and feel.
+
+
+  ========================================================
+  HARMONY GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new vocal piece and needing a rich harmony
+  ────────────────────────────────────────────────────────
+  Create a harmony for a vocal piece, using a mix of close and open harmonies, and featuring a range of intervals such as thirds, fifths, and sixths. The harmony should be suitable for a slow tempo of 90 BPM and feature a sense of tension and release, including a range of suspensions and resolutions.
+
+
+  ========================================================
+  MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating a new EDM track and needing a high-energy production
+  ────────────────────────────────────────────────────────
+  Produce a music track for a electronic dance music (EDM) festival, featuring a mix of synthesizers, drum machines, and processed vocals, and including a range of effects such as reverb, delay, and distortion. The track should be suitable for a fast tempo of 130 BPM and feature a strong emphasis on energy and momentum.
+
+
+  ========================================================
+  ORCHESTRATION
+  ========================================================
+
+  Prompt #1: When creating a new classical music piece and needing a detailed orchestration
+  ────────────────────────────────────────────────────────
+  Orchestrate a music piece for a full symphony orchestra, featuring a mix of woodwinds, brass, percussion, and strings, and including a range of articulations and dynamics. The orchestration should evoke a sense of grandeur and drama, and feature a balance of melodic and harmonic elements.
+
+
+  ========================================================
+  VOCAL PROCESSING
+  ========================================================
+
+  Prompt #1: When mixing a new vocal track and needing a professional-sounding vocal processing
+  ────────────────────────────────────────────────────────
+  Process a vocal recording to create a bright and polished sound, using a range of effects such as equalization, compression, and reverb, and including a mix of subtle and drastic adjustments. The processing should enhance the natural tone and character of the vocal, while also adding a sense of depth and space.
+
+
+  ========================================================
+  COMPOSITION
+  ========================================================
+
+  Prompt #1: When creating a new classical music piece and needing a detailed composition
+  ────────────────────────────────────────────────────────
+  Compose a music piece for a solo piano, featuring a mix of melodic and harmonic elements, and including a range of dynamics and articulations. The composition should evoke a sense of intimacy and introspection, and feature a balance of simplicity and complexity.
+
+
+  ========================================================
+  AUDIO ENGINEERING
+  ========================================================
+
+  Prompt #1: When finalizing a new music track and needing a professional-sounding mix and master
+  ────────────────────────────────────────────────────────
+  Mix and master an audio track to create a balanced and polished sound, using a range of effects such as equalization, compression, and limiting, and including a mix of subtle and drastic adjustments. The mix should enhance the natural tone and character of the instruments, while also adding a sense of depth and clarity.
+
+
+  ========================================================
+  MUSIC THEORY
+  ========================================================
+
+  Prompt #1: When studying music theory and needing a detailed analysis of a jazz standard
+  ────────────────────────────────────────────────────────
+  Analyze the chord progression of a jazz standard, using a range of music theory concepts such as chord functions, scales, and modes, and including a discussion of the historical and cultural context of the piece. The analysis should provide insight into the harmonic structure and emotional impact of the music.
+
+
+  ========================================================
+  SOUNDTRACK COMPOSITION
+  ========================================================
+
+  Prompt #1: When creating a new film score and needing a compelling soundtrack
+  ────────────────────────────────────────────────────────
+  Compose a soundtrack for a fantasy film, featuring a mix of electronic and acoustic elements, and including a range of themes and motifs. The soundtrack should evoke a sense of wonder and adventure, and feature a balance of melodic and harmonic elements.
+
+
+  ========================================================
+  REMIXING
+  ========================================================
+
+  Prompt #1: When creating a new remix and needing a unique and compelling interpretation
+  ────────────────────────────────────────────────────────
+  Remix a popular song, using a range of techniques such as time-stretching, pitch-shifting, and re-arranging, and including a mix of subtle and drastic adjustments. The remix should create a new and interesting interpretation of the original song, while also maintaining the core elements and message.
+
+
+  ========================================================
+  MUSIC GENRE CLASSIFICATION
+  ========================================================
+
+  Prompt #1: When analyzing music and needing a detailed classification
+  ────────────────────────────────────────────────────────
+  Classify a music piece into a specific genre, using a range of characteristics such as melody, harmony, rhythm, and instrumentation, and including a discussion of the historical and cultural context of the piece. The classification should provide insight into the stylistic and thematic elements of the music.
+
+
+  ========================================================
+  INSTRUMENTAL ACCOMPANIMENT
+  ========================================================
+
+  Prompt #1: When creating a new vocal piece and needing a compelling instrumental accompaniment
+  ────────────────────────────────────────────────────────
+  Create an instrumental accompaniment for a vocal piece, using a range of instruments such as piano, guitar, and strings, and including a mix of melodic and harmonic elements. The accompaniment should enhance the natural tone and character of the vocal, while also adding a sense of depth and texture.
+
+
+  ========================================================
+  MUSIC PRODUCTION WORKFLOW
+  ========================================================
+
+  Prompt #1: When producing a new hip-hop track and needing a detailed workflow
+  ────────────────────────────────────────────────────────
+  Outline a music production workflow for a hip-hop track, including a range of steps such as beat creation, melody writing, and vocal recording, and including a discussion of the software and hardware used in the process. The workflow should provide insight into the creative and technical decisions involved in producing a hip-hop track.
+
+
+  ========================================================
+  COMPOSITION FOR FILM
+  ========================================================
+
+  Prompt #1: When creating a new film score and needing a compelling composition for a horror film
+  ────────────────────────────────────────────────────────
+  Compose a music piece for a horror film, featuring a mix of eerie and suspenseful elements, and including a range of themes and motifs. The composition should evoke a sense of fear and tension, and feature a balance of melodic and harmonic elements.
+
+
+  ========================================================
+  VOCAL SYNTHESIS
+  ========================================================
+
+  Prompt #1: When creating a new electronic music track and needing a unique vocal sound
+  ────────────────────────────────────────────────────────
+  Synthesize a vocal sound using a range of techniques such as vocoding and formant shifting, and including a mix of subtle and drastic adjustments. The synthesized vocal should create a unique and interesting sound, while also maintaining the core elements and message of the original vocal.
+
+
+  ========================================================
+  ELECTRONIC MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating a new electronic music track and needing a high-energy production
+  ────────────────────────────────────────────────────────
+  Produce an electronic music track, featuring a mix of synthesizers, drum machines, and processed vocals, and including a range of effects such as reverb, delay, and distortion. The track should be suitable for a fast tempo of 140 BPM and feature a strong emphasis on energy and momentum.
+
+
+  ========================================================
+  ACOUSTIC MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating a new acoustic music track and needing a warm and intimate production
+  ────────────────────────────────────────────────────────
+  Produce an acoustic music track, featuring a mix of instruments such as guitar, piano, and strings, and including a range of effects such as reverb and delay. The track should be suitable for a slow tempo of 90 BPM and feature a sense of intimacy and warmth.
+
+
+  ========================================================
+  LIVE PERFORMANCE
+  ========================================================
+
+  Prompt #1: When performing live and needing a compelling and interactive setup
+  ────────────────────────────────────────────────────────
+  Create a live performance setup for an electronic music artist, featuring a mix of hardware and software elements, and including a range of effects such as reverb, delay, and distortion. The setup should provide a dynamic and engaging live show, with a strong emphasis on visuals and audience interaction.
+
+
+  ========================================================
+  MUSIC EDUCATION
+  ========================================================
+
+  Prompt #1: When teaching music production and needing a detailed curriculum
+  ────────────────────────────────────────────────────────
+  Develop a music education curriculum for a beginner music production course, featuring a range of topics such as audio engineering, music theory, and composition, and including a mix of practical and theoretical exercises. The curriculum should provide a comprehensive and engaging introduction to music production, with a focus on creativity and experimentation.
+
+
+  ========================================================
+  AUDIO POST-PRODUCTION
+  ========================================================
+
+  Prompt #1: When working on a film or television show and needing a professional-sounding mix and master
+  ────────────────────────────────────────────────────────
+  Mix and master an audio track for a film or television show, using a range of effects such as equalization, compression, and limiting, and including a mix of subtle and drastic adjustments. The mix should enhance the natural tone and character of the dialogue and sound effects, while also adding a sense of depth and clarity.
+
+
+  ========================================================
+  GAME MUSIC COMPOSITION
+  ========================================================
+
+  Prompt #1: When creating a new video game and needing a compelling music composition
+  ────────────────────────────────────────────────────────
+  Compose a music piece for a video game, featuring a mix of electronic and acoustic elements, and including a range of themes and motifs. The composition should evoke a sense of adventure and excitement, and feature a balance of melodic and harmonic elements.
+
+
+  ========================================================
+  CHORAL MUSIC COMPOSITION
+  ========================================================
+
+  Prompt #1: When creating a new choral music piece and needing a detailed composition
+  ────────────────────────────────────────────────────────
+  Compose a music piece for a choir, featuring a mix of harmonies and melodies, and including a range of dynamics and articulations. The composition should evoke a sense of grandeur and drama, and feature a balance of simplicity and complexity.
+
+
+  ========================================================
+  EXPERIMENTAL MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating a new experimental music track and needing a unique and compelling sound
+  ────────────────────────────────────────────────────────
+  Produce an experimental music track, featuring a mix of unconventional sounds and techniques, and including a range of effects such as distortion and reverb. The track should be suitable for a slow tempo of 60 BPM and feature a sense of mystery and intrigue.
+
+
+  ========================================================
+  FOLEY SOUND DESIGN
+  ========================================================
+
+  Prompt #1: When working on a film or television show and needing a detailed foley sound design
+  ────────────────────────────────────────────────────────
+  Create a foley sound design for a film or television show, featuring a mix of everyday sounds and unconventional noises, and including a range of effects such as reverb and delay. The sound design should enhance the natural tone and character of the visuals, while also adding a sense of depth and realism.
+
+
+  ========================================================
+  MUSIC THERAPY
+  ========================================================
+
+  Prompt #1: When working in music therapy and needing a comprehensive program
+  ────────────────────────────────────────────────────────
+  Develop a music therapy program for a mental health treatment center, featuring a range of activities such as music composition, improvisation, and listening, and including a mix of individual and group sessions. The program should provide a safe and supportive environment for patients to express themselves and explore their emotions.
+
+============================================================
+  Thank you for your purchase!
+  Share your results: @yourhandle
+============================================================

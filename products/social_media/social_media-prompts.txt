@@ -3,8 +3,8 @@
   Generate viral content for every platform in seconds
 ============================================================
 
-Included Prompts: 34
-Generated: May 31, 2026
+Included Prompts: 33
+Generated: June 05, 2026
 
 ============================================================
   HOW TO USE
@@ -24,161 +24,162 @@ Generated: May 31, 2026
   CONTENT CREATION
   ========================================================
 
-  Prompt #1: When planning social media content for a fashion brand
+  Prompt #1: Planning social media content in advance
   ────────────────────────────────────────────────────────
-  Create a social media content calendar for a fashion brand that includes four different types of posts per week, such as promotional posts, educational posts, engaging posts, and entertaining posts, and provide a detailed example of what each post could look like for the month of June.
+  Create a comprehensive social media content calendar for a fashion brand, including post types, hashtags, and engagement strategies for the next 30 days, focusing on increasing brand awareness and driving sales during the summer season.
 
-  Prompt #2: When creating video content for social media
+  Prompt #2: Creating engaging social media content
   ────────────────────────────────────────────────────────
-  Write a script for a social media video for a tech brand that showcases the features and benefits of their new smartphone, including how to make the video engaging, informative, and entertaining, and how to optimize it for different social media platforms.
+  Write a series of engaging social media posts for a fitness brand, highlighting the benefits of regular exercise for mental health, including eye-catching visuals, relevant hashtags, and a call-to-action to encourage followers to share their own fitness journeys.
 
-  Prompt #3: When creating educational content for a healthcare brand
+  Prompt #3: Creating engaging Instagram content
   ────────────────────────────────────────────────────────
-  Create a social media content strategy for a healthcare brand that includes creating educational content about common health topics, such as nutrition, fitness, and mental health, and provide examples of what types of content to create and how to promote it on different social media platforms.
+  Create a series of Instagram Reels for a beauty brand, showcasing the benefits and features of a new makeup product, including before-and-after shots, product demos, and customer testimonials, with a focus on increasing brand awareness and driving sales.
 
-  Prompt #4: When planning social media content for a sports brand
+  Prompt #4: Creating engaging social media content
   ────────────────────────────────────────────────────────
-  Create a social media content calendar for a sports brand that includes different types of posts, such as promotional posts, educational posts, engaging posts, and entertaining posts, and provide examples of what each post could look like for the month of July.
+  Write a series of engaging social media posts for a travel brand, highlighting the benefits of sustainable tourism and eco-friendly travel practices, including stunning visuals, relevant hashtags, and a call-to-action to encourage followers to share their own sustainable travel experiences.
 
-  Prompt #5: When creating video content for a fashion brand
+  Prompt #5: Creating engaging social media content
   ────────────────────────────────────────────────────────
-  Write a script for a social media video for a fashion brand that showcases the features and benefits of their new clothing line, including how to make the video engaging, informative, and entertaining, and how to optimize it for different social media platforms.
+  Create a series of engaging social media posts for a finance brand, highlighting the benefits of investing in a retirement plan and providing educational content on personal finance, including infographics, videos, and a call-to-action to encourage followers to share their own financial goals.
 
-  Prompt #6: When creating educational content for a healthcare brand
+  Prompt #6: Creating engaging social media content
   ────────────────────────────────────────────────────────
-  Create a social media content strategy for a healthcare brand that includes creating educational content about common health topics, such as nutrition, fitness, and mental health, and provide examples of what types of content to create and how to promote it on different social media platforms.
+  Write a series of engaging social media posts for a technology brand, highlighting the benefits and features of a new software product, including product demos, customer testimonials, and a call-to-action to encourage followers to share their own experiences with the product.
 
-  Prompt #7: When creating video content for a sports brand
+  Prompt #7: Creating engaging social media content
   ────────────────────────────────────────────────────────
-  Write a script for a social media video for a sports brand that showcases the features and benefits of their new athletic wear line, including how to make the video engaging, informative, and entertaining, and how to optimize it for different social media platforms.
+  Create a series of engaging social media posts for a travel brand, highlighting the benefits of cultural tourism and responsible travel practices, including stunning visuals, relevant hashtags, and a call-to-action to encourage followers to share their own cultural experiences.
 
 
   ========================================================
   INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: When launching a new product and wanting to partner with influencers
+  Prompt #1: Reaching out to influencers for partnership opportunities
   ────────────────────────────────────────────────────────
-  Develop a comprehensive influencer marketing strategy for a beauty brand that wants to partner with micro-influencers on Instagram to promote their new skincare line, including how to find and reach out to influencers, what types of content to collaborate on, and how to measure the success of the campaign.
+  Develop a detailed outreach email to a popular lifestyle influencer, requesting collaboration opportunities for a new skincare product launch, including a brief overview of the brand, product benefits, and proposed collaboration terms.
 
-  Prompt #2: When partnering with an influencer for a marketing campaign
+  Prompt #2: Finding influencers for brand partnerships
   ────────────────────────────────────────────────────────
-  Create a contract for an influencer marketing partnership between a lifestyle brand and a popular Instagram influencer, including the terms of the partnership, the scope of work, and the expectations for content creation and promotion.
+  Research and identify 10 social media influencers in the gaming industry who align with our brand values and have a highly engaged audience, and provide a brief overview of their content style, reach, and previous collaboration experience.
 
-  Prompt #3: When launching a new game and wanting to partner with influencers
+  Prompt #3: Negotiating influencer contracts
   ────────────────────────────────────────────────────────
-  Develop a comprehensive influencer marketing strategy for a gaming brand that wants to partner with gaming influencers on YouTube and Twitch to promote their new game, including how to find and reach out to influencers, what types of content to collaborate on, and how to measure the success of the campaign.
+  Negotiate a sponsored content contract with a popular social media influencer, including terms for content creation, posting schedule, and compensation, with a focus on ensuring brand safety and compliance with regulatory guidelines.
 
-  Prompt #4: When launching a new product and wanting to partner with influencers
+  Prompt #4: Finding influencers for brand partnerships
   ────────────────────────────────────────────────────────
-  Develop a comprehensive influencer marketing strategy for a beauty brand that wants to partner with influencers on Instagram to promote their new makeup line, including how to find and reach out to influencers, what types of content to collaborate on, and how to measure the success of the campaign.
+  Research and identify 5 social media influencers in the food industry who have a highly engaged audience and align with our brand values, and provide a brief overview of their content style, reach, and previous collaboration experience.
 
-  Prompt #5: When partnering with an influencer for a marketing campaign
+  Prompt #5: Negotiating influencer contracts
   ────────────────────────────────────────────────────────
-  Create a contract for an influencer marketing partnership between a lifestyle brand and a popular YouTube influencer, including the terms of the partnership, the scope of work, and the expectations for content creation and promotion.
+  Negotiate a sponsored content contract with a popular social media influencer, including terms for content creation, posting schedule, and compensation, with a focus on ensuring brand safety and compliance with regulatory guidelines.
 
-  Prompt #6: When launching a new game and wanting to partner with influencers
+  Prompt #6: Finding influencers for brand partnerships
   ────────────────────────────────────────────────────────
-  Develop a comprehensive influencer marketing strategy for a gaming brand that wants to partner with gaming influencers on YouTube and Twitch to promote their new game, including how to find and reach out to influencers, what types of content to collaborate on, and how to measure the success of the campaign.
+  Research and identify 10 social media influencers in the beauty industry who have a highly engaged audience and align with our brand values, and provide a brief overview of their content style, reach, and previous collaboration experience.
 
-  Prompt #7: When partnering with an influencer for a marketing campaign
+  Prompt #7: Negotiating influencer contracts
   ────────────────────────────────────────────────────────
-  Create a contract for an influencer marketing partnership between a beauty brand and a popular Instagram influencer, including the terms of the partnership, the scope of work, and the expectations for content creation and promotion.
-
-
-  ========================================================
-  SOCIAL MEDIA ADVERTISING
-  ========================================================
-
-  Prompt #1: When wanting to increase sales of a product or service through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a fitness brand that wants to increase sales of their online workout programs, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $5,000 per month.
-
-  Prompt #2: When wanting to raise awareness about a social issue through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a non-profit organization that wants to raise awareness about a social issue, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $10,000 per month.
-
-  Prompt #3: When wanting to increase leads and sales through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a real estate brand that wants to increase leads and sales, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $20,000 per month.
-
-  Prompt #4: When wanting to increase bookings through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a travel brand that wants to increase bookings, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $15,000 per month.
-
-  Prompt #5: When wanting to raise awareness about a social issue through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a non-profit organization that wants to raise awareness about a social issue, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $5,000 per month.
-
-  Prompt #6: When wanting to increase leads and sales through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a real estate brand that wants to increase leads and sales, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $10,000 per month.
-
-  Prompt #7: When wanting to increase bookings through social media ads
-  ────────────────────────────────────────────────────────
-  Design a social media advertising campaign for a travel brand that wants to increase bookings, including which social media platforms to use, what types of ads to create, and how to target the desired audience, with a budget of $20,000 per month.
+  Negotiate a sponsored content contract with a popular social media influencer, including terms for content creation, posting schedule, and compensation, with a focus on ensuring brand safety and compliance with regulatory guidelines.
 
 
   ========================================================
   SOCIAL MEDIA ANALYTICS
   ========================================================
 
-  Prompt #1: When wanting to measure the success of a social media campaign
+  Prompt #1: Analyzing competitor social media performance
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a travel brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Analyze the social media performance of a competitor's Facebook page over the past quarter, including engagement rates, follower growth, and content types, and provide actionable insights for improving our own social media strategy.
 
-  Prompt #2: When wanting to measure the success of an e-commerce social media campaign
+  Prompt #2: Auditing social media presence
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for an e-commerce brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Conduct a social media audit for a small business, analyzing their current social media presence, content strategy, and engagement metrics, and provide recommendations for improving their online presence and increasing brand awareness.
 
-  Prompt #3: When wanting to measure the success of a retail social media campaign
+  Prompt #3: Analyzing social media performance
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a retail brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Analyze the social media performance of a company's Instagram account over the past year, including follower growth, engagement rates, and content types, and provide actionable insights for improving their social media strategy and increasing brand awareness.
 
-  Prompt #4: When wanting to measure the success of a food social media campaign
+  Prompt #4: Auditing social media presence
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a food brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Conduct a social media audit for a large corporation, analyzing their current social media presence, content strategy, and engagement metrics, and provide recommendations for improving their online presence and increasing brand awareness.
 
-  Prompt #5: When wanting to measure the success of a finance social media campaign
+  Prompt #5: Analyzing social media performance
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a finance brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Analyze the social media performance of a company's Twitter account over the past quarter, including follower growth, engagement rates, and content types, and provide actionable insights for improving their social media strategy and increasing brand awareness.
 
-  Prompt #6: When wanting to measure the success of a retail social media campaign
+  Prompt #6: Auditing social media presence
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a retail brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Conduct a social media audit for a small business, analyzing their current social media presence, content strategy, and engagement metrics, and provide recommendations for improving their online presence and increasing brand awareness.
 
-  Prompt #7: When wanting to measure the success of a food social media campaign
+  Prompt #7: Analyzing social media performance
   ────────────────────────────────────────────────────────
-  Explain how to use social media analytics tools to track the performance of a social media campaign for a food brand, including which metrics to track, how to set up tracking pixels, and how to use the data to make informed decisions about future social media content and advertising.
+  Analyze the social media performance of a company's Facebook page over the past year, including follower growth, engagement rates, and content types, and provide actionable insights for improving their social media strategy and increasing brand awareness.
+
+
+  ========================================================
+  PAID ADVERTISING
+  ========================================================
+
+  Prompt #1: Creating targeted social media ads
+  ────────────────────────────────────────────────────────
+  Design a targeted Facebook ads campaign for a new e-commerce store, aiming to drive conversions and sales among women aged 25-45 in the United States, with a budget of $1,000 per month and a focus on retargeting users who have abandoned their shopping carts.
+
+  Prompt #2: Optimizing social media ads for better performance
+  ────────────────────────────────────────────────────────
+  Optimize a Twitter ads campaign for a B2B software company, aiming to increase lead generation and drive conversions among decision-makers in the tech industry, with a focus on improving ad targeting, ad creative, and bidding strategies.
+
+  Prompt #3: Creating targeted LinkedIn ads
+  ────────────────────────────────────────────────────────
+  Design a targeted LinkedIn ads campaign for a B2B consulting firm, aiming to drive lead generation and conversions among business owners and decision-makers in the finance industry, with a budget of $5,000 per month and a focus on improving ad targeting and ad creative.
+
+  Prompt #4: Optimizing social media ads for better performance
+  ────────────────────────────────────────────────────────
+  Optimize a Facebook ads campaign for a retail company, aiming to increase conversions and drive sales among women aged 25-45 in the United States, with a focus on improving ad targeting, ad creative, and bidding strategies.
+
+  Prompt #5: Creating targeted Instagram ads
+  ────────────────────────────────────────────────────────
+  Design a targeted Instagram ads campaign for a fashion brand, aiming to drive conversions and sales among young adults aged 18-30 in the United States, with a budget of $2,000 per month and a focus on improving ad targeting and ad creative.
+
+  Prompt #6: Optimizing social media ads for better performance
+  ────────────────────────────────────────────────────────
+  Optimize a LinkedIn ads campaign for a B2B consulting firm, aiming to drive lead generation and conversions among business owners and decision-makers in the finance industry, with a focus on improving ad targeting and ad creative.
 
 
   ========================================================
   CRISIS MANAGEMENT
   ========================================================
 
-  Prompt #1: When dealing with a social media crisis
+  Prompt #1: Managing social media during a crisis
   ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a food brand that has just experienced a product recall, including how to respond to customer complaints on social media, how to issue a public apology, and how to prevent similar crises in the future.
+  Develop a comprehensive social media crisis management plan for a company facing a product recall, including a statement acknowledging the issue, a plan for responding to customer complaints, and strategies for maintaining transparency and rebuilding trust.
 
-  Prompt #2: When dealing with a social media crisis related to a data breach
-  ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a finance brand that has just experienced a data breach, including how to respond to customer concerns on social media, how to issue a public statement, and how to prevent similar crises in the future.
 
-  Prompt #3: When dealing with a negative review on social media
-  ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a hospitality brand that has just experienced a negative review on social media, including how to respond to the review, how to offer a solution, and how to prevent similar crises in the future.
+  ========================================================
+  SOCIAL MEDIA STRATEGY
+  ========================================================
 
-  Prompt #4: When dealing with a product recall
+  Prompt #1: Creating a social media strategy for a non-profit
   ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a tech brand that has just experienced a product recall, including how to respond to customer complaints on social media, how to issue a public apology, and how to prevent similar crises in the future.
+  Develop a comprehensive social media strategy for a non-profit organization, including goals, target audience, content calendar, and engagement plan, with a focus on increasing donations and volunteer sign-ups during the holiday season.
 
-  Prompt #5: When dealing with a negative review on social media
+  Prompt #2: Creating a social media strategy for an e-commerce business
   ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a hospitality brand that has just experienced a negative review on social media, including how to respond to the review, how to offer a solution, and how to prevent similar crises in the future.
+  Develop a social media strategy for a new e-commerce store, including goals, target audience, content calendar, and engagement plan, with a focus on increasing brand awareness, driving sales, and providing excellent customer service.
 
-  Prompt #6: When dealing with a product recall
+  Prompt #3: Creating a social media strategy for a healthcare organization
   ────────────────────────────────────────────────────────
-  Develop a social media crisis management plan for a tech brand that has just experienced a product recall, including how to respond to customer complaints on social media, how to issue a public apology, and how to prevent similar crises in the future.
+  Develop a comprehensive social media strategy for a healthcare organization, including goals, target audience, content calendar, and engagement plan, with a focus on increasing brand awareness, providing educational content, and promoting healthy lifestyles.
+
+  Prompt #4: Creating a social media strategy for a non-profit
+  ────────────────────────────────────────────────────────
+  Develop a comprehensive social media strategy for a non-profit organization, including goals, target audience, content calendar, and engagement plan, with a focus on increasing donations and volunteer sign-ups during the holiday season.
+
+  Prompt #5: Creating a social media strategy for a retail business
+  ────────────────────────────────────────────────────────
+  Develop a comprehensive social media strategy for a retail company, including goals, target audience, content calendar, and engagement plan, with a focus on increasing brand awareness, driving sales, and providing excellent customer service.
 
 ============================================================
   Thank you for your purchase!
