@@ -1,26 +1,26 @@
 [
   {
-    "title": "Content Creator AI Prompt Pack",
-    "niche": "Content Creation",
-    "price": 9,
-    "prompts_count": 35,
-    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/twxtl"
+    "title": "E-Commerce AI Prompts for Shopify Sellers",
+    "niche": "E-Commerce",
+    "price": 12,
+    "prompts_count": 24,
+    "description": "Scale your Shopify store with AI. This pack of 25 ChatGPT prompts helps you write irresistible product descriptions, optimize listings, create email flows, and handle customer service faster.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/nnslle"
   },
   {
-    "title": "Business AI Prompts: Strategy & Operations",
-    "niche": "Business",
-    "price": 14,
+    "title": "ChatGPT Prompts for Email Marketing",
+    "niche": "Email Marketing",
+    "price": 9,
+    "prompts_count": 24,
+    "description": "Email is still the highest-ROI marketing channel. This pack of 25 prompts helps you write welcome sequences, sales emails, newsletters, and follow-ups that actually convert.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/tyypn"
+  },
+  {
+    "title": "ChatGPT Prompts for AI Music Production",
+    "niche": "Music Production",
+    "price": 9,
     "prompts_count": 30,
-    "description": "Run your business like a CEO. This pack of 30 ChatGPT prompts covers business strategy, financial analysis, competitor research, operational planning, and decision-making frameworks.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/gzvomq"
-  },
-  {
-    "title": "ChatGPT Prompts for AI Music Generation",
-    "niche": "AI Music Production",
-    "price": 9,
-    "prompts_count": 29,
-    "description": "This prompt pack helps music producers and enthusiasts generate high-quality music tracks using AI tools, from creating melodies and harmonies to producing full-fledged songs. With these 30 expert-crafted prompts, you'll unlock the full potential of AI music generation and take your music production skills to the next level.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/tkqvm"
+    "description": "This prompt pack helps music producers and artists generate high-quality music tracks, beats, and melodies using AI, saving time and unlocking creativity. With 30 carefully crafted prompts, you'll be able to create unique and captivating music that resonates with your audience.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/kkweqd"
   }
 ]
