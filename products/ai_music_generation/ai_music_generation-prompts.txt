@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Create Stunning Music Tracks with Ease
+  Create Stunning Music Tracks with AI
 ============================================================
 
-Included Prompts: 29
-Generated: June 08, 2026
+Included Prompts: 30
+Generated: June 10, 2026
 
 ============================================================
   HOW TO USE
@@ -24,261 +24,270 @@ Generated: June 08, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When creating a new pop song and needing a melody that will grab the listener's attention
+  Prompt #1: When producing a hip-hop track that requires a memorable melody
   ────────────────────────────────────────────────────────
-  Generate a melody for a pop song that features a mix of stepwise motion and leaps, with a focus on creating a catchy and memorable hook. The melody should be written in the key of C major and have a moderate tempo of 120 BPM.
+  Create a 16-bar melody for a hip-hop song in the key of C minor, with a tempo of 120 BPM and a focus on catchy, repetitive hooks. The melody should feature a mix of stepwise motion and larger intervals to create interest and tension.
 
 
   ========================================================
-  CHORD PROGRESSION CREATION
+  HARMONY AND CHORD PROGRESSIONS
   ========================================================
 
-  Prompt #1: When composing a jazz song and needing a chord progression that will create a moody and contemplative atmosphere
+  Prompt #1: When composing a jazz ballad that requires a sophisticated harmonic foundation
   ────────────────────────────────────────────────────────
-  Create a chord progression for a jazz song that uses extended chords such as 7th and 9th chords, and has a slow and introspective feel. The progression should be written in the key of E minor and have a tempo of 90 BPM.
+  Generate a chord progression for a jazz ballad in the key of E flat major, using extended chords such as 7th and 9th chords to create a rich, complex sound. The progression should be 32 bars long and feature a mix of slow, contemplative sections and more upbeat, swinging sections.
 
 
   ========================================================
-  MUSIC STYLE TRANSFER
+  SOUND DESIGN AND INSTRUMENTATION
   ========================================================
 
-  Prompt #1: When wanting to create a parody or spoof of a well-known song in a different style
+  Prompt #1: When producing a techno track that requires a distinctive, attention-grabbing synthesizer sound
   ────────────────────────────────────────────────────────
-  Take the melody of 'Happy Birthday to You' and transform it into a heavy metal song, complete with driving rhythms and powerful guitar riffs. The resulting song should have a fast tempo of 180 BPM and be written in the key of A minor.
+  Design a unique sound for a synthesizer lead in a techno track, using a combination of oscillator waveforms, filters, and effects to create a bright, piercing sound with a lot of movement and interest. The sound should be able to cut through a dense mix and grab the listener's attention.
 
 
   ========================================================
-  LYRICS GENERATION
+  LYRICS AND VOCAL PRODUCTION
   ========================================================
 
-  Prompt #1: When creating a new country song and needing lyrics that will resonate with listeners who have experienced heartbreak
+  Prompt #1: When producing a pop song that requires thoughtful, well-crafted lyrics and a strong vocal performance
   ────────────────────────────────────────────────────────
-  Write lyrics for a country song about heartbreak and lost love, with a focus on storytelling and vivid imagery. The lyrics should be written from the perspective of a person who has just gone through a breakup and is struggling to come to terms with their emotions.
+  Write lyrics for a pop song about heartbreak and longing, with a focus on storytelling and poetic imagery. The lyrics should be relatable, honest, and emotionally resonant, with a strong emphasis on vocal delivery and phrasing. The song should feature a mix of introspective, emotional verses and catchy, anthemic choruses.
 
 
   ========================================================
-  ORCHESTRATION
+  MUSIC ARRANGEMENT AND STRUCTURE
   ========================================================
 
-  Prompt #1: When composing music for a film and needing a score that will create a sense of drama and excitement
+  Prompt #1: When producing a rock song that requires a compelling, well-structured arrangement
   ────────────────────────────────────────────────────────
-  Create a full orchestration for a film score that features a grand and epic theme, complete with soaring strings, triumphant brass, and pounding percussion. The score should be written in the key of D major and have a moderate tempo of 110 BPM.
+  Create a detailed arrangement for a rock song, including intro, verse, chorus, bridge, and outro sections. The arrangement should build from a simple, introspective intro to a big, anthemic chorus, with a focus on creating a sense of dynamics and contrasts. The song should feature a mix of clean and distorted guitars, driving drums, and a prominent bass line.
 
 
   ========================================================
-  MUSIC REMIXING
+  ELECTRONIC MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When wanting to create a new and interesting version of a well-known song for a dance floor or electronic music setting
+  Prompt #1: When producing a deep house track that requires a compelling, danceable drum pattern
   ────────────────────────────────────────────────────────
-  Take the song 'Uptown Funk' by Mark Ronson and Bruno Mars, and remix it into a deep house track with a focus on heavy basslines and syncopated rhythms. The resulting remix should have a fast tempo of 128 BPM and be written in the key of C minor.
+  Generate a drum pattern for a deep house track, using a combination of acoustic and electronic drum sounds to create a warm, organic sound with a lot of depth and complexity. The pattern should feature a mix of straight and swung rhythms, with a focus on creating a sense of groove and momentum.
 
 
   ========================================================
-  SOUND DESIGN
+  CLASSICAL MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When composing music for a film and needing a soundscape that will create a sense of atmosphere and mood
+  Prompt #1: When composing a classical string quartet that requires a deep understanding of classical forms and structures
   ────────────────────────────────────────────────────────
-  Create a soundscape for a science fiction film that features a mix of eerie ambiance, futuristic sound effects, and otherworldly textures. The soundscape should be designed to create a sense of tension and unease, and should be written in the key of E minor.
+  Compose a string quartet in the style of Beethoven, with a focus on classical forms and structures such as sonata allegro and rondo. The quartet should feature a mix of fast, energetic movements and slow, contemplative movements, with a emphasis on showcasing the unique qualities and timbres of each instrument.
 
 
   ========================================================
-  HARMONY GENERATION
+  MUSIC THEORY AND ANALYSIS
   ========================================================
 
-  Prompt #1: When creating a new vocal piece and needing a harmony part that will add depth and complexity to the melody
+  Prompt #1: When studying music theory and harmony, and wanting to gain a deeper understanding of how pop songs are constructed
   ────────────────────────────────────────────────────────
-  Generate a harmony part for a vocal melody that features a mix of thirds, fifths, and sixths, with a focus on creating a rich and full sound. The harmony should be written in the key of G major and have a moderate tempo of 100 BPM.
+  Analyze the chord progression and harmony of a given pop song, identifying the key, chord progression, and any notable harmonic features such as modulations or secondary dominants. The analysis should include a detailed breakdown of the song's harmonic structure and a discussion of how the harmony contributes to the song's overall mood and feel.
 
 
   ========================================================
-  RHYTHM GENERATION
+  FILM AND VIDEO GAME SCORING
   ========================================================
 
-  Prompt #1: When composing a funk song and needing a rhythm section part that will get people moving
+  Prompt #1: When composing music for a video game that requires a rich, interactive soundtrack
   ────────────────────────────────────────────────────────
-  Create a rhythm section part for a funk song that features a mix of driving quarter notes and syncopated eighth notes, with a focus on creating a strong and infectious groove. The part should be written in the key of F major and have a fast tempo of 130 BPM.
+  Create a score for a sci-fi video game, featuring a mix of electronic and orchestral elements to create a sense of otherworldliness and wonder. The score should include a range of themes and motifs, each associated with a particular character, location, or idea in the game. The music should be able to adapt to the player's actions and progress, creating a dynamic and immersive experience.
 
 
   ========================================================
-  MUSIC CLASSIFICATION
+  MUSIC PRODUCTION WORKFLOW
   ========================================================
 
-  Prompt #1: When trying to understand the style or genre of a particular song or artist
+  Prompt #1: When producing a hip-hop track and wanting to create a efficient, effective workflow
   ────────────────────────────────────────────────────────
-  Classify the song 'Stairway to Heaven' by Led Zeppelin into a specific genre or style, based on its melody, harmony, and rhythm. The classification should take into account the song's use of folk and rock elements, as well as its soaring guitar solo and hauntingly beautiful lyrics.
+  Outline a production workflow for a hip-hop track, from initial idea generation to final mixing and mastering. The workflow should include a range of tasks and stages, such as beat creation, melody writing, vocal recording, and sound design, and should emphasize the importance of collaboration, experimentation, and attention to detail.
 
 
   ========================================================
-  MELODY VARIATION
+  VOCAL PROCESSING AND EFFECTS
   ========================================================
 
-  Prompt #1: When wanting to create new and interesting versions of a well-known melody
+  Prompt #1: When producing a pop song that requires a professional-sounding vocal performance
   ────────────────────────────────────────────────────────
-  Take the melody of 'Twinkle Twinkle Little Star' and create five different variations, each with a unique twist or spin. The variations should include a jazz version, a classical version, a rock version, a hip hop version, and a folk version, and should be written in the key of C major.
+  Design a vocal processing chain for a pop song, using a combination of EQ, compression, and effects such as reverb and delay to create a bright, polished sound with a lot of depth and interest. The chain should include a range of plugins and processors, each with its own specific function and contribution to the overall sound.
 
 
   ========================================================
-  CHORD PROGRESSION VARIATION
+  LIVE PERFORMANCE AND DJING
   ========================================================
 
-  Prompt #1: When wanting to create new and interesting versions of a well-known chord progression
+  Prompt #1: When performing live as an electronic music artist and wanting to create a compelling, engaging set
   ────────────────────────────────────────────────────────
-  Take the chord progression of 'I Will Always Love You' by Whitney Houston and create three different variations, each with a unique twist or spin. The variations should include a jazz version, a country version, and a rock version, and should be written in the key of A minor.
+  Create a set list for a live electronic music performance, featuring a mix of original tracks, remixes, and crowd-pleasing anthems. The set list should be designed to take the audience on a journey, building from a slow, introspective start to a big, energetic climax, with a focus on creating a sense of dynamics and contrasts.
 
 
   ========================================================
-  MUSIC GENERATION FOR VIDEO GAMES
+  MUSIC EDUCATION AND LEARNING
   ========================================================
 
-  Prompt #1: When composing music for a video game and needing a soundtrack that will enhance the player's experience
+  Prompt #1: When teaching music theory to beginners and wanting to create an engaging, effective lesson plan
   ────────────────────────────────────────────────────────
-  Create a soundtrack for a video game that features a mix of electronic and orchestral elements, with a focus on creating a sense of excitement and adventure. The soundtrack should include a main theme, as well as several secondary themes and motifs, and should be written in the key of E major.
+  Develop a lesson plan for teaching music theory to beginners, focusing on the basics of harmony, melody, and rhythm. The lesson plan should include a range of activities and exercises, such as ear training, sight singing, and composition, and should emphasize the importance of creativity, experimentation, and fun.
 
 
   ========================================================
-  VOCAL PROCESSING
+  SOUNDTRACK AND THEME MUSIC
   ========================================================
 
-  Prompt #1: When wanting to enhance the sound of a vocal recording and create a more polished and professional mix
+  Prompt #1: When composing music for a TV show that requires a compelling, iconic theme song
   ────────────────────────────────────────────────────────
-  Take a vocal recording of a singer and use AI processing to create a double track effect, with a focus on creating a wide and expansive sound. The processing should include a mix of reverb, delay, and compression, and should be designed to create a sense of depth and space.
+  Compose a theme song for a TV show, featuring a catchy, memorable melody and a distinctive, recognizable sound. The theme should be able to capture the show's tone and atmosphere, and should be able to adapt to different contexts and arrangements, such as opening credits, scene transitions, and promotional materials.
 
 
   ========================================================
-  INSTRUMENTAL TRACK GENERATION
+  REMIXING AND RE-ARRANGEMENT
   ========================================================
 
-  Prompt #1: When creating a new hip hop song and needing an instrumental track that will get people moving
+  Prompt #1: When remixing a song and wanting to create a fresh, innovative take on the original
   ────────────────────────────────────────────────────────
-  Create an instrumental track for a hip hop song that features a mix of heavy drums, deep bass, and soaring synths, with a focus on creating a sense of energy and momentum. The track should be written in the key of G minor and have a fast tempo of 140 BPM.
+  Remix a given song, using a combination of creative production techniques and innovative sound design to create a new, exciting interpretation of the original track. The remix should feature a range of changes and transformations, such as tempo, time signature, and genre, and should emphasize the importance of experimentation and risk-taking.
 
 
   ========================================================
-  MUSIC MOOD TRANSFER
+  MUSIC AND EMOTION
   ========================================================
 
-  Prompt #1: When wanting to create a new and interesting version of a well-known song with a different mood or atmosphere
+  Prompt #1: When composing music for a film, video game, or other context that requires a strong emotional impact
   ────────────────────────────────────────────────────────
-  Take the song 'Here Comes the Sun' by The Beatles and transform it into a sad and melancholic song, complete with a slow tempo and mournful melody. The resulting song should have a tempo of 80 BPM and be written in the key of A minor.
+  Create a piece of music that evokes a specific emotion or mood, such as happiness, sadness, or fear. The music should use a range of compositional techniques, such as melody, harmony, and rhythm, to create a powerful, affecting sound that resonates with the listener.
 
 
   ========================================================
-  AUDIO RESTORATION
+  COLLABORATION AND CO-CREATION
   ========================================================
 
-  Prompt #1: When wanting to restore an old recording and create a more listenable and enjoyable experience
+  Prompt #1: When collaborating with other musicians and producers and wanting to create a productive, enjoyable workflow
   ────────────────────────────────────────────────────────
-  Take an old recording of a classical music piece and use AI restoration to remove noise and hiss, and create a clean and polished sound. The restoration should include a mix of noise reduction, EQ, and compression, and should be designed to create a sense of clarity and definition.
+  Develop a workflow for collaborating with other musicians and producers, using a combination of communication, planning, and creative experimentation to create a new, innovative piece of music. The workflow should emphasize the importance of mutual respect, open-mindedness, and a willingness to take risks and try new things.
 
 
   ========================================================
-  MUSIC RECOMMENDATION
+  MUSIC TECHNOLOGY AND SOFTWARE
   ========================================================
 
-  Prompt #1: When trying to discover new music and artists that fit a particular style or genre
+  Prompt #1: When choosing a music production software and wanting to make an informed decision
   ────────────────────────────────────────────────────────
-  Recommend five new songs to a listener who enjoys the music of Billie Eilish, based on their past listening history and preferences. The recommendations should include a mix of popular and emerging artists, and should be designed to introduce the listener to new and interesting music.
+  Evaluate the features and capabilities of a given music production software, such as Ableton Live or Logic Pro. The evaluation should include a range of criteria, such as user interface, workflow, and sound quality, and should discuss the software's strengths and weaknesses, as well as its potential applications and uses.
 
 
   ========================================================
-  MUSIC TAGGING
+  MUSIC BUSINESS AND INDUSTRY
   ========================================================
 
-  Prompt #1: When trying to categorize and organize a large music library
+  Prompt #1: When wanting to understand the music industry and make informed decisions about a music career
   ────────────────────────────────────────────────────────
-  Tag the song 'Bohemian Rhapsody' by Queen with a set of descriptive keywords, including genre, mood, and instrumentation. The tags should include a mix of general and specific terms, and should be designed to provide a clear and accurate description of the song.
+  Research and analyze the current state of the music industry, including trends, challenges, and opportunities. The analysis should include a range of topics, such as streaming, social media, and live performance, and should discuss the implications of these trends for musicians, producers, and other industry professionals.
 
 
   ========================================================
-  MUSIC SUMMARIZATION
+  EXPERIMENTAL AND AVANT-GARDE MUSIC
   ========================================================
 
-  Prompt #1: When trying to understand the main elements and features of a particular song
+  Prompt #1: When composing experimental music and wanting to create a truly innovative, groundbreaking work
   ────────────────────────────────────────────────────────
-  Summarize the song 'Hotel California' by the Eagles into a short and concise description, including the song's melody, harmony, and rhythm. The summary should include a mix of technical and non-technical terms, and should be designed to provide a clear and accurate overview of the song.
+  Create a piece of experimental music that pushes the boundaries of conventional sound and structure, using a range of unconventional techniques and materials, such as found sounds, extended instrumental techniques, and electronic manipulation. The music should be innovative, challenging, and thought-provoking, and should reflect the composer's unique perspective and vision.
 
 
   ========================================================
-  MUSIC COMPARISON
+  MUSIC AND CULTURE
   ========================================================
 
-  Prompt #1: When trying to understand the similarities and differences between two or more songs or artists
+  Prompt #1: When wanting to understand the cultural significance of music and its role in shaping our lives and society
   ────────────────────────────────────────────────────────
-  Compare and contrast the songs 'Stairway to Heaven' by Led Zeppelin and 'Free Bird' by Lynyrd Skynyrd, including their melody, harmony, and rhythm. The comparison should include a mix of technical and non-technical terms, and should be designed to provide a clear and accurate analysis of the similarities and differences between the two songs.
+  Explore the relationship between music and culture, including the ways in which music reflects, shapes, and challenges societal norms and values. The exploration should include a range of topics, such as music's role in social movements, its impact on personal identity, and its relationship to technology and globalization.
 
 
   ========================================================
-  MUSIC COMPLETION
+  MUSIC THERAPY AND WELLNESS
   ========================================================
 
-  Prompt #1: When trying to finish a song that is incomplete or unfinished
+  Prompt #1: When working with a specific population and wanting to use music as a therapeutic tool
   ────────────────────────────────────────────────────────
-  Complete the song 'Imagine' by John Lennon, including the melody, harmony, and rhythm, based on the existing lyrics and chord progression. The completion should include a mix of original and imitative elements, and should be designed to create a sense of continuity and coherence with the existing material.
+  Develop a music therapy program for a specific population, such as children with autism or adults with dementia. The program should use a range of music-based activities and interventions, such as singing, playing instruments, and composing, to promote physical, emotional, and cognitive well-being.
 
 
   ========================================================
-  MUSIC IMITATION
+  MUSIC HISTORY AND APPRECIATION
   ========================================================
 
-  Prompt #1: When trying to create new music in the style of a particular composer or artist
+  Prompt #1: When wanting to understand the history and development of a particular musical genre or style
   ────────────────────────────────────────────────────────
-  Imitate the style of the composer Chopin, including his melody, harmony, and rhythm, and create a new piano piece in his style. The piece should include a mix of technical and expressive elements, and should be designed to evoke the spirit and character of Chopin's music.
+  Research and analyze the historical development of a given musical genre or style, such as jazz, classical, or rock. The analysis should include a range of topics, such as the genre's origins, evolution, and key figures, and should discuss the genre's cultural and social context, as well as its musical characteristics and significance.
 
 
   ========================================================
-  MUSIC INTERPOLATION
+  MUSIC AND TECHNOLOGY INTEGRATION
   ========================================================
 
-  Prompt #1: When trying to incorporate a familiar melody or theme into a new song or composition
+  Prompt #1: When performing live and wanting to incorporate music technology into the show
   ────────────────────────────────────────────────────────
-  Interpolate the melody of 'Yesterday' by The Beatles into a new song, including a mix of original and imitative elements. The interpolation should include a mix of technical and creative elements, and should be designed to create a sense of continuity and coherence with the existing material.
+  Design a system for integrating music and technology in a live performance setting, using a range of tools and platforms, such as software instruments, MIDI controllers, and audio processing software. The system should be able to create a seamless, interactive experience for the audience, and should reflect the artist's unique vision and style.
 
 
   ========================================================
-  MUSIC EXTRAPOLATION
+  MUSIC EDUCATION TECHNOLOGY
   ========================================================
 
-  Prompt #1: When trying to create new music based on an existing chord progression or harmonic structure
+  Prompt #1: When teaching music and wanting to use technology to enhance the learning experience
   ────────────────────────────────────────────────────────
-  Extrapolate the chord progression of 'I Will Always Love You' by Whitney Houston into a new song, including a mix of original and imitative elements. The extrapolation should include a mix of technical and creative elements, and should be designed to create a sense of continuity and coherence with the existing material.
+  Develop a music education software that uses interactive, immersive technologies, such as virtual reality or gamification, to teach music theory, history, and performance skills. The software should be engaging, effective, and accessible, and should reflect the latest research and best practices in music education.
 
 
   ========================================================
-  MUSIC DATA ANALYSIS
+  MUSIC AND NEUROSCIENCE
   ========================================================
 
-  Prompt #1: When trying to understand the technical and musical elements of a particular melody or song
+  Prompt #1: When wanting to understand the scientific basis of music's effects on the human brain and behavior
   ────────────────────────────────────────────────────────
-  Analyze the melody of 'Happy Birthday to You' and provide a detailed description of its contour, interval structure, and rhythmic characteristics. The analysis should include a mix of technical and non-technical terms, and should be designed to provide a clear and accurate understanding of the melody's features and elements.
+  Research the relationship between music and the brain, including the ways in which music affects cognitive function, emotional experience, and social behavior. The research should include a range of topics, such as music's impact on memory, attention, and mood, and should discuss the implications of these findings for music therapy, education, and performance.
 
 
   ========================================================
-  MUSIC INFORMATION RETRIEVAL
+  MUSIC AND SOCIAL IMPACT
   ========================================================
 
-  Prompt #1: When trying to find information about a particular song or artist
+  Prompt #1: When wanting to use music as a force for social good and positive change
   ────────────────────────────────────────────────────────
-  Retrieve information about the song 'Smells Like Teen Spirit' by Nirvana, including its release date, genre, and chart performance. The retrieval should include a mix of technical and non-technical terms, and should be designed to provide a clear and accurate overview of the song's history and impact.
+  Develop a music-based social impact project, using music as a tool for social change, community engagement, and cultural exchange. The project should reflect the needs and goals of a specific community or population, and should use music to promote social justice, equality, and human rights.
 
 
   ========================================================
-  MUSIC RECOMMENDATION SYSTEMS
+  MUSIC AND STORYTELLING
   ========================================================
 
-  Prompt #1: When trying to create a music streaming service or recommendation platform
+  Prompt #1: When composing music for a narrative context, such as a musical or opera
   ────────────────────────────────────────────────────────
-  Develop a music recommendation system that suggests songs to listeners based on their past listening history and preferences. The system should include a mix of collaborative filtering, content-based filtering, and hybrid approaches, and should be designed to provide accurate and personalized recommendations.
+  Create a narrative song cycle that tells a story through music, using a range of compositional techniques, such as melody, harmony, and lyrics, to convey character, plot, and theme. The song cycle should be engaging, immersive, and emotionally resonant, and should reflect the artist's unique perspective and vision.
 
 
   ========================================================
-  MUSIC CLASSIFICATION SYSTEMS
+  MUSIC AND VISUAL ARTS
   ========================================================
 
-  Prompt #1: When trying to organize and categorize a large music library
+  Prompt #1: When creating a multimedia installation and wanting to use music as a key element
   ────────────────────────────────────────────────────────
-  Develop a music classification system that categorizes songs into genres, moods, and styles based on their acoustic features and musical characteristics. The system should include a mix of supervised and unsupervised learning approaches, and should be designed to provide accurate and consistent classifications.
+  Develop a multimedia installation that combines music, visual art, and technology to create an immersive, interactive experience. The installation should reflect the artist's unique style and vision, and should use music and visual art to explore themes, ideas, and emotions in a new and innovative way.
+
+
+  ========================================================
+  MUSIC AND DANCE
+  ========================================================
+
+  Prompt #1: When choreographing a dance piece and wanting to use music as a source of inspiration and guidance
+  ────────────────────────────────────────────────────────
+  Choreograph a dance piece to a given piece of music, using a range of movement styles and techniques to interpret and express the music's emotional, kinetic, and narrative qualities. The choreography should be creative, expressive, and engaging, and should reflect the dancer's unique perspective and vision.
 
 ============================================================
   Thank you for your purchase!
