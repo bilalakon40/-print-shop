@@ -3,8 +3,8 @@
   Win more clients and deliver faster with AI
 ============================================================
 
-Included Prompts: 38
-Generated: June 03, 2026
+Included Prompts: 41
+Generated: June 11, 2026
 
 ============================================================
   HOW TO USE
@@ -21,345 +21,197 @@ Generated: June 03, 2026
 
 
   ========================================================
-  PROJECT PROPOSAL
-  ========================================================
-
-  Prompt #1: When pitching for a new web development project
-  ────────────────────────────────────────────────────────
-  Write a comprehensive project proposal for a freelance web development project, including a detailed timeline, budget breakdown, and description of the technologies used. The project involves creating a custom e-commerce website for a fashion brand.
-
-
-  ========================================================
-  CONTRACT REVIEW
-  ========================================================
-
-  Prompt #1: Before signing a contract with a new client
-  ────────────────────────────────────────────────────────
-  Review the contract for a freelance writing project and identify potential clauses that could put the freelancer at risk, such as indemnification or termination clauses. The contract is for a 6-month project with a monthly payment of $5,000.
-
-
-  ========================================================
-  TIME MANAGEMENT
-  ========================================================
-
-  Prompt #1: When managing multiple projects with tight deadlines
-  ────────────────────────────────────────────────────────
-  Create a schedule for a freelance graphic designer who has to complete three projects within the next two weeks, with deadlines on Monday, Wednesday, and Friday. The designer works 8 hours a day and needs to allocate time for client communication and project planning.
-
-
-  ========================================================
   CLIENT COMMUNICATION
   ========================================================
 
-  Prompt #1: When handling client requests for revisions
+  Prompt #1: Before starting a new project with a client
   ────────────────────────────────────────────────────────
-  Draft an email to a client who is requesting a revision of the freelance work that has already been completed, but the revision is not within the scope of the original project. The email should explain the reasons for the additional cost and provide a quote for the revised work.
+  I'm about to start working on a new project with a client who has a very specific vision in mind. How can I ensure that I fully understand their requirements and expectations to deliver a high-quality outcome?
 
-
-  ========================================================
-  MARKETING STRATEGY
-  ========================================================
-
-  Prompt #1: When looking to expand into a new industry or niche
+  Prompt #2: When communicating project updates to clients
   ────────────────────────────────────────────────────────
-  Develop a marketing strategy for a freelance social media manager who wants to attract new clients in the healthcare industry. The strategy should include tactics for building a personal brand, creating valuable content, and leveraging LinkedIn for networking.
+  I need to communicate a project update to a client, but I'm not sure how to phrase it in a way that's clear and concise. Can you help me craft an email that effectively conveys the information and sets expectations?
 
-
-  ========================================================
-  INVOICING AND PAYMENT
-  ========================================================
-
-  Prompt #1: When billing a client for completed work
+  Prompt #3: When requesting feedback from clients
   ────────────────────────────────────────────────────────
-  Generate an invoice for a freelance consulting project that was completed over a period of three months, with a total of 100 hours worked at a rate of $100 per hour. The invoice should include a description of the services provided and the payment terms.
+  I've just finished working on a project and I want to request feedback from the client. Can you help me craft an email that asks for feedback in a way that's clear and actionable?
 
-
-  ========================================================
-  SKILL DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When looking to acquire new skills or improve existing ones
+  Prompt #4: When starting a new project with a client
   ────────────────────────────────────────────────────────
-  Create a learning plan for a freelance software developer who wants to improve their skills in machine learning and artificial intelligence. The plan should include online courses, books, and projects to work on over the next 6 months.
+  I've just started working with a new client and I want to establish clear communication channels. Can you help me create a communication plan that sets expectations and ensures smooth collaboration?
+
+  Prompt #5: When responding to client feedback
+  ────────────────────────────────────────────────────────
+  I've just received feedback from a client that I don't agree with. Can you help me craft a response that acknowledges the client's concerns while also explaining my perspective?
+
+  Prompt #6: When starting a new project with a client
+  ────────────────────────────────────────────────────────
+  I've just started working with a new client and I want to establish clear expectations around communication. Can you help me create a communication plan that sets boundaries and ensures smooth collaboration?
+
+  Prompt #7: When responding to client complaints
+  ────────────────────────────────────────────────────────
+  I've just received a complaint from a client and I want to respond in a way that resolves the issue. Can you help me craft a response that acknowledges the client's concerns and provides a solution?
 
 
   ========================================================
   PROJECT MANAGEMENT
   ========================================================
 
-  Prompt #1: When managing a new project from start to finish
+  Prompt #1: When managing multiple projects simultaneously
   ────────────────────────────────────────────────────────
-  Describe the steps involved in managing a freelance project from start to finish, including project initiation, planning, execution, and closure. The project is a website redesign for a small business.
+  I have multiple projects with upcoming deadlines and limited resources. Can you help me prioritize tasks and create a schedule to ensure I meet all the deadlines and deliver quality work?
 
-
-  ========================================================
-  CLIENT ONBOARDING
-  ========================================================
-
-  Prompt #1: When starting a new project with a client
+  Prompt #2: When managing complex projects
   ────────────────────────────────────────────────────────
-  Develop a client onboarding process for a freelance content writer that includes a welcome packet, a discovery call, and a project kickoff meeting. The process should ensure that the client feels informed and supported throughout the project.
+  I'm working on a complex project with multiple stakeholders and dependencies. Can you help me create a project plan and timeline that takes into account all the different factors and ensures successful delivery?
 
-
-  ========================================================
-  PRICING STRATEGY
-  ========================================================
-
-  Prompt #1: When determining prices for services
+  Prompt #3: When managing a team of freelancers
   ────────────────────────────────────────────────────────
-  Research and analyze the pricing strategies of freelance photographers in the wedding industry, including package deals, hourly rates, and retainer fees. The goal is to determine a competitive pricing strategy for a freelance photographer.
+  I'm working on a project that requires collaboration with other freelancers or contractors. Can you provide guidance on how to manage a team of freelancers, including communication, task assignment, and conflict resolution?
 
-
-  ========================================================
-  TAX AND ACCOUNTING
-  ========================================================
-
-  Prompt #1: When navigating tax obligations as a freelancer
+  Prompt #4: When managing project risk
   ────────────────────────────────────────────────────────
-  Explain the tax obligations of a freelance writer who works as a sole proprietor, including the need to file a Schedule C and pay self-employment taxes. The writer has a annual income of $50,000 and business expenses of $10,000.
+  I'm working on a project with a tight deadline and I'm concerned about meeting the client's expectations. Can you provide guidance on how to manage project risk, including identifying potential risks and developing mitigation strategies?
 
-
-  ========================================================
-  NETWORKING
-  ========================================================
-
-  Prompt #1: When attending industry events or conferences
+  Prompt #5: When managing cross-functional teams
   ────────────────────────────────────────────────────────
-  Write a script for a freelance videographer to use when attending a networking event, including an elevator pitch, questions to ask potential clients, and follow-up strategies after the event.
+  I'm working on a project that requires me to collaborate with other teams or departments. Can you provide guidance on how to manage cross-functional teams, including communication, coordination, and conflict resolution?
 
-
-  ========================================================
-  PORTFOLIO DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When creating or updating a portfolio
+  Prompt #6: When managing multiple stakeholders
   ────────────────────────────────────────────────────────
-  Create a plan for a freelance graphic designer to develop a portfolio that showcases their skills and experience, including the types of projects to include, the design of the portfolio, and the platforms to use for showcasing the work.
+  I'm working on a project that requires me to manage multiple stakeholders. Can you provide guidance on how to manage stakeholder expectations, including communication, coordination, and conflict resolution?
 
-
-  ========================================================
-  RISK MANAGEMENT
-  ========================================================
-
-  Prompt #1: When assessing potential risks in a project
+  Prompt #7: When managing a project budget
   ────────────────────────────────────────────────────────
-  Identify potential risks associated with a freelance project, such as scope creep, late payments, or intellectual property disputes, and describe strategies for mitigating these risks, including contract clauses, communication plans, and contingency funds.
+  I'm working on a project that requires me to manage a budget. Can you provide guidance on how to create a budget, including estimating costs, tracking expenses, and managing financial risk?
 
 
   ========================================================
-  PERSONAL BRANDING
+  MARKETING AND SELF-PROMOTION
   ========================================================
 
-  Prompt #1: When establishing or strengthening a personal brand
+  Prompt #1: When looking to expand your client base
   ────────────────────────────────────────────────────────
-  Develop a personal branding strategy for a freelance consultant, including a unique value proposition, a consistent visual identity, and a content marketing plan that showcases their expertise and thought leadership.
+  As a freelancer, I'm struggling to stand out in a competitive market. What are some effective strategies for creating a strong personal brand and attracting new clients?
 
-
-  ========================================================
-  BUSINESS REGISTRATION
-  ========================================================
-
-  Prompt #1: When formalizing a freelance business
+  Prompt #2: When looking to diversify your services
   ────────────────────────────────────────────────────────
-  Explain the steps involved in registering a freelance business as a limited liability company (LLC), including choosing a business name, filing articles of organization, and obtaining necessary licenses and permits.
+  I want to expand my services to offer more value to my clients. What are some strategies for identifying new opportunities and developing a plan to offer additional services?
 
-
-  ========================================================
-  INSURANCE AND BENEFITS
-  ========================================================
-
-  Prompt #1: When seeking health insurance as a freelancer
+  Prompt #3: When creating a professional website
   ────────────────────────────────────────────────────────
-  Research and compare health insurance options for freelancers, including individual plans, professional association plans, and spouse or partner plans. The goal is to determine the most cost-effective and comprehensive option for a freelance writer.
+  I want to create a strong online presence as a freelancer. What are some effective strategies for building a professional website, including design, content, and search engine optimization?
 
-
-  ========================================================
-  RETAINER AGREEMENTS
-  ========================================================
-
-  Prompt #1: When establishing a retainer-based relationship with a client
+  Prompt #4: When promoting your services on social media
   ────────────────────────────────────────────────────────
-  Draft a retainer agreement for a freelance marketing consultant who will provide ongoing services to a client, including a description of the services, the scope of work, and the payment terms.
+  I want to leverage social media to promote my freelance services. What are some effective strategies for building a strong social media presence, including content creation, engagement, and advertising?
 
-
-  ========================================================
-  SCOPE OF WORK
-  ========================================================
-
-  Prompt #1: When defining the scope of a project
+  Prompt #5: When creating a lead magnet
   ────────────────────────────────────────────────────────
-  Define the scope of work for a freelance project, including the specific tasks, deliverables, and timelines. The project involves creating a social media campaign for a new product launch.
+  I want to create a lead magnet to attract new clients. What are some effective strategies for creating a valuable resource, including content creation, design, and promotion?
 
-
-  ========================================================
-  CLIENT FEEDBACK
-  ========================================================
-
-  Prompt #1: When seeking feedback from clients
+  Prompt #6: When building a professional network
   ────────────────────────────────────────────────────────
-  Develop a process for collecting and incorporating client feedback into a freelance project, including surveys, interviews, and usability testing. The goal is to ensure that the final product meets the client's needs and expectations.
+  I want to create a strong networking strategy as a freelancer. What are some effective strategies for building relationships, including attending events, joining groups, and engaging with other professionals?
 
-
-  ========================================================
-  BUSINESS PLANNING
-  ========================================================
-
-  Prompt #1: When creating or updating a business plan
+  Prompt #7: When building an email list
   ────────────────────────────────────────────────────────
-  Create a business plan for a freelance writing business, including a mission statement, market analysis, marketing strategy, and financial projections. The plan should outline the goals and objectives of the business over the next 12 months.
+  I want to create a strong email marketing strategy as a freelancer. What are some effective strategies for building an email list, including content creation, opt-in forms, and email campaigns?
 
 
   ========================================================
-  CONTRACT NEGOTIATION
+  TIME MANAGEMENT AND PRODUCTIVITY
   ========================================================
 
-  Prompt #1: When negotiating a contract with a client
+  Prompt #1: When struggling to stay focused and productive
   ────────────────────────────────────────────────────────
-  Negotiate a contract for a freelance project, including the scope of work, payment terms, and intellectual property rights. The client is requesting a discount on the original quote, and the freelancer needs to balance the need for the project with the need to maintain profitability.
+  I find myself spending too much time on non-essential tasks and not enough time on billable work. Can you provide tips and techniques for minimizing distractions and maximizing productivity as a freelancer?
 
-
-  ========================================================
-  PROJECT CLOSURE
-  ========================================================
-
-  Prompt #1: When completing a project and ensuring client satisfaction
+  Prompt #2: When experiencing burnout or overwhelm
   ────────────────────────────────────────────────────────
-  Describe the steps involved in closing a freelance project, including delivering the final product, obtaining client feedback, and evaluating the project's success. The project is a website redesign for a small business.
+  I'm feeling burned out and overwhelmed with my current workload. Can you provide advice on how to manage my workload, prioritize self-care, and maintain a healthy work-life balance as a freelancer?
 
-
-  ========================================================
-  TIME TRACKING
-  ========================================================
-
-  Prompt #1: When tracking time spent on projects
+  Prompt #3: When managing paperwork and administrative tasks
   ────────────────────────────────────────────────────────
-  Develop a system for tracking time spent on freelance projects, including the use of time-tracking software, spreadsheets, or paper logs. The goal is to accurately record time spent on tasks and projects to facilitate billing and project management.
+  I'm struggling to stay organized and manage my paperwork as a freelancer. Can you recommend tools and systems for managing invoices, contracts, and other important documents?
 
-
-  ========================================================
-  INVOICE DISPUTES
-  ========================================================
-
-  Prompt #1: When dealing with a disputed invoice
+  Prompt #4: When maintaining a healthy work-life balance
   ────────────────────────────────────────────────────────
-  Resolve an invoice dispute with a client who is refusing to pay for services rendered, including strategies for communication, negotiation, and potential escalation to a collections agency or small claims court.
+  I'm struggling to balance my work and personal life as a freelancer. Can you provide tips and techniques for maintaining a healthy work-life balance, including setting boundaries and prioritizing self-care?
 
-
-  ========================================================
-  CLIENT RELATIONSHIP MANAGEMENT
-  ========================================================
-
-  Prompt #1: When managing ongoing client relationships
+  Prompt #5: When staying motivated and focused
   ────────────────────────────────────────────────────────
-  Develop a plan for managing client relationships, including regular check-ins, progress updates, and feedback sessions. The goal is to build trust and ensure client satisfaction throughout the project.
+  I'm struggling to stay motivated and focused as a freelancer. Can you provide tips and techniques for boosting motivation, including goal-setting, accountability, and reward systems?
 
-
-  ========================================================
-  PROJECT PLANNING
-  ========================================================
-
-  Prompt #1: When planning a new project
+  Prompt #6: When prioritizing tasks and managing time
   ────────────────────────────────────────────────────────
-  Create a project plan for a freelance project, including a detailed timeline, budget, and resource allocation. The project involves developing a mobile app for a startup.
+  I'm struggling to prioritize my tasks and manage my time effectively as a freelancer. Can you provide tips and techniques for prioritizing tasks, including goal-setting, time-blocking, and focus-enhancing strategies?
 
-
-  ========================================================
-  MARKETING MATERIALS
-  ========================================================
-
-  Prompt #1: When creating or updating marketing materials
+  Prompt #7: When managing digital files
   ────────────────────────────────────────────────────────
-  Develop a set of marketing materials for a freelance business, including a website, business cards, and social media profiles. The goal is to establish a consistent brand identity and attract new clients.
+  I'm struggling to stay organized and manage my digital files as a freelancer. Can you recommend tools and systems for managing digital files, including cloud storage, file naming, and backup strategies?
 
 
   ========================================================
-  FINANCIAL MANAGEMENT
+  CONTRACT AND AGREEMENT
   ========================================================
 
-  Prompt #1: When managing the finances of a freelance business
+  Prompt #1: Before signing a contract with a client
   ────────────────────────────────────────────────────────
-  Explain the financial management strategies for a freelance business, including budgeting, invoicing, and tax planning. The goal is to maintain a stable cash flow and ensure the long-term viability of the business.
+  I'm about to sign a contract with a new client and I want to make sure I understand all the terms and conditions. Can you review the contract and highlight any potential red flags or areas for negotiation?
 
-
-  ========================================================
-  COMMUNICATION PLAN
-  ========================================================
-
-  Prompt #1: When managing communication on a project
+  Prompt #2: When working with clients who require non-disclosure agreements
   ────────────────────────────────────────────────────────
-  Develop a communication plan for a freelance project, including the channels, frequency, and content of communication with the client and stakeholders. The project involves a team of freelancers working on a large-scale marketing campaign.
+  I'm considering working with a new client who has a non-disclosure agreement in place. What are the key terms and conditions I should be aware of, and how can I negotiate the agreement to protect my interests?
 
-
-  ========================================================
-  RISK ASSESSMENT
-  ========================================================
-
-  Prompt #1: When assessing potential risks in a project
+  Prompt #3: When negotiating contracts with intellectual property clauses
   ────────────────────────────────────────────────────────
-  Conduct a risk assessment for a freelance project, including identifying potential risks, evaluating their likelihood and impact, and developing strategies for mitigation. The project involves working with a new client in a foreign country.
+  I'm about to sign a contract with a client that includes a clause about intellectual property ownership. Can you explain the implications of this clause and how I can negotiate it to protect my rights?
 
-
-  ========================================================
-  BUSINESS GROWTH
-  ========================================================
-
-  Prompt #1: When looking to grow or expand a freelance business
+  Prompt #4: When negotiating contracts with non-compete clauses
   ────────────────────────────────────────────────────────
-  Develop a plan for growing a freelance business, including strategies for increasing revenue, expanding services, and attracting new clients. The goal is to increase the business's profitability and sustainability over the next 12 months.
+  I'm considering working with a client who has a contract that includes a non-compete clause. Can you explain the implications of this clause and how I can negotiate it to protect my interests?
 
-
-  ========================================================
-  CLIENT ACQUISITION
-  ========================================================
-
-  Prompt #1: When seeking to acquire new clients
+  Prompt #5: When negotiating contracts with confidentiality clauses
   ────────────────────────────────────────────────────────
-  Create a plan for acquiring new clients for a freelance business, including strategies for networking, marketing, and sales. The goal is to attract a minimum of five new clients within the next six months.
+  I'm about to sign a contract with a client that includes a confidentiality clause. Can you explain the implications of this clause and how I can negotiate it to protect my interests?
 
-
-  ========================================================
-  PROJECT COORDINATION
-  ========================================================
-
-  Prompt #1: When managing a complex project with multiple stakeholders
+  Prompt #6: When negotiating contracts with termination clauses
   ────────────────────────────────────────────────────────
-  Coordinate a freelance project that involves multiple stakeholders, including the client, designers, developers, and project managers. The project involves launching a new product and requires careful planning and execution.
+  I'm considering working with a client who has a contract that includes a termination clause. Can you explain the implications of this clause and how I can negotiate it to protect my interests?
 
-
-  ========================================================
-  FREELANCE PLATFORMS
-  ========================================================
-
-  Prompt #1: When evaluating freelance platforms for finding work
+  Prompt #7: When negotiating contracts with dispute resolution clauses
   ────────────────────────────────────────────────────────
-  Research and compare freelance platforms, including Upwork, Fiverr, and Freelancer, in terms of their fees, features, and client bases. The goal is to determine the most suitable platform for a freelance writer looking to find new clients.
+  I'm about to sign a contract with a client that includes a dispute resolution clause. Can you explain the implications of this clause and how I can negotiate it to protect my interests?
 
 
   ========================================================
-  CLIENT EDUCATION
+  INVOICING AND PAYMENT
   ========================================================
 
-  Prompt #1: When onboarding new clients
+  Prompt #1: When experiencing payment issues with a client
   ────────────────────────────────────────────────────────
-  Develop a plan for educating clients on the freelance process, including the scope of work, timelines, and payment terms. The goal is to ensure that clients have a clear understanding of the project and their role in its success.
+  I'm having trouble getting paid on time by one of my clients. What are some strategies for creating clear and effective invoices, and how can I follow up with clients to ensure timely payment?
 
-
-  ========================================================
-  BUSINESS CONTINUITY
-  ========================================================
-
-  Prompt #1: When preparing for unexpected events or disasters
+  Prompt #2: When determining your pricing structure
   ────────────────────────────────────────────────────────
-  Create a plan for ensuring business continuity in the event of an emergency or disaster, including strategies for backup systems, communication, and client support. The goal is to minimize downtime and ensure the continued operation of the freelance business.
+  I'm having trouble determining my hourly rate as a freelancer. Can you help me calculate my rate based on my expenses, experience, and the value I bring to clients?
 
-
-  ========================================================
-  PROFESSIONAL DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When seeking to improve skills or stay current with industry developments
+  Prompt #3: When managing finances as a freelancer
   ────────────────────────────────────────────────────────
-  Develop a plan for ongoing professional development as a freelancer, including attending conferences, workshops, and online courses. The goal is to stay up-to-date with industry trends and best practices and maintain a competitive edge.
+  I'm experiencing cash flow problems as a freelancer. Can you provide advice on how to manage my finances, including budgeting, saving, and investing?
+
+  Prompt #4: When resolving invoice disputes with clients
+  ────────────────────────────────────────────────────────
+  I'm having trouble getting paid by a client who is disputing the invoice. Can you provide guidance on how to resolve the dispute, including communication strategies and potential next steps?
+
+  Prompt #5: When determining payment terms
+  ────────────────────────────────────────────────────────
+  I'm having trouble determining the best payment terms for my freelance business. Can you provide guidance on how to set payment terms, including invoicing, payment schedules, and late fees?
+
+  Prompt #6: When managing expenses as a freelancer
+  ────────────────────────────────────────────────────────
+  I'm having trouble managing my expenses as a freelancer. Can you provide guidance on how to track expenses, including categorization, recording, and reimbursement?
 
 ============================================================
   Thank you for your purchase!
