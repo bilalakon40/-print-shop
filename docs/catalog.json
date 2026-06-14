@@ -1,18 +1,26 @@
 [
   {
-    "title": "Freelancer's ChatGPT Prompt Kit",
-    "niche": "Freelancing",
-    "price": 14,
-    "prompts_count": 36,
-    "description": "40 essential ChatGPT prompts every freelancer needs. Write winning proposals, professional emails, client contracts, portfolio descriptions, and social proof content in half the time.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/fdbuy"
+    "title": "ChatGPT Prompts for Email Marketing",
+    "niche": "Email Marketing",
+    "price": 9,
+    "prompts_count": 24,
+    "description": "Email is still the highest-ROI marketing channel. This pack of 25 prompts helps you write welcome sequences, sales emails, newsletters, and follow-ups that actually convert.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/iltug"
   },
   {
-    "title": "Content Creator AI Prompt Pack",
-    "niche": "Content Creation",
+    "title": "Real Estate AI Prompt Bundle",
+    "niche": "Real Estate",
+    "price": 12,
+    "prompts_count": 25,
+    "description": "Stand out in a competitive market. This bundle of 25 ChatGPT prompts helps agents write compelling listing descriptions, social media posts, email scripts, and client communication templates.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/zjzlqf"
+  },
+  {
+    "title": "ChatGPT Prompts for AI Art Generation",
+    "niche": "AI Art Generation",
     "price": 9,
-    "prompts_count": 35,
-    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/xmpbv"
+    "prompts_count": 29,
+    "description": "This prompt pack helps artists and designers generate unique and stunning AI-generated art, from abstract patterns to realistic portraits, using ChatGPT's advanced language capabilities. With these 30 expert-crafted prompts, you'll be able to unlock new levels of creativity and produce breathtaking art that showcases your individual style.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/tfmgrr"
   }
 ]
