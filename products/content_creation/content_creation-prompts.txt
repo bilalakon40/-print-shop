@@ -3,8 +3,8 @@
   Never run out of content ideas again
 ============================================================
 
-Included Prompts: 35
-Generated: June 13, 2026
+Included Prompts: 34
+Generated: June 16, 2026
 
 ============================================================
   HOW TO USE
@@ -21,318 +21,309 @@ Generated: June 13, 2026
 
 
   ========================================================
-  BLOG WRITING
-  ========================================================
-
-  Prompt #1: When creating content for a wellness or self-improvement blog
-  ────────────────────────────────────────────────────────
-  Write a 500-word blog post about the benefits of meditation for reducing stress and anxiety, including at least three scientific studies to support the claims, and conclude with a call-to-action for readers to start their own meditation practice.
-
-
-  ========================================================
   SOCIAL MEDIA
   ========================================================
 
-  Prompt #1: When planning social media content for a fashion brand
+  Prompt #1: When launching a new brand or product
   ────────────────────────────────────────────────────────
-  Develop a social media content calendar for a fashion brand, including posts for Facebook, Instagram, and Twitter, and focusing on promoting the brand's new summer collection, with at least one post per day for the next two weeks.
+  Create a comprehensive social media strategy for a new fashion brand, including a content calendar, audience engagement plan, and paid advertising approach, targeting millennials and Gen Z audiences on Instagram, TikTok, and Twitter.
+
+
+  ========================================================
+  BLOG WRITING
+  ========================================================
+
+  Prompt #1: When creating health and wellness content
+  ────────────────────────────────────────────────────────
+  Write a 500-word blog post on the benefits of meditation for reducing stress and anxiety, including scientific research, personal anecdotes, and actionable tips for incorporating meditation into daily life, optimized for SEO with relevant keywords and meta descriptions.
 
 
   ========================================================
   VIDEO SCRIPTING
   ========================================================
 
-  Prompt #1: When creating content for a YouTube channel about photography
+  Prompt #1: When introducing a new product or service
   ────────────────────────────────────────────────────────
-  Write a script for a 10-minute YouTube video about the history of photography, including at least five key milestones and featuring interviews with two photography experts, and ensure the script is engaging and easy to follow.
-
-
-  ========================================================
-  EMAIL MARKETING
-  ========================================================
-
-  Prompt #1: When creating email marketing content for an online course
-  ────────────────────────────────────────────────────────
-  Create a welcome email sequence for a new online course on digital marketing, including three emails that introduce the course, provide tips and resources, and encourage subscribers to enroll, with a focus on building trust and establishing the course as an authority in the field.
-
-
-  ========================================================
-  PODCAST PRODUCTION
-  ========================================================
-
-  Prompt #1: When producing a podcast episode on sustainable living
-  ────────────────────────────────────────────────────────
-  Develop a podcast episode outline on the topic of sustainable living, including an introduction, interview with an expert, and conclusion with actionable tips, and ensure the outline is well-structured and engaging for listeners.
+  Develop a script for a 2-minute explainer video on the features and benefits of a new software tool for project management, including animated visuals, voiceover narration, and a clear call-to-action, targeting business owners and team leaders.
 
 
   ========================================================
   INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: When collaborating with influencers for a skincare brand
+  Prompt #1: When seeking brand partnerships and collaborations
   ────────────────────────────────────────────────────────
-  Write a collaboration proposal for a beauty influencer to partner with a skincare brand, including a brief introduction, overview of the collaboration, and specifics on the content to be created, such as Instagram posts and YouTube videos, and ensure the proposal is professional and persuasive.
+  Research and identify top social media influencers in the beauty and cosmetics industry, with a focus on sustainable and eco-friendly brands, and create a outreach email template and collaboration proposal for partnering with these influencers on sponsored content and product reviews.
 
 
   ========================================================
   CONTENT OPTIMIZATION
   ========================================================
 
-  Prompt #1: When optimizing existing content for better search engine rankings
+  Prompt #1: When auditing and improving existing website content
   ────────────────────────────────────────────────────────
-  Analyze the SEO performance of a blog post about fitness tips for beginners and provide recommendations for improvement, including keyword research, meta tags, and internal linking, with the goal of increasing the post's search engine ranking and driving more organic traffic.
+  Analyze the current website content of an e-commerce company and provide recommendations for improving user experience, search engine rankings, and conversion rates, including suggestions for rewriting product descriptions, optimizing images, and streamlining navigation.
 
 
   ========================================================
-  E-BOOK CREATION
+  PODCAST PRODUCTION
   ========================================================
 
-  Prompt #1: When creating an e-book on social media marketing
+  Prompt #1: When creating podcast content for business or educational audiences
   ────────────────────────────────────────────────────────
-  Create an outline for a comprehensive e-book on the topic of social media marketing for small businesses, including at least five chapters and covering topics such as setting up social media accounts, creating engaging content, and measuring ROI, and ensure the outline is well-organized and easy to follow.
+  Develop a concept and outline for a 30-minute podcast episode on the topic of entrepreneurship and small business management, featuring an interview with a successful startup founder, and including introductory music, segment transitions, and a closing call-to-action.
 
 
   ========================================================
-  CASE STUDY WRITING
+  EMAIL MARKETING
   ========================================================
 
-  Prompt #1: When creating content for a non-profit organization
+  Prompt #1: When onboarding new subscribers or customers
   ────────────────────────────────────────────────────────
-  Write a case study about a successful social media campaign for a non-profit organization, including an overview of the campaign, its goals and objectives, and the results achieved, with a focus on highlighting the impact and lessons learned from the campaign.
+  Create a welcome email sequence for new subscribers to a newsletter on personal finance and investing, including a series of automated emails with introductory content, educational resources, and exclusive promotions, designed to build trust and encourage engagement.
 
 
   ========================================================
-  COURSE CREATION
+  SEO CONTENT
   ========================================================
 
-  Prompt #1: When creating an online course on graphic design
+  Prompt #1: When creating informative and authoritative content
   ────────────────────────────────────────────────────────
-  Develop a course outline for an online course on graphic design, including at least six modules and covering topics such as design principles, color theory, and software skills, and ensure the outline is comprehensive and suitable for beginners.
+  Write a 1000-word article on the topic of digital marketing trends for 2024, including in-depth analysis of industry developments, expert insights, and actionable tips for businesses and marketers, optimized for SEO with relevant keywords, meta descriptions, and internal linking.
 
 
   ========================================================
-  WHITEPAPER WRITING
+  BRAND STORYTELLING
   ========================================================
 
-  Prompt #1: When creating content for a tech company
+  Prompt #1: When crafting a brand identity or mission statement
   ────────────────────────────────────────────────────────
-  Write a whitepaper on the topic of blockchain technology and its applications in supply chain management, including an introduction, overview of the current state of the industry, and analysis of the benefits and challenges of implementing blockchain solutions, with a focus on providing a comprehensive and authoritative guide.
+  Develop a brand narrative and messaging framework for a non-profit organization focused on environmental conservation, including a mission statement, value proposition, and key messaging pillars, designed to inspire and engage supporters and donors.
 
 
   ========================================================
-  INTERVIEW PREPARATION
+  CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: When preparing for an interview with a thought leader
+  Prompt #1: When breathing new life into existing content
   ────────────────────────────────────────────────────────
-  Prepare a list of questions for an interview with a thought leader in the field of artificial intelligence, including questions about their background, current projects, and predictions for the future of AI, and ensure the questions are insightful and relevant to the topic.
+  Take an existing blog post on the topic of productivity and time management, and repurpose it into a series of social media posts, including Twitter threads, Instagram stories, and Facebook updates, each with a unique tone and format, and optimized for engagement and sharing.
 
 
   ========================================================
-  PRESS RELEASE WRITING
+  USER-GENERATED CONTENT
   ========================================================
 
-  Prompt #1: When announcing a new product launch
+  Prompt #1: When launching a new product or promotion
   ────────────────────────────────────────────────────────
-  Write a press release announcing the launch of a new product, including a brief introduction, overview of the product and its features, and quotes from the company's CEO, and ensure the press release is well-structured and engaging for media outlets.
-
-
-  ========================================================
-  PRODUCT DESCRIPTION WRITING
-  ========================================================
-
-  Prompt #1: When creating product descriptions for an e-commerce website
-  ────────────────────────────────────────────────────────
-  Write a product description for a new smartwatch, including its features, technical specifications, and benefits, with a focus on highlighting the product's unique selling points and appealing to the target audience.
-
-
-  ========================================================
-  SALES PAGE WRITING
-  ========================================================
-
-  Prompt #1: When creating a sales page for a digital marketing course
-  ────────────────────────────────────────────────────────
-  Write a sales page for a digital marketing course, including a headline, introduction, overview of the course, and call-to-action, with a focus on persuading visitors to enroll in the course and providing a clear and compelling value proposition.
-
-
-  ========================================================
-  WEBINAR SCRIPTING
-  ========================================================
-
-  Prompt #1: When creating content for a webinar on email marketing automation
-  ────────────────────────────────────────────────────────
-  Write a script for a 60-minute webinar on the topic of email marketing automation, including an introduction, overview of the topic, and live demonstration of automation tools, and ensure the script is engaging and easy to follow.
-
-
-  ========================================================
-  SPEECH WRITING
-  ========================================================
-
-  Prompt #1: When creating content for a conference speech
-  ────────────────────────────────────────────────────────
-  Write a speech for a conference on the topic of innovation and entrepreneurship, including an introduction, overview of the current state of the industry, and call-to-action for attendees to take action, with a focus on inspiring and motivating the audience.
-
-
-  ========================================================
-  GRANT WRITING
-  ========================================================
-
-  Prompt #1: When applying for funding for a non-profit organization
-  ────────────────────────────────────────────────────────
-  Write a grant proposal for a non-profit organization to fund a community development project, including an introduction, overview of the project, and budget breakdown, with a focus on demonstrating the project's impact and providing a clear and compelling case for funding.
-
-
-  ========================================================
-  RESEARCH REPORT WRITING
-  ========================================================
-
-  Prompt #1: When creating content for a research institution
-  ────────────────────────────────────────────────────────
-  Write a research report on the topic of climate change and its impact on global food systems, including an introduction, literature review, and analysis of the findings, with a focus on providing a comprehensive and authoritative guide to the topic.
-
-
-  ========================================================
-  AWARDS SUBMISSION
-  ========================================================
-
-  Prompt #1: When submitting a marketing campaign for an award
-  ────────────────────────────────────────────────────────
-  Write a submission for a marketing award, including an overview of the campaign, its goals and objectives, and the results achieved, with a focus on highlighting the campaign's impact and demonstrating its effectiveness.
-
-
-  ========================================================
-  THOUGHT LEADERSHIP
-  ========================================================
-
-  Prompt #1: When creating content for a business leadership blog
-  ────────────────────────────────────────────────────────
-  Write a thought leadership piece on the topic of the future of work and the impact of automation on the job market, including an introduction, analysis of the current trends, and predictions for the future, with a focus on providing a unique and insightful perspective on the topic.
-
-
-  ========================================================
-  CUSTOMER TESTIMONIAL
-  ========================================================
-
-  Prompt #1: When creating customer testimonials for a software company
-  ────────────────────────────────────────────────────────
-  Write a customer testimonial for a software company, including a brief introduction, overview of the customer's experience with the product, and quote from the customer, with a focus on highlighting the product's benefits and demonstrating its value to potential customers.
-
-
-  ========================================================
-  EVENT PLANNING
-  ========================================================
-
-  Prompt #1: When planning a corporate event
-  ────────────────────────────────────────────────────────
-  Develop a plan for a corporate event, including a brief introduction, overview of the event, and logistics, with a focus on ensuring the event is well-organized and provides a positive experience for attendees.
+  Design a campaign to encourage and incentivize customers to create and share user-generated content on social media, featuring a new product launch, including a branded hashtag, contest rules, and rewards for participation, aimed at increasing brand awareness and social proof.
 
 
   ========================================================
   CONTENT CALENDAR
   ========================================================
 
-  Prompt #1: When planning content for a fashion blog
+  Prompt #1: When planning and organizing content in advance
   ────────────────────────────────────────────────────────
-  Create a content calendar for a fashion blog, including posts for the next three months, with a focus on providing a mix of informative and engaging content and ensuring consistency and regularity of posting.
+  Create a 3-month content calendar for a fitness and wellness brand, including a mix of blog posts, social media posts, email newsletters, and video content, focused on seasonal themes, holidays, and trending topics, with a goal of increasing website traffic and engagement.
 
 
   ========================================================
-  SOCIAL MEDIA STRATEGY
+  COPYWRITING
   ========================================================
 
-  Prompt #1: When creating a social media strategy for a new restaurant
+  Prompt #1: When selling a product or service online
   ────────────────────────────────────────────────────────
-  Develop a social media strategy for a new restaurant, including an overview of the target audience, content plan, and engagement strategy, with a focus on increasing brand awareness and driving sales.
+  Write a sales page for a new online course on photography, including a compelling headline, introductory video, and detailed course outline, with a focus on highlighting the benefits, features, and testimonials from satisfied customers, designed to convert visitors into paying customers.
 
 
   ========================================================
-  INFLUENCER OUTREACH
+  ACCESSIBILITY CONTENT
   ========================================================
 
-  Prompt #1: When collaborating with social media influencers
+  Prompt #1: When creating content for diverse audiences
   ────────────────────────────────────────────────────────
-  Write an outreach email to a social media influencer to collaborate on a marketing campaign, including a brief introduction, overview of the campaign, and proposal for collaboration, with a focus on building a relationship and providing value to the influencer.
+  Develop a set of accessibility guidelines for creating inclusive and accessible content, including recommendations for alt text, closed captions, and screen reader compatibility, with a focus on ensuring equal access to information for users with disabilities.
+
+
+  ========================================================
+  VIRTUAL EVENT CONTENT
+  ========================================================
+
+  Prompt #1: When hosting online events or webinars
+  ────────────────────────────────────────────────────────
+  Create a content plan for a virtual conference on the topic of artificial intelligence and machine learning, including keynote presentations, panel discussions, and interactive workshops, with a focus on providing valuable insights, networking opportunities, and engaging experiences for attendees.
+
+
+  ========================================================
+  PERSONAL BRANDING
+  ========================================================
+
+  Prompt #1: When establishing a personal brand or reputation
+  ────────────────────────────────────────────────────────
+  Develop a personal branding strategy for a thought leader in the tech industry, including a unique value proposition, messaging framework, and content creation plan, with a focus on establishing credibility, building audience, and increasing visibility.
+
+
+  ========================================================
+  CONTENT ANALYTICS
+  ========================================================
+
+  Prompt #1: When measuring and optimizing content performance
+  ────────────────────────────────────────────────────────
+  Analyze the performance of a website's blog content using Google Analytics, including metrics such as page views, bounce rate, and conversion rate, and provide recommendations for improving content engagement, user experience, and SEO, based on data-driven insights.
+
+
+  ========================================================
+  E-LEARNING CONTENT
+  ========================================================
+
+  Prompt #1: When creating educational content for online courses
+  ────────────────────────────────────────────────────────
+  Create a comprehensive online course on the topic of digital marketing, including video lessons, interactive quizzes, and downloadable resources, with a focus on providing a structured learning experience, and assessing student progress and understanding.
+
+
+  ========================================================
+  CRISES COMMUNICATION
+  ========================================================
+
+  Prompt #1: When responding to a crisis or reputation threat
+  ────────────────────────────────────────────────────────
+  Develop a crisis communication plan for a company facing a public relations crisis, including a statement, social media response, and media outreach strategy, with a focus on transparency, empathy, and timely communication, aimed at mitigating reputational damage and maintaining stakeholder trust.
+
+
+  ========================================================
+  INFLUENCER CONTENT
+  ========================================================
+
+  Prompt #1: When partnering with influencers for product promotions
+  ────────────────────────────────────────────────────────
+  Collaborate with a social media influencer to create sponsored content for a new product launch, including a series of Instagram posts, stories, and reels, with a focus on showcasing the product's features, benefits, and unique selling points, and encouraging engagement and conversions.
+
+
+  ========================================================
+  PODCAST GUESTING
+  ========================================================
+
+  Prompt #1: When seeking podcast guest opportunities
+  ────────────────────────────────────────────────────────
+  Research and identify potential podcast guest opportunities for a thought leader in the marketing industry, including a list of relevant podcasts, pitch templates, and outreach emails, with a focus on securing interviews and promoting the thought leader's expertise.
+
+
+  ========================================================
+  CONTENT LOCALIZATION
+  ========================================================
+
+  Prompt #1: When expanding into new markets or regions
+  ────────────────────────────────────────────────────────
+  Adapt a website's content for a new international market, including translation, cultural adaptation, and localization of metadata, with a focus on ensuring relevance, accuracy, and consistency across languages and regions.
+
+
+  ========================================================
+  EMPLOYEE ADVOCACY
+  ========================================================
+
+  Prompt #1: When engaging employees as brand ambassadors
+  ────────────────────────────────────────────────────────
+  Develop an employee advocacy program for a company, including a content calendar, social media guidelines, and incentives for employee participation, with a focus on encouraging employees to share company news, values, and mission, and amplifying the brand's message.
+
+
+  ========================================================
+  CUSTOMER TESTIMONIALS
+  ========================================================
+
+  Prompt #1: When building social proof and customer trust
+  ────────────────────────────────────────────────────────
+  Create a campaign to collect and showcase customer testimonials, including a survey, interview questions, and case study templates, with a focus on highlighting customer success stories, and using social proof to build trust and credibility.
+
+
+  ========================================================
+  CONTENT MIGRATION
+  ========================================================
+
+  Prompt #1: When migrating or upgrading website platforms
+  ────────────────────────────────────────────────────────
+  Migrate a website's content from an old platform to a new one, including a content audit, migration plan, and post-migration testing, with a focus on preserving SEO rankings, ensuring content integrity, and minimizing downtime.
+
+
+  ========================================================
+  AUDIO CONTENT
+  ========================================================
+
+  Prompt #1: When creating content for audio platforms
+  ────────────────────────────────────────────────────────
+  Develop a strategy for creating and distributing audio content, including podcasts, audiobooks, and voice assistants, with a focus on providing accessible, engaging, and informative content for audiences on-the-go.
+
+
+  ========================================================
+  VISUAL CONTENT
+  ========================================================
+
+  Prompt #1: When creating visual content for social media
+  ────────────────────────────────────────────────────────
+  Create a visual content calendar for a social media campaign, including a mix of images, videos, and graphics, with a focus on showcasing products, telling brand stories, and engaging audiences through compelling visuals.
+
+
+  ========================================================
+  LIVE STREAMING
+  ========================================================
+
+  Prompt #1: When hosting live events or product launches
+  ────────────────────────────────────────────────────────
+  Plan and produce a live streaming event for a product launch, including a pre-event promotion, live broadcast, and post-event follow-up, with a focus on creating an immersive experience, encouraging audience participation, and driving conversions.
 
 
   ========================================================
   CONTENT AUDIT
   ========================================================
 
-  Prompt #1: When auditing content for a website
+  Prompt #1: When assessing and improving existing content
   ────────────────────────────────────────────────────────
-  Conduct a content audit for a website, including an analysis of the current content, identification of gaps and opportunities, and recommendations for improvement, with a focus on ensuring the content is high-quality, relevant, and aligned with the brand's goals.
+  Conduct a comprehensive content audit for a website, including an inventory of existing content, analysis of performance metrics, and recommendations for improvement, with a focus on identifying gaps, opportunities, and areas for optimization.
 
 
   ========================================================
-  SEO AUDIT
+  THOUGHT LEADERSHIP
   ========================================================
 
-  Prompt #1: When auditing SEO for an e-commerce website
+  Prompt #1: When establishing thought leadership and reputation
   ────────────────────────────────────────────────────────
-  Conduct an SEO audit for an e-commerce website, including an analysis of the website's technical SEO, on-page optimization, and link building, with a focus on identifying areas for improvement and providing recommendations to increase search engine rankings.
-
-
-  ========================================================
-  USER EXPERIENCE
-  ========================================================
-
-  Prompt #1: When creating a usability report for a new website
-  ────────────────────────────────────────────────────────
-  Write a usability report for a new website, including an introduction, overview of the user experience, and recommendations for improvement, with a focus on ensuring the website is intuitive, easy to use, and provides a positive experience for users.
-
-
-  ========================================================
-  ACCESSIBILITY GUIDE
-  ========================================================
-
-  Prompt #1: When creating an accessibility guide for a website
-  ────────────────────────────────────────────────────────
-  Create an accessibility guide for a website, including an introduction, overview of accessibility principles, and technical guidelines for implementation, with a focus on ensuring the website is accessible and usable for users with disabilities.
-
-
-  ========================================================
-  CONTENT STYLE GUIDE
-  ========================================================
-
-  Prompt #1: When creating a content style guide for a brand
-  ────────────────────────────────────────────────────────
-  Develop a content style guide for a brand, including an introduction, overview of the brand's tone and voice, and guidelines for writing and formatting content, with a focus on ensuring consistency and quality across all content channels.
-
-
-  ========================================================
-  BRAND VOICE
-  ========================================================
-
-  Prompt #1: When creating a brand voice guide for a company
-  ────────────────────────────────────────────────────────
-  Write a brand voice guide for a company, including an introduction, overview of the brand's personality, and guidelines for tone and language, with a focus on ensuring the brand's voice is consistent and authentic across all content channels.
-
-
-  ========================================================
-  TONE AND LANGUAGE
-  ========================================================
-
-  Prompt #1: When creating a tone and language guide for a website
-  ────────────────────────────────────────────────────────
-  Develop a tone and language guide for a website, including an introduction, overview of the tone and language, and guidelines for writing and editing content, with a focus on ensuring the tone and language are consistent and aligned with the brand's goals.
+  Develop a thought leadership strategy for a CEO or executive, including a content creation plan, speaking engagement opportunities, and media outreach, with a focus on establishing credibility, building reputation, and showcasing expertise.
 
 
   ========================================================
   CONTENT DISTRIBUTION
   ========================================================
 
-  Prompt #1: When distributing content for a blog post
+  Prompt #1: When promoting and distributing content
   ────────────────────────────────────────────────────────
-  Write a content distribution plan for a blog post, including an introduction, overview of the distribution channels, and strategy for promoting the content, with a focus on increasing the content's reach and engagement.
+  Create a content distribution plan for a blog post, including social media promotion, email newsletter, and paid advertising, with a focus on increasing reach, engagement, and conversions, and amplifying the content's impact.
 
 
   ========================================================
-  ANALYTICS REPORT
+  DIGITAL ASSET MANAGEMENT
   ========================================================
 
-  Prompt #1: When creating an analytics report for a website
+  Prompt #1: When managing and organizing digital assets
   ────────────────────────────────────────────────────────
-  Create an analytics report for a website, including an introduction, overview of the website's traffic and engagement, and analysis of the data, with a focus on providing insights and recommendations for improvement.
+  Develop a digital asset management system for a company, including a content repository, metadata standards, and access controls, with a focus on organizing, storing, and retrieving digital assets efficiently, and ensuring brand consistency.
+
+
+  ========================================================
+  CONTENT STRATEGY
+  ========================================================
+
+  Prompt #1: When launching a new product or service
+  ────────────────────────────────────────────────────────
+  Create a content strategy for a new product launch, including a content calendar, messaging framework, and distribution plan, with a focus on building awareness, generating interest, and driving conversions, and aligning with business goals and objectives.
+
+
+  ========================================================
+  MEASUREMENT AND EVALUATION
+  ========================================================
+
+  Prompt #1: When measuring and evaluating content performance
+  ────────────────────────────────────────────────────────
+  Develop a measurement and evaluation plan for a content marketing campaign, including key performance indicators, data collection methods, and analysis techniques, with a focus on assessing campaign effectiveness, identifying areas for improvement, and informing future content decisions.
 
 ============================================================
   Thank you for your purchase!
