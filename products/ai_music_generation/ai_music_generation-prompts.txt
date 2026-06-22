@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose like a pro with AI-powered music creation
+  Create stunning music tracks with AI
 ============================================================
 
-Included Prompts: 31
-Generated: June 21, 2026
+Included Prompts: 30
+Generated: June 22, 2026
 
 ============================================================
   HOW TO USE
@@ -24,279 +24,270 @@ Generated: June 21, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When generating a pop song from scratch
+  Prompt #1: When creating a soundtrack for a film or video game
   ────────────────────────────────────────────────────────
-  Create a melody for a pop song about heartbreak, using a mix of stepwise motion and leaps, and incorporating a repeating motif to convey a sense of longing. The melody should be catchy and memorable, with a range that suits a female vocalist.
+  Create a haunting melody for a film score using a combination of minor chords and a solo violin, with a tempo of 90 BPM and a time signature of 4/4. The melody should evoke a sense of longing and nostalgia, and should be at least 16 bars long.
 
 
   ========================================================
-  CHORD PROGRESSION
+  MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When composing a jazz ballad
+  Prompt #1: When producing music for a live performance or a music festival
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz standard, using a combination of extended chords and modal interchange to create a sense of tension and release. The progression should be suitable for a slow ballad, with a focus on minor and major seventh chords.
+  Compose a full-length electronic dance music track with a drop that features a synthesized lead sound and a driving beat, using a mix of major and minor chords to create tension and release. The track should be at least 5 minutes long and should include a build-up, a climax, and a resolution.
 
 
   ========================================================
-  LYRICS WRITING
+  LYRICS GENERATION
   ========================================================
 
-  Prompt #1: When creating a hip-hop song with a social message
+  Prompt #1: When writing a song for a pop artist or a musical theater production
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a hip-hop song about social justice, using a strong narrative voice and vivid imagery to convey a sense of urgency and passion. The lyrics should be structured around a clear verse-chorus-verse-chorus-bridge-chorus format, with a focus on storytelling and message.
-
-
-  ========================================================
-  MUSIC ARRANGEMENT
-  ========================================================
-
-  Prompt #1: When producing a rock song for a live performance
-  ────────────────────────────────────────────────────────
-  Create a full arrangement for a rock song, including a driving rhythm section, soaring guitar riffs, and a sweeping string section. The arrangement should build from a simple intro to a anthemic climax, with a focus on creating a sense of dynamics and contrast.
-
-
-  ========================================================
-  SOUND DESIGN
-  ========================================================
-
-  Prompt #1: When creating a synth lead for an electronic dance track
-  ────────────────────────────────────────────────────────
-  Design a unique sound for a synthesizer lead, using a combination of FM synthesis and filter modulation to create a bright, piercing tone with a sense of movement and energy. The sound should be suitable for a trance or techno track, with a focus on cutting through a dense mix.
+  Write a set of lyrics for a pop song about heartbreak and moving on, with a focus on storytelling and poetic language. The lyrics should be from the perspective of someone who has been hurt in a past relationship, but is now finding the strength to move forward and start anew.
 
 
   ========================================================
   MUSIC THEORY
   ========================================================
 
-  Prompt #1: When studying music theory or improvisation techniques
+  Prompt #1: When teaching music theory or composition to students
   ────────────────────────────────────────────────────────
-  Explain the concept of modal interchange in music theory, using examples from jazz and classical music to illustrate the different ways in which modes and scales can be used to create tension and release. The explanation should be clear and concise, with a focus on practical applications for composers and improvisers.
+  Explain the concept of modal interchange and how it can be used to add tension and interest to a musical composition. Provide examples of how to use modal interchange in a jazz or rock music context, and discuss the role of the musician in creating cohesive and engaging music.
 
 
   ========================================================
-  VOCAL PROCESSING
+  SOUND DESIGN
   ========================================================
 
-  Prompt #1: When mixing a pop song with a focus on vocal production
+  Prompt #1: When creating sound effects for a film or video game
   ────────────────────────────────────────────────────────
-  Create a vocal processing chain for a pop vocal, using a combination of compression, EQ, and reverb to create a bright, polished sound with a sense of depth and space. The chain should be suitable for a female vocalist, with a focus on enhancing the natural tone and expression of the voice.
-
-
-  ========================================================
-  DRUM PATTERN GENERATION
-  ========================================================
-
-  Prompt #1: When creating a funk or soul track with a live drummer
-  ────────────────────────────────────────────────────────
-  Generate a drum pattern for a funk song, using a combination of quarter notes and syncopated rhythms to create a sense of groove and energy. The pattern should be suitable for a live drummer, with a focus on creating a dynamic and engaging foundation for the rest of the instruments.
-
-
-  ========================================================
-  BASS LINE CREATION
-  ========================================================
-
-  Prompt #1: When producing a reggae or dub track with a focus on bass
-  ────────────────────────────────────────────────────────
-  Create a bass line for a reggae song, using a combination of quarter notes and off-beat rhythms to create a sense of forward motion and energy. The line should be simple and repetitive, with a focus on providing a solid foundation for the rest of the instruments.
-
-
-  ========================================================
-  ORCHESTRATION
-  ========================================================
-
-  Prompt #1: When scoring a film or television show
-  ────────────────────────────────────────────────────────
-  Orchestrate a string section for a film score, using a combination of violins, violas, and cellos to create a sense of drama and tension. The arrangement should be suitable for a dramatic or action sequence, with a focus on creating a sense of dynamics and contrast.
-
-
-  ========================================================
-  HARMONY GENERATION
-  ========================================================
-
-  Prompt #1: When producing a vocal group or choir
-  ────────────────────────────────────────────────────────
-  Generate a set of harmonies for a vocal group, using a combination of thirds, fifths, and sixths to create a sense of richness and depth. The harmonies should be suitable for a pop or rock song, with a focus on enhancing the natural tone and expression of the lead vocal.
-
-
-  ========================================================
-  RHYTHM GENERATION
-  ========================================================
-
-  Prompt #1: When producing a Latin jazz or salsa track
-  ────────────────────────────────────────────────────────
-  Create a rhythm section for a Latin jazz song, using a combination of congas, bongos, and timbales to create a sense of energy and drive. The rhythm should be complex and intricate, with a focus on creating a sense of forward motion and tension.
-
-
-  ========================================================
-  SOUNDTRACK COMPOSITION
-  ========================================================
-
-  Prompt #1: When scoring a video game or interactive experience
-  ────────────────────────────────────────────────────────
-  Compose a soundtrack for a video game, using a combination of electronic and orchestral elements to create a sense of atmosphere and immersion. The soundtrack should be suitable for a sci-fi or fantasy game, with a focus on creating a sense of wonder and exploration.
-
-
-  ========================================================
-  MUSIC REMIXING
-  ========================================================
-
-  Prompt #1: When remixing a classic track for a modern audience
-  ────────────────────────────────────────────────────────
-  Remix a classic disco track, using a combination of modern production techniques and vintage instrumentation to create a sense of nostalgia and energy. The remix should be suitable for a dance floor or club setting, with a focus on enhancing the original's sense of groove and momentum.
-
-
-  ========================================================
-  AUDIO SIGNAL PROCESSING
-  ========================================================
-
-  Prompt #1: When mixing a live sound system for a concert or festival
-  ────────────────────────────────────────────────────────
-  Design a signal processing chain for a live sound system, using a combination of EQ, compression, and limiting to create a clear and balanced sound with a sense of depth and clarity. The chain should be suitable for a large venue or festival setting, with a focus on enhancing the natural tone and expression of the instruments.
+  Design a unique sound effect for a science fiction film using a combination of field recordings and synthesized sounds. The sound effect should be used to create a sense of unease and tension, and should be at least 10 seconds long. Provide a detailed description of the sound design process and the techniques used to create the sound effect.
 
 
   ========================================================
   MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When producing an electronic dance track for a live performance
+  Prompt #1: When producing and mixing music for a recording artist or a label
   ────────────────────────────────────────────────────────
-  Produce a full track for an electronic dance music song, using a combination of synthesizers, drum machines, and effects processors to create a sense of energy and momentum. The track should be suitable for a club or festival setting, with a focus on creating a sense of tension and release.
+  Describe the process of mixing and mastering a hip-hop track, including the use of EQ, compression, and reverb to create a balanced and polished sound. Provide tips and tricks for getting the best possible sound, and discuss the importance of collaboration between the producer, engineer, and artist.
 
 
   ========================================================
-  INSTRUMENTAL ACCOMPANIMENT
+  CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When producing a singer-songwriter or folk track
+  Prompt #1: When writing a song for a folk or singer-songwriter artist
   ────────────────────────────────────────────────────────
-  Create an instrumental accompaniment for a singer-songwriter, using a combination of acoustic guitar, piano, and strings to create a sense of intimacy and emotion. The accompaniment should be simple and understated, with a focus on enhancing the natural tone and expression of the vocal.
+  Generate a chord progression for a folk song using a combination of acoustic guitar and piano, with a focus on creating a sense of intimacy and emotional depth. The chord progression should be at least 8 bars long and should include a mix of major and minor chords to create tension and release.
+
+
+  ========================================================
+  BEAT GENERATION
+  ========================================================
+
+  Prompt #1: When producing music for a hip-hop or rap artist
+  ────────────────────────────────────────────────────────
+  Create a drum pattern for a trap-influenced hip-hop track using a combination of 808 drums and percussion samples, with a focus on creating a sense of energy and momentum. The drum pattern should be at least 16 bars long and should include a mix of quarter notes and eighth notes to create a sense of complexity and interest.
+
+
+  ========================================================
+  HARMONY GENERATION
+  ========================================================
+
+  Prompt #1: When producing music for a pop or electronic artist
+  ────────────────────────────────────────────────────────
+  Generate a set of harmonies for a pop song using a combination of vocal processing and synthesizers, with a focus on creating a sense of width and depth. The harmonies should be at least 8 bars long and should include a mix of major and minor chords to create tension and release.
+
+
+  ========================================================
+  MUSIC ARRANGEMENT
+  ========================================================
+
+  Prompt #1: When arranging music for a classical or chamber music ensemble
+  ────────────────────────────────────────────────────────
+  Arrange a string quartet for a classical music piece using a combination of violins, violas, and cellos, with a focus on creating a sense of balance and cohesion. The arrangement should be at least 16 bars long and should include a mix of legato and staccato playing to create a sense of contrast and interest.
+
+
+  ========================================================
+  VOCAL PROCESSING
+  ========================================================
+
+  Prompt #1: When producing and mixing music for a recording artist or a label
+  ────────────────────────────────────────────────────────
+  Describe the process of processing vocals for a pop song, including the use of EQ, compression, and reverb to create a polished and professional sound. Provide tips and tricks for getting the best possible sound, and discuss the importance of collaboration between the producer, engineer, and artist.
+
+
+  ========================================================
+  INSTRUMENTATION
+  ========================================================
+
+  Prompt #1: When arranging music for a jazz or improvisational ensemble
+  ────────────────────────────────────────────────────────
+  Create a instrumental arrangement for a jazz song using a combination of saxophone, trumpet, and piano, with a focus on creating a sense of spontaneity and improvisation. The arrangement should be at least 16 bars long and should include a mix of solo and ensemble playing to create a sense of contrast and interest.
+
+
+  ========================================================
+  MUSIC STYLE TRANSFER
+  ========================================================
+
+  Prompt #1: When arranging music for a jazz or pop ensemble
+  ────────────────────────────────────────────────────────
+  Transfer the style of a classical music piece to a jazz or pop music context, using a combination of melodic and harmonic analysis to create a new and interesting interpretation. The transfer should be at least 16 bars long and should include a mix of major and minor chords to create tension and release.
+
+
+  ========================================================
+  AUDIO EFFECTS
+  ========================================================
+
+  Prompt #1: When creating sound effects for a video game or interactive media
+  ────────────────────────────────────────────────────────
+  Design a unique audio effect for a video game using a combination of field recordings and synthesized sounds, with a focus on creating a sense of immersion and engagement. The audio effect should be at least 10 seconds long and should include a mix of sound design and music elements to create a cohesive and engaging sound.
+
+
+  ========================================================
+  MUSIC REMIXING
+  ========================================================
+
+  Prompt #1: When producing music for a live performance or a music festival
+  ────────────────────────────────────────────────────────
+  Remix a electronic dance music track using a combination of drum machines and synthesizers, with a focus on creating a sense of energy and momentum. The remix should be at least 5 minutes long and should include a mix of build-ups, drops, and breaks to create a sense of tension and release.
 
 
   ========================================================
   CHORAL MUSIC
   ========================================================
 
-  Prompt #1: When composing a choral piece for a classical or liturgical setting
+  Prompt #1: When arranging music for a choir or vocal ensemble
   ────────────────────────────────────────────────────────
-  Compose a choral piece for a choir, using a combination of harmony and counterpoint to create a sense of richness and depth. The piece should be suitable for a classical or liturgical setting, with a focus on creating a sense of beauty and transcendence.
+  Arrange a choral piece for a choir using a combination of soprano, alto, tenor, and bass voices, with a focus on creating a sense of balance and harmony. The arrangement should be at least 16 bars long and should include a mix of legato and staccato singing to create a sense of contrast and interest.
 
 
   ========================================================
-  FILM SCORING
+  ORCHESTRATION
   ========================================================
 
-  Prompt #1: When scoring a film or television show
+  Prompt #1: When composing music for a film or video game
   ────────────────────────────────────────────────────────
-  Score a film scene, using a combination of orchestral and choral elements to create a sense of drama and tension. The score should be suitable for a dramatic or action sequence, with a focus on creating a sense of dynamics and contrast.
+  Orchestrate a film score using a combination of strings, woodwinds, and brass instruments, with a focus on creating a sense of drama and tension. The orchestration should be at least 16 bars long and should include a mix of melodic and harmonic elements to create a cohesive and engaging sound.
 
 
   ========================================================
-  JAZZ COMPOSITION
+  MUSIC SYNTHESIS
   ========================================================
 
-  Prompt #1: When composing a jazz piece for a small ensemble
+  Prompt #1: When creating sound effects for a film or video game
   ────────────────────────────────────────────────────────
-  Compose a jazz piece for a small ensemble, using a combination of improvisation and composition to create a sense of spontaneity and creativity. The piece should be suitable for a jazz club or festival setting, with a focus on creating a sense of energy and dialogue between the musicians.
+  Generate a synthesized sound for a science fiction film using a combination of analog and digital synthesis techniques, with a focus on creating a sense of otherworldliness and unease. The sound should be at least 10 seconds long and should include a mix of tonal and atonal elements to create a sense of complexity and interest.
 
 
   ========================================================
-  ELECTRONIC MUSIC PRODUCTION
+  RHYTHM GENERATION
   ========================================================
 
-  Prompt #1: When producing an ambient or chillout track
+  Prompt #1: When producing music for a world music or folk artist
   ────────────────────────────────────────────────────────
-  Produce a full track for an ambient electronic music song, using a combination of synthesizers, drum machines, and effects processors to create a sense of atmosphere and texture. The track should be suitable for a chillout or relaxation setting, with a focus on creating a sense of calm and serenity.
+  Create a rhythm pattern for a world music track using a combination of percussion instruments and electronic drum machines, with a focus on creating a sense of energy and momentum. The rhythm pattern should be at least 16 bars long and should include a mix of quarter notes and eighth notes to create a sense of complexity and interest.
 
 
   ========================================================
-  MUSIC EDITING
+  BASS LINE GENERATION
   ========================================================
 
-  Prompt #1: When editing a music track for a commercial or advertisement
+  Prompt #1: When producing music for a funk or R&B artist
   ────────────────────────────────────────────────────────
-  Edit a music track for a commercial or advertisement, using a combination of cutting, copying, and pasting to create a sense of energy and momentum. The edit should be suitable for a fast-paced and attention-grabbing commercial, with a focus on creating a sense of excitement and interest.
+  Generate a bass line for a funk music track using a combination of electric bass and synthesizers, with a focus on creating a sense of groove and momentum. The bass line should be at least 16 bars long and should include a mix of quarter notes and eighth notes to create a sense of complexity and interest.
 
 
   ========================================================
-  LIVE PERFORMANCE
+  PERCUSSION GENERATION
   ========================================================
 
-  Prompt #1: When setting up a live performance for a rock band
+  Prompt #1: When producing music for a Latin or world music artist
   ────────────────────────────────────────────────────────
-  Create a live performance setup for a rock band, using a combination of instruments, amplifiers, and effects processors to create a sense of energy and excitement. The setup should be suitable for a large venue or festival setting, with a focus on creating a sense of dynamics and contrast.
+  Create a percussion pattern for a Latin music track using a combination of acoustic and electronic percussion instruments, with a focus on creating a sense of energy and momentum. The percussion pattern should be at least 16 bars long and should include a mix of quarter notes and eighth notes to create a sense of complexity and interest.
+
+
+  ========================================================
+  MELODIC VARIATION
+  ========================================================
+
+  Prompt #1: When arranging music for a classical or chamber music ensemble
+  ────────────────────────────────────────────────────────
+  Create a set of melodic variations for a classical music piece using a combination of thematic development and motivic transformation, with a focus on creating a sense of cohesion and unity. The variations should be at least 16 bars long and should include a mix of legato and staccato playing to create a sense of contrast and interest.
+
+
+  ========================================================
+  HARMONIC ANALYSIS
+  ========================================================
+
+  Prompt #1: When teaching music theory or composition to students
+  ────────────────────────────────────────────────────────
+  Analyze the harmonic structure of a jazz music piece using a combination of chord progressions and melodic motifs, with a focus on creating a sense of tension and release. The analysis should be at least 2 pages long and should include a mix of musical examples and theoretical explanations to create a comprehensive understanding of the music.
 
 
   ========================================================
   MUSIC VISUALIZATION
   ========================================================
 
-  Prompt #1: When creating a music visualization for a live performance or music video
+  Prompt #1: When creating interactive music installations or live performances
   ────────────────────────────────────────────────────────
-  Create a music visualization for a electronic dance music song, using a combination of graphics and animations to create a sense of energy and momentum. The visualization should be suitable for a club or festival setting, with a focus on creating a sense of excitement and interest.
+  Visualize a music piece using a combination of spectrograms and waveforms, with a focus on creating a sense of visual interest and engagement. The visualization should be at least 2 minutes long and should include a mix of color and shape to create a sense of contrast and complexity.
 
 
   ========================================================
   AUDIO RESTORATION
   ========================================================
 
-  Prompt #1: When restoring an old recording for historical or archival purposes
+  Prompt #1: When restoring old recordings for archival or commercial release
   ────────────────────────────────────────────────────────
-  Restore an old recording of a classical music piece, using a combination of noise reduction and EQ to create a sense of clarity and depth. The restoration should be suitable for a historical or archival setting, with a focus on preserving the original tone and expression of the instruments.
+  Restore a vintage audio recording using a combination of noise reduction and equalization techniques, with a focus on creating a sense of clarity and definition. The restoration should be at least 2 minutes long and should include a mix of manual and automated techniques to create a sense of cohesion and unity.
 
 
   ========================================================
   MUSIC RECOMMENDATION
   ========================================================
 
-  Prompt #1: When creating a playlist for a workout or exercise routine
+  Prompt #1: When creating music playlists for streaming services or radio stations
   ────────────────────────────────────────────────────────
-  Recommend a playlist of music for a workout or exercise routine, using a combination of genre, tempo, and energy to create a sense of motivation and momentum. The playlist should be suitable for a high-intensity workout, with a focus on creating a sense of excitement and interest.
+  Recommend a set of music tracks for a playlist using a combination of natural language processing and collaborative filtering, with a focus on creating a sense of personalization and discovery. The recommendations should be at least 10 tracks long and should include a mix of genres and styles to create a sense of diversity and interest.
 
 
   ========================================================
-  MUSIC EDUCATION
+  GENERATIVE MUSIC
   ========================================================
 
-  Prompt #1: When teaching a music lesson to a beginner student
+  Prompt #1: When creating interactive music installations or live performances
   ────────────────────────────────────────────────────────
-  Create a music lesson plan for a beginner student, using a combination of theory, technique, and practice to create a sense of understanding and progression. The lesson plan should be suitable for a private or group setting, with a focus on creating a sense of engagement and motivation.
+  Generate a piece of music using a combination of machine learning algorithms and musical rules, with a focus on creating a sense of creativity and experimentation. The music should be at least 5 minutes long and should include a mix of melodic and harmonic elements to create a cohesive and engaging sound.
 
 
   ========================================================
-  MUSIC MARKETING
+  MUSIC CLASSIFICATION
   ========================================================
 
-  Prompt #1: When promoting a new music release
+  Prompt #1: When organizing music libraries or creating music recommendations
   ────────────────────────────────────────────────────────
-  Develop a marketing plan for a new music release, using a combination of social media, advertising, and promotion to create a sense of buzz and excitement. The plan should be suitable for an independent artist or label, with a focus on creating a sense of interest and momentum.
+  Classify a set of music tracks using a combination of machine learning algorithms and musical features, with a focus on creating a sense of accuracy and reliability. The classification should be at least 10 tracks long and should include a mix of genres and styles to create a sense of diversity and interest.
 
 
   ========================================================
-  MUSIC DISTRIBUTION
+  MUSIC TAGGING
   ========================================================
 
-  Prompt #1: When distributing a music track to online platforms and streaming services
+  Prompt #1: When organizing music libraries or creating music recommendations
   ────────────────────────────────────────────────────────
-  Distribute a music track to online platforms and streaming services, using a combination of metadata, tagging, and optimization to create a sense of visibility and accessibility. The distribution should be suitable for an independent artist or label, with a focus on creating a sense of reach and exposure.
+  Tag a set of music tracks using a combination of natural language processing and machine learning algorithms, with a focus on creating a sense of accuracy and reliability. The tags should be at least 10 tracks long and should include a mix of genres, moods, and styles to create a sense of diversity and interest.
 
 
   ========================================================
-  MUSIC LICENSING
+  MUSIC SUMMARIZATION
   ========================================================
 
-  Prompt #1: When licensing a music track for use in a film or television show
+  Prompt #1: When creating music reviews or recommendations
   ────────────────────────────────────────────────────────
-  License a music track for use in a film or television show, using a combination of contracts, clearances, and negotiations to create a sense of agreement and understanding. The license should be suitable for a commercial or professional setting, with a focus on creating a sense of fairness and compensation.
-
-
-  ========================================================
-  MUSIC PUBLISHING
-  ========================================================
-
-  Prompt #1: When publishing a music composition for use by other artists or performers
-  ────────────────────────────────────────────────────────
-  Publish a music composition for use by other artists or performers, using a combination of registration, promotion, and administration to create a sense of availability and accessibility. The publication should be suitable for a commercial or professional setting, with a focus on creating a sense of exposure and revenue.
+  Summarize a music piece using a combination of natural language processing and machine learning algorithms, with a focus on creating a sense of clarity and concision. The summary should be at least 2 sentences long and should include a mix of musical features and emotional descriptions to create a sense of cohesion and unity.
 
 ============================================================
   Thank you for your purchase!
