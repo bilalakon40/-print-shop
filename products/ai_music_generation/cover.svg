@@ -10,7 +10,7 @@
   <text x="200" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#fff" opacity="0.9">Music Production</text>
   <line x1="50" y1="140" x2="350" y2="140" stroke="#fff" stroke-width="1" opacity="0.3"/>
   <text x="200" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#fff">AI Music Generation</text>
-  <text x="200" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#fff" opacity="0.8">Create mesmerizing music with AI</text>
+  <text x="200" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#fff" opacity="0.8">Create stunning music tracks with AI</text>
   <circle cx="200" cy="400" r="50" fill="none" stroke="#fff" stroke-width="2" opacity="0.3"/>
   <text x="200" y="395" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#fff">30</text>
   <text x="200" y="418" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#fff" opacity="0.8">PROMPTS</text>

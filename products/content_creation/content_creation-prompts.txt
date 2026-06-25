@@ -4,7 +4,7 @@
 ============================================================
 
 Included Prompts: 34
-Generated: June 17, 2026
+Generated: June 25, 2026
 
 ============================================================
   HOW TO USE
@@ -21,309 +21,309 @@ Generated: June 17, 2026
 
 
   ========================================================
+  BLOG WRITING
+  ========================================================
+
+  Prompt #1: When creating in-depth content on AI and marketing
+  ────────────────────────────────────────────────────────
+  Write a comprehensive blog post on the benefits of using artificial intelligence in digital marketing, including examples of successful AI-powered campaigns and future predictions for the industry. The post should be around 1000 words and include a brief introduction, three main sections, and a conclusion.
+
+
+  ========================================================
   SOCIAL MEDIA
   ========================================================
 
-  Prompt #1: Planning social media content in advance
+  Prompt #1: When launching a new brand on social media
   ────────────────────────────────────────────────────────
-  Create a comprehensive social media content calendar for a fashion brand, including post ideas, hashtags, and engagement strategies for the next quarter, focusing on increasing brand awareness and driving sales during the summer season.
+  Develop a social media strategy for a new fashion brand, including a content calendar for the first month, hashtags to use, and engagement tactics to increase followers. The brand's target audience is young adults aged 18-30 who are interested in sustainable fashion.
 
 
   ========================================================
-  BLOGGING
+  VIDEO SCRIPTING
   ========================================================
 
-  Prompt #1: Creating a structured blog post
+  Prompt #1: When producing educational video content
   ────────────────────────────────────────────────────────
-  Write a detailed blog post outline on the topic of sustainable living, including an introduction, three main points, and a conclusion, with a target word count of 800-1000 words and optimization for SEO with relevant keywords.
-
-
-  ========================================================
-  VIDEO PRODUCTION
-  ========================================================
-
-  Prompt #1: Producing an explainer video
-  ────────────────────────────────────────────────────────
-  Develop a script for a 2-minute explainer video about a new productivity app, including a problem statement, a solution overview, and a call-to-action, with a tone that is friendly and approachable, and a style that is modern and engaging.
-
-
-  ========================================================
-  EMAIL MARKETING
-  ========================================================
-
-  Prompt #1: Creating a regular email newsletter
-  ────────────────────────────────────────────────────────
-  Design an email newsletter template for a monthly subscription service, including a header, a featured section, and a footer, with a focus on simplicity, readability, and mobile responsiveness, and a clear call-to-action to encourage subscribers to engage with the content.
-
-
-  ========================================================
-  INFLUENCER MARKETING
-  ========================================================
-
-  Prompt #1: Finding influencers for partnerships
-  ────────────────────────────────────────────────────────
-  Research and list the top 10 influencers in the beauty industry, including their names, social media handles, niche expertise, and average engagement rates, and provide a brief analysis of their content styles and brand collaboration preferences.
-
-
-  ========================================================
-  CONTENT STRATEGY
-  ========================================================
-
-  Prompt #1: Creating a comprehensive content strategy
-  ────────────────────────────────────────────────────────
-  Develop a content strategy for a B2B software company, including a content mission statement, target audience personas, and a channel plan, with a focus on thought leadership, lead generation, and customer retention, and a budget allocation plan for the next 6 months.
-
-
-  ========================================================
-  COPYWRITING
-  ========================================================
-
-  Prompt #1: Crafting a product description
-  ────────────────────────────────────────────────────────
-  Write a product description for a new smartwatch, including a headline, a brief overview, and a list of key features, with a tone that is concise, clear, and compelling, and a focus on highlighting the benefits and unique selling points of the product.
+  Create a script for a 2-minute explainer video on the topic of cybersecurity best practices for small businesses, including tips on password management, software updates, and data backup. The tone should be informative and conversational, with visuals and animations to illustrate key points.
 
 
   ========================================================
   SEO OPTIMIZATION
   ========================================================
 
-  Prompt #1: Improving website SEO
+  Prompt #1: When optimizing a website for local search
   ────────────────────────────────────────────────────────
-  Analyze the SEO performance of a website in the health and wellness industry, including a technical audit, keyword research, and a backlink analysis, and provide recommendations for improving the website's ranking, drive more organic traffic, and increase conversions.
+  Analyze the website of a local yoga studio and provide recommendations for improving its search engine ranking, including keyword research, on-page optimization, and link building strategies. The studio offers classes, workshops, and private lessons for beginners and experienced practitioners.
 
 
   ========================================================
-  PODCAST PRODUCTION
+  INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: Producing a podcast episode
+  Prompt #1: When searching for influencers to partner with
   ────────────────────────────────────────────────────────
-  Create a podcast episode outline on the topic of entrepreneurship, including an introduction, an interview with a guest expert, and a conclusion, with a focus on creating engaging and informative content, and a plan for promoting the episode on social media and the podcast's website.
-
-
-  ========================================================
-  BRAND JOURNALISM
-  ========================================================
-
-  Prompt #1: Crafting a compelling brand story
-  ────────────────────────────────────────────────────────
-  Write a brand story for a company that specializes in eco-friendly packaging solutions, including the company's mission, values, and history, with a focus on highlighting the company's unique value proposition and showcasing its commitment to sustainability.
-
-
-  ========================================================
-  USER-GENERATED CONTENT
-  ========================================================
-
-  Prompt #1: Encouraging user-generated content
-  ────────────────────────────────────────────────────────
-  Develop a campaign to encourage customers to create and share user-generated content for a fashion brand, including a contest idea, a hashtag, and a reward system, with a focus on increasing brand engagement, driving sales, and building a community around the brand.
+  Research and identify five social media influencers in the beauty niche who have a strong track record of partnering with brands, and provide a brief summary of their audience demographics, engagement rates, and past collaborations. The goal is to find influencers who can promote a new skincare product launch.
 
 
   ========================================================
   CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: Repurposing existing content
+  Prompt #1: When repurposing existing content for social media
   ────────────────────────────────────────────────────────
-  Repurpose a blog post on the topic of time management into a video script, a social media series, and an email newsletter, with a focus on creating cohesive and engaging content across different channels, and a plan for promoting the content to reach a wider audience.
+  Take a recent podcast episode on the topic of productivity and repurpose it into a series of social media posts, including a Facebook post, Twitter thread, and Instagram story. The posts should be engaging, informative, and include relevant hashtags and tags.
 
 
   ========================================================
-  INFLUENCER COLLABORATION
+  EMAIL MARKETING
   ========================================================
 
-  Prompt #1: Collaborating with influencers
+  Prompt #1: When creating regular email newsletters
   ────────────────────────────────────────────────────────
-  Plan an influencer takeover for a lifestyle brand, including a brief for the influencer, a content calendar, and a promotion plan, with a focus on creating engaging and authentic content, and a goal of increasing brand awareness and driving sales among the influencer's followers.
+  Design an email newsletter for a monthly subscription box service, including a featured product section, exclusive promotions, and a call-to-action to encourage subscribers to share their experiences with friends and family. The tone should be friendly and personalized, with a focus on building a community around the brand.
 
 
   ========================================================
-  CONTENT ANALYTICS
+  PODCAST EDITING
   ========================================================
 
-  Prompt #1: Measuring content performance
+  Prompt #1: When post-producing podcast episodes
   ────────────────────────────────────────────────────────
-  Analyze the performance of a content marketing campaign for a B2B company, including metrics such as website traffic, social media engagement, and lead generation, and provide recommendations for optimizing the campaign to better achieve its goals and improve ROI.
+  Edit and transcribe a 30-minute podcast interview with a thought leader in the tech industry, including removing filler words, adding music and sound effects, and creating a written summary of the conversation. The goal is to make the podcast episode engaging, polished, and easy to follow.
 
 
   ========================================================
   BRAND VOICE
   ========================================================
 
-  Prompt #1: Defining a brand voice
+  Prompt #1: When establishing a consistent brand voice
   ────────────────────────────────────────────────────────
-  Develop a brand voice guide for a company that specializes in financial services, including a tone of voice, language style, and vocabulary, with a focus on creating a consistent and engaging brand voice across all marketing channels and customer touchpoints.
-
-
-  ========================================================
-  CONTENT DISTRIBUTION
-  ========================================================
-
-  Prompt #1: Distributing content effectively
-  ────────────────────────────────────────────────────────
-  Create a content distribution plan for a new eBook on the topic of marketing automation, including channels such as email, social media, and paid advertising, with a focus on reaching the target audience, driving downloads, and generating leads.
-
-
-  ========================================================
-  SOCIAL MEDIA ADVERTISING
-  ========================================================
-
-  Prompt #1: Running social media ads
-  ────────────────────────────────────────────────────────
-  Develop a social media advertising campaign for a retail brand, including ad creative, targeting options, and a budget plan, with a focus on driving sales, increasing brand awareness, and reaching new customers during the holiday season.
+  Develop a brand voice guide for a new e-commerce company, including tone, language, and personality traits that will resonate with the target audience of millennials and Gen Z consumers. The guide should also include examples of how to apply the brand voice across different marketing channels and customer touchpoints.
 
 
   ========================================================
   CONTENT CALENDAR
   ========================================================
 
-  Prompt #1: Planning content in advance
+  Prompt #1: When planning and organizing content in advance
   ────────────────────────────────────────────────────────
-  Create a content calendar for a non-profit organization, including a schedule of blog posts, social media posts, and email newsletters, with a focus on creating a consistent flow of content, engaging with donors and supporters, and promoting the organization's mission and events.
+  Create a content calendar for a B2B software company, including blog posts, social media posts, and email newsletters for the next quarter. The calendar should be aligned with the company's marketing goals and include a mix of educational, promotional, and engaging content to attract and retain customers.
 
 
   ========================================================
-  VIDEO MARKETING
+  CASE STUDY
   ========================================================
 
-  Prompt #1: Using video in marketing
+  Prompt #1: When showcasing the effectiveness of a content marketing strategy
   ────────────────────────────────────────────────────────
-  Develop a video marketing strategy for a B2B company, including a video content plan, a distribution plan, and a measurement plan, with a focus on creating engaging and informative video content, and using video to drive lead generation, customer engagement, and sales.
+  Write a detailed case study on the successful implementation of a content marketing strategy for a financial services company, including the challenges faced, solutions implemented, and results achieved. The case study should be around 1500 words and include data, statistics, and quotes from key stakeholders.
 
 
   ========================================================
-  PODCAST MARKETING
+  USER-GENERATED CONTENT
   ========================================================
 
-  Prompt #1: Promoting a podcast
+  Prompt #1: When promoting customer-generated content
   ────────────────────────────────────────────────────────
-  Create a podcast marketing plan for a new podcast on the topic of personal development, including a launch plan, a promotion plan, and a monetization plan, with a focus on growing the podcast's audience, increasing engagement, and generating revenue through sponsorships and advertising.
+  Develop a campaign to encourage customers to create and share user-generated content for a outdoor apparel brand, including a hashtag challenge, photo contest, and rewards program. The goal is to increase brand awareness, engagement, and loyalty among the target audience of outdoor enthusiasts.
 
 
   ========================================================
-  EMAIL LIST BUILDING
+  LIVE STREAMING
   ========================================================
 
-  Prompt #1: Building an email list
+  Prompt #1: When launching a new product or service
   ────────────────────────────────────────────────────────
-  Develop an email list building strategy for a B2B company, including a lead magnet, a landing page, and a follow-up email sequence, with a focus on creating a high-quality email list, driving conversions, and nurturing leads through the sales funnel.
+  Plan and script a live streaming event for a product launch, including a product demo, Q&A session, and special promotions for viewers. The event should be engaging, interactive, and include opportunities for viewers to participate and provide feedback.
+
+
+  ========================================================
+  PERSONAL BRANDING
+  ========================================================
+
+  Prompt #1: When building a personal brand as a freelancer or entrepreneur
+  ────────────────────────────────────────────────────────
+  Create a personal branding strategy for a freelance writer, including a website, social media presence, and content marketing plan. The goal is to establish the writer as a thought leader in their niche and attract high-paying clients and opportunities.
+
+
+  ========================================================
+  CONTENT ANALYTICS
+  ========================================================
+
+  Prompt #1: When evaluating and optimizing content performance
+  ────────────────────────────────────────────────────────
+  Analyze the content performance of a popular news website, including metrics such as page views, engagement, and conversion rates. Provide recommendations for improving content performance, including suggestions for new content formats, topics, and distribution channels.
+
+
+  ========================================================
+  ACCESSIBILITY
+  ========================================================
+
+  Prompt #1: When ensuring website accessibility
+  ────────────────────────────────────────────────────────
+  Evaluate the accessibility of a website and provide recommendations for improving it, including suggestions for alt text, closed captions, and clear navigation. The goal is to ensure that the website is usable and accessible for all users, including those with disabilities.
+
+
+  ========================================================
+  INFLUENCER COLLABORATION
+  ========================================================
+
+  Prompt #1: When collaborating with influencers on content and promotions
+  ────────────────────────────────────────────────────────
+  Develop a collaboration plan for a brand partnership between a fashion brand and a popular lifestyle influencer, including content ideas, promotional strategies, and metrics for measuring success. The goal is to increase brand awareness and drive sales among the influencer's audience.
 
 
   ========================================================
   CONTENT LOCALIZATION
   ========================================================
 
-  Prompt #1: Adapting content for international markets
+  Prompt #1: When expanding a marketing campaign to global audiences
   ────────────────────────────────────────────────────────
-  Localize a website's content for the French market, including translation, cultural adaptation, and SEO optimization, with a focus on creating a user-friendly and engaging experience for French-speaking customers, and increasing conversions and sales in the region.
+  Translate and adapt a marketing campaign for a global audience, including content localization, cultural adaptation, and language translation. The goal is to ensure that the campaign resonates with local audiences and is effective in different markets.
 
 
   ========================================================
-  INFLUENCER RELATIONSHIP MANAGEMENT
+  VIRTUAL EVENT
   ========================================================
 
-  Prompt #1: Managing influencer relationships
+  Prompt #1: When hosting virtual events and conferences
   ────────────────────────────────────────────────────────
-  Develop an influencer relationship management plan for a fashion brand, including a database of influencers, a communication plan, and a collaboration plan, with a focus on building long-term relationships with influencers, and creating engaging and authentic content that drives brand awareness and sales.
+  Plan and script a virtual event for a conference or trade show, including keynote speakers, panel discussions, and networking opportunities. The goal is to create an engaging and interactive experience for attendees, including opportunities for Q&A, polls, and gamification.
 
 
   ========================================================
-  CONTENT AUDIT
+  CUSTOMER JOURNEY
   ========================================================
 
-  Prompt #1: Evaluating existing content
+  Prompt #1: When understanding and optimizing the customer experience
   ────────────────────────────────────────────────────────
-  Conduct a content audit for a company's website, including an analysis of existing content, a gap analysis, and a recommendation plan, with a focus on improving content quality, consistency, and relevance, and increasing engagement, conversions, and sales.
+  Map the customer journey for a retail brand, including touchpoints, pain points, and opportunities for engagement. Provide recommendations for improving the customer experience, including suggestions for content, marketing, and customer service.
+
+
+  ========================================================
+  THOUGHT LEADERSHIP
+  ========================================================
+
+  Prompt #1: When establishing thought leadership and credibility
+  ────────────────────────────────────────────────────────
+  Develop a thought leadership strategy for a CEO or executive, including content creation, speaking engagements, and media appearances. The goal is to establish the executive as a trusted authority in their industry and build credibility for the company.
+
+
+  ========================================================
+  CONTENT DISTRIBUTION
+  ========================================================
+
+  Prompt #1: When distributing and promoting podcast content
+  ────────────────────────────────────────────────────────
+  Develop a content distribution plan for a podcast, including channels, formats, and promotional strategies. The goal is to increase listenership and engagement, including suggestions for social media, email marketing, and paid advertising.
 
 
   ========================================================
   BRAND STORYTELLING
   ========================================================
 
-  Prompt #1: Crafting a brand story
+  Prompt #1: When telling the story of a brand or organization
   ────────────────────────────────────────────────────────
-  Create a brand storytelling framework for a company that specializes in outdoor gear, including a narrative arc, character development, and a visual identity, with a focus on creating an engaging and authentic brand story that resonates with customers and drives loyalty and advocacy.
+  Create a brand storytelling strategy for a non-profit organization, including a narrative framework, messaging guidelines, and content ideas. The goal is to inspire and engage donors, volunteers, and supporters, and to communicate the organization's mission and impact.
 
 
   ========================================================
-  CONTENT MARKETING METRICS
+  SOCIAL MEDIA ADVERTISING
   ========================================================
 
-  Prompt #1: Measuring content marketing effectiveness
+  Prompt #1: When launching social media ad campaigns
   ────────────────────────────────────────────────────────
-  Develop a content marketing metrics plan for a B2B company, including key performance indicators, data collection, and analysis, with a focus on measuring the effectiveness of content marketing efforts, and using data to inform content strategy and optimization decisions.
+  Develop a social media advertising plan for a new product launch, including ad formats, targeting options, and budget allocation. The goal is to increase brand awareness, drive website traffic, and generate sales among the target audience.
 
 
   ========================================================
-  SOCIAL MEDIA CRISIS MANAGEMENT
+  CONTENT MARKETING STRATEGY
   ========================================================
 
-  Prompt #1: Managing social media crises
+  Prompt #1: When developing a content marketing strategy
   ────────────────────────────────────────────────────────
-  Create a social media crisis management plan for a company, including a crisis communication strategy, a response plan, and a monitoring plan, with a focus on protecting the company's reputation, responding to customer concerns, and minimizing the impact of a social media crisis.
+  Create a comprehensive content marketing strategy for a B2B company, including goals, target audience, content formats, and distribution channels. The goal is to attract and engage potential customers, build trust and credibility, and drive conversions and sales.
 
 
   ========================================================
-  CONTENT PERSONALIZATION
+  VIDEO PRODUCTION
   ========================================================
 
-  Prompt #1: Personalizing content
+  Prompt #1: When producing video content for fitness or wellness brands
   ────────────────────────────────────────────────────────
-  Develop a content personalization strategy for a retail brand, including customer segmentation, content recommendations, and a personalization plan, with a focus on creating a tailored and engaging experience for customers, and increasing conversions, sales, and customer loyalty.
+  Plan and script a video series for a fitness brand, including workout routines, nutrition advice, and motivational stories. The goal is to create engaging, high-quality video content that inspires and motivates viewers to achieve their fitness goals.
 
 
   ========================================================
-  EMPLOYEE ADVOCACY
+  PODCAST GUESTING
   ========================================================
 
-  Prompt #1: Encouraging employee advocacy
+  Prompt #1: When securing podcast guesting opportunities
   ────────────────────────────────────────────────────────
-  Create an employee advocacy program for a company, including a content plan, a training plan, and a recognition plan, with a focus on empowering employees to become brand ambassadors, and increasing employee engagement, customer trust, and brand awareness.
+  Research and pitch podcast guesting opportunities for a thought leader or expert, including a list of target podcasts, pitch templates, and follow-up strategies. The goal is to increase visibility, credibility, and authority in the industry.
 
 
   ========================================================
-  CONTENT BUDGETING
+  CONTENT AUDIT
   ========================================================
 
-  Prompt #1: Managing content budget
+  Prompt #1: When auditing and optimizing existing content
   ────────────────────────────────────────────────────────
-  Develop a content budgeting plan for a B2B company, including a budget allocation, a cost estimation, and a ROI analysis, with a focus on optimizing content spend, maximizing ROI, and achieving content marketing goals and objectives.
+  Conduct a content audit for a website or blog, including an analysis of existing content, gaps in content, and recommendations for improvement. The goal is to optimize content for search engines, improve user experience, and increase engagement and conversions.
 
 
   ========================================================
-  CONTENT COLLABORATION
+  EMAIL COURSE
   ========================================================
 
-  Prompt #1: Collaborating on content creation
+  Prompt #1: When creating educational email courses
   ────────────────────────────────────────────────────────
-  Create a content collaboration plan for a team of content creators, including a workflow, a communication plan, and a review process, with a focus on streamlining content production, ensuring quality and consistency, and increasing productivity and efficiency.
+  Create an email course on a topic such as marketing, entrepreneurship, or productivity, including a series of automated emails with lessons, exercises, and resources. The goal is to educate and engage subscribers, build trust and credibility, and promote products or services.
+
+
+  ========================================================
+  WEBINAR PRODUCTION
+  ========================================================
+
+  Prompt #1: When producing webinars and online events
+  ────────────────────────────────────────────────────────
+  Plan and script a webinar on a topic such as industry trends, best practices, or thought leadership, including a presentation, Q&A session, and interactive elements. The goal is to educate and engage attendees, build trust and credibility, and promote products or services.
+
+
+  ========================================================
+  SOCIAL MEDIA MANAGEMENT
+  ========================================================
+
+  Prompt #1: When managing social media presence for small businesses
+  ────────────────────────────────────────────────────────
+  Develop a social media management plan for a small business, including content creation, scheduling, and engagement strategies. The goal is to increase social media presence, engagement, and website traffic, and to build a community around the brand.
+
+
+  ========================================================
+  CONTENT WRITING
+  ========================================================
+
+  Prompt #1: When creating high-quality blog content
+  ────────────────────────────────────────────────────────
+  Write a series of blog posts on topics such as industry news, trends, and best practices, including research, interviews, and examples. The goal is to educate and engage readers, build trust and credibility, and establish the brand as a thought leader in the industry.
 
 
   ========================================================
   DIGITAL ASSET MANAGEMENT
   ========================================================
 
-  Prompt #1: Managing digital assets
+  Prompt #1: When managing digital assets and marketing materials
   ────────────────────────────────────────────────────────
-  Develop a digital asset management plan for a company, including a taxonomy, a metadata plan, and a storage plan, with a focus on organizing, storing, and retrieving digital assets, and increasing efficiency, productivity, and content reuse.
+  Develop a digital asset management plan for a marketing team, including a system for organizing, storing, and retrieving digital assets such as images, videos, and documents. The goal is to improve collaboration, reduce duplication, and increase efficiency in content creation and distribution.
 
 
   ========================================================
-  CONTENT STRATEGY FRAMEWORK
+  INFLUENCER RESEARCH
   ========================================================
 
-  Prompt #1: Developing a content strategy
+  Prompt #1: When researching and partnering with social media influencers
   ────────────────────────────────────────────────────────
-  Create a content strategy framework for a non-profit organization, including a mission statement, a target audience analysis, and a content plan, with a focus on creating a comprehensive and effective content strategy that achieves the organization's goals and objectives.
-
-
-  ========================================================
-  MARKETING AUTOMATION
-  ========================================================
-
-  Prompt #1: Implementing marketing automation
-  ────────────────────────────────────────────────────────
-  Develop a marketing automation plan for a B2B company, including a workflow, a lead scoring plan, and a nurture plan, with a focus on automating repetitive tasks, personalizing the customer experience, and increasing efficiency, productivity, and revenue.
+  Research and identify social media influencers in a specific niche or industry, including their audience demographics, engagement rates, and content topics. The goal is to find influencers who can promote products or services to their followers and increase brand awareness and reach.
 
 ============================================================
   Thank you for your purchase!
