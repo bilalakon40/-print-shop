@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Create stunning music tracks with AI
+  Compose like a pro with AI
 ============================================================
 
-Included Prompts: 30
-Generated: June 25, 2026
+Included Prompts: 32
+Generated: June 26, 2026
 
 ============================================================
   HOW TO USE
@@ -24,27 +24,27 @@ Generated: June 25, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When composing a classical piano piece
+  Prompt #1: When creating a new pop song
   ────────────────────────────────────────────────────────
-  Create a melodic phrase for a piano solo in the style of Chopin, with a slow and contemplative tempo, using primarily minor chords and a range of two octaves. The melody should evoke a sense of longing and nostalgia.
+  Create a melody for a pop song in the style of Taylor Swift, with a focus on catchy hooks and a memorable chorus. The song should be about heartbreak and moving on, with a tempo of 120 BPM and a key of A minor.
 
 
   ========================================================
-  MUSIC COMPOSITION
+  CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When creating a new piece for a string quartet
+  Prompt #1: When composing a jazz standard
   ────────────────────────────────────────────────────────
-  Generate a full composition for a string quartet, including a first and second violin, viola, and cello, with a theme inspired by the changing of the seasons. The composition should be approximately 10 minutes long and include a mix of fast and slow movements.
+  Generate a chord progression for a jazz standard in the style of John Coltrane, using a combination of extended chords and modal interchange. The progression should be suitable for a slow ballad with a tempo of 60 BPM and a key of E flat major.
 
 
   ========================================================
   LYRICS WRITING
   ========================================================
 
-  Prompt #1: When writing a new pop song
+  Prompt #1: When creating a new hip-hop song
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a pop song about heartbreak and moving on, with a focus on catchy and relatable phrases. The lyrics should include a clear verse-chorus structure and a memorable bridge. The tone should be upbeat and empowering.
+  Write lyrics for a hip-hop song in the style of Kendrick Lamar, with a focus on storytelling and social commentary. The song should be about overcoming adversity and perseverance, with a strong emphasis on rhythmic flow and poetic language.
 
 
   ========================================================
@@ -53,7 +53,16 @@ Generated: June 25, 2026
 
   Prompt #1: When creating sound effects for a film or video game
   ────────────────────────────────────────────────────────
-  Design a unique sound effect for a science fiction film, representing the sound of an alien spaceship taking off. The sound should be a combination of electronic and organic elements, with a mix of high-pitched squeals and low-rumbling hums. The sound should be approximately 5 seconds long.
+  Design a sound effect for a science fiction film, representing the sound of a spaceship landing on a distant planet. The sound should be a combination of electronic and organic elements, with a focus on creating a sense of tension and unease.
+
+
+  ========================================================
+  MUSIC REMIXING
+  ========================================================
+
+  Prompt #1: When remixing a classic song
+  ────────────────────────────────────────────────────────
+  Remix a classic rock song by The Rolling Stones, using a combination of modern production techniques and vintage instrumentation. The remix should have a dark and moody tone, with a focus on creating a sense of foreboding and menace.
 
 
   ========================================================
@@ -62,88 +71,124 @@ Generated: June 25, 2026
 
   Prompt #1: When teaching music theory or composing music
   ────────────────────────────────────────────────────────
-  Explain the concept of modal interchange in music theory, including examples of how it is used in different genres and styles. Provide a detailed analysis of the chord progressions and scales used in modal interchange, and discuss the emotional and aesthetic effects of this technique. The explanation should be clear and concise, with examples from jazz and classical music.
-
-
-  ========================================================
-  MUSIC PRODUCTION
-  ========================================================
-
-  Prompt #1: When producing a new hip-hop track
-  ────────────────────────────────────────────────────────
-  Provide a step-by-step guide on how to produce a professional-sounding hip-hop beat, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
-
-
-  ========================================================
-  INSTRUMENTAL COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a new piece for solo guitar
-  ────────────────────────────────────────────────────────
-  Compose a piece for solo guitar, with a focus on fingerpicking and arpeggio techniques. The piece should be inspired by the music of Spanish flamenco, with a mix of fast and slow sections and a range of dynamic contrasts. The composition should be approximately 5 minutes long and include a clear beginning, middle, and end.
+  Explain the concept of modal interchange and how it can be used to create tension and release in a musical composition. Provide examples of how modal interchange has been used in different genres of music, from jazz to classical to pop.
 
 
   ========================================================
   VOCAL PROCESSING
   ========================================================
 
-  Prompt #1: When mixing and mastering a vocal track
+  Prompt #1: When mixing a pop song
   ────────────────────────────────────────────────────────
-  Explain the different techniques used for vocal processing in music production, including compression, reverb, and delay. Provide examples of how these techniques are used in different genres and styles, and discuss the importance of vocal processing in creating a professional-sounding mix. The explanation should include tips for using plugins and hardware processors.
+  Create a vocal processing chain for a pop song, using a combination of EQ, compression, and reverb to create a bright and polished sound. The chain should be suitable for a female vocalist with a bright and airy tone.
+
+
+  ========================================================
+  INSTRUMENTATION
+  ========================================================
+
+  Prompt #1: When composing a film score
+  ────────────────────────────────────────────────────────
+  Create an instrumentation plan for a film score, using a combination of orchestral and electronic elements to create a sense of drama and tension. The plan should include a list of instruments and a description of how they will be used to create the desired mood and atmosphere.
+
+
+  ========================================================
+  BEAT GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new trap song
+  ────────────────────────────────────────────────────────
+  Generate a beat for a trap song in the style of Travis Scott, with a focus on heavy, syncopated rhythms and a dark, aggressive tone. The beat should include a combination of 808 drums and electronic percussion, with a tempo of 140 BPM and a key of C minor.
+
+
+  ========================================================
+  HARMONY GENERATION
+  ========================================================
+
+  Prompt #1: When composing a classical piece
+  ────────────────────────────────────────────────────────
+  Create a harmonic progression for a classical piece in the style of Chopin, using a combination of extended chords and intricate voice leading. The progression should be suitable for a piano sonata with a tempo of 80 BPM and a key of A major.
+
+
+  ========================================================
+  MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When producing a music album
+  ────────────────────────────────────────────────────────
+  Create a production plan for a music album, including a list of songs, instrumentation, and production techniques. The plan should be tailored to a specific genre and style, such as indie rock or electronic dance music.
+
+
+  ========================================================
+  AUDIO EDITING
+  ========================================================
+
+  Prompt #1: When editing a vocal recording
+  ────────────────────────────────────────────────────────
+  Edit a vocal recording to remove breath sounds and other noise, using a combination of EQ and compression to create a smooth and polished sound. The recording should be of a male vocalist with a deep, resonant tone.
+
+
+  ========================================================
+  SOUNDTRACK COMPOSITION
+  ========================================================
+
+  Prompt #1: When composing a video game soundtrack
+  ────────────────────────────────────────────────────────
+  Compose a soundtrack for a video game, using a combination of electronic and orchestral elements to create a sense of excitement and adventure. The soundtrack should include a main theme and several secondary themes, with a focus on creating a sense of continuity and cohesion.
+
+
+  ========================================================
+  RHYTHM GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new salsa song
+  ────────────────────────────────────────────────────────
+  Generate a rhythm for a salsa song in the style of Celia Cruz, with a focus on complex polyrhythms and a high-energy tone. The rhythm should include a combination of percussion and horn instruments, with a tempo of 160 BPM and a key of G major.
+
+
+  ========================================================
+  ORCHESTRATION
+  ========================================================
+
+  Prompt #1: When orchestrating a musical piece
+  ────────────────────────────────────────────────────────
+  Orchestrate a musical piece for a symphony orchestra, using a combination of brass, woodwind, and string instruments to create a rich and complex sound. The piece should be a classical composition in the style of Beethoven, with a focus on creating a sense of drama and tension.
 
 
   ========================================================
   ELECTRONIC MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When producing a new techno track
+  Prompt #1: When producing an electronic dance music track
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to create a techno track using a digital audio workstation, including the selection of drum machines and synthesizers, the creation of a bassline and melody, and the addition of effects and processing. The guide should cover the use of sidechaining and EQ, and include tips for creating a driving and energetic rhythm.
+  Create a production plan for an electronic dance music track, including a list of instruments and production techniques. The plan should be tailored to a specific subgenre, such as techno or trance, and should include a focus on creating a sense of energy and momentum.
 
 
   ========================================================
   MUSIC ARRANGEMENT
   ========================================================
 
-  Prompt #1: When arranging a cover song for a live performance
+  Prompt #1: When arranging a musical piece
   ────────────────────────────────────────────────────────
-  Arrange a cover version of a popular pop song for a live band, including a mix of acoustic and electric instruments. The arrangement should include a clear intro, verse, chorus, and bridge, and should feature a range of dynamic contrasts and instrumental textures. The arrangement should be approximately 4 minutes long and include a memorable solo section.
+  Arrange a musical piece for a jazz ensemble, using a combination of horns, piano, and rhythm section to create a complex and nuanced sound. The arrangement should be of a jazz standard, with a focus on creating a sense of tension and release.
 
 
   ========================================================
-  AUDIO ENGINEERING
+  ACOUSTIC TREATMENT
   ========================================================
 
-  Prompt #1: When recording and mixing a track
+  Prompt #1: When designing a recording studio
   ────────────────────────────────────────────────────────
-  Explain the principles of audio engineering, including the use of microphones, preamps, and converters. Provide examples of how these principles are applied in different recording situations, and discuss the importance of audio engineering in creating a high-quality mix. The explanation should include tips for selecting and using audio equipment.
+  Design an acoustic treatment plan for a recording studio, including a list of materials and techniques for reducing reverberation and echo. The plan should be tailored to a specific room and should include a focus on creating a sense of clarity and definition.
 
 
   ========================================================
-  JAZZ COMPOSITION
+  MUSIC MIXING
   ========================================================
 
-  Prompt #1: When composing a new piece for jazz quartet
+  Prompt #1: When mixing a rock song
   ────────────────────────────────────────────────────────
-  Compose a piece for jazz quartet, including a saxophone, piano, bass, and drums. The piece should be inspired by the music of John Coltrane, with a mix of fast and slow sections and a range of harmonic and melodic complexities. The composition should be approximately 8 minutes long and include a clear beginning, middle, and end.
-
-
-  ========================================================
-  CLASSICAL MUSIC COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a new piece for symphony orchestra
-  ────────────────────────────────────────────────────────
-  Generate a full composition for a symphony orchestra, including a mix of strings, woodwinds, brass, and percussion. The composition should be inspired by the music of Beethoven, with a clear sonata form structure and a range of dynamic contrasts. The composition should be approximately 20 minutes long and include a memorable finale.
-
-
-  ========================================================
-  FOLK MUSIC COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a new piece for solo acoustic guitar and voice
-  ────────────────────────────────────────────────────────
-  Compose a piece for solo acoustic guitar and voice, with a focus on storytelling and lyrical imagery. The piece should be inspired by the music of Bob Dylan, with a mix of fast and slow sections and a range of harmonic and melodic complexities. The composition should be approximately 4 minutes long and include a clear beginning, middle, and end.
+  Mix a rock song, using a combination of EQ, compression, and reverb to create a balanced and polished sound. The mix should be tailored to a specific genre and style, such as indie rock or heavy metal.
 
 
   ========================================================
@@ -152,142 +197,115 @@ Generated: June 25, 2026
 
   Prompt #1: When composing a film score
   ────────────────────────────────────────────────────────
-  Create a film score for a science fiction movie, including a mix of electronic and orchestral elements. The score should be inspired by the music of Hans Zimmer, with a range of dynamic contrasts and a focus on creating a sense of tension and suspense. The score should be approximately 60 minutes long and include a clear main theme and several subsidiary motifs.
+  Compose a film score for a horror movie, using a combination of orchestral and electronic elements to create a sense of tension and fear. The score should include a main theme and several secondary themes, with a focus on creating a sense of continuity and cohesion.
 
 
   ========================================================
-  R&B MUSIC PRODUCTION
+  VOCAL TUNING
   ========================================================
 
-  Prompt #1: When producing a new R&B track
+  Prompt #1: When editing a vocal recording
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding R&B track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
+  Tune a vocal recording to create a smooth and polished sound, using a combination of pitch correction and formant shifting. The recording should be of a female vocalist with a bright and airy tone.
 
 
   ========================================================
-  CHORAL COMPOSITION
+  DRUM PROGRAMMING
   ========================================================
 
-  Prompt #1: When composing a new piece for a cappella choir
+  Prompt #1: When creating a new hip-hop song
   ────────────────────────────────────────────────────────
-  Compose a piece for a cappella choir, with a focus on harmony and vocal texture. The piece should be inspired by the music of Eric Whitacre, with a mix of fast and slow sections and a range of dynamic contrasts. The composition should be approximately 6 minutes long and include a clear beginning, middle, and end.
+  Program a drum pattern for a hip-hop song, using a combination of 808 drums and electronic percussion to create a complex and nuanced sound. The pattern should be tailored to a specific subgenre, such as trap or drill, and should include a focus on creating a sense of energy and momentum.
 
 
   ========================================================
-  VIDEO GAME MUSIC COMPOSITION
+  BASS GENERATION
   ========================================================
 
-  Prompt #1: When composing music for a video game
+  Prompt #1: When producing an electronic dance music track
   ────────────────────────────────────────────────────────
-  Create a music composition for a video game, including a mix of electronic and orchestral elements. The composition should be inspired by the music of The Legend of Zelda, with a range of dynamic contrasts and a focus on creating a sense of adventure and exploration. The composition should be approximately 10 minutes long and include a clear main theme and several subsidiary motifs.
+  Generate a bass line for an electronic dance music track, using a combination of synthesizers and effects processors to create a deep and driving sound. The line should be tailored to a specific subgenre, such as techno or trance, and should include a focus on creating a sense of energy and momentum.
 
 
   ========================================================
-  ROCK MUSIC PRODUCTION
+  PERCUSSION PROGRAMMING
   ========================================================
 
-  Prompt #1: When producing a new rock track
+  Prompt #1: When creating a new world music track
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding rock track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
+  Program a percussion pattern for a world music track, using a combination of acoustic and electronic percussion to create a complex and nuanced sound. The pattern should be tailored to a specific genre, such as Afrobeat or salsa, and should include a focus on creating a sense of energy and momentum.
 
 
   ========================================================
-  ORCHESTRATION
+  SYNTHESIZER PROGRAMMING
   ========================================================
 
-  Prompt #1: When arranging a piece for orchestra
+  Prompt #1: When producing an ambient music track
   ────────────────────────────────────────────────────────
-  Explain the principles of orchestration, including the selection of instruments and the creation of instrumental textures. Provide examples of how these principles are applied in different musical styles, and discuss the importance of orchestration in creating a professional-sounding mix. The explanation should include tips for using orchestration software and plugins.
+  Program a synthesizer sound for an ambient music track, using a combination of waveforms and effects processors to create a rich and complex sound. The sound should be tailored to a specific genre, such as new age or experimental, and should include a focus on creating a sense of atmosphere and texture.
 
 
   ========================================================
-  DJ MUSIC PRODUCTION
+  AUDIO RESTORATION
   ========================================================
 
-  Prompt #1: When producing a new DJ track
+  Prompt #1: When restoring an old audio recording
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding DJ track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
+  Restore an old audio recording to create a clean and polished sound, using a combination of noise reduction and EQ to remove hiss and other noise. The recording should be of a historical significance, such as a vintage jazz or blues recording.
 
 
   ========================================================
-  COUNTRY MUSIC COMPOSITION
+  MUSIC MASTERING
   ========================================================
 
-  Prompt #1: When composing a new piece for solo acoustic guitar and voice
+  Prompt #1: When mastering a music album
   ────────────────────────────────────────────────────────
-  Compose a piece for solo acoustic guitar and voice, with a focus on storytelling and lyrical imagery. The piece should be inspired by the music of Johnny Cash, with a mix of fast and slow sections and a range of harmonic and melodic complexities. The composition should be approximately 4 minutes long and include a clear beginning, middle, and end.
+  Master a music album to create a balanced and polished sound, using a combination of EQ, compression, and limiting to prepare the album for distribution. The mastering should be tailored to a specific genre and style, such as rock or pop.
 
 
   ========================================================
-  AMBIENT MUSIC COMPOSITION
+  LIVE SOUND ENGINEERING
   ========================================================
 
-  Prompt #1: When composing ambient music
+  Prompt #1: When mixing a live sound
   ────────────────────────────────────────────────────────
-  Create a music composition for ambient music, including a mix of electronic and acoustic elements. The composition should be inspired by the music of Brian Eno, with a range of dynamic contrasts and a focus on creating a sense of calm and relaxation. The composition should be approximately 10 minutes long and include a clear main theme and several subsidiary motifs.
+  Mix a live sound for a concert, using a combination of EQ, compression, and reverb to create a balanced and polished sound. The mix should be tailored to a specific genre and style, such as rock or pop, and should include a focus on creating a sense of energy and momentum.
 
 
   ========================================================
-  HIP-HOP MUSIC PRODUCTION
+  POST-PRODUCTION
   ========================================================
 
-  Prompt #1: When producing a new hip-hop track
+  Prompt #1: When working on post-production for a film or video game
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding hip-hop track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
+  Create a post-production plan for a film or video game, including a list of sound effects, Foley, and music to be added to the final mix. The plan should be tailored to a specific genre and style, such as action or horror, and should include a focus on creating a sense of continuity and cohesion.
 
 
   ========================================================
-  EXPERIMENTAL MUSIC COMPOSITION
+  GAME AUDIO IMPLEMENTATION
   ========================================================
 
-  Prompt #1: When composing experimental music
+  Prompt #1: When implementing audio for a video game
   ────────────────────────────────────────────────────────
-  Compose a piece for experimental music, including a mix of electronic and acoustic elements. The piece should be inspired by the music of John Cage, with a range of dynamic contrasts and a focus on creating a sense of uncertainty and surprise. The composition should be approximately 8 minutes long and include a clear beginning, middle, and end.
+  Implement audio for a video game, using a combination of sound effects, music, and voiceovers to create a rich and immersive sound world. The implementation should be tailored to a specific genre and style, such as action or role-playing, and should include a focus on creating a sense of continuity and cohesion.
 
 
   ========================================================
-  MUSICAL THEATER COMPOSITION
+  VIRTUAL INSTRUMENT PROGRAMMING
   ========================================================
 
-  Prompt #1: When composing music for a musical theater production
+  Prompt #1: When producing music with virtual instruments
   ────────────────────────────────────────────────────────
-  Create a music composition for a musical theater production, including a mix of electronic and orchestral elements. The composition should be inspired by the music of Stephen Sondheim, with a range of dynamic contrasts and a focus on creating a sense of drama and storytelling. The composition should be approximately 20 minutes long and include a clear main theme and several subsidiary motifs.
+  Program a virtual instrument for a music production software, using a combination of sampling and synthesis to create a realistic and expressive sound. The instrument should be tailored to a specific genre and style, such as orchestral or jazz, and should include a focus on creating a sense of authenticity and realism.
 
 
   ========================================================
-  FUNK MUSIC PRODUCTION
+  MUSIC VISUALIZATION
   ========================================================
 
-  Prompt #1: When producing a new funk track
+  Prompt #1: When creating a music visualization for a live concert
   ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding funk track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
-
-
-  ========================================================
-  SOUL MUSIC COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a new piece for solo voice and piano
-  ────────────────────────────────────────────────────────
-  Compose a piece for solo voice and piano, with a focus on emotional intensity and lyrical imagery. The piece should be inspired by the music of Aretha Franklin, with a mix of fast and slow sections and a range of harmonic and melodic complexities. The composition should be approximately 4 minutes long and include a clear beginning, middle, and end.
-
-
-  ========================================================
-  REGGAE MUSIC PRODUCTION
-  ========================================================
-
-  Prompt #1: When producing a new reggae track
-  ────────────────────────────────────────────────────────
-  Generate a detailed guide on how to produce a professional-sounding reggae track, including the selection of drum samples, the creation of a bassline, and the addition of melodic elements. The guide should cover the use of digital audio workstations and plugins, and include tips for mixing and mastering the final track.
-
-
-  ========================================================
-  CLASSICAL GUITAR COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a new piece for solo classical guitar
-  ────────────────────────────────────────────────────────
-  Compose a piece for solo classical guitar, with a focus on fingerpicking and arpeggio techniques. The piece should be inspired by the music of Andres Segovia, with a mix of fast and slow sections and a range of dynamic contrasts. The composition should be approximately 5 minutes long and include a clear beginning, middle, and end.
+  Create a music visualization for a live concert, using a combination of lighting, video, and special effects to create a dynamic and engaging visual experience. The visualization should be tailored to a specific genre and style, such as rock or electronic, and should include a focus on creating a sense of energy and momentum.
 
 ============================================================
   Thank you for your purchase!
