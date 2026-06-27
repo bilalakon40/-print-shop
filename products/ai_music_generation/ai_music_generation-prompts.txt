@@ -4,7 +4,7 @@
 ============================================================
 
 Included Prompts: 32
-Generated: June 26, 2026
+Generated: June 27, 2026
 
 ============================================================
   HOW TO USE
@@ -24,288 +24,153 @@ Generated: June 26, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When creating a new pop song
+  Prompt #1: When creating a new pop song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Create a melody for a pop song in the style of Taylor Swift, with a focus on catchy hooks and a memorable chorus. The song should be about heartbreak and moving on, with a tempo of 120 BPM and a key of A minor.
+  Create a melodic phrase for a pop song in the key of C major, using a mix of stepwise motion and leaps, and incorporating a repetitive motif to create a sense of unity. The melody should be catchy and easy to remember, with a range that suits a female vocalist.
 
-
-  ========================================================
-  CHORD PROGRESSION
-  ========================================================
-
-  Prompt #1: When composing a jazz standard
+  Prompt #2: When creating a new hip-hop song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz standard in the style of John Coltrane, using a combination of extended chords and modal interchange. The progression should be suitable for a slow ballad with a tempo of 60 BPM and a key of E flat major.
+  Create a melodic phrase for a hip-hop song, using a mix of rhythmic motifs and melodic contour to create a sense of flow and continuity. The melody should be written in the key of A minor and include opportunities for the rapper to improvise and add their own flair.
 
-
-  ========================================================
-  LYRICS WRITING
-  ========================================================
-
-  Prompt #1: When creating a new hip-hop song
+  Prompt #3: When creating a new musical theater song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Write lyrics for a hip-hop song in the style of Kendrick Lamar, with a focus on storytelling and social commentary. The song should be about overcoming adversity and perseverance, with a strong emphasis on rhythmic flow and poetic language.
+  Create a melodic phrase for a musical theater song, using a mix of lyrical and dramatic elements to create a sense of character and storytelling. The melody should be written in the key of F major and include opportunities for the vocalist to showcase their range and emotional expression.
 
-
-  ========================================================
-  SOUND DESIGN
-  ========================================================
-
-  Prompt #1: When creating sound effects for a film or video game
+  Prompt #4: When creating a new children's song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Design a sound effect for a science fiction film, representing the sound of a spaceship landing on a distant planet. The sound should be a combination of electronic and organic elements, with a focus on creating a sense of tension and unease.
+  Create a melodic phrase for a children's song, using a mix of simple and repetitive elements to create a sense of clarity and accessibility. The melody should be written in the key of G major and include opportunities for call-and-response and audience participation.
 
-
-  ========================================================
-  MUSIC REMIXING
-  ========================================================
-
-  Prompt #1: When remixing a classic song
+  Prompt #5: When arranging a jazz standard and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Remix a classic rock song by The Rolling Stones, using a combination of modern production techniques and vintage instrumentation. The remix should have a dark and moody tone, with a focus on creating a sense of foreboding and menace.
+  Create a melodic phrase for a jazz standard, using a mix of lyrical and improvisational elements to create a sense of spontaneity and creativity. The melody should be written in the key of C major and include opportunities for the soloist to improvise and add their own flair.
 
-
-  ========================================================
-  MUSIC THEORY
-  ========================================================
-
-  Prompt #1: When teaching music theory or composing music
+  Prompt #6: When composing a video game theme song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Explain the concept of modal interchange and how it can be used to create tension and release in a musical composition. Provide examples of how modal interchange has been used in different genres of music, from jazz to classical to pop.
+  Create a melodic phrase for a video game theme song, using a mix of catchy and memorable elements to create a sense of recognition and familiarity. The melody should be written in the key of F# minor and include opportunities for variation and development throughout the game.
 
-
-  ========================================================
-  VOCAL PROCESSING
-  ========================================================
-
-  Prompt #1: When mixing a pop song
+  Prompt #7: When creating a new musical theater song and needing a memorable melody
   ────────────────────────────────────────────────────────
-  Create a vocal processing chain for a pop song, using a combination of EQ, compression, and reverb to create a bright and polished sound. The chain should be suitable for a female vocalist with a bright and airy tone.
-
-
-  ========================================================
-  INSTRUMENTATION
-  ========================================================
-
-  Prompt #1: When composing a film score
-  ────────────────────────────────────────────────────────
-  Create an instrumentation plan for a film score, using a combination of orchestral and electronic elements to create a sense of drama and tension. The plan should include a list of instruments and a description of how they will be used to create the desired mood and atmosphere.
-
-
-  ========================================================
-  BEAT GENERATION
-  ========================================================
-
-  Prompt #1: When creating a new trap song
-  ────────────────────────────────────────────────────────
-  Generate a beat for a trap song in the style of Travis Scott, with a focus on heavy, syncopated rhythms and a dark, aggressive tone. The beat should include a combination of 808 drums and electronic percussion, with a tempo of 140 BPM and a key of C minor.
+  Create a melodic phrase for a musical theater song, using a mix of lyrical and dramatic elements to create a sense of character and storytelling. The melody should be written in the key of D major and include opportunities for the vocalist to showcase their range and emotional expression.
 
 
   ========================================================
   HARMONY GENERATION
   ========================================================
 
-  Prompt #1: When composing a classical piece
+  Prompt #1: When arranging a jazz standard and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Create a harmonic progression for a classical piece in the style of Chopin, using a combination of extended chords and intricate voice leading. The progression should be suitable for a piano sonata with a tempo of 80 BPM and a key of A major.
+  Generate a harmonic progression for a jazz standard in the key of G minor, using a combination of extended chords and modal interchange to create a sense of tension and release. The progression should be suitable for a jazz quartet and include opportunities for improvisation.
 
-
-  ========================================================
-  MUSIC PRODUCTION
-  ========================================================
-
-  Prompt #1: When producing a music album
+  Prompt #2: When arranging a rock ballad and needing a simple yet effective harmonic progression
   ────────────────────────────────────────────────────────
-  Create a production plan for a music album, including a list of songs, instrumentation, and production techniques. The plan should be tailored to a specific genre and style, such as indie rock or electronic dance music.
+  Generate a harmonic progression for a rock ballad, using a combination of power chords and suspended chords to create a sense of intimacy and vulnerability. The progression should be suitable for a rock band and include opportunities for the lead vocalist to showcase their range and emotion.
 
-
-  ========================================================
-  AUDIO EDITING
-  ========================================================
-
-  Prompt #1: When editing a vocal recording
+  Prompt #3: When arranging an R&B song and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Edit a vocal recording to remove breath sounds and other noise, using a combination of EQ and compression to create a smooth and polished sound. The recording should be of a male vocalist with a deep, resonant tone.
+  Generate a harmonic progression for an R&B song, using a combination of extended chords and modal interchange to create a sense of sophistication and elegance. The progression should be suitable for a vocal quartet and include opportunities for harmonies and counterpoint.
 
-
-  ========================================================
-  SOUNDTRACK COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing a video game soundtrack
+  Prompt #4: When arranging a gospel song and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Compose a soundtrack for a video game, using a combination of electronic and orchestral elements to create a sense of excitement and adventure. The soundtrack should include a main theme and several secondary themes, with a focus on creating a sense of continuity and cohesion.
+  Generate a harmonic progression for a gospel song, using a combination of extended chords and modal interchange to create a sense of uplift and inspiration. The progression should be suitable for a vocal choir and include opportunities for harmonies and counterpoint.
 
-
-  ========================================================
-  RHYTHM GENERATION
-  ========================================================
-
-  Prompt #1: When creating a new salsa song
+  Prompt #5: When composing a piece for a classical string quartet and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Generate a rhythm for a salsa song in the style of Celia Cruz, with a focus on complex polyrhythms and a high-energy tone. The rhythm should include a combination of percussion and horn instruments, with a tempo of 160 BPM and a key of G major.
+  Generate a harmonic progression for a classical string quartet, using a combination of chord progressions and modal interchange to create a sense of complexity and sophistication. The progression should be suitable for a string quartet and include opportunities for counterpoint and dialogue between the instruments.
 
-
-  ========================================================
-  ORCHESTRATION
-  ========================================================
-
-  Prompt #1: When orchestrating a musical piece
+  Prompt #6: When arranging a funk song and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Orchestrate a musical piece for a symphony orchestra, using a combination of brass, woodwind, and string instruments to create a rich and complex sound. The piece should be a classical composition in the style of Beethoven, with a focus on creating a sense of drama and tension.
+  Generate a harmonic progression for a funk song, using a combination of extended chords and modal interchange to create a sense of groove and momentum. The progression should be suitable for a funk band and include opportunities for improvisation and rhythmic variation.
 
-
-  ========================================================
-  ELECTRONIC MUSIC PRODUCTION
-  ========================================================
-
-  Prompt #1: When producing an electronic dance music track
+  Prompt #7: When composing a classical piano piece and needing a complex harmonic progression
   ────────────────────────────────────────────────────────
-  Create a production plan for an electronic dance music track, including a list of instruments and production techniques. The plan should be tailored to a specific subgenre, such as techno or trance, and should include a focus on creating a sense of energy and momentum.
+  Generate a harmonic progression for a classical piano piece, using a combination of chord progressions and modal interchange to create a sense of complexity and sophistication. The progression should be suitable for a solo piano and include opportunities for technical virtuosity and expressive playing.
 
 
   ========================================================
-  MUSIC ARRANGEMENT
+  LYRICS GENERATION
   ========================================================
 
-  Prompt #1: When arranging a musical piece
+  Prompt #1: When creating a new country song and needing lyrics that tell a compelling story
   ────────────────────────────────────────────────────────
-  Arrange a musical piece for a jazz ensemble, using a combination of horns, piano, and rhythm section to create a complex and nuanced sound. The arrangement should be of a jazz standard, with a focus on creating a sense of tension and release.
+  Write lyrics for a country song about heartbreak and lost love, using a storytelling style and incorporating vivid imagery to convey the emotions of the song. The lyrics should be written from the perspective of a male vocalist and include a memorable chorus.
 
-
-  ========================================================
-  ACOUSTIC TREATMENT
-  ========================================================
-
-  Prompt #1: When designing a recording studio
+  Prompt #2: When creating a new folk song and needing lyrics that convey a powerful message
   ────────────────────────────────────────────────────────
-  Design an acoustic treatment plan for a recording studio, including a list of materials and techniques for reducing reverberation and echo. The plan should be tailored to a specific room and should include a focus on creating a sense of clarity and definition.
+  Write lyrics for a folk song about social justice, using a poetic style and incorporating metaphors and allegories to convey the message of the song. The lyrics should be written from the perspective of a first-person narrator and include a memorable chorus and verse structure.
 
-
-  ========================================================
-  MUSIC MIXING
-  ========================================================
-
-  Prompt #1: When mixing a rock song
+  Prompt #3: When creating a new pop song and needing lyrics that are catchy and relatable
   ────────────────────────────────────────────────────────
-  Mix a rock song, using a combination of EQ, compression, and reverb to create a balanced and polished sound. The mix should be tailored to a specific genre and style, such as indie rock or heavy metal.
+  Write lyrics for a pop song about love and relationships, using a conversational style and incorporating witty one-liners to convey the emotions of the song. The lyrics should be written from the perspective of a female vocalist and include a memorable chorus and verse structure.
 
-
-  ========================================================
-  FILM SCORING
-  ========================================================
-
-  Prompt #1: When composing a film score
+  Prompt #4: When creating a new rock song and needing lyrics that convey a powerful message
   ────────────────────────────────────────────────────────
-  Compose a film score for a horror movie, using a combination of orchestral and electronic elements to create a sense of tension and fear. The score should include a main theme and several secondary themes, with a focus on creating a sense of continuity and cohesion.
+  Write lyrics for a rock song about rebellion and social change, using a poetic style and incorporating metaphors and allegories to convey the message of the song. The lyrics should be written from the perspective of a first-person narrator and include a memorable chorus and verse structure.
 
-
-  ========================================================
-  VOCAL TUNING
-  ========================================================
-
-  Prompt #1: When editing a vocal recording
+  Prompt #5: When creating a new country song and needing lyrics that tell a compelling story
   ────────────────────────────────────────────────────────
-  Tune a vocal recording to create a smooth and polished sound, using a combination of pitch correction and formant shifting. The recording should be of a female vocalist with a bright and airy tone.
+  Write lyrics for a country song about nostalgia and longing, using a storytelling style and incorporating vivid imagery to convey the emotions of the song. The lyrics should be written from the perspective of a male vocalist and include a memorable chorus and verse structure.
 
-
-  ========================================================
-  DRUM PROGRAMMING
-  ========================================================
-
-  Prompt #1: When creating a new hip-hop song
+  Prompt #6: When creating a new hip-hop song and needing lyrics that are catchy and relatable
   ────────────────────────────────────────────────────────
-  Program a drum pattern for a hip-hop song, using a combination of 808 drums and electronic percussion to create a complex and nuanced sound. The pattern should be tailored to a specific subgenre, such as trap or drill, and should include a focus on creating a sense of energy and momentum.
+  Write lyrics for a hip-hop song about personal empowerment and self-expression, using a conversational style and incorporating witty one-liners to convey the emotions of the song. The lyrics should be written from the perspective of a male vocalist and include a memorable chorus and verse structure.
 
 
   ========================================================
-  BASS GENERATION
+  SOUND DESIGN
   ========================================================
 
-  Prompt #1: When producing an electronic dance music track
+  Prompt #1: When producing an electronic dance music track and needing a unique soundscape
   ────────────────────────────────────────────────────────
-  Generate a bass line for an electronic dance music track, using a combination of synthesizers and effects processors to create a deep and driving sound. The line should be tailored to a specific subgenre, such as techno or trance, and should include a focus on creating a sense of energy and momentum.
+  Design a soundscape for an electronic dance music track, using a combination of synthesized leads, pads, and percussion to create a sense of energy and movement. The soundscape should include a prominent bassline and a variety of textures to keep the listener engaged.
 
-
-  ========================================================
-  PERCUSSION PROGRAMMING
-  ========================================================
-
-  Prompt #1: When creating a new world music track
+  Prompt #2: When producing an ambient music track and needing a soothing soundscape
   ────────────────────────────────────────────────────────
-  Program a percussion pattern for a world music track, using a combination of acoustic and electronic percussion to create a complex and nuanced sound. The pattern should be tailored to a specific genre, such as Afrobeat or salsa, and should include a focus on creating a sense of energy and momentum.
+  Design a soundscape for an ambient music track, using a combination of field recordings and synthesized textures to create a sense of calm and relaxation. The soundscape should include a range of subtle dynamics and timbres to create a sense of depth and space.
 
-
-  ========================================================
-  SYNTHESIZER PROGRAMMING
-  ========================================================
-
-  Prompt #1: When producing an ambient music track
+  Prompt #3: When composing a video game soundtrack and needing a soundscape that enhances the gameplay experience
   ────────────────────────────────────────────────────────
-  Program a synthesizer sound for an ambient music track, using a combination of waveforms and effects processors to create a rich and complex sound. The sound should be tailored to a specific genre, such as new age or experimental, and should include a focus on creating a sense of atmosphere and texture.
+  Design a soundscape for a video game soundtrack, using a combination of electronic and acoustic elements to create a sense of excitement and adventure. The soundscape should include a range of dynamic contrasts and timbres to create a sense of immersion and engagement.
 
-
-  ========================================================
-  AUDIO RESTORATION
-  ========================================================
-
-  Prompt #1: When restoring an old audio recording
+  Prompt #4: When composing a film trailer soundtrack and needing a soundscape that grabs the audience's attention
   ────────────────────────────────────────────────────────
-  Restore an old audio recording to create a clean and polished sound, using a combination of noise reduction and EQ to remove hiss and other noise. The recording should be of a historical significance, such as a vintage jazz or blues recording.
+  Design a soundscape for a film trailer, using a combination of electronic and acoustic elements to create a sense of drama and anticipation. The soundscape should include a range of dynamic contrasts and timbres to create a sense of excitement and engagement.
 
-
-  ========================================================
-  MUSIC MASTERING
-  ========================================================
-
-  Prompt #1: When mastering a music album
+  Prompt #5: When composing a virtual reality soundtrack and needing a soundscape that enhances the user experience
   ────────────────────────────────────────────────────────
-  Master a music album to create a balanced and polished sound, using a combination of EQ, compression, and limiting to prepare the album for distribution. The mastering should be tailored to a specific genre and style, such as rock or pop.
+  Design a soundscape for a virtual reality experience, using a combination of 3D audio and spatial effects to create a sense of immersion and presence. The soundscape should include a range of dynamic contrasts and timbres to create a sense of engagement and interaction.
 
-
-  ========================================================
-  LIVE SOUND ENGINEERING
-  ========================================================
-
-  Prompt #1: When mixing a live sound
+  Prompt #6: When composing a live concert soundtrack and needing a soundscape that enhances the performance
   ────────────────────────────────────────────────────────
-  Mix a live sound for a concert, using a combination of EQ, compression, and reverb to create a balanced and polished sound. The mix should be tailored to a specific genre and style, such as rock or pop, and should include a focus on creating a sense of energy and momentum.
+  Design a soundscape for a live concert, using a combination of electronic and acoustic elements to create a sense of energy and excitement. The soundscape should include a range of dynamic contrasts and timbres to create a sense of engagement and participation from the audience.
 
 
   ========================================================
-  POST-PRODUCTION
+  MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When working on post-production for a film or video game
+  Prompt #1: When scoring a film and needing a piece of music to enhance the drama and tension of a scene
   ────────────────────────────────────────────────────────
-  Create a post-production plan for a film or video game, including a list of sound effects, Foley, and music to be added to the final mix. The plan should be tailored to a specific genre and style, such as action or horror, and should include a focus on creating a sense of continuity and cohesion.
+  Compose a piece of music for a film score, using a combination of orchestral and choral elements to create a sense of drama and tension. The piece should be written in the key of E minor and include a range of dynamics and articulations to convey the emotions of the scene.
 
-
-  ========================================================
-  GAME AUDIO IMPLEMENTATION
-  ========================================================
-
-  Prompt #1: When implementing audio for a video game
+  Prompt #2: When composing a classical piano sonata and needing a piece that showcases technical virtuosity
   ────────────────────────────────────────────────────────
-  Implement audio for a video game, using a combination of sound effects, music, and voiceovers to create a rich and immersive sound world. The implementation should be tailored to a specific genre and style, such as action or role-playing, and should include a focus on creating a sense of continuity and cohesion.
+  Compose a piece of music for a classical piano sonata, using a combination of thematic development and harmonic innovation to create a sense of drama and contrast. The piece should be written in the key of C# minor and include a range of technical challenges to showcase the pianist's skill and expressiveness.
 
-
-  ========================================================
-  VIRTUAL INSTRUMENT PROGRAMMING
-  ========================================================
-
-  Prompt #1: When producing music with virtual instruments
+  Prompt #3: When composing a piece for a chamber ensemble and needing a work that showcases the unique qualities of each instrument
   ────────────────────────────────────────────────────────
-  Program a virtual instrument for a music production software, using a combination of sampling and synthesis to create a realistic and expressive sound. The instrument should be tailored to a specific genre and style, such as orchestral or jazz, and should include a focus on creating a sense of authenticity and realism.
+  Compose a piece of music for a chamber ensemble, using a combination of thematic development and harmonic innovation to create a sense of intimacy and conversation. The piece should be written in the key of D major and include a range of instrumental textures and timbres to create a sense of variety and interest.
 
-
-  ========================================================
-  MUSIC VISUALIZATION
-  ========================================================
-
-  Prompt #1: When creating a music visualization for a live concert
+  Prompt #4: When composing a piece for a solo instrument and needing a work that showcases the unique qualities of the instrument
   ────────────────────────────────────────────────────────
-  Create a music visualization for a live concert, using a combination of lighting, video, and special effects to create a dynamic and engaging visual experience. The visualization should be tailored to a specific genre and style, such as rock or electronic, and should include a focus on creating a sense of energy and momentum.
+  Compose a piece of music for a solo instrument, using a combination of technical virtuosity and emotional expression to create a sense of intimacy and connection. The piece should be written in the key of E minor and include a range of dynamic contrasts and articulations to convey the emotions of the music.
+
+  Prompt #5: When composing a piece for a large ensemble and needing a work that showcases the unique qualities of each instrument
+  ────────────────────────────────────────────────────────
+  Compose a piece of music for a large ensemble, using a combination of thematic development and harmonic innovation to create a sense of grandeur and spectacle. The piece should be written in the key of B minor and include a range of instrumental textures and timbres to create a sense of variety and interest.
+
+  Prompt #6: When composing a film score and needing a piece of music that enhances the drama and tension of a scene
+  ────────────────────────────────────────────────────────
+  Compose a piece of music for a film score, using a combination of thematic development and harmonic innovation to create a sense of drama and tension. The piece should be written in the key of A minor and include a range of instrumental textures and timbres to create a sense of variety and interest.
 
 ============================================================
   Thank you for your purchase!

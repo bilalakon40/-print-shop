@@ -4,7 +4,7 @@
 ============================================================
 
 Included Prompts: 24
-Generated: June 20, 2026
+Generated: June 27, 2026
 
 ============================================================
   HOW TO USE
@@ -24,216 +24,156 @@ Generated: June 20, 2026
   PROPERTY VALUATION
   ========================================================
 
-  Prompt #1: When valuing a property for sale or purchase
+  Prompt #1: When estimating the market value of a property for listing or purchase
   ────────────────────────────────────────────────────────
-  What are the key factors that affect the value of a single-family home in a suburban area, and how can I analyze them to determine a fair market price for a property like 123 Main Street, which has 3 bedrooms, 2 bathrooms, and a total living area of 1,800 square feet?
+  What are the key factors that affect the value of a single-family home in the suburban area of San Francisco, and how can I use data analytics to estimate the market value of a property with 4 bedrooms and 2 bathrooms, located in a neighborhood with good schools and low crime rates?
 
-
-  ========================================================
-  REAL ESTATE MARKETING
-  ========================================================
-
-  Prompt #1: When launching a new real estate development project
+  Prompt #2: When determining the value of a high-end property
   ────────────────────────────────────────────────────────
-  Create a social media marketing campaign to promote a new luxury condominium complex in downtown Manhattan, targeting high-income individuals and families who are looking for a luxurious urban lifestyle, and include a detailed plan for content creation, advertising, and engagement metrics.
+  How can I use comparative market analysis to determine the value of a luxury home in the Hills of Beverly Hills, and what are the most important factors to consider when selecting comparable properties and adjusting for differences in features and condition?
 
-
-  ========================================================
-  PROPERTY MANAGEMENT
-  ========================================================
-
-  Prompt #1: When managing a portfolio of rental properties
+  Prompt #3: When valuing commercial properties
   ────────────────────────────────────────────────────────
-  Develop a comprehensive rental property management plan for a portfolio of 10 single-family homes in a small town, including strategies for rent collection, tenant screening, maintenance and repairs, and annual budgeting, and provide recommendations for software and tools to streamline these processes.
-
-
-  ========================================================
-  COMMERCIAL REAL ESTATE
-  ========================================================
-
-  Prompt #1: When leasing commercial office space
-  ────────────────────────────────────────────────────────
-  Analyze the current market trends and outlook for office space rentals in a major metropolitan area like Los Angeles, and provide insights on how to negotiate a lease agreement for a 5,000 square foot office space in a Class A building, including key clauses to include and strategies for securing the best possible terms.
+  How can I use the income approach to value a commercial property in the downtown area of Chicago, and what are the most important factors to consider when estimating the potential rental income and expenses of the property?
 
 
   ========================================================
   REAL ESTATE INVESTING
   ========================================================
 
-  Prompt #1: When considering investing in a REIT
+  Prompt #1: When evaluating the financial potential of a rental property investment
   ────────────────────────────────────────────────────────
-  Evaluate the potential return on investment for a real estate investment trust (REIT) that focuses on multifamily apartment complexes in the southeastern United States, and provide a detailed analysis of the risks and benefits, including an assessment of the current market conditions and the REIT's management team and track record.
+  I am considering investing in a rental property in the downtown area of New York City, and I need to determine the potential cash flow and return on investment for a 2-bedroom apartment with a monthly rent of $4,000, and an initial investment of $800,000, including renovation costs and closing fees
+
+  Prompt #2: When exploring alternative investment options
+  ────────────────────────────────────────────────────────
+  What are the benefits and risks of investing in real estate investment trusts (REITs) versus direct property investment, and how can I evaluate the potential returns and diversification benefits of adding REITs to my investment portfolio?
+
+  Prompt #3: When exploring alternative investment options
+  ────────────────────────────────────────────────────────
+  What are the benefits and risks of investing in a real estate crowdfunding platform, and how can I evaluate the potential returns and risks of investing in a diversified portfolio of properties, including residential and commercial assets?
 
 
   ========================================================
-  RESIDENTIAL REAL ESTATE
+  HOME STAGING
   ========================================================
 
-  Prompt #1: When working with first-time homebuyers
+  Prompt #1: When preparing a property for sale or open house
   ────────────────────────────────────────────────────────
-  Create a home buyer's guide for first-time homebuyers in a competitive market like San Francisco, including tips and advice on how to get pre-approved for a mortgage, how to work with a real estate agent, and how to navigate the home inspection and appraisal process.
+  What are the most effective home staging strategies for a modern loft in Chicago with an open floor plan, and how can I use lighting, furniture, and decor to create a welcoming and modern atmosphere that will appeal to potential buyers in the tech industry?
+
+
+  ========================================================
+  MORTGAGE AND FINANCING
+  ========================================================
+
+  Prompt #1: When exploring mortgage options and calculating loan costs
+  ────────────────────────────────────────────────────────
+  What are the differences between a fixed-rate mortgage and an adjustable-rate mortgage for a $500,000 home purchase in Los Angeles, and how can I use a mortgage calculator to determine the monthly payments and total interest paid over the life of the loan, considering my credit score and income?
+
+
+  ========================================================
+  PROPERTY MANAGEMENT
+  ========================================================
+
+  Prompt #1: When managing a rental property portfolio
+  ────────────────────────────────────────────────────────
+  I am the owner of a small apartment building in Austin with 10 units, and I need to create a comprehensive property management plan that includes maintenance schedules, rent collection procedures, and tenant communication strategies, to ensure the property is well-maintained and profitable
+
+  Prompt #2: When managing a large rental property portfolio
+  ────────────────────────────────────────────────────────
+  What are the best practices for managing a large apartment complex in the city of Boston, and how can I use property management software to streamline tasks such as rent collection, maintenance requests, and tenant communication?
+
+  Prompt #3: When managing a short-term rental property portfolio
+  ────────────────────────────────────────────────────────
+  What are the best practices for managing a vacation rental property in a resort town such as Maui, and how can I use property management software to streamline tasks such as booking, payment processing, and guest communication?
+
+
+  ========================================================
+  NEIGHBORHOOD ANALYSIS
+  ========================================================
+
+  Prompt #1: When advising clients on neighborhood selection
+  ────────────────────────────────────────────────────────
+  What are the key factors to consider when analyzing the quality of a neighborhood in Seattle, such as safety, schools, and local amenities, and how can I use data and online resources to research and compare different neighborhoods and determine which one is the best fit for my clients' needs and budget?
+
+  Prompt #2: When advising families on neighborhood selection
+  ────────────────────────────────────────────────────────
+  How can I use data and analytics to evaluate the quality of a neighborhood in Washington D.C., including factors such as crime rates, school district ratings, and local amenities, and what are the most important considerations for families with young children?
+
+
+  ========================================================
+  REAL ESTATE MARKETING
+  ========================================================
+
+  Prompt #1: When promoting listings and building a personal brand
+  ────────────────────────────────────────────────────────
+  I am a real estate agent in Miami and I need to create a social media marketing campaign to promote my listings and attract new clients, and I want to know the most effective ways to use Instagram and Facebook to showcase properties and engage with potential buyers and sellers
+
+  Prompt #2: When building a referral network and generating new leads
+  ────────────────────────────────────────────────────────
+  What are the most effective ways to use email marketing and newsletters to stay in touch with past clients and attract new leads in the real estate industry, and how can I use personalized content and targeted campaigns to build my brand and drive business?
+
+
+  ========================================================
+  COMMERCIAL REAL ESTATE
+  ========================================================
+
+  Prompt #1: When exploring commercial property options for a business
+  ────────────────────────────────────────────────────────
+  What are the key differences between leasing and buying commercial property in the warehouse district of Dallas, and how can I evaluate the financial implications of each option for my business, considering factors such as rent, property taxes, and maintenance costs?
+
+  Prompt #2: When leasing commercial space for a business
+  ────────────────────────────────────────────────────────
+  What are the key factors to consider when leasing a retail space in a shopping mall in the city of Atlanta, and how can I negotiate a lease agreement that includes terms such as rent, parking, and signage?
 
 
   ========================================================
   SUSTAINABLE REAL ESTATE
   ========================================================
 
-  Prompt #1: When renovating a commercial building to improve sustainability
+  Prompt #1: When evaluating environmentally friendly property options
   ────────────────────────────────────────────────────────
-  Develop a plan for retrofitting an existing commercial building to achieve LEED certification, including recommendations for energy-efficient lighting and HVAC systems, water conservation measures, and sustainable materials for renovations, and provide an estimate of the costs and potential return on investment.
+  What are the benefits and challenges of investing in green buildings and sustainable real estate projects in the city of Portland, and how can I evaluate the environmental impact and energy efficiency of a property with features such as solar panels, rainwater harvesting, and recycled materials?
 
-
-  ========================================================
-  REAL ESTATE TECHNOLOGY
-  ========================================================
-
-  Prompt #1: When exploring the use of technology in real estate
+  Prompt #2: When evaluating environmentally friendly development options
   ────────────────────────────────────────────────────────
-  Explain how artificial intelligence and machine learning can be applied to real estate transactions, including predictive analytics for property valuations, chatbots for customer service, and automated underwriting for mortgage applications, and provide examples of companies that are already using these technologies.
-
-
-  ========================================================
-  INTERNATIONAL REAL ESTATE
-  ========================================================
-
-  Prompt #1: When buying or selling property internationally
-  ────────────────────────────────────────────────────────
-  Research the current market conditions and regulations for buying and owning property in a foreign country like Mexico, including requirements for residency visas, property taxes, and restrictions on foreign ownership, and provide guidance on how to work with a real estate agent and attorney to navigate the process.
+  What are the benefits and challenges of developing sustainable and energy-efficient buildings in the city of Vancouver, and how can I evaluate the environmental impact and cost savings of features such as green roofs, solar panels, and rainwater harvesting?
 
 
   ========================================================
   REAL ESTATE LAW
   ========================================================
 
-  Prompt #1: When staying up-to-date on changes to real estate law
+  Prompt #1: When advising clients on legal matters related to real estate transactions
   ────────────────────────────────────────────────────────
-  Analyze the implications of a recent court decision on landlord-tenant law in a state like California, and provide guidance on how landlords can comply with the new requirements, including changes to lease agreements and procedures for handling security deposits and evictions.
+  What are the key legal considerations for a real estate transaction in the state of California, and how can I ensure that my clients are aware of their rights and responsibilities as buyers or sellers, including disclosures, inspections, and contract negotiations?
 
-
-  ========================================================
-  PROPERTY DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When evaluating the viability of a development project
+  Prompt #2: When advising clients on disclosure requirements
   ────────────────────────────────────────────────────────
-  Create a feasibility study for a proposed mixed-use development project in a urban infill location, including an analysis of the site's zoning and land-use regulations, market demand for housing and commercial space, and potential environmental and community impacts, and provide recommendations for the project's design and financing.
+  What are the legal implications of a seller's disclosure statement in the state of Texas, and how can I advise my clients on their obligations to disclose known defects and issues with the property, including environmental hazards and structural damage?
 
 
   ========================================================
-  REAL ESTATE FINANCE
+  REAL ESTATE TECHNOLOGY
   ========================================================
 
-  Prompt #1: When advising homebuyers on mortgage options
+  Prompt #1: When exploring new technologies to improve business operations
   ────────────────────────────────────────────────────────
-  Explain the differences between a fixed-rate and adjustable-rate mortgage, and provide guidance on how to choose the best option for a homebuyer's individual circumstances, including considerations of credit score, income, and loan term, and recommend strategies for negotiating the best interest rate and terms.
+  What are the latest trends and innovations in real estate technology, such as virtual tours and online platforms, and how can I use these tools to enhance my business and provide better services to my clients, including virtual staging and 3D modeling?
 
 
   ========================================================
-  COMMERCIAL LEASING
+  HOME BUYING
   ========================================================
 
-  Prompt #1: When leasing commercial retail space
+  Prompt #1: When guiding first-time home buyers through the purchasing process
   ────────────────────────────────────────────────────────
-  Negotiate a lease agreement for a retail space in a busy shopping district, including terms for rent, security deposit, and length of lease, and provide guidance on how to ensure that the lease includes protections for the tenant, such as a exclusivity clause and a provision for rent escalation.
+  What are the most important factors for first-time home buyers to consider when purchasing a property in the suburbs of Denver, and how can I advise my clients on the process of getting pre-approved for a mortgage, inspecting the property, and negotiating the purchase price?
 
-
-  ========================================================
-  REAL ESTATE APPRAISAL
-  ========================================================
-
-  Prompt #1: When determining the value of a unique or complex property
+  Prompt #2: When guiding home buyers through the purchasing process
   ────────────────────────────────────────────────────────
-  Develop a report on the appraisal of a unique property like a historic mansion, including an analysis of the property's condition, location, and amenities, and provide an opinion of value based on recent sales of comparable properties and other relevant market data.
-
-
-  ========================================================
-  REAL ESTATE EDUCATION
-  ========================================================
-
-  Prompt #1: When onboarding new real estate agents
-  ────────────────────────────────────────────────────────
-  Create a training program for new real estate agents, including modules on real estate law, ethics, and best practices, as well as training on how to use software and technology to manage transactions and communicate with clients, and provide recommendations for ongoing education and professional development.
-
-
-  ========================================================
-  REAL ESTATE TAXATION
-  ========================================================
-
-  Prompt #1: When advising clients on tax implications of real estate transactions
-  ────────────────────────────────────────────────────────
-  Explain the tax implications of selling a primary residence, including the capital gains exclusion and the impact of the Tax Cuts and Jobs Act, and provide guidance on how to minimize tax liability, including strategies for using the proceeds to purchase a new home or invest in a tax-deferred exchange.
-
-
-  ========================================================
-  REAL ESTATE MARKET TRENDS
-  ========================================================
-
-  Prompt #1: When staying up-to-date on market trends and conditions
-  ────────────────────────────────────────────────────────
-  Analyze the current trends and outlook for the residential real estate market in a specific region like the northeastern United States, including data on sales volume, prices, and inventory, and provide insights on how these trends may impact buyers, sellers, and investors in the market.
-
-
-  ========================================================
-  LUXURY REAL ESTATE
-  ========================================================
-
-  Prompt #1: When marketing a luxury property
-  ────────────────────────────────────────────────────────
-  Create a marketing plan for a high-end luxury property like a beachfront estate, including strategies for targeting affluent buyers and showcasing the property's unique features and amenities, and provide recommendations for staging, photography, and videography to showcase the property's best features.
-
-
-  ========================================================
-  REAL ESTATE BROKERAGE
-  ========================================================
-
-  Prompt #1: When launching a new real estate brokerage
-  ────────────────────────────────────────────────────────
-  Develop a business plan for a new real estate brokerage, including a market analysis, marketing strategy, and financial projections, and provide guidance on how to build a team of agents, establish partnerships with lenders and other industry professionals, and create a unique value proposition to differentiate the brokerage from competitors.
-
-
-  ========================================================
-  REAL ESTATE CONSULTING
-  ========================================================
-
-  Prompt #1: When evaluating the viability of a development project
-  ────────────────────────────────────────────────────────
-  Provide guidance on how to conduct a feasibility study for a proposed real estate development project, including an analysis of the site's zoning and land-use regulations, market demand for the proposed use, and potential environmental and community impacts, and recommend strategies for mitigating risks and ensuring the project's success.
-
-
-  ========================================================
-  REAL ESTATE RESEARCH
-  ========================================================
-
-  Prompt #1: When analyzing the social and economic impacts of real estate development
-  ────────────────────────────────────────────────────────
-  Research the impact of gentrification on urban neighborhoods, including the effects on housing affordability, local businesses, and community character, and provide recommendations for policymakers and developers to balance the benefits of gentrification with the need to preserve affordable housing and community resources.
-
-
-  ========================================================
-  REAL ESTATE POLICY
-  ========================================================
-
-  Prompt #1: When evaluating the potential impact of policy changes on the real estate market
-  ────────────────────────────────────────────────────────
-  Analyze the potential impact of a proposed policy change, such as a rent control ordinance, on the local real estate market, including the effects on housing affordability, rental yields, and property values, and provide recommendations for policymakers to balance the needs of tenants, landlords, and the broader community.
-
-
-  ========================================================
-  REAL ESTATE SUSTAINABILITY
-  ========================================================
-
-  Prompt #1: When improving the sustainability of a real estate portfolio
-  ────────────────────────────────────────────────────────
-  Develop a plan for reducing the environmental impact of a commercial real estate portfolio, including strategies for energy efficiency, water conservation, and waste reduction, and provide recommendations for implementing sustainable practices and technologies, such as solar panels, green roofs, and energy-efficient lighting.
-
-
-  ========================================================
-  REAL ESTATE URBAN PLANNING
-  ========================================================
-
-  Prompt #1: When planning a new urban development project
-  ────────────────────────────────────────────────────────
-  Create a master plan for a new urban development project, including a mixed-use development with residential, commercial, and recreational spaces, and provide guidance on how to ensure that the project is sustainable, equitable, and responsive to the needs of the local community, and recommend strategies for engaging with stakeholders and securing funding and approvals.
+  What are the most important factors for home buyers to consider when evaluating the condition and potential for renovation of a fixer-upper property in the suburbs of Philadelphia, and how can I advise my clients on the process of inspecting the property and estimating repair costs?
 
 ============================================================
   Thank you for your purchase!
