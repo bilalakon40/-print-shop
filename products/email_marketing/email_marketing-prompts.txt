@@ -3,8 +3,8 @@
   Write emails that get opened, read, and clicked
 ============================================================
 
-Included Prompts: 24
-Generated: June 22, 2026
+Included Prompts: 25
+Generated: June 30, 2026
 
 ============================================================
   HOW TO USE
@@ -21,129 +21,128 @@ Generated: June 22, 2026
 
 
   ========================================================
-  EMAIL CAMPAIGN CREATION
+  EMAIL LIST BUILDING
   ========================================================
 
-  Prompt #1: When launching a new e-commerce website
+  Prompt #1: When starting a new e-commerce business
   ────────────────────────────────────────────────────────
-  Create a welcome email campaign for a new e-commerce website that sells outdoor gear, including a 10% discount for first-time customers and a list of best-selling products. The email should be visually appealing, with a clear call-to-action and a link to the website's blog for more information on outdoor activities.
+  I am launching a new e-commerce website and want to build an email list from scratch. Provide a step-by-step guide on how to create a lead magnet, set up a landing page, and drive traffic to it using social media and paid advertising.
 
-  Prompt #2: When planning a holiday-themed email campaign
+  Prompt #2: When hosting a webinar
   ────────────────────────────────────────────────────────
-  Create a holiday-themed email campaign for a food delivery service, including a series of promotional emails with limited-time offers, special discounts, and a free gift with purchase. The emails should be designed to drive sales and increase customer loyalty during the holiday season.
+  I'm planning to host a webinar and want to use it as an opportunity to build my email list. Describe the best practices for promoting the webinar, creating a compelling registration page, and following up with attendees to maximize email sign-ups.
 
-  Prompt #3: When trying to re-engage inactive customers
+  Prompt #3: When trying to expand your audience
   ────────────────────────────────────────────────────────
-  Create a re-engagement email campaign for a gym and fitness center, including a series of promotional emails with special offers, discounts, and a free trial membership. The emails should be designed to re-engage inactive customers and encourage them to return to the gym.
+  I'm looking to partner with influencers in my industry to promote my products and build my email list. Describe the best practices for finding and approaching influencers, creating effective partnership proposals, and measuring the success of influencer-led email list growth.
 
-  Prompt #4: When trying to increase customer referrals
+  Prompt #4: When attending a trade show
   ────────────────────────────────────────────────────────
-  Create a referral email campaign for a beauty and skincare company, including a series of promotional emails with incentives, such as discounts and free products, for customers who refer their friends and family. The emails should be designed to drive referrals and increase customer loyalty.
+  I'm planning to attend a trade show and want to use it as an opportunity to build my email list. Describe the best practices for promoting my business, creating a compelling lead magnet, and following up with attendees to maximize email sign-ups.
 
-  Prompt #5: When trying to win back inactive customers
+  Prompt #5: When trying to expand your audience
   ────────────────────────────────────────────────────────
-  Create a win-back email campaign for a telecommunications company, including a series of promotional emails with special offers, discounts, and a free upgrade to a premium plan. The emails should be designed to win back inactive customers and encourage them to return to the service.
+  I'm looking to use referral marketing to build my email list, but I'm not sure how to create an effective referral program. Describe the best practices for designing a referral program, promoting it to my subscribers, and incentivizing referrals to maximize email sign-ups.
 
 
   ========================================================
-  EMAIL LIST GROWTH
+  EMAIL CONTENT CREATION
   ========================================================
 
-  Prompt #1: When trying to grow an email list
+  Prompt #1: When creating a regular newsletter
   ────────────────────────────────────────────────────────
-  Develop a strategy to increase email list subscriptions for a fashion brand, including a lead magnet, such as a free e-book on sustainable fashion, and a series of social media posts promoting the benefits of joining the email list. The goal is to increase subscriptions by 20% within the next 3 months.
+  I need to create a monthly newsletter for my subscribers, but I'm struggling to come up with engaging content ideas. Suggest 10 different content types, such as tutorials, interviews, or curated resources, and provide examples of how to make them compelling and relevant to my audience.
 
-  Prompt #2: When trying to grow an email list
+  Prompt #2: When launching a new product
   ────────────────────────────────────────────────────────
-  Develop a strategy to increase email list subscriptions for a podcast, including a lead magnet, such as a free e-book on podcasting, and a series of social media posts promoting the benefits of joining the email list. The goal is to increase subscriptions by 30% within the next 6 months.
+  I need to write a series of promotional emails for a new product launch, but I'm struggling to craft a compelling narrative and highlight the product's benefits. Provide guidance on how to structure the emails, use storytelling techniques, and create a sense of urgency to drive sales.
 
-  Prompt #3: When trying to grow an email list
+  Prompt #3: When creating educational content
   ────────────────────────────────────────────────────────
-  Develop a strategy to increase email list subscriptions for a music streaming service, including a lead magnet, such as a free trial membership, and a series of social media posts promoting the benefits of joining the email list. The goal is to increase subscriptions by 25% within the next 9 months.
+  I need to create a series of educational emails to teach my subscribers about a complex topic, but I'm struggling to break down the content into digestible chunks. Provide guidance on how to structure the emails, use clear and concise language, and create engaging visuals to support the learning process.
+
+  Prompt #4: When gathering feedback from subscribers
+  ────────────────────────────────────────────────────────
+  I need to write a series of survey emails to gather feedback from my subscribers, but I'm struggling to craft compelling questions and analyze the results. Provide guidance on how to structure the surveys, use clear and concise language, and use the insights to improve my email marketing strategy.
+
+  Prompt #5: When creating announcement emails
+  ────────────────────────────────────────────────────────
+  I need to create a series of announcements emails to keep my subscribers informed about new products, features, and company news. Provide guidance on how to structure the emails, use clear and concise language, and create engaging visuals to support the announcements.
 
 
   ========================================================
   EMAIL AUTOMATION
   ========================================================
 
-  Prompt #1: When setting up email automation for a new product or service
+  Prompt #1: When onboarding new subscribers
   ────────────────────────────────────────────────────────
-  Design an email automation workflow for an online course platform that sends a series of nurture emails to new subscribers, including a welcome email, a testimonial email, and a promotional email for a paid course. The workflow should be triggered by a subscriber's engagement with the emails and website content.
+  I want to set up an automated email sequence for new subscribers, including a welcome email, a series of introductory emails, and a promotional email. Outline the key steps to create this sequence, including setting up triggers, writing effective email copy, and testing the workflow.
 
-  Prompt #2: When trying to reduce cart abandonment rates
+  Prompt #2: When trying to recover lost sales
   ────────────────────────────────────────────────────────
-  Design an email automation workflow for an e-commerce website that sends a series of abandoned cart emails to customers who have left items in their cart, including a reminder email, a promotional email with a discount, and a final email with a sense of urgency. The workflow should be triggered by the customer's cart activity and email engagement.
+  I want to set up an abandoned cart email sequence to recover lost sales and improve customer retention. Outline the key elements of an effective abandoned cart email, including triggers, timing, and content, and provide examples of successful implementations.
 
-  Prompt #3: When setting up email automation for a new product or service
+  Prompt #3: When trying to re-engage inactive subscribers
   ────────────────────────────────────────────────────────
-  Design an email automation workflow for a real estate company that sends a series of nurture emails to new leads, including a welcome email, a testimonials email, and a promotional email for a free consultation. The workflow should be triggered by the lead's engagement with the emails and website content.
+  I want to set up a win-back email sequence to re-engage inactive subscribers and prevent list decay. Outline the key steps to create an effective win-back sequence, including identifying inactive subscribers, crafting compelling content, and setting up triggers and timing.
 
-  Prompt #4: When setting up email automation for a new product or service
+  Prompt #4: When trying to increase customer loyalty
   ────────────────────────────────────────────────────────
-  Design an email automation workflow for a marketing agency that sends a series of onboarding emails to new clients, including a welcome email, a services email, and a promotional email for a free consultation. The workflow should be triggered by the client's engagement with the emails and website content.
+  I want to set up a birthday email sequence to send personalized messages and offers to my subscribers on their birthdays. Outline the key steps to create an effective birthday email sequence, including setting up triggers, crafting compelling content, and testing the workflow.
 
-  Prompt #5: When setting up email automation for a new product or service
+  Prompt #5: When trying to recover lost sales
   ────────────────────────────────────────────────────────
-  Design an email automation workflow for a fitness and wellness company that sends a series of nurture emails to new subscribers, including a welcome email, a testimonials email, and a promotional email for a free workout plan. The workflow should be triggered by the subscriber's engagement with the emails and website content.
-
-
-  ========================================================
-  EMAIL CONTENT OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When analyzing email campaign performance
-  ────────────────────────────────────────────────────────
-  Analyze the email open rates, click-through rates, and conversion rates for a series of promotional emails sent by a travel company, and provide recommendations for improving the email content, including subject line, email copy, and calls-to-action. The goal is to increase the conversion rate by 15%.
-
-  Prompt #2: When analyzing email campaign performance
-  ────────────────────────────────────────────────────────
-  Analyze the email subject lines, email copy, and calls-to-action for a series of newsletters sent by a non-profit organization, and provide recommendations for improving the email content to increase donations and volunteer sign-ups. The goal is to increase the conversion rate by 10%.
-
-  Prompt #3: When analyzing email campaign performance
-  ────────────────────────────────────────────────────────
-  Analyze the email open rates, click-through rates, and conversion rates for a series of promotional emails sent by a tech company, and provide recommendations for improving the email content, including subject line, email copy, and calls-to-action. The goal is to increase the conversion rate by 20%.
-
-  Prompt #4: When analyzing email campaign performance
-  ────────────────────────────────────────────────────────
-  Analyze the email subject lines, email copy, and calls-to-action for a series of newsletters sent by a magazine, and provide recommendations for improving the email content to increase subscriptions and advertising revenue. The goal is to increase the conversion rate by 15%.
-
-  Prompt #5: When analyzing email campaign performance
-  ────────────────────────────────────────────────────────
-  Analyze the email open rates, click-through rates, and conversion rates for a series of promotional emails sent by a retail company, and provide recommendations for improving the email content, including subject line, email copy, and calls-to-action. The goal is to increase the conversion rate by 18%.
+  I want to set up a cart abandonment email sequence to recover lost sales and improve customer retention. Outline the key elements of an effective cart abandonment email, including triggers, timing, and content, and provide examples of successful implementations.
 
 
   ========================================================
   EMAIL PERSONALIZATION
   ========================================================
 
-  Prompt #1: When trying to increase customer engagement and loyalty
+  Prompt #1: When trying to increase email engagement
   ────────────────────────────────────────────────────────
-  Develop a personalized email campaign for a retail company that uses customer data, such as purchase history and browsing behavior, to create targeted product recommendations and exclusive offers. The email should include a dynamic content block that displays the customer's name and a personalized message based on their loyalty program status.
+  I have a large email list with diverse subscriber interests and behaviors. Provide guidance on how to segment my list, create personalized content, and use dynamic content blocks to tailor my emails to each segment, increasing engagement and conversion rates.
 
-  Prompt #2: When trying to increase customer engagement and loyalty
+  Prompt #2: When trying to increase sales
   ────────────────────────────────────────────────────────
-  Develop a personalized email campaign for a financial services company that uses customer data, such as account balances and transaction history, to create targeted offers and educational content. The email should include a dynamic content block that displays the customer's account information and a personalized message based on their financial goals.
+  I have a large e-commerce store with a wide range of products, and I want to use email personalization to recommend relevant products to my subscribers. Explain how to use data and analytics to create personalized product recommendations, and provide tips on how to integrate them into my email campaigns.
 
-  Prompt #3: When trying to increase customer engagement and loyalty
+  Prompt #3: When trying to expand into new markets
   ────────────────────────────────────────────────────────
-  Develop a personalized email campaign for a travel company that uses customer data, such as travel history and preferences, to create targeted destination recommendations and exclusive offers. The email should include a dynamic content block that displays the customer's name and a personalized message based on their loyalty program status.
+  I have a large email list with subscribers from different regions and languages, and I want to use email personalization to tailor my content to each region and language. Explain how to use geolocation data and language preferences to create personalized content, and provide tips on how to manage translations and localizations.
 
-  Prompt #4: When trying to increase customer engagement and loyalty
+  Prompt #4: When trying to increase engagement
   ────────────────────────────────────────────────────────
-  Develop a personalized email campaign for a home decor company that uses customer data, such as purchase history and browsing behavior, to create targeted product recommendations and exclusive offers. The email should include a dynamic content block that displays the customer's name and a personalized message based on their loyalty program status.
+  I have a large email list with subscribers who have different preferences and behaviors, and I want to use email personalization to tailor my content to each subscriber. Explain how to use subscriber data and behavior to create personalized content, and provide tips on how to use dynamic content blocks to support personalization.
+
+  Prompt #5: When trying to increase sales
+  ────────────────────────────────────────────────────────
+  I have a large email list with subscribers who have different purchase histories and behaviors, and I want to use email personalization to recommend relevant products to each subscriber. Explain how to use purchase data and behavior to create personalized product recommendations, and provide tips on how to integrate them into my email campaigns.
 
 
   ========================================================
-  EMAIL LIST SEGMENTATION
+  EMAIL ANALYTICS
   ========================================================
 
-  Prompt #1: When trying to improve email campaign targeting
+  Prompt #1: When evaluating email campaign performance
   ────────────────────────────────────────────────────────
-  Develop a strategy to segment an email list for a software company based on subscriber behavior, including demographics, firmographics, and engagement with email content and website interactions. The goal is to create targeted email campaigns that increase conversion rates and customer satisfaction.
+  I'm having trouble understanding the performance of my email campaigns and identifying areas for improvement. Explain how to track key metrics such as open rates, click-through rates, and conversion rates, and provide tips on how to use analytics tools to optimize my email marketing strategy.
 
-  Prompt #2: When trying to improve email campaign targeting
+  Prompt #2: When trying to optimize email subject lines
   ────────────────────────────────────────────────────────
-  Develop a strategy to segment an email list for a education company based on subscriber behavior, including demographics, course enrollment, and engagement with email content and website interactions. The goal is to create targeted email campaigns that increase conversion rates and customer satisfaction.
+  I'm trying to A/B test my email subject lines, but I'm not sure how to set up the test, analyze the results, and use the insights to improve my email marketing strategy. Provide a step-by-step guide on how to conduct an effective A/B test and use the results to optimize my email campaigns.
+
+  Prompt #3: When evaluating email marketing ROI
+  ────────────────────────────────────────────────────────
+  I'm trying to measure the ROI of my email marketing campaigns, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve ROI.
+
+  Prompt #4: When evaluating email marketing channels
+  ────────────────────────────────────────────────────────
+  I'm trying to identify the most effective email marketing channels for my business, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve channel performance.
+
+  Prompt #5: When optimizing for mobile devices
+  ────────────────────────────────────────────────────────
+  I'm trying to optimize my email marketing campaigns for mobile devices, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve mobile performance.
 
 ============================================================
   Thank you for your purchase!
