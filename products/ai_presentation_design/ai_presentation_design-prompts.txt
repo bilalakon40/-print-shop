@@ -3,8 +3,8 @@
   Elevate Your Slides with AI-Driven Design
 ============================================================
 
-Included Prompts: 31
-Generated: June 18, 2026
+Included Prompts: 30
+Generated: July 01, 2026
 
 ============================================================
   HOW TO USE
@@ -21,282 +21,148 @@ Generated: June 18, 2026
 
 
   ========================================================
-  INTRODUCTION TO AI PRESENTATION DESIGN
+  CONTENT CREATION
   ========================================================
 
-  Prompt #1: When introducing AI presentation design to a new team or audience
+  Prompt #1: When preparing for a product launch meeting
   ────────────────────────────────────────────────────────
-  Design a presentation that introduces the concept of AI presentation design to a group of marketing professionals, including the benefits and challenges of using AI in presentation design, and provide examples of how AI can be used to enhance the presentation creation process.
+  Design a presentation for a marketing team to pitch a new product launch, including an introduction to the product, its key features, target audience, and marketing strategies. The presentation should be engaging, informative, and concise, with a maximum of 10 slides.
 
-
-  ========================================================
-  AI-GENERATED CONTENT
-  ========================================================
-
-  Prompt #1: When exploring the possibilities of AI-generated content for presentation design
+  Prompt #2: When creating a technology trend presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that showcases the capabilities of AI-generated content, including text, images, and videos, and discuss the potential applications and limitations of AI-generated content in presentation design, using examples from recent projects or case studies.
+  Write a script for a presentation about a new technology trend, including an introduction to the trend, its key benefits, and potential applications. The script should be engaging, informative, and concise, with a clear and consistent tone and style.
 
-
-  ========================================================
-  PRESENTATION TEMPLATE DESIGN
-  ========================================================
-
-  Prompt #1: When creating a new presentation template for a sales team
+  Prompt #3: When creating a diversity and inclusion presentation
   ────────────────────────────────────────────────────────
-  Design a presentation template for a sales team that incorporates AI-generated graphics and charts, and provide guidance on how to customize the template for different sales pitches and audiences, including tips for using AI to analyze and improve the template's effectiveness.
+  Write a set of talking points for a presentation about a company's diversity and inclusion initiatives, including key statistics, policies, and programs. The talking points should be informative, engaging, and relevant to the target audience, with clear and concise language and tone.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION TOOLS
-  ========================================================
-
-  Prompt #1: When evaluating AI-powered presentation tools for a team or organization
+  Prompt #4: When creating a product presentation
   ────────────────────────────────────────────────────────
-  Compare and contrast different AI-powered presentation tools, such as PowerPoint and Google Slides, and discuss the advantages and disadvantages of using each tool, including their AI features and capabilities, and provide recommendations for which tool to use in different scenarios.
+  Write a set of FAQs for a presentation about a company's products and services, including answers to common questions, troubleshooting tips, and contact information. The FAQs should be informative, engaging, and relevant to the target audience, with clear and concise language and tone.
 
-
-  ========================================================
-  ACCESSIBILITY AND INCLUSIVITY
-  ========================================================
-
-  Prompt #1: When creating presentations for diverse or accessible audiences
+  Prompt #5: When creating a sales presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the importance of accessibility and inclusivity in AI presentation design, including strategies for using AI to improve the accessibility of presentations, such as automated captioning and audio descriptions, and provide examples of how to create inclusive and accessible presentations for diverse audiences.
+  Write a set of testimonials for a presentation about a company's products and services, including quotes, stories, and reviews from satisfied customers. The testimonials should be engaging, informative, and relevant to the target audience, with clear and concise language and tone.
 
-
-  ========================================================
-  STORYTELLING WITH AI
-  ========================================================
-
-  Prompt #1: When creating presentations that require engaging storytelling
+  Prompt #6: When creating a thought leadership presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that tells a story using AI-generated visuals and narratives, and discuss the potential of AI to enhance storytelling in presentations, including tips for using AI to create engaging and interactive stories, and provide examples of successful AI-driven storytelling in presentations.
+  Write a set of articles for a presentation about a company's thought leadership, including topics, trends, and insights related to the industry. The articles should be informative, engaging, and relevant to the target audience, with clear and concise language and tone.
 
 
   ========================================================
-  AI-DRIVEN DATA VISUALIZATION
+  SLIDE DESIGN
   ========================================================
 
-  Prompt #1: When working with complex data sets and requiring AI-driven data visualization
+  Prompt #1: When creating financial reports
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-driven data visualization, including the use of machine learning algorithms to analyze and visualize complex data sets, and provide guidance on how to use AI to create interactive and dynamic data visualizations, using examples from recent projects or case studies.
+  Create a visually appealing slide layout for a presentation about a company's quarterly financial results, including charts, graphs, and tables to display the data. The slide should be easy to read and understand, with a clear and consistent color scheme and typography.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION ANALYTICS
-  ========================================================
-
-  Prompt #1: When evaluating the effectiveness of presentations and requiring data-driven insights
+  Prompt #2: When creating a sustainability report
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the potential of AI-powered presentation analytics to improve the effectiveness of presentations, including the use of AI to track audience engagement and feedback, and provide examples of how to use AI-powered analytics to refine and improve presentation design, using real-world examples and case studies.
+  Design a set of icons and graphics for a presentation about a company's sustainability initiatives, including symbols, diagrams, and illustrations to display the data. The icons and graphics should be simple, consistent, and easy to understand, with a clear and consistent color scheme and typography.
 
-
-  ========================================================
-  COLLABORATION AND FEEDBACK
-  ========================================================
-
-  Prompt #1: When working with teams and requiring collaboration and feedback tools
+  Prompt #3: When creating an employee onboarding presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the importance of collaboration and feedback in AI presentation design, including strategies for using AI to facilitate collaboration and feedback among team members, such as AI-powered commenting and suggestion tools, and provide examples of how to use AI to improve collaboration and feedback in presentation design.
+  Design a set of templates for a presentation about a company's employee onboarding process, including slides for introduction, benefits, and training. The templates should be easy to use, customize, and consistent, with a clear and consistent color scheme and typography.
 
-
-  ========================================================
-  ETHICS AND BIAS IN AI PRESENTATION DESIGN
-  ========================================================
-
-  Prompt #1: When considering the ethical implications of AI presentation design
+  Prompt #4: When creating an industry trends presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the ethics and bias in AI presentation design, including the potential risks and consequences of using AI in presentation design, such as perpetuating biases and stereotypes, and provide guidance on how to mitigate these risks and ensure that AI-powered presentations are fair, transparent, and unbiased.
+  Design a set of infographics for a presentation about a company's industry trends, including statistics, predictions, and analysis. The infographics should be visually appealing, easy to read, and consistent, with a clear and consistent color scheme and typography.
 
-
-  ========================================================
-  AI-GENERATED AUDIO AND VIDEO
-  ========================================================
-
-  Prompt #1: When exploring the possibilities of AI-generated audio and video for presentation design
+  Prompt #5: When creating an organizational structure presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-generated audio and video, including the use of AI to create personalized and interactive audio and video content, and discuss the potential applications and limitations of AI-generated audio and video in presentation design, using examples from recent projects or case studies.
+  Design a set of diagrams for a presentation about a company's organizational structure, including flowcharts, org charts, and process maps. The diagrams should be easy to read and understand, with clear and concise labels and annotations.
 
-
-  ========================================================
-  PRESENTATION DESIGN FOR VIRTUAL EVENTS
-  ========================================================
-
-  Prompt #1: When designing presentations for virtual events
+  Prompt #6: When creating an innovation presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the importance of presentation design for virtual events, including strategies for using AI to enhance the virtual event experience, such as AI-powered chatbots and virtual assistants, and provide examples of how to use AI to create engaging and interactive virtual events.
+  Design a set of icons for a presentation about a company's innovation initiatives, including symbols, diagrams, and illustrations to display the data. The icons should be simple, consistent, and easy to understand, with a clear and consistent color scheme and typography.
 
 
   ========================================================
-  AI-POWERED PRESENTATION LOCALIZATION
+  STORYTELLING
   ========================================================
 
-  Prompt #1: When creating presentations for global or multilingual audiences
+  Prompt #1: When creating a company overview presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-powered presentation localization, including the use of machine learning algorithms to translate and adapt presentations for different languages and cultures, and provide guidance on how to use AI to localize presentations for global audiences.
+  Develop a narrative for a presentation about a company's history and milestones, including key events, challenges, and achievements. The story should be engaging, inspirational, and relevant to the company's mission and values.
 
-
-  ========================================================
-  AI-DRIVEN PRESENTATION SECURITY
-  ========================================================
-
-  Prompt #1: When considering the security implications of AI presentation design
+  Prompt #2: When creating a marketing campaign presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the importance of presentation security in AI presentation design, including strategies for using AI to protect presentations from cyber threats and data breaches, such as AI-powered encryption and access control, and provide examples of how to use AI to secure presentations and protect sensitive information.
+  Develop a case study for a presentation about a successful marketing campaign, including the challenge, solution, and results. The case study should be engaging, informative, and relevant to the target audience, with clear and concise language and visuals.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION SEARCH AND RETRIEVAL
-  ========================================================
-
-  Prompt #1: When requiring advanced search and retrieval capabilities for presentations
+  Prompt #3: When creating a personal brand presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-powered presentation search and retrieval, including the use of natural language processing and machine learning algorithms to search and retrieve presentations, and provide guidance on how to use AI to improve presentation search and retrieval, using examples from recent projects or case studies.
+  Develop a personal story for a presentation about a entrepreneur's journey, including challenges, successes, and lessons learned. The story should be engaging, inspirational, and relevant to the target audience, with clear and concise language and visuals.
 
-
-  ========================================================
-  AI-GENERATED PRESENTATION SUMMARIES
-  ========================================================
-
-  Prompt #1: When requiring summary or overview of complex presentations
+  Prompt #4: When creating a strategic planning presentation
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the potential of AI-generated presentation summaries to improve the effectiveness of presentations, including the use of AI to summarize key points and takeaways, and provide examples of how to use AI to generate presentation summaries, using real-world examples and case studies.
+  Develop a scenario for a presentation about a company's future plans, including potential challenges, opportunities, and strategies. The scenario should be engaging, informative, and relevant to the target audience, with clear and concise language and visuals.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION TRANSLATION
-  ========================================================
-
-  Prompt #1: When creating presentations for multilingual audiences
+  Prompt #5: When creating a company history presentation
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-powered presentation translation, including the use of machine learning algorithms to translate presentations in real-time, and provide guidance on how to use AI to translate presentations for multilingual audiences, using examples from recent projects or case studies.
+  Develop a legend for a presentation about a company's history, including key events, milestones, and achievements. The legend should be engaging, inspirational, and relevant to the target audience, with clear and concise language and visuals.
 
-
-  ========================================================
-  AI-DRIVEN PRESENTATION PERSONALIZATION
-  ========================================================
-
-  Prompt #1: When requiring personalized presentations for specific audiences
+  Prompt #6: When launching a new product
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the potential of AI-driven presentation personalization to improve the effectiveness of presentations, including the use of AI to personalize content and recommendations, and provide examples of how to use AI to personalize presentations, using real-world examples and case studies.
+  Develop a pitch for a presentation about a company's new product, including the problem, solution, and benefits. The pitch should be engaging, informative, and relevant to the target audience, with clear and concise language and visuals.
 
 
   ========================================================
-  AI-POWERED PRESENTATION FEEDBACK AND EVALUATION
+  DATA VISUALIZATION
   ========================================================
 
-  Prompt #1: When evaluating the effectiveness of presentations and requiring feedback
+  Prompt #1: When analyzing customer data
   ────────────────────────────────────────────────────────
-  Design a presentation that discusses the importance of feedback and evaluation in AI presentation design, including strategies for using AI to provide feedback and evaluation, such as AI-powered assessment and scoring tools, and provide examples of how to use AI to improve feedback and evaluation in presentation design.
+  Design an interactive dashboard for a presentation about customer behavior and preferences, including maps, heatmaps, and scatter plots to display the data. The dashboard should be intuitive, interactive, and easy to navigate, with clear and concise labels and annotations.
 
-
-  ========================================================
-  AI-GENERATED PRESENTATION SCRIPTS
-  ========================================================
-
-  Prompt #1: When requiring scripted presentations or videos
+  Prompt #2: When analyzing sales data
   ────────────────────────────────────────────────────────
-  Create a presentation that showcases the capabilities of AI-generated presentation scripts, including the use of AI to generate engaging and interactive scripts, and provide guidance on how to use AI to generate presentation scripts, using examples from recent projects or case studies.
+  Create a set of charts and graphs for a presentation about a company's sales performance, including bar charts, line charts, and pie charts to display the data. The charts and graphs should be easy to read and understand, with clear and concise labels and annotations.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION SCHEDULING
-  ========================================================
-
-  Prompt #1: When requiring automated scheduling for presentations
+  Prompt #3: When analyzing global operations
   ────────────────────────────────────────────────────────
-  Design a presentation that discusses the potential of AI-powered presentation scheduling to improve the efficiency of presentations, including the use of AI to schedule and manage presentations, and provide examples of how to use AI to schedule presentations, using real-world examples and case studies.
+  Create a set of maps for a presentation about a company's global operations, including geographic locations, sales regions, and distribution networks. The maps should be easy to read and understand, with clear and concise labels and annotations.
 
-
-  ========================================================
-  AI-DRIVEN PRESENTATION COLLABORATION
-  ========================================================
-
-  Prompt #1: When working with teams and requiring collaboration tools
+  Prompt #4: When analyzing customer service data
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the importance of collaboration in AI presentation design, including strategies for using AI to facilitate collaboration among team members, such as AI-powered commenting and suggestion tools, and provide examples of how to use AI to improve collaboration in presentation design.
+  Create a set of dashboards for a presentation about a company's customer service metrics, including metrics for response time, resolution rate, and customer satisfaction. The dashboards should be easy to read and understand, with clear and concise labels and annotations.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION ARCHIVING
-  ========================================================
-
-  Prompt #1: When requiring long-term storage and preservation of presentations
+  Prompt #5: When analyzing website analytics
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-powered presentation archiving, including the use of AI to archive and preserve presentations, and provide guidance on how to use AI to archive presentations, using examples from recent projects or case studies.
+  Create a set of heatmaps for a presentation about a company's website analytics, including metrics for traffic, engagement, and conversion. The heatmaps should be easy to read and understand, with clear and concise labels and annotations.
 
-
-  ========================================================
-  AI-GENERATED PRESENTATION OUTLINES
-  ========================================================
-
-  Prompt #1: When requiring structured and organized presentations
+  Prompt #6: When analyzing customer segmentation
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the potential of AI-generated presentation outlines to improve the effectiveness of presentations, including the use of AI to generate engaging and interactive outlines, and provide examples of how to use AI to generate presentation outlines, using real-world examples and case studies.
+  Create a set of scatter plots for a presentation about a company's customer segmentation, including metrics for demographics, behavior, and preferences. The scatter plots should be easy to read and understand, with clear and concise labels and annotations.
 
 
   ========================================================
-  AI-POWERED PRESENTATION REPURPOSING
+  BRANDING
   ========================================================
 
-  Prompt #1: When requiring multiple versions or formats of presentations
+  Prompt #1: When launching a new brand
   ────────────────────────────────────────────────────────
-  Design a presentation that discusses the potential of AI-powered presentation repurposing to improve the efficiency of presentations, including the use of AI to repurpose and reuse presentation content, and provide examples of how to use AI to repurpose presentations, using examples from recent projects or case studies.
+  Create a consistent brand identity for a presentation about a new startup, including a logo, color scheme, typography, and imagery. The brand identity should be unique, memorable, and reflective of the startup's mission and values.
 
-
-  ========================================================
-  AI-DRIVEN PRESENTATION ACCESSIBILITY TESTING
-  ========================================================
-
-  Prompt #1: When ensuring accessibility and inclusivity in presentations
+  Prompt #2: When launching a new product
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the importance of accessibility testing in AI presentation design, including strategies for using AI to test and evaluate presentation accessibility, such as AI-powered accessibility audits and scans, and provide examples of how to use AI to improve accessibility testing in presentation design.
+  Design a set of social media graphics for a presentation about a new product launch, including Facebook, Twitter, and Instagram posts. The graphics should be visually appealing, consistent, and reflective of the product's brand identity, with clear and concise messaging and calls-to-action.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION CONTENT OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When requiring data-driven insights to improve presentation content
+  Prompt #3: When rebranding a company
   ────────────────────────────────────────────────────────
-  Design a presentation that showcases the capabilities of AI-powered presentation content optimization, including the use of AI to analyze and optimize presentation content, and provide guidance on how to use AI to optimize presentation content, using examples from recent projects or case studies.
+  Design a set of brand guidelines for a presentation about a company's rebranding initiative, including logo usage, color palette, typography, and imagery. The brand guidelines should be clear, consistent, and easy to follow, with examples and illustrations to support the guidelines.
 
-
-  ========================================================
-  AI-GENERATED PRESENTATION STYLE GUIDES
-  ========================================================
-
-  Prompt #1: When requiring consistent branding and styling across presentations
+  Prompt #4: When hosting a conference
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the potential of AI-generated presentation style guides to improve the consistency of presentations, including the use of AI to generate style guides and templates, and provide examples of how to use AI to generate presentation style guides, using real-world examples and case studies.
+  Design a set of event materials for a presentation about a company's conference, including banners, posters, and programs. The event materials should be visually appealing, consistent, and reflective of the company's brand identity, with clear and concise messaging and calls-to-action.
 
-
-  ========================================================
-  AI-POWERED PRESENTATION PROJECT MANAGEMENT
-  ========================================================
-
-  Prompt #1: When requiring automated project management for presentations
+  Prompt #5: When launching a marketing campaign
   ────────────────────────────────────────────────────────
-  Design a presentation that discusses the potential of AI-powered presentation project management to improve the efficiency of presentations, including the use of AI to manage and coordinate presentation projects, and provide examples of how to use AI to manage presentation projects, using examples from recent projects or case studies.
+  Design a set of advertising materials for a presentation about a company's marketing campaign, including print ads, digital ads, and social media ads. The advertising materials should be visually appealing, consistent, and reflective of the company's brand identity, with clear and concise messaging and calls-to-action.
 
-
-  ========================================================
-  AI-DRIVEN PRESENTATION KNOWLEDGE MANAGEMENT
-  ========================================================
-
-  Prompt #1: When requiring centralized knowledge management for presentations
+  Prompt #6: When creating brand merchandise
   ────────────────────────────────────────────────────────
-  Create a presentation that discusses the importance of knowledge management in AI presentation design, including strategies for using AI to manage and share presentation knowledge, such as AI-powered knowledge bases and wikis, and provide examples of how to use AI to improve knowledge management in presentation design.
-
-
-  ========================================================
-  AI-POWERED PRESENTATION COMPLIANCE AND GOVERNANCE
-  ========================================================
-
-  Prompt #1: When ensuring compliance and governance in presentations
-  ────────────────────────────────────────────────────────
-  Design a presentation that discusses the importance of compliance and governance in AI presentation design, including strategies for using AI to ensure compliance and governance, such as AI-powered compliance checks and audits, and provide examples of how to use AI to improve compliance and governance in presentation design.
+  Design a set of merchandise for a presentation about a company's brand identity, including t-shirts, mugs, and water bottles. The merchandise should be visually appealing, consistent, and reflective of the company's brand identity, with clear and concise messaging and calls-to-action.
 
 ============================================================
   Thank you for your purchase!
