@@ -3,8 +3,8 @@
   Write persuasive copy that converts browsers into buyers
 ============================================================
 
-Included Prompts: 30
-Generated: June 25, 2026
+Included Prompts: 31
+Generated: July 03, 2026
 
 ============================================================
   HOW TO USE
@@ -21,273 +21,282 @@ Generated: June 25, 2026
 
 
   ========================================================
-  PRODUCT DESCRIPTION
+  PRODUCT DESCRIPTIONS
   ========================================================
 
   Prompt #1: When creating product pages for e-commerce websites
   ────────────────────────────────────────────────────────
-  Write a compelling product description for a new smartwatch that tracks fitness goals and receives notifications, targeting health-conscious individuals who value style and functionality. The description should be around 150-200 words and include a call-to-action to visit the company website for more information.
+  Write a compelling product description for a new smartwatch that tracks fitness goals and receives notifications, targeting health-conscious individuals who value style and functionality. The product is called 'PulsePro' and is available in three different colors.
 
 
   ========================================================
-  SOCIAL MEDIA ADVERTISING
+  SOCIAL MEDIA ADS
   ========================================================
 
-  Prompt #1: When launching seasonal marketing campaigns
+  Prompt #1: When launching social media ad campaigns for promotions and sales
   ────────────────────────────────────────────────────────
-  Create a social media ad campaign for a summer sale event at a clothing store, including a series of three Facebook ads and three Instagram ads that showcase different promotions and discounts. Each ad should have a headline, image description, and call-to-action to drive traffic to the store's website.
+  Create a Facebook ad for a summer sale promotion at a fashion retailer, offering 20% off all swimwear and sunglasses. The target audience is women aged 25-45 who have shown interest in fashion and lifestyle products.
 
 
   ========================================================
   EMAIL MARKETING
   ========================================================
 
-  Prompt #1: When sending regular newsletters to customers
+  Prompt #1: When sending regular newsletters to subscribers and customers
   ────────────────────────────────────────────────────────
-  Draft an email newsletter for a travel company's subscription list, featuring a new package deal to Hawaii and including testimonials from previous customers. The email should be around 300-400 words and include a limited-time offer to encourage bookings.
+  Draft an email newsletter for a subscription-based streaming service, highlighting new movie releases and exclusive content available only to subscribers. The email should include a call-to-action to upgrade to a premium plan for additional features.
 
 
   ========================================================
-  LANDING PAGE CONTENT
+  LANDING PAGES
   ========================================================
 
-  Prompt #1: When creating landing pages for events or promotions
+  Prompt #1: When creating landing pages for specific products or services
   ────────────────────────────────────────────────────────
-  Write the content for a landing page promoting a free webinar on digital marketing strategies for small business owners, including a brief introduction to the topic, benefits of attending the webinar, and a registration form. The content should be engaging and informative, around 250-300 words.
+  Write a persuasive landing page for a fitness program that promises to help users lose weight and build muscle in just 30 days. The program includes video workouts, meal plans, and coaching support, and is priced at $99.99. The target audience is individuals who have struggled with weight loss in the past and are looking for a comprehensive solution.
 
 
   ========================================================
-  BRAND STORYTELLING
+  BRAND VOICE
   ========================================================
 
-  Prompt #1: When creating about pages or company descriptions
+  Prompt #1: When defining the tone and language for brand communications
   ────────────────────────────────────────────────────────
-  Develop a brand story for a sustainable coffee company that sources beans from local farmers, highlighting the company's mission, values, and impact on the community. The story should be around 400-500 words and include vivid descriptions of the coffee-making process.
+  Develop a brand voice guide for a sustainable energy company that aims to educate and inspire customers to switch to renewable energy sources. The tone should be friendly, approachable, and authoritative, with a focus on storytelling and emotional connection.
 
 
   ========================================================
   CONTENT MARKETING
   ========================================================
 
-  Prompt #1: When publishing thought leadership content
+  Prompt #1: When creating informative and engaging content for blogs and social media
   ────────────────────────────────────────────────────────
-  Create a blog post on the topic of 'The Future of Remote Work' for a technology company's website, including an introduction to the trend, benefits and challenges of remote work, and predictions for the future of the workplace. The post should be around 800-1000 words and include relevant statistics and examples.
+  Create a blog post titled '10 Ways to Boost Your Productivity as a Remote Worker' for a company that offers virtual office software. The post should include tips on time management, communication, and collaboration, and highlight the benefits of using the company's software for remote teams.
 
 
   ========================================================
   SEO OPTIMIZATION
   ========================================================
 
-  Prompt #1: When improving website search engine rankings
+  Prompt #1: When optimizing website content for search engine rankings
   ────────────────────────────────────────────────────────
-  Optimize the meta title, description, and headings for a website page about 'Best Practices for SEO Keyword Research', ensuring the content is search engine friendly and includes relevant keywords. The optimized content should be around 500-600 words and include tips and tools for keyword research.
+  Optimize the following product page for search engines: 'Buy the latest iPhone 13 Pro at our online store, with free shipping and a 1-year warranty. The iPhone 13 Pro features a 6.1-inch screen, 12MP camera, and up to 16GB of RAM.' The target keywords are 'iPhone 13 Pro', 'buy iPhone online', and 'iPhone deals'.
+
+
+  ========================================================
+  VIDEO SCRIPTS
+  ========================================================
+
+  Prompt #1: When creating video content for product explanations and demonstrations
+  ────────────────────────────────────────────────────────
+  Write a script for a 60-second explainer video for a project management tool that helps teams collaborate and track progress. The video should feature animated visuals and a voiceover that highlights the key features and benefits of the tool.
+
+
+  ========================================================
+  SALES PAGES
+  ========================================================
+
+  Prompt #1: When creating sales pages for high-end products or services
+  ────────────────────────────────────────────────────────
+  Create a sales page for a luxury watch brand that showcases the craftsmanship and attention to detail that goes into each timepiece. The page should include high-quality images, customer testimonials, and a call-to-action to visit a retail store or purchase online.
 
 
   ========================================================
   INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: When reaching out to influencers for partnerships
+  Prompt #1: When reaching out to influencers for potential partnerships
   ────────────────────────────────────────────────────────
-  Write a pitch email to a social media influencer in the beauty industry, proposing a collaboration with a cosmetics company to promote their new skincare line. The email should include an introduction to the company, details of the proposed partnership, and a call-to-action to discuss further.
+  Draft a pitch email to a popular fitness influencer to collaborate on promoting a new line of athletic wear. The email should include information about the brand, the products, and the proposed collaboration, as well as a clear call-to-action for the influencer to respond with interest.
+
+
+  ========================================================
+  PRESS RELEASES
+  ========================================================
+
+  Prompt #1: When announcing new product launches, company news, or industry developments
+  ────────────────────────────────────────────────────────
+  Write a press release announcing the launch of a new e-commerce platform that specializes in sustainable and eco-friendly products. The release should include information about the platform's mission, features, and initial product offerings, as well as quotes from the company's founders.
+
+
+  ========================================================
+  CASE STUDIES
+  ========================================================
+
+  Prompt #1: When showcasing success stories and demonstrating expertise
+  ────────────────────────────────────────────────────────
+  Create a case study for a marketing agency that helped a client increase their website traffic by 50% through SEO and content marketing efforts. The case study should include an overview of the client's challenges, the agency's approach, and the results achieved, as well as quotes from the client and relevant data and statistics.
+
+
+  ========================================================
+  WHITEPAPERS
+  ========================================================
+
+  Prompt #1: When creating in-depth, informative content on complex topics
+  ────────────────────────────────────────────────────────
+  Research and write a whitepaper on the topic of 'The Future of Artificial Intelligence in Marketing', exploring the current state of AI in marketing, its potential applications and benefits, and the challenges and limitations that must be addressed. The whitepaper should include data and statistics, expert insights, and recommendations for marketers.
+
+
+  ========================================================
+  PODCAST SCRIPTS
+  ========================================================
+
+  Prompt #1: When creating podcast content for marketing and business audiences
+  ────────────────────────────────────────────────────────
+  Write a script for a podcast episode on the topic of 'The Art of Storytelling in Marketing', featuring an interview with a experienced marketer who has used storytelling to drive campaign success. The script should include an introduction, interview questions, and a summary of key takeaways.
+
+
+  ========================================================
+  WEBINAR SCRIPTS
+  ========================================================
+
+  Prompt #1: When hosting webinars for educational and promotional purposes
+  ────────────────────────────────────────────────────────
+  Create a script for a webinar on 'The Benefits of Using Chatbots in Customer Service', featuring a presentation and live Q&A session. The script should include an introduction, key points and examples, and a call-to-action for attendees to learn more or take action.
 
 
   ========================================================
   CUSTOMER TESTIMONIALS
   ========================================================
 
-  Prompt #1: When showcasing customer success stories
+  Prompt #1: When showcasing customer satisfaction and success stories
   ────────────────────────────────────────────────────────
-  Craft a customer testimonial for a software company that provides project management tools, featuring a success story from a previous client who achieved significant productivity gains. The testimonial should be around 100-150 words and include a quote from the customer.
+  Write a customer testimonial for a software company that provides project management tools, featuring a quote from a satisfied customer who has seen significant improvements in team productivity and collaboration. The testimonial should be 2-3 sentences and include specific details about the customer's experience.
 
 
   ========================================================
-  PRESS RELEASE
+  USER EXPERIENCE (UX) CONTENT
   ========================================================
 
-  Prompt #1: When announcing new product launches or company news
+  Prompt #1: When creating user-centered content for digital products
   ────────────────────────────────────────────────────────
-  Draft a press release announcing the launch of a new mobile app for tracking personal finances, including a brief description of the app's features, benefits, and availability. The press release should be around 300-400 words and include a quote from the company's CEO.
-
-
-  ========================================================
-  SALES PAGE CONTENT
-  ========================================================
-
-  Prompt #1: When creating sales pages for digital products
-  ────────────────────────────────────────────────────────
-  Write the content for a sales page promoting a premium online course on photography techniques, including a course overview, lesson plan, and testimonials from previous students. The content should be engaging and persuasive, around 600-800 words.
-
-
-  ========================================================
-  VIDEO SCRIPT
-  ========================================================
-
-  Prompt #1: When producing video content for marketing campaigns
-  ────────────────────────────────────────────────────────
-  Create a script for a promotional video showcasing a new electric vehicle, including a narrative about the car's features, benefits, and performance. The script should be around 1-2 minutes long and include a call-to-action to visit the company's website for more information.
-
-
-  ========================================================
-  PODCAST DESCRIPTION
-  ========================================================
-
-  Prompt #1: When creating podcast listings
-  ────────────────────────────────────────────────────────
-  Write a description for a podcast series on entrepreneurship and small business management, including a brief introduction to the podcast's theme, target audience, and format. The description should be around 150-200 words and include a call-to-action to subscribe to the podcast.
-
-
-  ========================================================
-  CASE STUDY
-  ========================================================
-
-  Prompt #1: When showcasing success stories and proven results
-  ────────────────────────────────────────────────────────
-  Develop a case study on the successful implementation of a marketing automation platform for a B2B software company, including an overview of the challenge, solution, and results. The case study should be around 800-1000 words and include statistics and visuals to illustrate the impact.
-
-
-  ========================================================
-  WHITEPAPER
-  ========================================================
-
-  Prompt #1: When publishing in-depth research and analysis
-  ────────────────────────────────────────────────────────
-  Create a whitepaper on the topic of 'Artificial Intelligence in Marketing', including an introduction to AI technologies, applications in marketing, and future trends. The whitepaper should be around 2000-2500 words and include research findings, examples, and recommendations for marketers.
-
-
-  ========================================================
-  SOCIAL MEDIA CONTENT
-  ========================================================
-
-  Prompt #1: When planning social media content in advance
-  ────────────────────────────────────────────────────────
-  Generate a social media content calendar for a fashion brand, including a series of posts for Facebook, Instagram, and Twitter over the course of a month. Each post should have a headline, image description, and call-to-action to drive engagement and sales.
-
-
-  ========================================================
-  EBOOK
-  ========================================================
-
-  Prompt #1: When creating in-depth educational content
-  ────────────────────────────────────────────────────────
-  Write an ebook on the topic of 'Content Marketing for Beginners', including an introduction to content marketing, strategies for creating and distributing content, and tips for measuring success. The ebook should be around 10-15 pages long and include examples, illustrations, and a call-to-action to learn more.
-
-
-  ========================================================
-  WEBINAR PROMOTION
-  ========================================================
-
-  Prompt #1: When promoting webinars and online events
-  ────────────────────────────────────────────────────────
-  Create a promotional email for an upcoming webinar on 'The Future of E-commerce', including a brief description of the webinar's topic, speakers, and agenda. The email should be around 200-250 words and include a registration link and call-to-action to secure a spot.
-
-
-  ========================================================
-  CUSTOMER JOURNEY MAPPING
-  ========================================================
-
-  Prompt #1: When understanding and optimizing customer experiences
-  ────────────────────────────────────────────────────────
-  Develop a customer journey map for a retail company, including a visual representation of the customer's experience across multiple touchpoints and channels. The map should identify pain points, opportunities for improvement, and strategies for enhancing the customer experience.
-
-
-  ========================================================
-  MARKETING STRATEGY
-  ========================================================
-
-  Prompt #1: When developing marketing plans for new products or services
-  ────────────────────────────────────────────────────────
-  Create a comprehensive marketing strategy for a new startup in the food delivery industry, including an analysis of the target market, competitive landscape, and positioning statement. The strategy should outline specific tactics and channels for reaching and engaging the target audience.
-
-
-  ========================================================
-  BRAND GUIDELINES
-  ========================================================
-
-  Prompt #1: When establishing consistent brand identity
-  ────────────────────────────────────────────────────────
-  Write a brand style guide for a financial services company, including guidelines for the use of the company's logo, color palette, typography, and tone of voice. The guide should be around 10-15 pages long and include examples of correct and incorrect usage.
-
-
-  ========================================================
-  PRODUCT LAUNCH ANNOUNCEMENT
-  ========================================================
-
-  Prompt #1: When announcing new product releases
-  ────────────────────────────────────────────────────────
-  Draft a product launch announcement for a new smartphone, including a brief description of the device's features, pricing, and availability. The announcement should be around 200-250 words and include a quote from the company's CEO and a call-to-action to learn more.
-
-
-  ========================================================
-  INBOUND MARKETING
-  ========================================================
-
-  Prompt #1: When attracting and nurturing leads
-  ────────────────────────────────────────────────────────
-  Create an inbound marketing campaign for a software company, including a series of blog posts, social media posts, and email newsletters that attract and engage potential customers. The campaign should be around 3-6 months long and include specific metrics for measuring success.
-
-
-  ========================================================
-  CRISES COMMUNICATION
-  ========================================================
-
-  Prompt #1: When responding to crises or reputational threats
-  ────────────────────────────────────────────────────────
-  Develop a crisis communication plan for a company facing a product recall, including a statement to the public, key messages for media and stakeholders, and a timeline for resolving the issue. The plan should be around 5-10 pages long and include protocols for social media and customer service.
-
-
-  ========================================================
-  PARTNERSHIP ANNOUNCEMENT
-  ========================================================
-
-  Prompt #1: When announcing strategic partnerships
-  ────────────────────────────────────────────────────────
-  Write a partnership announcement for a collaboration between two companies in the technology industry, including a brief description of the partnership's goals, benefits, and scope. The announcement should be around 200-250 words and include quotes from both companies' CEOs.
-
-
-  ========================================================
-  EVENT PROMOTION
-  ========================================================
-
-  Prompt #1: When promoting events and experiences
-  ────────────────────────────────────────────────────────
-  Create a promotional campaign for a music festival, including a series of social media posts, email newsletters, and press releases that showcase the festival's lineup, schedule, and ticket information. The campaign should be around 6-8 weeks long and include specific metrics for measuring success.
+  Create a UX content guide for a mobile app that helps users track their daily habits and set goals for self-improvement. The guide should include instructions, tips, and examples for getting started with the app, as well as troubleshooting and FAQs.
 
 
   ========================================================
   THOUGHT LEADERSHIP
   ========================================================
 
-  Prompt #1: When establishing expertise and authority in an industry
+  Prompt #1: When establishing thought leadership and expertise in a particular area
   ────────────────────────────────────────────────────────
-  Develop a thought leadership piece on the topic of 'The Impact of AI on Customer Service', including an introduction to the trend, analysis of the benefits and challenges, and recommendations for businesses. The piece should be around 800-1000 words and include research findings and examples.
+  Write a thought leadership article on the topic of 'The Importance of Diversity and Inclusion in the Workplace', featuring insights and perspectives from industry experts and research studies. The article should include data and statistics, as well as recommendations for businesses and organizations.
 
 
   ========================================================
-  MARKET RESEARCH REPORT
+  GRANT PROPOSALS
   ========================================================
 
-  Prompt #1: When conducting market research and analysis
+  Prompt #1: When applying for funding and grants from foundations and government agencies
   ────────────────────────────────────────────────────────
-  Create a market research report on the topic of 'Trends in Sustainable Consumerism', including an overview of the market, analysis of consumer attitudes and behaviors, and predictions for future trends. The report should be around 20-25 pages long and include statistics, charts, and recommendations for businesses.
+  Research and write a grant proposal for a non-profit organization that aims to provide educational resources and support to underprivileged communities. The proposal should include an overview of the organization's mission and goals, a detailed budget and plan, and letters of support from community leaders and partners.
+
+
+  ========================================================
+  SPEECHWRITING
+  ========================================================
+
+  Prompt #1: When crafting speeches for executives and leaders
+  ────────────────────────────────────────────────────────
+  Write a speech for a CEO to deliver at a company-wide meeting, announcing a major rebranding initiative and outlining the vision and strategy for the company's future growth and success. The speech should include inspiring language, key messaging, and a call-to-action for employees to get involved and engaged.
+
+
+  ========================================================
+  MARKETING AUTOMATION
+  ========================================================
+
+  Prompt #1: When automating and optimizing marketing processes and campaigns
+  ────────────────────────────────────────────────────────
+  Create a marketing automation workflow for a B2B software company, featuring email nurturing campaigns, lead scoring, and sales handoff triggers. The workflow should be designed to educate and qualify leads, and include clear calls-to-action and conversion metrics.
+
+
+  ========================================================
+  EVENT PROMOTIONS
+  ========================================================
+
+  Prompt #1: When promoting events and conferences to attendees and sponsors
+  ────────────────────────────────────────────────────────
+  Write a promotional email for a upcoming industry conference, featuring keynote speakers, panel discussions, and networking opportunities. The email should include a clear call-to-action to register and attend, as well as information about sponsors, exhibitors, and travel arrangements.
+
+
+  ========================================================
+  ACCOUNT-BASED MARKETING
+  ========================================================
+
+  Prompt #1: When focusing marketing efforts on specific, high-value accounts and customers
+  ────────────────────────────────────────────────────────
+  Develop an account-based marketing strategy for a B2B technology company, targeting key accounts and decision-makers with personalized content, events, and outreach. The strategy should include research and analysis, content creation, and metrics for measuring success.
+
+
+  ========================================================
+  CONTENT CALENDAR
+  ========================================================
+
+  Prompt #1: When planning and organizing content across multiple channels and platforms
+  ────────────────────────────────────────────────────────
+  Create a content calendar for a social media marketing agency, featuring a schedule of posts, tweets, and stories for the next quarter. The calendar should include a mix of promotional, educational, and engaging content, as well as themes and hashtags for each month.
 
 
   ========================================================
   SALES ENABLEMENT
   ========================================================
 
-  Prompt #1: When equipping sales teams with effective tools and strategies
+  Prompt #1: When equipping sales teams with the content and tools they need to succeed
   ────────────────────────────────────────────────────────
-  Write a sales enablement guide for a software company's sales team, including a overview of the product's features and benefits, sales scripts, and objection handling techniques. The guide should be around 10-15 pages long and include examples and case studies.
+  Write a sales enablement guide for a software sales team, featuring talking points, objection handling, and demo scripts for the company's flagship product. The guide should include competitor analysis, customer insights, and messaging frameworks for different buyer personas.
 
 
   ========================================================
-  DIGITAL TRANSFORMATION
+  CUSTOMER JOURNEY MAPPING
   ========================================================
 
-  Prompt #1: When guiding companies through digital transformation
+  Prompt #1: When understanding and optimizing the customer experience across multiple channels and interactions
   ────────────────────────────────────────────────────────
-  Develop a digital transformation strategy for a traditional retail company, including an analysis of the current state, vision for the future, and roadmap for implementing digital technologies and processes. The strategy should be around 15-20 pages long and include recommendations for organizational change and talent development.
+  Create a customer journey map for a retail brand, illustrating the touchpoints, pain points, and moments of delight that customers experience from awareness to loyalty. The map should include research and data, as well as recommendations for improving the customer experience.
+
+
+  ========================================================
+  DATA-DRIVEN STORYTELLING
+  ========================================================
+
+  Prompt #1: When telling stories with data and insights to inform and engage audiences
+  ────────────────────────────────────────────────────────
+  Write a data-driven story about the impact of social media on consumer behavior, featuring insights and trends from recent studies and research reports. The story should include visualizations, statistics, and quotes from industry experts, as well as recommendations for marketers and businesses.
+
+
+  ========================================================
+  INNOVATION REPORTS
+  ========================================================
+
+  Prompt #1: When exploring and reporting on new and emerging trends and technologies
+  ────────────────────────────────────────────────────────
+  Research and write an innovation report on the topic of 'The Future of Virtual and Augmented Reality in Marketing', featuring emerging trends, technologies, and applications in the field. The report should include case studies, expert interviews, and predictions for the next 5-10 years.
+
+
+  ========================================================
+  PODCAST GUEST OUTREACH
+  ========================================================
+
+  Prompt #1: When reaching out to potential guests for podcast interviews and appearances
+  ────────────────────────────────────────────────────────
+  Write a pitch email to a potential podcast guest, inviting them to appear on a marketing and entrepreneurship podcast to share their story and expertise. The email should include information about the podcast, the target audience, and the types of topics and questions that would be covered.
+
+
+  ========================================================
+  VIDEO MARKETING
+  ========================================================
+
+  Prompt #1: When developing a comprehensive video marketing plan and campaign
+  ────────────────────────────────────────────────────────
+  Create a video marketing strategy for a fitness brand, featuring a mix of promotional, educational, and inspirational content across social media, YouTube, and the company website. The strategy should include metrics for measuring success, as well as recommendations for production quality, scripting, and distribution.
+
+
+  ========================================================
+  MARKET RESEARCH REPORTS
+  ========================================================
+
+  Prompt #1: When conducting and reporting on market research and analysis
+  ────────────────────────────────────────────────────────
+  Research and write a market research report on the topic of 'The State of E-commerce in the Fashion Industry', featuring trends, insights, and analysis of the current market landscape. The report should include data and statistics, as well as recommendations for fashion brands and retailers.
 
 ============================================================
   Thank you for your purchase!

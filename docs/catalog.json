@@ -1,26 +1,26 @@
 [
   {
-    "title": "Business AI Prompts: Strategy & Operations",
-    "niche": "Business",
-    "price": 14,
-    "prompts_count": 29,
-    "description": "Run your business like a CEO. This pack of 30 ChatGPT prompts covers business strategy, financial analysis, competitor research, operational planning, and decision-making frameworks.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/ozeoeq"
-  },
-  {
-    "title": "Real Estate AI Prompt Bundle",
-    "niche": "Real Estate",
-    "price": 12,
-    "prompts_count": 25,
-    "description": "Stand out in a competitive market. This bundle of 25 ChatGPT prompts helps agents write compelling listing descriptions, social media posts, email scripts, and client communication templates.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/znvweb"
-  },
-  {
-    "title": "ChatGPT Prompts for Mindful Technology",
-    "niche": "Digital Wellness",
+    "title": "Content Creator AI Prompt Pack",
+    "niche": "Content Creation",
     "price": 9,
-    "prompts_count": 29,
-    "description": "This prompt pack helps you create personalized mindfulness exercises and meditation plans using ChatGPT, guiding you towards a more balanced and peaceful life. With these 30 expertly crafted prompts, you'll be able to harness the power of AI to reduce stress, improve focus, and increase overall wellbeing.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/eegteo"
+    "prompts_count": 33,
+    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/xmixph"
+  },
+  {
+    "title": "AI Prompts for Social Media Marketing",
+    "niche": "Social Media",
+    "price": 9,
+    "prompts_count": 35,
+    "description": "Stop struggling with content ideas. This pack includes 35 ChatGPT prompts designed to help you create scroll-stopping posts, captions, and threads for Instagram, TikTok, LinkedIn, and Twitter.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/gqlcol"
+  },
+  {
+    "title": "ChatGPT Prompts for Copywriting",
+    "niche": "Marketing & Copywriting",
+    "price": 9,
+    "prompts_count": 31,
+    "description": "Tired of staring at a blank page? This pack of 30 battle-tested ChatGPT prompts will help you write high-converting copy for landing pages, emails, ads, and sales letters in minutes.",
+    "gumroad_url": ""
   }
 ]
