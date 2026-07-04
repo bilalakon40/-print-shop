@@ -1,26 +1,18 @@
 [
   {
-    "title": "Content Creator AI Prompt Pack",
-    "niche": "Content Creation",
-    "price": 9,
-    "prompts_count": 33,
-    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/xmixph"
+    "title": "Business AI Prompts: Strategy & Operations",
+    "niche": "Business",
+    "price": 14,
+    "prompts_count": 30,
+    "description": "Run your business like a CEO. This pack of 30 ChatGPT prompts covers business strategy, financial analysis, competitor research, operational planning, and decision-making frameworks.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/jfbqjl"
   },
   {
-    "title": "AI Prompts for Social Media Marketing",
-    "niche": "Social Media",
-    "price": 9,
-    "prompts_count": 35,
-    "description": "Stop struggling with content ideas. This pack includes 35 ChatGPT prompts designed to help you create scroll-stopping posts, captions, and threads for Instagram, TikTok, LinkedIn, and Twitter.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/gqlcol"
-  },
-  {
-    "title": "ChatGPT Prompts for Copywriting",
-    "niche": "Marketing & Copywriting",
+    "title": "Blogging AI Prompts: Write Posts That Rank",
+    "niche": "Blogging",
     "price": 9,
     "prompts_count": 31,
-    "description": "Tired of staring at a blank page? This pack of 30 battle-tested ChatGPT prompts will help you write high-converting copy for landing pages, emails, ads, and sales letters in minutes.",
-    "gumroad_url": ""
+    "description": "Grow your blog without burning out. This pack includes 30 ChatGPT prompts for topic research, outline creation, writing engaging introductions, structuring posts, and optimizing for SEO.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/sdcktn"
   }
 ]
