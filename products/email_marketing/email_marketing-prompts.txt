@@ -3,8 +3,8 @@
   Write emails that get opened, read, and clicked
 ============================================================
 
-Included Prompts: 25
-Generated: June 30, 2026
+Included Prompts: 24
+Generated: July 05, 2026
 
 ============================================================
   HOW TO USE
@@ -21,128 +21,219 @@ Generated: June 30, 2026
 
 
   ========================================================
-  EMAIL LIST BUILDING
+  WELCOME EMAILS
   ========================================================
 
-  Prompt #1: When starting a new e-commerce business
+  Prompt #1: When launching a new e-commerce website
   ────────────────────────────────────────────────────────
-  I am launching a new e-commerce website and want to build an email list from scratch. Provide a step-by-step guide on how to create a lead magnet, set up a landing page, and drive traffic to it using social media and paid advertising.
-
-  Prompt #2: When hosting a webinar
-  ────────────────────────────────────────────────────────
-  I'm planning to host a webinar and want to use it as an opportunity to build my email list. Describe the best practices for promoting the webinar, creating a compelling registration page, and following up with attendees to maximize email sign-ups.
-
-  Prompt #3: When trying to expand your audience
-  ────────────────────────────────────────────────────────
-  I'm looking to partner with influencers in my industry to promote my products and build my email list. Describe the best practices for finding and approaching influencers, creating effective partnership proposals, and measuring the success of influencer-led email list growth.
-
-  Prompt #4: When attending a trade show
-  ────────────────────────────────────────────────────────
-  I'm planning to attend a trade show and want to use it as an opportunity to build my email list. Describe the best practices for promoting my business, creating a compelling lead magnet, and following up with attendees to maximize email sign-ups.
-
-  Prompt #5: When trying to expand your audience
-  ────────────────────────────────────────────────────────
-  I'm looking to use referral marketing to build my email list, but I'm not sure how to create an effective referral program. Describe the best practices for designing a referral program, promoting it to my subscribers, and incentivizing referrals to maximize email sign-ups.
+  Create a welcome email campaign for a new e-commerce website that sells outdoor gear, including a 10% discount code for the first purchase and a link to the website's blog with tips on hiking and camping. The tone should be friendly and inviting, with a clear call-to-action to encourage subscribers to start shopping.
 
 
   ========================================================
-  EMAIL CONTENT CREATION
+  ABANDONED CART EMAILS
   ========================================================
 
-  Prompt #1: When creating a regular newsletter
+  Prompt #1: When a customer abandons their shopping cart
   ────────────────────────────────────────────────────────
-  I need to create a monthly newsletter for my subscribers, but I'm struggling to come up with engaging content ideas. Suggest 10 different content types, such as tutorials, interviews, or curated resources, and provide examples of how to make them compelling and relevant to my audience.
-
-  Prompt #2: When launching a new product
-  ────────────────────────────────────────────────────────
-  I need to write a series of promotional emails for a new product launch, but I'm struggling to craft a compelling narrative and highlight the product's benefits. Provide guidance on how to structure the emails, use storytelling techniques, and create a sense of urgency to drive sales.
-
-  Prompt #3: When creating educational content
-  ────────────────────────────────────────────────────────
-  I need to create a series of educational emails to teach my subscribers about a complex topic, but I'm struggling to break down the content into digestible chunks. Provide guidance on how to structure the emails, use clear and concise language, and create engaging visuals to support the learning process.
-
-  Prompt #4: When gathering feedback from subscribers
-  ────────────────────────────────────────────────────────
-  I need to write a series of survey emails to gather feedback from my subscribers, but I'm struggling to craft compelling questions and analyze the results. Provide guidance on how to structure the surveys, use clear and concise language, and use the insights to improve my email marketing strategy.
-
-  Prompt #5: When creating announcement emails
-  ────────────────────────────────────────────────────────
-  I need to create a series of announcements emails to keep my subscribers informed about new products, features, and company news. Provide guidance on how to structure the emails, use clear and concise language, and create engaging visuals to support the announcements.
+  Design an abandoned cart email campaign for an online fashion store, with a reminder about the items left in the cart, a limited-time 15% discount offer, and a link to a size chart to help customers make a decision. The email should be sent 24 hours after the cart is abandoned, and the tone should be helpful and non-intrusive.
 
 
   ========================================================
-  EMAIL AUTOMATION
+  NEWSLETTERS
   ========================================================
 
-  Prompt #1: When onboarding new subscribers
+  Prompt #1: When maintaining a regular communication with subscribers
   ────────────────────────────────────────────────────────
-  I want to set up an automated email sequence for new subscribers, including a welcome email, a series of introductory emails, and a promotional email. Outline the key steps to create this sequence, including setting up triggers, writing effective email copy, and testing the workflow.
-
-  Prompt #2: When trying to recover lost sales
-  ────────────────────────────────────────────────────────
-  I want to set up an abandoned cart email sequence to recover lost sales and improve customer retention. Outline the key elements of an effective abandoned cart email, including triggers, timing, and content, and provide examples of successful implementations.
-
-  Prompt #3: When trying to re-engage inactive subscribers
-  ────────────────────────────────────────────────────────
-  I want to set up a win-back email sequence to re-engage inactive subscribers and prevent list decay. Outline the key steps to create an effective win-back sequence, including identifying inactive subscribers, crafting compelling content, and setting up triggers and timing.
-
-  Prompt #4: When trying to increase customer loyalty
-  ────────────────────────────────────────────────────────
-  I want to set up a birthday email sequence to send personalized messages and offers to my subscribers on their birthdays. Outline the key steps to create an effective birthday email sequence, including setting up triggers, crafting compelling content, and testing the workflow.
-
-  Prompt #5: When trying to recover lost sales
-  ────────────────────────────────────────────────────────
-  I want to set up a cart abandonment email sequence to recover lost sales and improve customer retention. Outline the key elements of an effective cart abandonment email, including triggers, timing, and content, and provide examples of successful implementations.
+  Develop a monthly newsletter for a fitness center, featuring a workout of the month, a healthy recipe, and a promotion for a new class or service. The newsletter should include a clear call-to-action to encourage subscribers to visit the website or social media pages for more information.
 
 
   ========================================================
-  EMAIL PERSONALIZATION
+  PROMOTIONAL EMAILS
   ========================================================
 
-  Prompt #1: When trying to increase email engagement
+  Prompt #1: When running a limited-time promotion or sale
   ────────────────────────────────────────────────────────
-  I have a large email list with diverse subscriber interests and behaviors. Provide guidance on how to segment my list, create personalized content, and use dynamic content blocks to tailor my emails to each segment, increasing engagement and conversion rates.
-
-  Prompt #2: When trying to increase sales
-  ────────────────────────────────────────────────────────
-  I have a large e-commerce store with a wide range of products, and I want to use email personalization to recommend relevant products to my subscribers. Explain how to use data and analytics to create personalized product recommendations, and provide tips on how to integrate them into my email campaigns.
-
-  Prompt #3: When trying to expand into new markets
-  ────────────────────────────────────────────────────────
-  I have a large email list with subscribers from different regions and languages, and I want to use email personalization to tailor my content to each region and language. Explain how to use geolocation data and language preferences to create personalized content, and provide tips on how to manage translations and localizations.
-
-  Prompt #4: When trying to increase engagement
-  ────────────────────────────────────────────────────────
-  I have a large email list with subscribers who have different preferences and behaviors, and I want to use email personalization to tailor my content to each subscriber. Explain how to use subscriber data and behavior to create personalized content, and provide tips on how to use dynamic content blocks to support personalization.
-
-  Prompt #5: When trying to increase sales
-  ────────────────────────────────────────────────────────
-  I have a large email list with subscribers who have different purchase histories and behaviors, and I want to use email personalization to recommend relevant products to each subscriber. Explain how to use purchase data and behavior to create personalized product recommendations, and provide tips on how to integrate them into my email campaigns.
+  Create a promotional email campaign for a summer sale, offering 20% off all products in the online store, with a sense of urgency created by a limited-time offer and a countdown timer. The email should include a clear call-to-action to shop now and a link to the sale page.
 
 
   ========================================================
-  EMAIL ANALYTICS
+  RE-ENGAGEMENT EMAILS
   ========================================================
 
-  Prompt #1: When evaluating email campaign performance
+  Prompt #1: When trying to re-engage inactive subscribers
   ────────────────────────────────────────────────────────
-  I'm having trouble understanding the performance of my email campaigns and identifying areas for improvement. Explain how to track key metrics such as open rates, click-through rates, and conversion rates, and provide tips on how to use analytics tools to optimize my email marketing strategy.
+  Design a re-engagement email campaign for inactive subscribers, with a personalized message, a survey to gather feedback, and a special offer to encourage them to come back to the website. The email should be sent after 6 months of inactivity, and the tone should be friendly and non-judgmental.
 
-  Prompt #2: When trying to optimize email subject lines
-  ────────────────────────────────────────────────────────
-  I'm trying to A/B test my email subject lines, but I'm not sure how to set up the test, analyze the results, and use the insights to improve my email marketing strategy. Provide a step-by-step guide on how to conduct an effective A/B test and use the results to optimize my email campaigns.
 
-  Prompt #3: When evaluating email marketing ROI
-  ────────────────────────────────────────────────────────
-  I'm trying to measure the ROI of my email marketing campaigns, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve ROI.
+  ========================================================
+  TRANSACTIONAL EMAILS
+  ========================================================
 
-  Prompt #4: When evaluating email marketing channels
+  Prompt #1: When confirming a payment or transaction
   ────────────────────────────────────────────────────────
-  I'm trying to identify the most effective email marketing channels for my business, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve channel performance.
+  Develop a transactional email for a payment confirmation, including a summary of the purchase, a link to the order details, and a thank-you message. The email should be sent immediately after the payment is processed, and the tone should be professional and courteous.
 
-  Prompt #5: When optimizing for mobile devices
+
+  ========================================================
+  LEAD NURTURING EMAILS
+  ========================================================
+
+  Prompt #1: When nurturing leads and guiding them through the sales funnel
   ────────────────────────────────────────────────────────
-  I'm trying to optimize my email marketing campaigns for mobile devices, but I'm not sure how to track and analyze the data. Provide a step-by-step guide on how to set up email marketing analytics, track key metrics, and use the insights to optimize my email marketing strategy and improve mobile performance.
+  Create a lead nurturing email campaign for a software company, with a series of 5 emails sent over 2 weeks, each providing valuable information about the software and its benefits, with a clear call-to-action to schedule a demo or sign up for a free trial. The tone should be educational and helpful.
+
+
+  ========================================================
+  SURVEY EMAILS
+  ========================================================
+
+  Prompt #1: When gathering feedback from customers
+  ────────────────────────────────────────────────────────
+  Design a survey email for a customer satisfaction survey, with a brief introduction, a link to the survey, and a promise of a reward or incentive for completing the survey. The email should be sent after a purchase or interaction with the company, and the tone should be appreciative and respectful.
+
+
+  ========================================================
+  ANNOUNCEMENT EMAILS
+  ========================================================
+
+  Prompt #1: When launching a new product or service
+  ────────────────────────────────────────────────────────
+  Develop an announcement email for a new product launch, with a detailed description of the product, its features, and benefits, as well as a link to a video demo and a call-to-action to pre-order or buy now. The tone should be exciting and enthusiastic.
+
+
+  ========================================================
+  REFERRAL EMAILS
+  ========================================================
+
+  Prompt #1: When promoting a referral program
+  ────────────────────────────────────────────────────────
+  Create a referral email campaign for a referral program, with a clear explanation of the program, a link to refer friends, and a reward or incentive for successful referrals. The email should be sent to existing customers, and the tone should be friendly and encouraging.
+
+
+  ========================================================
+  WIN-BACK EMAILS
+  ========================================================
+
+  Prompt #1: When trying to win back lost customers
+  ────────────────────────────────────────────────────────
+  Design a win-back email campaign for customers who have switched to a competitor, with a personalized message, a comparison of the two services, and a special offer to win them back. The email should be sent after 3 months of inactivity, and the tone should be apologetic and inviting.
+
+
+  ========================================================
+  BIRTHDAY EMAILS
+  ========================================================
+
+  Prompt #1: When celebrating a customer's birthday
+  ────────────────────────────────────────────────────────
+  Develop a birthday email campaign for a loyalty program, with a personalized message, a special offer or gift, and a link to a loyalty program page. The email should be sent on the customer's birthday, and the tone should be warm and celebratory.
+
+
+  ========================================================
+  CONFIRMATION EMAILS
+  ========================================================
+
+  Prompt #1: When confirming a registration or reservation
+  ────────────────────────────────────────────────────────
+  Create a confirmation email for a webinar registration, with a summary of the webinar details, a link to the webinar page, and a thank-you message. The email should be sent immediately after registration, and the tone should be professional and courteous.
+
+
+  ========================================================
+  FOLLOW-UP EMAILS
+  ========================================================
+
+  Prompt #1: When following up with leads or prospects
+  ────────────────────────────────────────────────────────
+  Design a follow-up email campaign for a sales team, with a series of 3 emails sent over 1 week, each providing additional information about the product or service, with a clear call-to-action to schedule a meeting or demo. The tone should be persistent and helpful.
+
+
+  ========================================================
+  EVENT EMAILS
+  ========================================================
+
+  Prompt #1: When promoting an event or conference
+  ────────────────────────────────────────────────────────
+  Develop an event email campaign for a conference, with a detailed description of the event, a link to the registration page, and a call-to-action to register now. The email should be sent 2 weeks before the event, and the tone should be exciting and informative.
+
+
+  ========================================================
+  ONBOARDING EMAILS
+  ========================================================
+
+  Prompt #1: When onboarding new customers or users
+  ────────────────────────────────────────────────────────
+  Create an onboarding email campaign for a software as a service (SaaS) company, with a series of 5 emails sent over 1 month, each providing tips and tutorials on how to use the software, with a clear call-to-action to contact support or schedule a demo. The tone should be educational and supportive.
+
+
+  ========================================================
+  MILESTONE EMAILS
+  ========================================================
+
+  Prompt #1: When celebrating a customer milestone
+  ────────────────────────────────────────────────────────
+  Design a milestone email campaign for a customer anniversary, with a personalized message, a special offer or gift, and a link to a loyalty program page. The email should be sent on the anniversary of the customer's first purchase, and the tone should be appreciative and celebratory.
+
+
+  ========================================================
+  EDUCATIONAL EMAILS
+  ========================================================
+
+  Prompt #1: When educating customers or subscribers
+  ────────────────────────────────────────────────────────
+  Develop an educational email campaign for a financial services company, with a series of 5 emails sent over 2 months, each providing information about personal finance, investing, and money management, with a clear call-to-action to schedule a consultation or download a guide. The tone should be informative and helpful.
+
+
+  ========================================================
+  FEEDBACK EMAILS
+  ========================================================
+
+  Prompt #1: When gathering feedback from customers
+  ────────────────────────────────────────────────────────
+  Create a feedback email campaign for a customer feedback survey, with a brief introduction, a link to the survey, and a promise of a reward or incentive for completing the survey. The email should be sent after a purchase or interaction with the company, and the tone should be appreciative and respectful.
+
+
+  ========================================================
+  REACTIVATION EMAILS
+  ========================================================
+
+  Prompt #1: When trying to reactivate inactive subscribers
+  ────────────────────────────────────────────────────────
+  Design a reactivation email campaign for inactive subscribers, with a personalized message, a survey to gather feedback, and a special offer to encourage them to come back to the website. The email should be sent after 6 months of inactivity, and the tone should be friendly and non-judgmental.
+
+
+  ========================================================
+  UPSELL EMAILS
+  ========================================================
+
+  Prompt #1: When promoting a premium product or service
+  ────────────────────────────────────────────────────────
+  Develop an upsell email campaign for a premium product or service, with a detailed description of the benefits and features, a comparison to the standard product, and a clear call-to-action to upgrade now. The email should be sent to existing customers, and the tone should be persuasive and helpful.
+
+
+  ========================================================
+  CROSS-SELL EMAILS
+  ========================================================
+
+  Prompt #1: When promoting a complementary product or service
+  ────────────────────────────────────────────────────────
+  Create a cross-sell email campaign for a complementary product or service, with a detailed description of the product, its benefits, and a clear call-to-action to buy now. The email should be sent to existing customers, and the tone should be helpful and informative.
+
+
+  ========================================================
+  CART ABANDONMENT EMAILS
+  ========================================================
+
+  Prompt #1: When a customer abandons their shopping cart
+  ────────────────────────────────────────────────────────
+  Design a cart abandonment email campaign for an e-commerce website, with a reminder about the items left in the cart, a limited-time 10% discount offer, and a link to a size chart to help customers make a decision. The email should be sent 24 hours after the cart is abandoned, and the tone should be helpful and non-intrusive.
+
+
+  ========================================================
+  THANK-YOU EMAILS
+  ========================================================
+
+  Prompt #1: When expressing appreciation to customers
+  ────────────────────────────────────────────────────────
+  Develop a thank-you email campaign for a customer appreciation program, with a personalized message, a special offer or gift, and a link to a loyalty program page. The email should be sent after a purchase or interaction with the company, and the tone should be warm and appreciative.
 
 ============================================================
   Thank you for your purchase!
