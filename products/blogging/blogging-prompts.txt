@@ -3,8 +3,8 @@
   Publish high-quality blog posts 5x faster
 ============================================================
 
-Included Prompts: 30
-Generated: July 06, 2026
+Included Prompts: 31
+Generated: July 08, 2026
 
 ============================================================
   HOW TO USE
@@ -21,273 +21,282 @@ Generated: July 06, 2026
 
 
   ========================================================
-  SEO OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When creating content that requires image-heavy posts
-  ────────────────────────────────────────────────────────
-  Write a blog post on how to optimize website images for better search engine rankings, including the importance of alt tags, descriptive file names, and image compression techniques. Provide examples of tools and software that can help with image optimization.
-
-
-  ========================================================
   CONTENT CREATION
   ========================================================
 
-  Prompt #1: When starting a new blog post and needing help with the introduction
+  Prompt #1: When creating a new blog post that needs to go viral
   ────────────────────────────────────────────────────────
-  Create a step-by-step guide on how to write a compelling blog post introduction that grabs the reader's attention, including tips on crafting a hook, providing context, and transitioning into the main content. Use the example of a blog post about the benefits of meditation.
+  Write a step-by-step guide on how to create a viral blog post, including tips on crafting attention-grabbing headlines, optimizing images, and promoting the content on social media platforms like Twitter and Facebook.
 
 
   ========================================================
-  SOCIAL MEDIA INTEGRATION
+  SEO OPTIMIZATION
   ========================================================
 
-  Prompt #1: When publishing a new blog post and wanting to increase social media engagement
+  Prompt #1: When optimizing a blog post for search engines
   ────────────────────────────────────────────────────────
-  Develop a social media strategy for promoting a blog post about the latest trends in sustainable fashion, including tips on creating engaging tweets, Instagram captions, and Facebook posts. Provide examples of relevant hashtags and influencers to tag.
+  Explain the importance of keyword research in blogging, and provide a detailed walkthrough of how to conduct keyword research using tools like Ahrefs and SEMrush, including how to analyze competitors and identify relevant long-tail keywords.
 
 
   ========================================================
-  EMAIL MARKETING
+  CONTENT MARKETING
   ========================================================
 
-  Prompt #1: When following up with subscribers and providing additional value
+  Prompt #1: When launching a new e-commerce website and needing a content marketing strategy
   ────────────────────────────────────────────────────────
-  Write a series of email newsletters that summarize a recent blog post on the importance of work-life balance, including tips on prioritizing tasks, setting boundaries, and practicing self-care. Provide examples of personal anecdotes and actionable advice.
+  Develop a content marketing strategy for a new e-commerce website selling outdoor gear, including a plan for creating and promoting blog posts, videos, and social media content that appeals to the target audience of outdoor enthusiasts.
 
 
   ========================================================
-  INFLUENCER COLLABORATION
+  BLOGGER OUTREACH
   ========================================================
 
-  Prompt #1: When looking to collaborate with influencers and expand audience reach
+  Prompt #1: When trying to collaborate with other bloggers or influencers in the same niche
   ────────────────────────────────────────────────────────
-  Craft a pitch email to reach out to a popular lifestyle influencer to collaborate on a blog post about the best ways to stay organized and productive, including examples of potential topics, content formats, and promotion strategies.
+  Write a script for reaching out to prominent bloggers in the health and wellness space, including a pitch for collaborating on a guest post, a free product review, or a joint social media promotion, and provide tips on how to build relationships with influencers.
+
+
+  ========================================================
+  BLOG ANALYTICS
+  ========================================================
+
+  Prompt #1: When trying to understand and improve the performance of a blog
+  ────────────────────────────────────────────────────────
+  Explain how to use Google Analytics to track the performance of a blog, including how to set up goals, track conversions, and analyze audience demographics, and provide tips on how to use the data to improve the blog's content and user experience.
 
 
   ========================================================
   CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: When wanting to repurpose existing content for different formats
+  Prompt #1: When trying to breathe new life into existing content
   ────────────────────────────────────────────────────────
-  Transform a blog post on the benefits of journaling into a video script, including tips on creating engaging visuals, crafting a narrative, and optimizing for YouTube SEO. Provide examples of potential thumbnail images and video titles.
+  Describe the process of repurposing a successful blog post into other formats, such as a video, podcast, or social media series, and provide examples of how to adapt the content for different channels and audiences.
 
 
   ========================================================
-  BLOG POST SERIES
+  EMAIL MARKETING
   ========================================================
 
-  Prompt #1: When creating comprehensive content on a specific topic
+  Prompt #1: When trying to build an email list and create a newsletter for a blog
   ────────────────────────────────────────────────────────
-  Develop a series of blog posts on the topic of starting a new business, including posts on market research, business planning, and launch strategies. Provide examples of potential post titles, outlines, and calls-to-action.
+  Create a plan for building an email list and creating a newsletter for a blog, including tips on how to craft compelling subject lines, write engaging email copy, and use automation tools to personalize the content.
 
 
   ========================================================
-  LIST-STYLE POSTS
+  SOCIAL MEDIA PROMOTION
   ========================================================
 
-  Prompt #1: When creating content that requires a concise and scannable format
+  Prompt #1: When promoting a blog post on social media
   ────────────────────────────────────────────────────────
-  Write a list-style blog post on the top 10 productivity apps for entrepreneurs, including descriptions of each app, their features, and pricing plans. Provide examples of potential listicle titles and introduction paragraphs.
+  Write a guide on how to promote a blog post on Instagram, including tips on how to create eye-catching graphics, write engaging captions, and use relevant hashtags to reach a wider audience.
 
 
   ========================================================
-  PERSONAL STORYTELLING
+  INFLUENCER PARTNERSHIPS
   ========================================================
 
-  Prompt #1: When wanting to create a more personal and relatable connection with readers
+  Prompt #1: When trying to partner with influencers to promote a blog
   ────────────────────────────────────────────────────────
-  Craft a personal story about overcoming a difficult challenge, such as starting a new career or learning a new skill, and provide tips and advice on how readers can apply similar strategies to their own lives. Use the example of a blog post about learning to code.
-
-
-  ========================================================
-  INDUSTRY TRENDS
-  ========================================================
-
-  Prompt #1: When covering industry-related news and topics
-  ────────────────────────────────────────────────────────
-  Write a blog post on the latest trends in artificial intelligence and machine learning, including examples of real-world applications, potential benefits, and challenges. Provide predictions for future developments and potential impact on various industries.
-
-
-  ========================================================
-  TUTORIAL-STYLE POSTS
-  ========================================================
-
-  Prompt #1: When creating in-depth guides and tutorials
-  ────────────────────────────────────────────────────────
-  Create a step-by-step tutorial on how to create a WordPress website, including tips on choosing a theme, installing plugins, and optimizing for SEO. Provide examples of potential screenshots and code snippets.
-
-
-  ========================================================
-  GUEST BLOGGING
-  ========================================================
-
-  Prompt #1: When looking to guest post on other blogs and expand audience reach
-  ────────────────────────────────────────────────────────
-  Develop a pitch email to submit a guest post on the topic of mindfulness and self-care to a popular wellness blog, including examples of potential post titles, outlines, and author bios. Provide tips on building relationships with other bloggers and promoting guest posts.
-
-
-  ========================================================
-  CASE STUDIES
-  ========================================================
-
-  Prompt #1: When showcasing success stories and providing actionable insights
-  ────────────────────────────────────────────────────────
-  Write a case study on the success of a recent marketing campaign, including examples of goals, strategies, and results. Provide analysis of what worked well and what could be improved, and offer tips on how readers can apply similar strategies to their own campaigns.
-
-
-  ========================================================
-  INTERVIEW-STYLE POSTS
-  ========================================================
-
-  Prompt #1: When creating content that requires expert insights and opinions
-  ────────────────────────────────────────────────────────
-  Conduct an interview with a industry expert on the topic of cybersecurity, including questions on the latest threats, best practices, and future trends. Provide examples of potential interview questions and tips on how to conduct a successful interview.
-
-
-  ========================================================
-  CURATED CONTENT
-  ========================================================
-
-  Prompt #1: When creating content that requires aggregating and summarizing existing information
-  ────────────────────────────────────────────────────────
-  Curate a list of the best resources on the topic of digital marketing, including blogs, podcasts, and online courses. Provide descriptions of each resource, including their target audience, topics covered, and pricing information.
-
-
-  ========================================================
-  PODCAST TRANSCRIPTIONS
-  ========================================================
-
-  Prompt #1: When creating written content from audio or video sources
-  ────────────────────────────────────────────────────────
-  Transcribe a podcast episode on the topic of entrepreneurship and provide a summary of the main points, including tips on starting a new business, marketing strategies, and overcoming challenges. Provide examples of potential transcription software and editing techniques.
-
-
-  ========================================================
-  VIDEO SCRIPTING
-  ========================================================
-
-  Prompt #1: When creating video content and needing a script
-  ────────────────────────────────────────────────────────
-  Write a script for a video on the topic of social media marketing, including tips on creating engaging content, growing a following, and measuring success. Provide examples of potential video titles, introductions, and calls-to-action.
-
-
-  ========================================================
-  INFOGRAPHIC CREATION
-  ========================================================
-
-  Prompt #1: When creating visual content that requires a concise and informative format
-  ────────────────────────────────────────────────────────
-  Design an infographic on the topic of the benefits of meditation, including statistics, quotes, and visual illustrations. Provide examples of potential design software, color schemes, and font styles.
-
-
-  ========================================================
-  EBOOK CREATION
-  ========================================================
-
-  Prompt #1: When creating comprehensive and in-depth content
-  ────────────────────────────────────────────────────────
-  Write an ebook on the topic of productivity and time management, including tips on prioritizing tasks, avoiding distractions, and creating a schedule. Provide examples of potential ebook titles, outlines, and promotion strategies.
-
-
-  ========================================================
-  WEBINAR CREATION
-  ========================================================
-
-  Prompt #1: When creating live and interactive content
-  ────────────────────────────────────────────────────────
-  Develop a webinar on the topic of email marketing, including tips on creating effective subject lines, crafting engaging content, and measuring success. Provide examples of potential webinar titles, outlines, and promotion strategies.
-
-
-  ========================================================
-  ONLINE COURSE CREATION
-  ========================================================
-
-  Prompt #1: When creating in-depth and comprehensive educational content
-  ────────────────────────────────────────────────────────
-  Create an online course on the topic of social media marketing, including lessons on creating a social media strategy, growing a following, and measuring success. Provide examples of potential course titles, outlines, and promotion strategies.
-
-
-  ========================================================
-  BLOG POST TEMPLATES
-  ========================================================
-
-  Prompt #1: When creating consistent and professional-looking blog posts
-  ────────────────────────────────────────────────────────
-  Design a template for a blog post on the topic of industry trends, including sections for introduction, main content, and conclusion. Provide examples of potential template layouts, font styles, and formatting options.
+  Explain the benefits of partnering with influencers to promote a blog, and provide a step-by-step guide on how to find and approach potential influencers, including how to pitch a collaboration and negotiate terms.
 
 
   ========================================================
   CONTENT CALENDAR
   ========================================================
 
-  Prompt #1: When planning and organizing content in advance
+  Prompt #1: When planning and organizing content for a blog
   ────────────────────────────────────────────────────────
-  Develop a content calendar for a blog on the topic of wellness and self-care, including topics, formats, and publication dates. Provide examples of potential calendar templates, planning tools, and scheduling software.
+  Create a content calendar template for a blog, including space to plan and schedule blog posts, social media content, and email newsletters, and provide tips on how to use the calendar to stay organized and ensure consistent content publication.
 
 
   ========================================================
-  REPURPOSING USER-GENERATED CONTENT
+  GUEST BLOGGING
   ========================================================
 
-  Prompt #1: When creating content that showcases user engagement and participation
+  Prompt #1: When writing a guest post for another blog
   ────────────────────────────────────────────────────────
-  Transform user-generated content from social media into a blog post, including tips on curating and editing user-submitted photos, stories, and reviews. Provide examples of potential post titles, introductions, and calls-to-action.
+  Write a guide on how to write a guest post for another blog, including tips on how to research the host blog, craft a compelling pitch, and write high-quality content that resonates with the host blog's audience.
 
 
   ========================================================
-  CREATING A BLOG SERIES
+  BLOG MONETIZATION
   ========================================================
 
-  Prompt #1: When creating comprehensive and in-depth content on a specific topic
+  Prompt #1: When trying to make money from a blog
   ────────────────────────────────────────────────────────
-  Develop a series of blog posts on the topic of starting a new business, including posts on market research, business planning, and launch strategies. Provide examples of potential post titles, outlines, and promotion strategies.
+  Explain the different ways to monetize a blog, including display advertising, affiliate marketing, and sponsored content, and provide tips on how to implement these strategies and optimize revenue.
 
 
   ========================================================
-  OPTIMIZING BLOG POSTS FOR VOICE SEARCH
+  CONTENT UPGRADE
   ========================================================
 
-  Prompt #1: When improving website visibility and search engine rankings
+  Prompt #1: When trying to add value to existing content
   ────────────────────────────────────────────────────────
-  Write a blog post on how to optimize website content for voice search, including tips on using natural language, providing concise answers, and optimizing for featured snippets. Provide examples of potential voice search queries and optimization techniques.
+  Describe the process of upgrading a blog post to include additional resources, such as a free ebook, webinar, or video series, and provide examples of how to use these upgrades to increase engagement and build trust with readers.
 
 
   ========================================================
-  CONDUCTING KEYWORD RESEARCH
+  USER EXPERIENCE
   ========================================================
 
-  Prompt #1: When researching and identifying relevant keywords for content optimization
+  Prompt #1: When trying to improve the user experience of a blog
   ────────────────────────────────────────────────────────
-  Conduct keyword research for a blog post on the topic of digital marketing, including tips on using keyword research tools, identifying relevant keywords, and optimizing content for search engines. Provide examples of potential keyword research software and techniques.
+  Write a guide on how to improve the user experience of a blog, including tips on how to optimize page speed, simplify navigation, and enhance the overall design and layout.
 
 
   ========================================================
-  CREATING A LEAD MAGNET
+  CONTENT LOCALIZATION
   ========================================================
 
-  Prompt #1: When creating a resource that attracts and engages potential customers
+  Prompt #1: When trying to reach a global audience with a blog
   ────────────────────────────────────────────────────────
-  Develop a lead magnet on the topic of social media marketing, including tips on creating a valuable resource, promoting it on social media, and measuring success. Provide examples of potential lead magnet types, such as ebooks, webinars, and checklists.
+  Explain the importance of localizing content for a global audience, and provide a step-by-step guide on how to adapt content for different languages, cultures, and regions, including tips on how to use translation tools and conduct cultural research.
 
 
   ========================================================
-  WRITING A BLOG POST INTRODUCTION
+  BLOG SECURITY
   ========================================================
 
-  Prompt #1: When starting a new blog post and needing help with the introduction
+  Prompt #1: When trying to protect a blog from security threats
   ────────────────────────────────────────────────────────
-  Craft a compelling introduction for a blog post on the topic of productivity and time management, including tips on grabbing the reader's attention, providing context, and transitioning into the main content. Provide examples of potential introduction styles and techniques.
+  Write a guide on how to secure a blog from hacking and cyber threats, including tips on how to use strong passwords, install security plugins, and conduct regular backups.
 
 
   ========================================================
-  CREATING A BLOG POST OUTLINE
+  CONTENT COLLABORATION
   ========================================================
 
-  Prompt #1: When planning and organizing content in advance
+  Prompt #1: When trying to collaborate with other bloggers or experts
   ────────────────────────────────────────────────────────
-  Develop an outline for a blog post on the topic of industry trends, including sections for introduction, main content, and conclusion. Provide examples of potential outline templates, formatting options, and organization techniques.
+  Describe the process of collaborating with other bloggers or experts to create high-quality content, including tips on how to find and approach potential collaborators, and how to manage the collaboration process.
+
+
+  ========================================================
+  AUDIENCE ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When trying to build a loyal community around a blog
+  ────────────────────────────────────────────────────────
+  Explain the importance of engaging with the audience of a blog, and provide tips on how to respond to comments, create a community around the blog, and use social media to foster engagement and build relationships with readers.
+
+
+  ========================================================
+  CONTENT REPLICATION
+  ========================================================
+
+  Prompt #1: When trying to replicate the success of a high-performing blog post
+  ────────────────────────────────────────────────────────
+  Write a guide on how to replicate the success of a high-performing blog post, including tips on how to analyze the post's performance, identify the key factors that contributed to its success, and apply those factors to future content.
+
+
+  ========================================================
+  BLOG MAINTENANCE
+  ========================================================
+
+  Prompt #1: When trying to maintain and update a blog
+  ────────────────────────────────────────────────────────
+  Create a checklist for maintaining a blog, including tasks such as updating plugins, backing up the database, and monitoring analytics, and provide tips on how to schedule and automate these tasks.
+
+
+  ========================================================
+  CONTENT STRATEGY
+  ========================================================
+
+  Prompt #1: When creating a content strategy for a blog
+  ────────────────────────────────────────────────────────
+  Develop a content strategy for a blog, including a plan for creating and promoting content, engaging with the audience, and measuring the effectiveness of the content, and provide examples of how to adapt the strategy to different niches and audiences.
+
+
+  ========================================================
+  SEO AUDIT
+  ========================================================
+
+  Prompt #1: When trying to improve the search engine rankings of a blog
+  ────────────────────────────────────────────────────────
+  Explain the process of conducting an SEO audit of a blog, including tips on how to analyze the blog's technical SEO, content, and backlinks, and provide recommendations for improving the blog's search engine rankings.
+
+
+  ========================================================
+  CONTENT PROMOTION
+  ========================================================
+
+  Prompt #1: When promoting a blog post on LinkedIn
+  ────────────────────────────────────────────────────────
+  Write a guide on how to promote a blog post on LinkedIn, including tips on how to craft a compelling headline, write an engaging summary, and use relevant hashtags to reach a wider audience.
+
+
+  ========================================================
+  INFLUENCER RESEARCH
+  ========================================================
+
+  Prompt #1: When trying to find and partner with influencers in a particular niche
+  ────────────────────────────────────────────────────────
+  Describe the process of researching and identifying influencers in a particular niche, including tips on how to use social media listening tools, analyze influencer profiles, and evaluate their relevance and reach.
+
+
+  ========================================================
+  BLOG DESIGN
+  ========================================================
+
+  Prompt #1: When designing or redesigning a blog
+  ────────────────────────────────────────────────────────
+  Explain the importance of good design in blogging, and provide tips on how to create a visually appealing and user-friendly design, including how to choose a theme, select fonts and colors, and optimize images.
+
+
+  ========================================================
+  CONTENT SYNDICATION
+  ========================================================
+
+  Prompt #1: When trying to reach a wider audience with a blog's content
+  ────────────────────────────────────────────────────────
+  Write a guide on how to syndicate content from a blog to other platforms, including tips on how to use RSS feeds, automate content sharing, and track the performance of syndicated content.
+
+
+  ========================================================
+  READER ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When trying to build a loyal community around a blog
+  ────────────────────────────────────────────────────────
+  Explain the importance of engaging with readers and creating a community around a blog, and provide tips on how to respond to comments, create a loyalty program, and use email newsletters to build relationships with readers.
+
+
+  ========================================================
+  CONTENT FRESHNESS
+  ========================================================
+
+  Prompt #1: When trying to keep a blog's content fresh and relevant
+  ────────────────────────────────────────────────────────
+  Describe the process of keeping content fresh and up-to-date, including tips on how to update existing posts, create new content, and use content calendaring tools to plan and schedule content.
+
+
+  ========================================================
+  BLOG MIGRATION
+  ========================================================
+
+  Prompt #1: When migrating a blog to a new platform or host
+  ────────────────────────────────────────────────────────
+  Explain the process of migrating a blog to a new platform or host, including tips on how to transfer content, set up redirects, and minimize downtime.
+
+
+  ========================================================
+  CONTENT ACCESSIBILITY
+  ========================================================
+
+  Prompt #1: When trying to make a blog's content more accessible
+  ────────────────────────────────────────────────────────
+  Write a guide on how to make a blog's content more accessible to people with disabilities, including tips on how to use alt text, provide transcripts, and optimize the blog's design for screen readers.
+
+
+  ========================================================
+  ANALYTICS REPORTING
+  ========================================================
+
+  Prompt #1: When trying to understand and improve the performance of a blog
+  ────────────────────────────────────────────────────────
+  Explain the importance of tracking and analyzing a blog's performance using analytics tools, and provide tips on how to create reports, set up dashboards, and use data to inform content and marketing decisions.
 
 ============================================================
   Thank you for your purchase!
