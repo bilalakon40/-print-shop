@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose Music like a Pro with AI
+  Compose like a pro with AI-powered music creation
 ============================================================
 
-Included Prompts: 30
-Generated: July 08, 2026
+Included Prompts: 31
+Generated: July 09, 2026
 
 ============================================================
   HOW TO USE
@@ -21,68 +21,246 @@ Generated: July 08, 2026
 
 
   ========================================================
-  MUSIC COMPOSITION
+  MELODY GENERATION
   ========================================================
 
-  Prompt #1: When looking to create a new jazz melody
+  Prompt #1: When generating melodic ideas for a classical music piece
   ────────────────────────────────────────────────────────
-  Generate a 16-bar melody for a jazz song in the style of Miles Davis, using a mix of stepwise motion and leaps to create tension and release. The melody should be written in the key of C major and feature a prominent use of the ii-V-I chord progression.
-
-  Prompt #2: When experimenting with fusion of different music styles
-  ────────────────────────────────────────────────────────
-  Create a musical piece that combines elements of electronic dance music with traditional Indian classical music, incorporating the use of tabla and sitar instruments. The piece should be approximately 5 minutes long and feature a gradual build-up of energy and complexity.
+  Create a melodic phrase in the style of Bach, using a combination of stepwise motion and leaps, and incorporating the notes C, E, and G. The phrase should be 8 bars long and written in 4/4 time.
 
 
   ========================================================
-  MUSIC GENERATION FOR FILM
+  CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When creating music for a film or video project
+  Prompt #1: When creating harmonic foundations for a pop song
   ────────────────────────────────────────────────────────
-  Generate a soundtrack for a sci-fi movie set in a dystopian future, featuring a combination of eerie ambient textures and pulsing electronic rhythms. The soundtrack should be approximately 10 minutes long and include sound effects to enhance the cinematic experience.
+  Generate a chord progression for a pop song in the key of A minor, using a mix of major and minor chords, and including a bridge section that modulates to the key of C major. The progression should be 16 bars long and follow a verse-chorus-verse-chorus-bridge-chorus structure.
 
-  Prompt #2: When creating music for a film or video project
+
+  ========================================================
+  LYRICS GENERATION
+  ========================================================
+
+  Prompt #1: When generating lyrics for a folk song
   ────────────────────────────────────────────────────────
-  Create a musical score for a romantic comedy film, featuring a mix of upbeat and sentimental tracks to match the mood of the movie. The score should include a central theme that is varied and developed throughout the film, and should be approximately 20 minutes long.
+  Write a set of lyrics for a folk song about a person who is traveling through the countryside, reflecting on their life and the world around them. The lyrics should be 4 stanzas long and include themes of nature, freedom, and self-discovery.
 
 
   ========================================================
   MUSIC STYLE TRANSFER
   ========================================================
 
-  Prompt #1: When looking to create a new version of an existing song
+  Prompt #1: When adapting a piece of music to a different style or genre
   ────────────────────────────────────────────────────────
-  Take a given pop song and transform it into a heavy metal version, using techniques such as pitch shifting and time stretching to create a dramatic change in style. The resulting song should retain the original melody and lyrics, but with a completely new sound and feel.
-
-  Prompt #2: When experimenting with fusion of different music styles
-  ────────────────────────────────────────────────────────
-  Transfer the style of a classical piano piece by Chopin to a modern hip-hop track, incorporating elements of jazz and funk to create a unique sound. The resulting track should feature a prominent piano riff and a driving beat, with a mix of electronic and acoustic elements.
+  Take a piece of music in the style of hip-hop and transform it into a jazz piece, incorporating elements such as improvisation, syncopated rhythms, and extended chords. The resulting piece should be 32 bars long and feature a saxophone solo.
 
 
   ========================================================
-  MUSIC PERSONALIZATION
+  SOUND DESIGN
   ========================================================
 
-  Prompt #1: When creating personalized music recommendations
+  Prompt #1: When generating sound effects and ambiance for a film or video game
   ────────────────────────────────────────────────────────
-  Generate a personalized music playlist for a user who enjoys listening to relaxing music, featuring a mix of ambient, nature sounds, and soft instrumental tracks. The playlist should be approximately 1 hour long and include a variety of different artists and styles.
+  Create a soundscape for a science fiction film, using a combination of electronic and acoustic elements to evoke a sense of otherworldliness and unease. The soundscape should be 2 minutes long and include a range of textures, from eerie ambiance to percussive effects.
 
-  Prompt #2: When creating personalized music recommendations
+
+  ========================================================
+  COMPOSITION
+  ========================================================
+
+  Prompt #1: When creating music for a specific ensemble or instrument
   ────────────────────────────────────────────────────────
-  Create a customized music playlist for a workout session, featuring a mix of high-energy tracks with fast tempos and motivating lyrics. The playlist should be approximately 30 minutes long and include a warm-up section, a main workout section, and a cool-down section.
+  Compose a piece of music for a string quartet, using a combination of homophonic and polyphonic textures to create a sense of tension and release. The piece should be 12 minutes long and feature a range of dynamics, from pianissimo to fortissimo.
+
+
+  ========================================================
+  HARMONY GENERATION
+  ========================================================
+
+  Prompt #1: When adding harmonies to a vocal melody
+  ────────────────────────────────────────────────────────
+  Generate a set of harmonies for a vocal melody, using a combination of close and open voicings to create a sense of depth and richness. The harmonies should be 16 bars long and feature a range of intervals, from thirds to sixths.
+
+
+  ========================================================
+  RHYTHM GENERATION
+  ========================================================
+
+  Prompt #1: When generating rhythmic ideas for a drum machine or percussion instrument
+  ────────────────────────────────────────────────────────
+  Create a rhythmic pattern for a drum machine, using a combination of straight and swung rhythms to create a sense of groove and momentum. The pattern should be 16 bars long and feature a range of time signatures, from 4/4 to 7/8.
+
+
+  ========================================================
+  ORCHESTRATION
+  ========================================================
+
+  Prompt #1: When arranging music for a large ensemble
+  ────────────────────────────────────────────────────────
+  Orchestrate a piece of music for a full symphony orchestra, using a range of instrumental timbres and textures to create a sense of color and contrast. The piece should be 20 minutes long and feature a range of instrumental combinations, from soloists to full tutti sections.
 
 
   ========================================================
   MUSIC ANALYSIS
   ========================================================
 
-  Prompt #1: When looking to understand the composition of a song
+  Prompt #1: When studying the music of a particular composer or style
   ────────────────────────────────────────────────────────
-  Analyze the musical structure and composition of a given song, identifying key elements such as chord progressions, melody, and rhythm. Provide a detailed breakdown of the song's arrangement and suggest potential improvements or modifications.
+  Analyze the harmonic structure of a piece of music by Mozart, identifying the key, chord progressions, and modulation schemes used throughout the piece. The analysis should be 2 pages long and include examples and diagrams to illustrate the points being made.
 
-  Prompt #2: When looking to discover new music or understand different styles
+
+  ========================================================
+  MELODY VARIATION
+  ========================================================
+
+  Prompt #1: When generating melodic ideas based on a existing theme
   ────────────────────────────────────────────────────────
-  Compare and contrast the musical styles of two different artists, analyzing their use of melody, harmony, and rhythm. Identify key similarities and differences between the two artists and provide recommendations for further listening.
+  Create a set of variations on a melodic theme, using a range of techniques such as fragmentation, ornamentation, and reharmonization to create a sense of diversity and interest. The variations should be 8 bars long and feature a range of melodic motifs and patterns.
+
+
+  ========================================================
+  CHORD VOICING
+  ========================================================
+
+  Prompt #1: When creating chord voicings for a jazz piano piece
+  ────────────────────────────────────────────────────────
+  Generate a set of chord voicings for a jazz piano piece, using a combination of rootless voicings, shell voicings, and drop-2 voicings to create a sense of richness and complexity. The voicings should be 16 bars long and feature a range of chord types, from major and minor to dominant and diminished.
+
+
+  ========================================================
+  MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When finalizing a mix for a song or album
+  ────────────────────────────────────────────────────────
+  Produce a mix of a song, using a range of techniques such as EQ, compression, and reverb to create a sense of balance and clarity. The mix should be 3 minutes long and feature a range of instrumental and vocal elements, from drums and bass to guitars and keyboards.
+
+
+  ========================================================
+  INSTRUMENTAL TEXTURE
+  ========================================================
+
+  Prompt #1: When creating music that showcases a range of instrumental textures
+  ────────────────────────────────────────────────────────
+  Create a piece of music that features a range of instrumental textures, from monophony to polyphony, and from homogeneous to heterogeneous timbres. The piece should be 10 minutes long and feature a range of instrumental combinations, from soloists to large ensembles.
+
+
+  ========================================================
+  FORM AND STRUCTURE
+  ========================================================
+
+  Prompt #1: When creating music that uses a range of formal structures
+  ────────────────────────────────────────────────────────
+  Compose a piece of music that uses a range of formal structures, from sonata form to rondo form, and from binary to ternary form. The piece should be 15 minutes long and feature a range of themes, motifs, and harmonic progressions.
+
+
+  ========================================================
+  TIMBRE AND TONE COLOR
+  ========================================================
+
+  Prompt #1: When generating sound effects and ambiance for a film or video game
+  ────────────────────────────────────────────────────────
+  Create a soundscape that features a range of timbres and tone colors, from bright and piercing to dark and muted. The soundscape should be 5 minutes long and feature a range of instrumental and electronic elements, from percussion and woodwinds to synthesizers and distortion pedals.
+
+
+  ========================================================
+  RHYTHMIC VARIATION
+  ========================================================
+
+  Prompt #1: When generating rhythmic ideas based on a existing theme
+  ────────────────────────────────────────────────────────
+  Create a set of rhythmic variations on a theme, using a range of techniques such as augmentation, diminution, and syncopation to create a sense of diversity and interest. The variations should be 12 bars long and feature a range of rhythmic motifs and patterns.
+
+
+  ========================================================
+  HARMONIC ANALYSIS
+  ========================================================
+
+  Prompt #1: When studying the music of a particular composer or style
+  ────────────────────────────────────────────────────────
+  Analyze the harmonic structure of a piece of music by Debussy, identifying the key, chord progressions, and modulation schemes used throughout the piece. The analysis should be 3 pages long and include examples and diagrams to illustrate the points being made.
+
+
+  ========================================================
+  COUNTERPOINT
+  ========================================================
+
+  Prompt #1: When creating music that showcases a range of contrapuntal techniques
+  ────────────────────────────────────────────────────────
+  Create a piece of music that features a range of contrapuntal techniques, from imitation to inversion, and from canon to fugue. The piece should be 12 minutes long and feature a range of instrumental combinations, from duo to quartet.
+
+
+  ========================================================
+  ELECTRONIC MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating electronic music for a song or album
+  ────────────────────────────────────────────────────────
+  Produce a track of electronic music, using a range of techniques such as synthesis, sampling, and effects processing to create a sense of depth and complexity. The track should be 4 minutes long and feature a range of electronic elements, from drum machines and synthesizers to distortion pedals and reverb units.
+
+
+  ========================================================
+  VOCAL PROCESSING
+  ========================================================
+
+  Prompt #1: When adding vocal effects to a song or album
+  ────────────────────────────────────────────────────────
+  Create a set of vocal effects, using a range of techniques such as reverb, delay, and distortion to create a sense of space and atmosphere. The effects should be 2 minutes long and feature a range of vocal styles, from lead vocals to backing vocals.
+
+
+  ========================================================
+  INSTRUMENTAL SIMULATION
+  ========================================================
+
+  Prompt #1: When creating realistic instrumental simulations for a film or video game
+  ────────────────────────────────────────────────────────
+  Simulate the sound of a real instrument, using a range of techniques such as physical modeling and sampling to create a sense of realism and authenticity. The simulation should be 3 minutes long and feature a range of instrumental elements, from soloists to ensembles.
+
+
+  ========================================================
+  AUDIO RESTORATION
+  ========================================================
+
+  Prompt #1: When restoring damaged or degraded audio files
+  ────────────────────────────────────────────────────────
+  Restore a damaged or degraded audio file, using a range of techniques such as noise reduction, EQ, and compression to create a sense of clarity and balance. The restoration should be 2 minutes long and feature a range of audio elements, from music to dialogue.
+
+
+  ========================================================
+  MUSIC RECOMMENDATION
+  ========================================================
+
+  Prompt #1: When creating personalized music recommendations for a user
+  ────────────────────────────────────────────────────────
+  Recommend a playlist of music based on a user's listening history and preferences, using a range of techniques such as collaborative filtering and natural language processing to create a sense of personalized recommendation. The playlist should be 30 minutes long and feature a range of musical genres and styles.
+
+
+  ========================================================
+  MUSIC VISUALIZATION
+  ========================================================
+
+  Prompt #1: When visualizing music for a film or video game
+  ────────────────────────────────────────────────────────
+  Create a visual representation of a piece of music, using a range of techniques such as spectral analysis and data visualization to create a sense of pattern and structure. The visualization should be 2 minutes long and feature a range of musical elements, from melody to harmony.
+
+
+  ========================================================
+  MUSIC CLASSIFICATION
+  ========================================================
+
+  Prompt #1: When classifying music into a particular genre or style
+  ────────────────────────────────────────────────────────
+  Classify a piece of music into a particular genre or style, using a range of techniques such as machine learning and natural language processing to create a sense of accuracy and reliability. The classification should be 1 page long and feature a range of musical elements, from melody to harmony.
+
+
+  ========================================================
+  MUSIC GENERATION FOR FILM
+  ========================================================
+
+  Prompt #1: When creating music for a film or video game
+  ────────────────────────────────────────────────────────
+  Generate a piece of music for a film, using a range of techniques such as thematic development and leitmotif to create a sense of narrative and emotional resonance. The piece should be 5 minutes long and feature a range of instrumental elements, from soloists to ensembles.
 
 
   ========================================================
@@ -91,128 +269,34 @@ Generated: July 08, 2026
 
   Prompt #1: When creating music for a video game
   ────────────────────────────────────────────────────────
-  Generate a soundtrack for a fantasy role-playing game, featuring a mix of epic orchestral tracks and more intimate, atmospheric soundscapes. The soundtrack should be approximately 30 minutes long and include a variety of different themes and motifs to match the game's story and gameplay.
-
-  Prompt #2: When creating music for a video game
-  ────────────────────────────────────────────────────────
-  Create a musical score for a puzzle game, featuring a mix of calming and challenging tracks to match the game's difficulty curve. The score should include a central theme that is varied and developed throughout the game, and should be approximately 20 minutes long.
+  Generate a piece of music for a video game, using a range of techniques such as procedural generation and adaptive music to create a sense of interactivity and immersion. The piece should be 10 minutes long and feature a range of musical elements, from melody to harmony.
 
 
   ========================================================
-  MUSIC LOOP GENERATION
+  LIVE PERFORMANCE
   ========================================================
 
-  Prompt #1: When creating music loops for use in video games or other applications
+  Prompt #1: When creating live performances of music for a concert or festival
   ────────────────────────────────────────────────────────
-  Generate a seamless loop of a given musical phrase, using techniques such as cross-fading and phase vocoding to create a smooth and natural-sounding transition. The loop should be approximately 10 seconds long and feature a consistent tempo and rhythm.
-
-  Prompt #2: When creating music for interactive applications
-  ────────────────────────────────────────────────────────
-  Create a set of musical loops that can be combined to create a dynamic and evolving soundtrack, featuring a mix of different themes and motifs. The loops should be approximately 5-10 seconds long and include a variety of different instrumentation and textures.
-
-
-  ========================================================
-  MUSIC COLLABORATION
-  ========================================================
-
-  Prompt #1: When looking to collaborate with human musicians
-  ────────────────────────────────────────────────────────
-  Collaborate with a human musician to create a new song, using AI-generated musical ideas and suggestions to inspire and inform the composition process. The resulting song should feature a mix of human and AI-generated elements, and should be approximately 3-4 minutes long.
-
-  Prompt #2: When looking to assist human composers
-  ────────────────────────────────────────────────────────
-  Generate a set of musical ideas and suggestions for a human composer, using AI algorithms to analyze and respond to the composer's style and preferences. The resulting ideas should be presented in a clear and actionable format, and should include a mix of melodic, harmonic, and rhythmic suggestions.
+  Generate a live performance of a piece of music, using a range of techniques such as MIDI control and audio processing to create a sense of energy and spontaneity. The performance should be 15 minutes long and feature a range of instrumental elements, from soloists to ensembles.
 
 
   ========================================================
   MUSIC EDUCATION
   ========================================================
 
-  Prompt #1: When teaching music theory and composition
+  Prompt #1: When creating music education tools for students or teachers
   ────────────────────────────────────────────────────────
-  Create an interactive music lesson plan for teaching students about music theory and composition, featuring a mix of interactive exercises and quizzes to help students learn and engage with the material. The lesson plan should be approximately 1 hour long and include a variety of different topics and activities.
-
-  Prompt #2: When teaching music history and appreciation
-  ────────────────────────────────────────────────────────
-  Generate a set of musical examples and illustrations to help teach students about different musical styles and genres, featuring a mix of audio recordings and written descriptions. The examples should include a variety of different instruments and ensembles, and should be approximately 10-15 minutes long.
+  Create a music education tool, using a range of techniques such as interactive lessons and exercises to create a sense of engagement and learning. The tool should be 30 minutes long and feature a range of musical elements, from melody to harmony.
 
 
   ========================================================
   MUSIC THERAPY
   ========================================================
 
-  Prompt #1: When creating music for therapeutic purposes
+  Prompt #1: When creating music for music therapy or relaxation
   ────────────────────────────────────────────────────────
-  Create a personalized music playlist for a patient with dementia, featuring a mix of calming and familiar music to help reduce stress and anxiety. The playlist should be approximately 30 minutes long and include a variety of different artists and styles.
-
-  Prompt #2: When creating music for therapeutic purposes
-  ────────────────────────────────────────────────────────
-  Generate a set of musical exercises and activities for a patient with physical disabilities, featuring a mix of rhythmic and melodic elements to help improve motor skills and coordination. The exercises should be approximately 10-15 minutes long and include a variety of different instruments and ensembles.
-
-
-  ========================================================
-  AUDIO PROCESSING
-  ========================================================
-
-  Prompt #1: When cleaning and restoring audio recordings
-  ────────────────────────────────────────────────────────
-  Remove background noise and hiss from a given audio recording, using AI algorithms to separate and isolate the desired signal. The resulting audio should be approximately the same length as the original, but with significantly reduced noise and distortion.
-
-  Prompt #2: When creating audio effects and plugins
-  ────────────────────────────────────────────────────────
-  Generate a set of audio effects and presets for a music production plugin, featuring a mix of different reverb, delay, and distortion effects to enhance and transform audio signals. The effects should be approximately 1-2 minutes long and include a variety of different parameters and controls.
-
-
-  ========================================================
-  LYRICS GENERATION
-  ========================================================
-
-  Prompt #1: When looking to create new song lyrics
-  ────────────────────────────────────────────────────────
-  Generate a set of song lyrics for a given melody and chord progression, using AI algorithms to analyze and respond to the musical structure and style. The resulting lyrics should be approximately 2-3 verses and a chorus, and should feature a mix of poetic and narrative elements.
-
-  Prompt #2: When looking to create new song lyrics
-  ────────────────────────────────────────────────────────
-  Create a set of lyrics for a song about a specific theme or topic, featuring a mix of metaphorical and literal language to convey emotion and ideas. The resulting lyrics should be approximately 2-3 verses and a chorus, and should include a clear and consistent narrative voice.
-
-
-  ========================================================
-  VOCAL SYNTHESIS
-  ========================================================
-
-  Prompt #1: When creating vocal performances for music production
-  ────────────────────────────────────────────────────────
-  Generate a realistic vocal performance of a given melody and lyrics, using AI algorithms to model and simulate the human voice. The resulting vocal should be approximately 2-3 minutes long and feature a natural and expressive delivery.
-
-  Prompt #2: When creating vocal effects and plugins
-  ────────────────────────────────────────────────────────
-  Create a set of different vocal styles and presets for a music production plugin, featuring a mix of different timbres, tones, and emotional expressions to enhance and transform vocal signals. The presets should be approximately 1-2 minutes long and include a variety of different parameters and controls.
-
-
-  ========================================================
-  MUSIC CLASSIFICATION
-  ========================================================
-
-  Prompt #1: When looking to understand and categorize music
-  ────────────────────────────────────────────────────────
-  Analyze and classify a given piece of music into a specific genre or style, using AI algorithms to identify and extract key features and characteristics. The resulting classification should be presented in a clear and actionable format, and should include a mix of different descriptors and tags.
-
-  Prompt #2: When looking to understand and categorize music
-  ────────────────────────────────────────────────────────
-  Generate a set of musical descriptors and tags for a given piece of music, featuring a mix of different attributes and characteristics to help identify and categorize the music. The resulting descriptors should be approximately 10-15 different tags and should include a variety of different genres, moods, and styles.
-
-
-  ========================================================
-  MUSIC RECOMMENDATION
-  ========================================================
-
-  Prompt #1: When creating personalized music recommendations
-  ────────────────────────────────────────────────────────
-  Create a personalized music recommendation system for a user, featuring a mix of different genres, styles, and artists to match the user's preferences and tastes. The resulting recommendations should be presented in a clear and actionable format, and should include a variety of different playlists and radio stations.
-
-  Prompt #2: When creating personalized music recommendations
-  ────────────────────────────────────────────────────────
-  Generate a set of music recommendations for a user based on their listening history and preferences, featuring a mix of different artists, genres, and styles to match the user's tastes. The resulting recommendations should be approximately 10-15 different songs and should include a variety of different descriptors and tags.
+  Generate a piece of music for music therapy, using a range of techniques such as emotive expression and personalization to create a sense of comfort and relaxation. The piece should be 10 minutes long and feature a range of instrumental elements, from soloists to ensembles.
 
 ============================================================
   Thank you for your purchase!
