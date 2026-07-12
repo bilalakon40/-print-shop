@@ -1,26 +1,26 @@
 [
   {
+    "title": "Content Creator AI Prompt Pack",
+    "niche": "Content Creation",
+    "price": 9,
+    "prompts_count": 35,
+    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/cfqobs"
+  },
+  {
     "title": "SEO Content System: ChatGPT Prompts",
     "niche": "SEO & Content",
     "price": 12,
-    "prompts_count": 30,
+    "prompts_count": 31,
     "description": "Create SEO-optimized content that Google loves. This pack includes 30 prompts for keyword research, outline generation, article writing, meta descriptions, and content optimization.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/exiyxz"
+    "gumroad_url": "https://bybilal.gumroad.com/l/mmfhzj"
   },
   {
-    "title": "Business AI Prompts: Strategy & Operations",
-    "niche": "Business",
-    "price": 14,
-    "prompts_count": 30,
-    "description": "Run your business like a CEO. This pack of 30 ChatGPT prompts covers business strategy, financial analysis, competitor research, operational planning, and decision-making frameworks.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/rdrqaw"
-  },
-  {
-    "title": "ChatGPT Prompts for AI Music Generation",
-    "niche": "Music Production",
+    "title": "ChatGPT Prompts for Copywriting",
+    "niche": "Marketing & Copywriting",
     "price": 9,
     "prompts_count": 31,
-    "description": "This prompt pack helps music producers and creators generate high-quality music tracks using AI tools, exploring various genres and styles. With 30 carefully crafted prompts, you'll be able to compose, produce, and refine your music with ease, saving time and unlocking your full creative potential.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/wcrecb"
+    "description": "Tired of staring at a blank page? This pack of 30 battle-tested ChatGPT prompts will help you write high-converting copy for landing pages, emails, ads, and sales letters in minutes.",
+    "gumroad_url": ""
   }
 ]

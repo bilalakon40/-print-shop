@@ -3,8 +3,8 @@
   Rank higher on Google with AI-optimized content
 ============================================================
 
-Included Prompts: 30
-Generated: July 11, 2026
+Included Prompts: 31
+Generated: July 12, 2026
 
 ============================================================
   HOW TO USE
@@ -24,270 +24,174 @@ Generated: July 11, 2026
   KEYWORD RESEARCH
   ========================================================
 
-  Prompt #1: When starting a new content project
+  Prompt #1: When planning a content marketing campaign for a fashion brand
   ────────────────────────────────────────────────────────
-  I'm looking to create content about fitness for beginners. Can you suggest a list of relevant long-tail keywords that have low competition and high search volume, along with their suggested bid and cost-per-click?
+  Analyze the search volume and competition for the keyword 'sustainable fashion trends' and provide a list of relevant long-tail keywords that can be used for content creation. Consider the geographic location of the United States and the target audience of young adults.
+
+  Prompt #2: When planning a content marketing campaign for an outdoor gear company
+  ────────────────────────────────────────────────────────
+  Analyze the search volume and competition for the keyword 'best hiking trails in Colorado' and provide a list of relevant long-tail keywords that can be used for content creation. Consider the geographic location of the United States and the target audience of outdoor enthusiasts.
+
+  Prompt #3: When planning a content marketing campaign for a food blog
+  ────────────────────────────────────────────────────────
+  Analyze the search volume and competition for the keyword 'best restaurants in New York City' and provide a list of relevant long-tail keywords that can be used for content creation. Consider the geographic location of the United States and the target audience of foodies and travelers.
+
+  Prompt #4: When planning a content marketing campaign for a fitness blog
+  ────────────────────────────────────────────────────────
+  Analyze the search volume and competition for the keyword 'best fitness trackers' and provide a list of relevant long-tail keywords that can be used for content creation. Consider the geographic location of the United States and the target audience of fitness enthusiasts.
 
 
   ========================================================
   CONTENT OPTIMIZATION
   ========================================================
 
-  Prompt #1: When optimizing existing content
+  Prompt #1: When improving the search engine ranking of an existing webpage
   ────────────────────────────────────────────────────────
-  Analyze the following article title: '10 Ways to Improve Your Running Technique' and provide suggestions for improvement, including keyword density, meta description, and header tags, to increase its search engine ranking.
-
-
-  ========================================================
-  TECHNICAL SEO
-  ========================================================
-
-  Prompt #1: When auditing website performance
-  ────────────────────────────────────────────────────────
-  Explain the importance of website loading speed for search engine optimization and provide a step-by-step guide on how to optimize images, minify CSS and JavaScript files, and leverage browser caching to improve page load times.
+  Optimize the following meta title and description for the webpage 'https://example.com/best-coffee-shops-in-new-york': 'Best Coffee Shops in New York' and 'Discover the best coffee shops in New York, from trendy cafes to classic diners.' Use relevant keywords and make sure the description is under 160 characters.
 
 
   ========================================================
   CONTENT CREATION
   ========================================================
 
-  Prompt #1: When creating new content
+  Prompt #1: When creating a new piece of content for a health and wellness blog
   ────────────────────────────────────────────────────────
-  Create a high-quality, engaging, and informative blog post about the benefits of meditation for stress relief, including an introduction, three main points, and a conclusion, while incorporating relevant keywords and phrases.
+  Write a high-quality, engaging article on the topic of 'the benefits of meditation for mental health' that is at least 800 words and includes relevant statistics, expert opinions, and actionable tips. The target audience is individuals aged 25-45 who are interested in wellness and self-improvement.
+
+  Prompt #2: When creating a new piece of content for a business blog
+  ────────────────────────────────────────────────────────
+  Write a high-quality, engaging article on the topic of 'the importance of cybersecurity for small businesses' that is at least 1000 words and includes relevant statistics, expert opinions, and actionable tips. The target audience is small business owners and decision-makers.
+
+  Prompt #3: When creating a new piece of content for a lifestyle blog
+  ────────────────────────────────────────────────────────
+  Write a high-quality, engaging article on the topic of 'the benefits of sustainable living' that is at least 1200 words and includes relevant statistics, expert opinions, and actionable tips. The target audience is individuals aged 25-45 who are interested in environmental issues and sustainability.
+
+  Prompt #4: When creating a new piece of content for a health and wellness blog
+  ────────────────────────────────────────────────────────
+  Write a high-quality, engaging article on the topic of 'the benefits of meditation for stress relief' that is at least 1000 words and includes relevant statistics, expert opinions, and actionable tips. The target audience is individuals aged 25-45 who are interested in wellness and self-improvement.
 
 
   ========================================================
-  LINK BUILDING
+  TECHNICAL SEO
   ========================================================
 
-  Prompt #1: When building backlinks
+  Prompt #1: When conducting a technical SEO audit of a website
   ────────────────────────────────────────────────────────
-  Research and provide a list of relevant and authoritative websites in the health and wellness industry that accept guest posts, along with their domain authority, page authority, and contact information.
+  Auditing the website 'https://example.com' has revealed several technical SEO issues, including slow page loading speeds and missing alt tags. Provide a step-by-step plan for addressing these issues and improving the website's overall technical SEO.
+
+  Prompt #2: When migrating a website to a new platform
+  ────────────────────────────────────────────────────────
+  The website 'https://example.com' has been migrated to a new platform and is experiencing technical SEO issues, including broken links and missing meta tags. Provide a step-by-step plan for addressing these issues and ensuring a smooth transition.
+
+  Prompt #3: When addressing technical SEO issues on a website
+  ────────────────────────────────────────────────────────
+  The website 'https://example.com' is experiencing technical SEO issues, including slow page loading speeds and duplicate content. Provide a step-by-step plan for addressing these issues and improving the website's overall technical SEO.
+
+  Prompt #4: When redesigning a website and addressing technical SEO issues
+  ────────────────────────────────────────────────────────
+  The website 'https://example.com' has been redesigned and is experiencing technical SEO issues, including broken links and missing meta tags. Provide a step-by-step plan for addressing these issues and ensuring a smooth transition.
 
 
   ========================================================
   LOCAL SEO
   ========================================================
 
-  Prompt #1: When targeting local search traffic
+  Prompt #1: When improving the local search engine ranking of a business
   ────────────────────────────────────────────────────────
-  I own a small business in New York City and want to improve my local search engine rankings. Can you provide a comprehensive guide on how to optimize my Google My Business listing, including photos, hours, and reviews?
+  Create a local SEO strategy for a dental practice located in Los Angeles, California, including optimizing the Google My Business listing, building high-quality local citations, and creating content that targets local search queries. The target audience is individuals and families living in the Los Angeles area.
+
+  Prompt #2: When improving the local search engine ranking of a business
+  ────────────────────────────────────────────────────────
+  Create a local SEO strategy for a restaurant located in Chicago, Illinois, including optimizing the Google My Business listing, building high-quality local citations, and creating content that targets local search queries. The target audience is individuals and families living in the Chicago area.
+
+  Prompt #3: When improving the local search engine ranking of a business
+  ────────────────────────────────────────────────────────
+  Create a local SEO strategy for a law firm located in Los Angeles, California, including optimizing the Google My Business listing, building high-quality local citations, and creating content that targets local search queries. The target audience is individuals and businesses living in the Los Angeles area.
 
 
   ========================================================
   CONTENT MARKETING
   ========================================================
 
-  Prompt #1: When launching a new product or service
+  Prompt #1: When creating a content marketing campaign for a fintech company
   ────────────────────────────────────────────────────────
-  Develop a content marketing strategy for a new fashion brand, including social media content, email newsletters, and blog posts, to increase brand awareness and drive sales.
+  Develop a content marketing strategy for a fintech company that targets millennials and includes a mix of blog posts, social media content, and email newsletters. The goal is to increase brand awareness and drive conversions, and the target audience is individuals aged 25-40 who are interested in personal finance and technology.
 
-
-  ========================================================
-  SEO AUDIT
-  ========================================================
-
-  Prompt #1: When assessing website health
+  Prompt #2: When creating a content marketing campaign for a software company
   ────────────────────────────────────────────────────────
-  Conduct a technical SEO audit of the website example.com and identify areas for improvement, including broken links, duplicate content, and mobile usability issues.
+  Develop a content marketing strategy for a software company that targets enterprise businesses and includes a mix of whitepapers, case studies, and webinars. The goal is to increase brand awareness and drive conversions, and the target audience is IT decision-makers and business leaders.
 
-
-  ========================================================
-  DIGITAL PR
-  ========================================================
-
-  Prompt #1: When launching a new product or service
+  Prompt #3: When creating a content marketing campaign for a healthcare company
   ────────────────────────────────────────────────────────
-  Create a press release announcing the launch of a new product, including a hook, boilerplate, and call-to-action, and provide a list of relevant media outlets and journalists to pitch to.
+  Develop a content marketing strategy for a healthcare company that targets patients and healthcare professionals and includes a mix of blog posts, videos, and podcasts. The goal is to increase brand awareness and drive conversions, and the target audience is individuals aged 25-65 who are interested in health and wellness.
 
 
   ========================================================
-  ANALYTICS AND TRACKING
+  SEO ANALYTICS
   ========================================================
 
-  Prompt #1: When measuring content performance
+  Prompt #1: When analyzing the performance of a website and identifying areas for improvement
   ────────────────────────────────────────────────────────
-  Explain the importance of tracking website analytics and provide a step-by-step guide on how to set up Google Analytics, including goal tracking, event tracking, and conversion tracking.
+  Analyze the following Google Analytics data for the website 'https://example.com': 'average session duration is 2 minutes, bounce rate is 50%, and conversion rate is 2%'. Provide insights into the website's performance and recommend areas for improvement, including suggestions for increasing engagement and driving more conversions.
 
-
-  ========================================================
-  CONTENT REPURPOSING
-  ========================================================
-
-  Prompt #1: When extending content reach
+  Prompt #2: When analyzing the performance of a website and identifying areas for improvement
   ────────────────────────────────────────────────────────
-  Take an existing blog post about the benefits of yoga and repurpose it into a video script, social media post, and email newsletter, while maintaining the core message and incorporating relevant keywords.
+  Analyze the following Google Analytics data for the website 'https://example.com': 'average session duration is 3 minutes, bounce rate is 40%, and conversion rate is 5%'. Provide insights into the website's performance and recommend areas for improvement, including suggestions for increasing engagement and driving more conversions.
 
-
-  ========================================================
-  INFLUENCER OUTREACH
-  ========================================================
-
-  Prompt #1: When partnering with influencers
+  Prompt #3: When analyzing the performance of a website and identifying areas for improvement
   ────────────────────────────────────────────────────────
-  Research and provide a list of relevant influencers in the beauty industry, including their social media following, engagement rates, and contact information, and provide a sample outreach email to collaborate with them.
+  Analyze the following Google Analytics data for the website 'https://example.com': 'average session duration is 4 minutes, bounce rate is 30%, and conversion rate is 10%'. Provide insights into the website's performance and recommend areas for improvement, including suggestions for increasing engagement and driving more conversions.
 
 
   ========================================================
-  SEO TOOLS
+  LINK BUILDING
   ========================================================
 
-  Prompt #1: When selecting SEO software
+  Prompt #1: When improving the backlink profile of a website
   ────────────────────────────────────────────────────────
-  Compare and contrast the features and pricing of popular SEO tools such as Ahrefs, SEMrush, and Moz, and provide recommendations for which tool to use based on specific business needs.
+  Create a link building strategy for a health and wellness website that includes outreach to relevant bloggers and influencers, guest blogging, and creating high-quality, linkable assets. The goal is to increase the website's authority and drive more referral traffic, and the target audience is health and wellness enthusiasts.
 
-
-  ========================================================
-  CONTENT LOCALIZATION
-  ========================================================
-
-  Prompt #1: When expanding into new markets
+  Prompt #2: When improving the backlink profile of a website
   ────────────────────────────────────────────────────────
-  Translate and adapt an existing blog post about travel tips for a Spanish-speaking audience, including cultural references, idiomatic expressions, and local SEO keywords.
+  Create a link building strategy for a finance website that includes outreach to relevant bloggers and influencers, guest blogging, and creating high-quality, linkable assets. The goal is to increase the website's authority and drive more referral traffic, and the target audience is finance professionals and enthusiasts.
 
-
-  ========================================================
-  VOICE SEARCH OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When optimizing for voice search
+  Prompt #3: When improving the backlink profile of a website
   ────────────────────────────────────────────────────────
-  Explain the importance of optimizing content for voice search and provide a step-by-step guide on how to incorporate natural language, long-tail keywords, and question-based phrases into existing content.
-
-
-  ========================================================
-  E-A-T FACTORS
-  ========================================================
-
-  Prompt #1: When improving website credibility
-  ────────────────────────────────────────────────────────
-  Analyze the website example.com and provide suggestions for improving its expertise, authoritativeness, and trustworthiness, including high-quality content, expert interviews, and trust badges.
-
-
-  ========================================================
-  CONTENT STRATEGY
-  ========================================================
-
-  Prompt #1: When creating a content plan
-  ────────────────────────────────────────────────────────
-  Develop a comprehensive content strategy for a B2B software company, including blog posts, case studies, and whitepapers, to increase thought leadership and drive lead generation.
-
-
-  ========================================================
-  SEO WRITING
-  ========================================================
-
-  Prompt #1: When creating new content
-  ────────────────────────────────────────────────────────
-  Create a high-quality, SEO-friendly article about the benefits of sustainable living, including a meta description, header tags, and optimized images, and provide suggestions for improving its readability and engagement.
-
-
-  ========================================================
-  LINK EQUITY
-  ========================================================
-
-  Prompt #1: When optimizing website architecture
-  ────────────────────────────────────────────────────────
-  Explain the concept of link equity and provide a step-by-step guide on how to distribute link equity throughout a website, including internal linking, anchor text, and link sculpting.
-
-
-  ========================================================
-  MOBILE OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When optimizing for mobile
-  ────────────────────────────────────────────────────────
-  Analyze the website example.com and provide suggestions for improving its mobile usability, including responsive design, page speed, and mobile-friendly content, to increase mobile search engine rankings.
+  Create a link building strategy for an education website that includes outreach to relevant bloggers and influencers, guest blogging, and creating high-quality, linkable assets. The goal is to increase the website's authority and drive more referral traffic, and the target audience is students, educators, and professionals.
 
 
   ========================================================
   CONTENT PROMOTION
   ========================================================
 
-  Prompt #1: When launching a new content asset
+  Prompt #1: When promoting a new piece of content and increasing its visibility
   ────────────────────────────────────────────────────────
-  Develop a content promotion strategy for a new eBook, including social media promotion, email marketing, and paid advertising, to increase visibility and drive downloads.
+  Develop a content promotion strategy for a newly published article on the topic of 'the benefits of artificial intelligence in marketing'. The strategy should include social media promotion, email marketing, and outreach to relevant influencers and bloggers. The target audience is marketing professionals and business owners.
 
-
-  ========================================================
-  TECHNICAL WRITING
-  ========================================================
-
-  Prompt #1: When creating technical content
+  Prompt #2: When promoting a new piece of content and increasing its visibility
   ────────────────────────────────────────────────────────
-  Create a technical guide on how to set up a home network, including step-by-step instructions, diagrams, and troubleshooting tips, and provide suggestions for improving its clarity and readability.
+  Develop a content promotion strategy for a newly published eBook on the topic of 'the future of marketing'. The strategy should include social media promotion, email marketing, and outreach to relevant influencers and bloggers. The target audience is marketing professionals and business owners.
 
-
-  ========================================================
-  SEO MYTH-BUSTING
-  ========================================================
-
-  Prompt #1: When educating clients or team members
+  Prompt #3: When promoting a new piece of content and increasing its visibility
   ────────────────────────────────────────────────────────
-  Debunk common SEO myths and provide evidence-based explanations for why they are incorrect, including the importance of keyword density, the role of social media in SEO, and the impact of duplicate content on search engine rankings.
+  Develop a content promotion strategy for a newly published video on the topic of 'the importance of social media marketing'. The strategy should include social media promotion, email marketing, and outreach to relevant influencers and bloggers. The target audience is marketing professionals and business owners.
 
 
   ========================================================
-  CONTENT CALENDAR
+  SEO AUDIT
   ========================================================
 
-  Prompt #1: When planning content in advance
+  Prompt #1: When conducting a comprehensive SEO audit of a website
   ────────────────────────────────────────────────────────
-  Create a content calendar for a fashion brand, including blog posts, social media posts, and email newsletters, for the next quarter, and provide suggestions for repurposing and updating existing content.
+  Conduct a comprehensive SEO audit of the website 'https://example.com' and provide a report that includes an analysis of the website's technical SEO, content, and backlink profile. Identify areas for improvement and provide recommendations for increasing the website's search engine ranking and driving more organic traffic.
 
-
-  ========================================================
-  INFLUENCER COLLABORATION
-  ========================================================
-
-  Prompt #1: When partnering with influencers
+  Prompt #2: When conducting a comprehensive SEO audit of a website
   ────────────────────────────────────────────────────────
-  Develop a collaboration plan for working with influencers in the lifestyle industry, including outreach, content creation, and promotion, to increase brand awareness and drive sales.
+  Conduct a comprehensive SEO audit of the website 'https://example.com' and provide a report that includes an analysis of the website's technical SEO, content, and backlink profile. Identify areas for improvement and provide recommendations for increasing the website's search engine ranking and driving more organic traffic.
 
-
-  ========================================================
-  WEBSITE MIGRATION
-  ========================================================
-
-  Prompt #1: When migrating a website
+  Prompt #3: When conducting a comprehensive SEO audit of a website
   ────────────────────────────────────────────────────────
-  Explain the process of migrating a website to a new platform, including URL redirects, meta tags, and content updates, and provide a step-by-step guide on how to minimize traffic loss and maintain search engine rankings.
-
-
-  ========================================================
-  CONTENT MEASUREMENT
-  ========================================================
-
-  Prompt #1: When evaluating content performance
-  ────────────────────────────────────────────────────────
-  Develop a plan for measuring the effectiveness of content marketing efforts, including metrics such as engagement, conversions, and return on investment, and provide suggestions for using data to inform future content decisions.
-
-
-  ========================================================
-  SEO TRAINING
-  ========================================================
-
-  Prompt #1: When educating team members
-  ────────────────────────────────────────────────────────
-  Create a comprehensive training program for a team of marketers, including modules on keyword research, on-page optimization, and link building, to improve their SEO skills and knowledge.
-
-
-  ========================================================
-  CONTENT REFRESH
-  ========================================================
-
-  Prompt #1: When updating existing content
-  ────────────────────────────────────────────────────────
-  Analyze an existing piece of content and provide suggestions for refreshing and updating it, including new keywords, updated statistics, and improved visuals, to increase its relevance and engagement.
-
-
-  ========================================================
-  DIGITAL ASSET OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When optimizing multimedia content
-  ────────────────────────────────────────────────────────
-  Explain the importance of optimizing digital assets such as images, videos, and podcasts, and provide a step-by-step guide on how to optimize them for search engines, including file naming, meta tags, and transcription.
+  Conduct a comprehensive SEO audit of the website 'https://example.com' and provide a report that includes an analysis of the website's technical SEO, content, and backlink profile. Identify areas for improvement and provide recommendations for increasing the website's search engine ranking and driving more organic traffic.
 
 ============================================================
   Thank you for your purchase!
