@@ -3,8 +3,8 @@
   Write emails that get opened, read, and clicked
 ============================================================
 
-Included Prompts: 24
-Generated: July 10, 2026
+Included Prompts: 23
+Generated: July 13, 2026
 
 ============================================================
   HOW TO USE
@@ -21,124 +21,210 @@ Generated: July 10, 2026
 
 
   ========================================================
-  CAMPAIGN STRATEGY
+  EMAIL LIST BUILDING
   ========================================================
 
-  Prompt #1: Before launching a new campaign
+  Prompt #1: When starting a new email marketing campaign for an e-commerce website
   ────────────────────────────────────────────────────────
-  I'm planning to launch a new email marketing campaign for our summer sale, targeting our existing customer base with a 15% discount offer. What are the most effective ways to segment my email list and create personalized content to increase conversion rates?
-
-  Prompt #2: When re-engaging inactive subscribers
-  ────────────────────────────────────────────────────────
-  We're planning to launch a re-engagement campaign to reactivate inactive subscribers who haven't opened or clicked on our emails in the past 6 months. What are the best strategies for re-engaging dormant subscribers, and how can we personalize the content to increase the chances of reactivation?
-
-  Prompt #3: When launching a loyalty program
-  ────────────────────────────────────────────────────────
-  We're planning to launch a loyalty program to reward our frequent customers with exclusive offers and discounts. What are the most effective ways to promote the loyalty program through email marketing, and how can we use personalization to increase engagement and loyalty?
-
-  Prompt #4: When launching a cart abandonment campaign
-  ────────────────────────────────────────────────────────
-  We're planning to launch a cart abandonment campaign to remind customers who have left items in their shopping cart without completing the purchase. What are the most effective ways to personalize the content and increase the chances of recovery, and how can we use timing and frequency to optimize the campaign?
-
-  Prompt #5: When launching a win-back campaign
-  ────────────────────────────────────────────────────────
-  We're planning to launch a win-back campaign to re-engage customers who have stopped making purchases or interacting with our brand. What are the most effective ways to personalize the content and increase the chances of re-engagement, and how can we use timing and frequency to optimize the campaign?
+  Create a step-by-step guide on how to build an email list from scratch for a new e-commerce website selling outdoor gear, including tips on creating effective opt-in forms and incentives for subscribers.
 
 
   ========================================================
-  CONTENT CREATION
+  EMAIL CONTENT CREATION
   ========================================================
 
-  Prompt #1: When creating automated email sequences
+  Prompt #1: When creating a regular email newsletter for a subscription-based service
   ────────────────────────────────────────────────────────
-  I need to write a series of automated email newsletters for our e-commerce website, covering topics such as new product releases, customer testimonials, and exclusive promotions. Can you provide a detailed outline for a 6-email sequence, including subject lines and suggested content?
-
-  Prompt #2: When promoting a webinar or event
-  ────────────────────────────────────────────────────────
-  I need to write a series of email reminders for our upcoming webinar on industry trends and best practices. Can you provide a sample email sequence, including subject lines and content suggestions, to encourage registrants to attend the live event?
-
-  Prompt #3: When communicating with subscribers
-  ────────────────────────────────────────────────────────
-  I need to write a series of email notifications for our subscription-based service, including reminders for payment renewals and updates on new features and releases. Can you provide a sample email sequence, including subject lines and content suggestions, to keep subscribers informed and engaged?
-
-  Prompt #4: When onboarding new customers
-  ────────────────────────────────────────────────────────
-  I need to write a series of email onboarding sequences for our new customers, covering topics such as product tutorials and customer support resources. Can you provide a sample email sequence, including subject lines and content suggestions, to educate and engage new customers?
-
-  Prompt #5: When collecting customer feedback
-  ────────────────────────────────────────────────────────
-  I need to write a series of email surveys to collect feedback from our customers on our products and services. Can you provide a sample email sequence, including subject lines and content suggestions, to encourage respondents to provide valuable insights and feedback?
+  Write a sample email newsletter for a monthly subscription box service that showcases new products and includes exclusive promotions, with a focus on engaging subject lines and compelling calls-to-action.
 
 
   ========================================================
-  LIST BUILDING
+  EMAIL AUTOMATION
   ========================================================
 
-  Prompt #1: When creating a lead magnet
+  Prompt #1: When setting up automated email sequences for a service-based business
   ────────────────────────────────────────────────────────
-  Our company is looking to grow its email list through a lead magnet, offering a free eBook on industry trends and best practices. What are the most effective ways to promote the lead magnet on our website and social media channels to attract high-quality subscribers?
-
-  Prompt #2: When partnering with influencers
-  ────────────────────────────────────────────────────────
-  Our company is looking to partner with influencers in our industry to promote our products and services to their email lists. What are the most effective ways to find and partner with influencers, and how can we ensure compliance with anti-spam laws and regulations?
-
-  Prompt #3: When running a social media contest
-  ────────────────────────────────────────────────────────
-  Our company is looking to use social media contests to grow our email list and increase brand awareness. What are the most effective ways to promote a social media contest and encourage participants to opt-in to our email list, and how can we use the contest to collect valuable data and insights on our subscribers?
-
-  Prompt #4: When launching a referral program
-  ────────────────────────────────────────────────────────
-  Our company is looking to use referral marketing to grow our email list and increase word-of-mouth marketing. What are the most effective ways to incentivize referrals and encourage subscribers to share our content with their friends and family?
-
-  Prompt #5: When using gamification in email marketing
-  ────────────────────────────────────────────────────────
-  Our company is looking to use gamification to grow our email list and increase engagement. What are the most effective ways to use gamification elements, such as points and rewards, to incentivize subscribers to participate in our email marketing campaigns?
+  Design an automated email workflow for a fitness studio that sends a series of welcome emails with workout tips and promotional offers to new subscribers, with triggers for abandoned cart reminders and win-back campaigns.
 
 
   ========================================================
-  EMAIL DESIGN
+  EMAIL PERSONALIZATION
   ========================================================
 
-  Prompt #1: When designing email templates
+  Prompt #1: When personalizing email campaigns for a retail business with diverse customer base
   ────────────────────────────────────────────────────────
-  I'm designing a new email template for our monthly newsletter, and I want to ensure it's optimized for mobile devices and accessible for subscribers with disabilities. Can you provide guidelines for creating a responsive and accessible email design, including recommended font sizes and color schemes?
-
-  Prompt #2: When designing transactional emails
-  ────────────────────────────────────────────────────────
-  I'm designing a new email template for our transactional emails, such as order confirmations and shipping updates. Can you provide guidelines for creating a clear and concise email design, including recommended content and formatting for transactional emails?
-
-  Prompt #3: When designing promotional emails
-  ────────────────────────────────────────────────────────
-  I'm designing a new email template for our promotional emails, and I want to ensure it's optimized for conversions and includes clear calls-to-action. Can you provide guidelines for creating a effective email design, including recommended layouts and typography?
-
-  Prompt #4: When designing email newsletters
-  ────────────────────────────────────────────────────────
-  I'm designing a new email template for our newsletter, and I want to ensure it's accessible and readable on a variety of devices and email clients. Can you provide guidelines for creating a responsive and accessible email design, including recommended image sizes and formatting?
-
-  Prompt #5: When designing system emails
-  ────────────────────────────────────────────────────────
-  I'm designing a new email template for our transactional emails, such as password reset emails and account updates. Can you provide guidelines for creating a clear and concise email design, including recommended content and formatting for transactional emails?
+  Develop a strategy for personalizing email content for a fashion retailer based on subscriber preferences, purchase history, and demographic data, including examples of dynamic content blocks and product recommendations.
 
 
   ========================================================
-  ANALYTICS AND OPTIMIZATION
+  EMAIL ANALYTICS
   ========================================================
 
-  Prompt #1: When analyzing email campaign performance
+  Prompt #1: When evaluating the performance of email marketing campaigns for a B2B business
   ────────────────────────────────────────────────────────
-  I've been tracking the performance of our email campaigns using metrics such as open rates, click-through rates, and conversion rates. What are the most important metrics to focus on, and how can I use A/B testing to optimize our email content and improve overall campaign performance?
+  Explain how to track and analyze email marketing metrics such as open rates, click-through rates, and conversion rates for a B2B software company, including tips on using email analytics tools and creating data-driven reports.
 
-  Prompt #2: When troubleshooting email deliverability issues
-  ────────────────────────────────────────────────────────
-  I've been tracking the performance of our email campaigns using metrics such as bounce rates and spam complaints. What are the most common causes of high bounce rates and spam complaints, and how can I use list hygiene and content optimization to improve deliverability and reduce spam complaints?
 
-  Prompt #3: When analyzing email campaign ROI
-  ────────────────────────────────────────────────────────
-  I've been tracking the performance of our email campaigns using metrics such as revenue per email and return on investment. What are the most important metrics to focus on, and how can I use data and analytics to optimize our email content and improve overall campaign performance?
+  ========================================================
+  EMAIL LIST SEGMENTATION
+  ========================================================
 
-  Prompt #4: When analyzing email campaign metrics
+  Prompt #1: When segmenting an email list for a non-profit organization with diverse donor base
   ────────────────────────────────────────────────────────
-  I've been tracking the performance of our email campaigns using metrics such as subscriber growth rate and email sharing rate. What are the most important metrics to focus on, and how can I use A/B testing and segmentation to optimize our email content and improve overall campaign performance?
+  Create a plan for segmenting an email list for a non-profit organization based on donor behavior, engagement, and preferences, with examples of targeted email campaigns for each segment.
+
+
+  ========================================================
+  EMAIL SUBJECT LINES
+  ========================================================
+
+  Prompt #1: When crafting email subject lines for a promotional email campaign
+  ────────────────────────────────────────────────────────
+  Write a set of attention-grabbing email subject lines for a travel company promoting summer vacation packages, with a focus on creating a sense of urgency and exclusivity.
+
+
+  ========================================================
+  EMAIL FREQUENCY
+  ========================================================
+
+  Prompt #1: When planning the email frequency for a daily deals website
+  ────────────────────────────────────────────────────────
+  Determine the optimal email frequency for a daily deals website, including strategies for avoiding subscriber fatigue and tips for creating a content calendar.
+
+
+  ========================================================
+  EMAIL RE-ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When re-engaging inactive subscribers for a telecom company
+  ────────────────────────────────────────────────────────
+  Develop a re-engagement email campaign for a telecom company to win back inactive subscribers, including examples of compelling subject lines, personalized content, and incentives for re-engagement.
+
+
+  ========================================================
+  EMAIL CONTENT OPTIMIZATION
+  ========================================================
+
+  Prompt #1: When optimizing email content for a mobile audience
+  ────────────────────────────────────────────────────────
+  Provide tips and best practices for optimizing email content for a mobile audience, including strategies for improving readability, reducing load times, and increasing engagement.
+
+
+  ========================================================
+  EMAIL LIST HYGIENE
+  ========================================================
+
+  Prompt #1: When maintaining email list hygiene for a financial services company
+  ────────────────────────────────────────────────────────
+  Create a plan for maintaining email list hygiene for a financial services company, including strategies for removing inactive subscribers, handling bounces and complaints, and preventing spam filters.
+
+
+  ========================================================
+  EMAIL CAMPAIGN PLANNING
+  ========================================================
+
+  Prompt #1: When planning a holiday-themed email campaign for a retail business
+  ────────────────────────────────────────────────────────
+  Plan a holiday-themed email campaign for a retail business, including strategies for creating engaging content, promoting special offers, and driving sales during peak season.
+
+
+  ========================================================
+  EMAIL COPYWRITING
+  ========================================================
+
+  Prompt #1: When promoting a new product launch via email
+  ────────────────────────────────────────────────────────
+  Write a sample email promoting a new product launch for a tech startup, including tips on crafting compelling product descriptions, highlighting key features, and creating a sense of urgency.
+
+
+  ========================================================
+  EMAIL DELIVERABILITY
+  ========================================================
+
+  Prompt #1: When improving email deliverability for a B2B marketing agency
+  ────────────────────────────────────────────────────────
+  Explain the importance of email deliverability for a B2B marketing agency, including strategies for improving sender reputation, avoiding spam filters, and increasing email open rates.
+
+
+  ========================================================
+  EMAIL SEGMENTATION STRATEGIES
+  ========================================================
+
+  Prompt #1: When segmenting an email list for an e-learning platform
+  ────────────────────────────────────────────────────────
+  Develop a segmentation strategy for an e-learning platform based on course enrollment, completion rates, and user engagement, with examples of targeted email campaigns for each segment.
+
+
+  ========================================================
+  EMAIL NURTURE CAMPAIGNS
+  ========================================================
+
+  Prompt #1: When nurturing leads for a software company
+  ────────────────────────────────────────────────────────
+  Create a lead nurturing email campaign for a software company, including strategies for educating leads, building trust, and driving conversions through personalized content and timely follow-ups.
+
+
+  ========================================================
+  EMAIL A/B TESTING
+  ========================================================
+
+  Prompt #1: When testing and optimizing email campaigns for a healthcare company
+  ────────────────────────────────────────────────────────
+  Design an A/B testing plan for an email campaign promoting a new service for a healthcare company, including strategies for testing subject lines, email copy, and calls-to-action.
+
+
+  ========================================================
+  EMAIL RETENTION
+  ========================================================
+
+  Prompt #1: When retaining subscribers for a subscription-based streaming service
+  ────────────────────────────────────────────────────────
+  Develop a retention email campaign for a subscription-based streaming service, including strategies for rewarding loyal subscribers, promoting new content, and preventing churn.
+
+
+  ========================================================
+  EMAIL ACQUISITION
+  ========================================================
+
+  Prompt #1: When acquiring new email subscribers for a food delivery service
+  ────────────────────────────────────────────────────────
+  Create a plan for acquiring new email subscribers for a food delivery service, including strategies for creating effective opt-in forms, promoting exclusive offers, and leveraging social media channels.
+
+
+  ========================================================
+  EMAIL WIN-BACK CAMPAIGNS
+  ========================================================
+
+  Prompt #1: When re-engaging inactive customers for a retail business
+  ────────────────────────────────────────────────────────
+  Design a win-back email campaign for a retail business to re-engage inactive customers, including examples of compelling subject lines, personalized content, and incentives for re-engagement.
+
+
+  ========================================================
+  EMAIL REPORTING AND ANALYTICS
+  ========================================================
+
+  Prompt #1: When creating a comprehensive email marketing report for a quarterly business review
+  ────────────────────────────────────────────────────────
+  Explain how to create a comprehensive email marketing report for a quarterly business review, including metrics, benchmarks, and insights for optimizing future email campaigns.
+
+
+  ========================================================
+  EMAIL TEMPLATE DESIGN
+  ========================================================
+
+  Prompt #1: When designing a responsive email template for a fashion brand
+  ────────────────────────────────────────────────────────
+  Create a responsive email template design for a fashion brand, including strategies for improving readability, promoting products, and driving sales through visually appealing layouts and clear calls-to-action.
+
+
+  ========================================================
+  EMAIL CUSTOMER JOURNEY MAPPING
+  ========================================================
+
+  Prompt #1: When mapping the customer journey for an e-commerce website
+  ────────────────────────────────────────────────────────
+  Develop a customer journey map for an e-commerce website, including strategies for creating personalized email experiences, driving conversions, and improving customer satisfaction through timely and relevant communications.
 
 ============================================================
   Thank you for your purchase!
