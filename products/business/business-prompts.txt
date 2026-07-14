@@ -4,7 +4,7 @@
 ============================================================
 
 Included Prompts: 30
-Generated: July 11, 2026
+Generated: July 14, 2026
 
 ============================================================
   HOW TO USE
@@ -26,268 +26,268 @@ Generated: July 11, 2026
 
   Prompt #1: When launching a new e-commerce platform
   ────────────────────────────────────────────────────────
-  Develop a comprehensive marketing plan for a new e-commerce platform selling sustainable clothing, including social media campaigns, influencer partnerships, and email marketing strategies. The plan should target environmentally conscious consumers aged 25-45 and have a budget of $100,000.
+  Develop a comprehensive marketing strategy for a new e-commerce platform selling sustainable fashion products, including social media campaigns, influencer partnerships, and email marketing initiatives. The target audience is environmentally conscious millennials and Gen Z consumers.
 
 
   ========================================================
   OPERATIONAL EFFICIENCY
   ========================================================
 
-  Prompt #1: When seeking to improve supply chain efficiency
+  Prompt #1: When optimizing supply chain operations
   ────────────────────────────────────────────────────────
-  Analyze the current supply chain of a mid-sized manufacturing company and provide recommendations for streamlining logistics, reducing costs, and improving delivery times. Consider factors such as transportation modes, inventory management, and warehouse optimization.
+  Analyze the current supply chain operations of a medium-sized retail company and provide recommendations for improving logistics, reducing costs, and enhancing customer satisfaction. Consider the implementation of AI-powered inventory management and automated shipping systems.
 
 
   ========================================================
   FINANCIAL PLANNING
   ========================================================
 
-  Prompt #1: When creating a business plan for a new venture
+  Prompt #1: When creating a financial plan for a startup
   ────────────────────────────────────────────────────────
-  Create a detailed financial projection for a startup coffee shop, including revenue forecasts, expense budgets, and cash flow statements. Assume an initial investment of $200,000, average monthly sales of $50,000, and a growth rate of 10% per annum.
+  Create a detailed financial plan for a startup tech company, including projected revenue growth, expense management, and funding requirements for the next three years. Assume the company will require Series A funding within the first two years of operation.
 
 
   ========================================================
   HUMAN RESOURCES
   ========================================================
 
-  Prompt #1: When onboarding new customer-facing staff
+  Prompt #1: When expanding a team in a competitive industry
   ────────────────────────────────────────────────────────
-  Design a training program for new employees in a customer-facing role, focusing on skills such as communication, problem-solving, and conflict resolution. The program should be delivered over a period of 6 weeks and include a combination of online modules, workshops, and on-the-job coaching.
+  Design a talent acquisition and retention strategy for a rapidly growing fintech company, focusing on attracting and retaining top software development and data science talent. Include recommendations for competitive salary packages, benefits, and professional development opportunities.
 
 
   ========================================================
-  DATA ANALYSIS
+  CUSTOMER SERVICE
   ========================================================
 
-  Prompt #1: When seeking to understand customer behavior
+  Prompt #1: When improving customer service operations
   ────────────────────────────────────────────────────────
-  Conduct a data analysis on customer purchasing behavior for an online retailer, using metrics such as purchase frequency, average order value, and customer demographics. Identify trends and insights that can inform marketing strategies and improve customer engagement.
+  Develop a customer service strategy for a telecommunication company, including the implementation of AI-powered chatbots, social media support, and phone support systems. Ensure the strategy prioritizes personalized customer experiences and timely issue resolution.
 
 
   ========================================================
-  RISK MANAGEMENT
+  MARKET RESEARCH
   ========================================================
 
-  Prompt #1: When expanding into new markets
+  Prompt #1: When entering a new market or industry
   ────────────────────────────────────────────────────────
-  Develop a risk assessment plan for a company considering expansion into a new international market, including analysis of political, economic, and cultural factors. Identify potential risks and provide recommendations for mitigation strategies.
-
-
-  ========================================================
-  INNOVATION MANAGEMENT
-  ========================================================
-
-  Prompt #1: When seeking to drive innovation within an organization
-  ────────────────────────────────────────────────────────
-  Design an innovation pipeline for a large corporation, including processes for idea generation, prototyping, and testing. The pipeline should be designed to encourage collaboration between departments and facilitate the development of new products and services.
-
-
-  ========================================================
-  CHANGE MANAGEMENT
-  ========================================================
-
-  Prompt #1: When implementing new technology systems
-  ────────────────────────────────────────────────────────
-  Create a change management plan for a company implementing a new enterprise resource planning (ERP) system, including communication strategies, training programs, and support mechanisms. The plan should be designed to minimize disruption to business operations and ensure a smooth transition.
-
-
-  ========================================================
-  SUSTAINABILITY
-  ========================================================
-
-  Prompt #1: When seeking to improve environmental sustainability
-  ────────────────────────────────────────────────────────
-  Develop a sustainability strategy for a small business, including initiatives to reduce energy consumption, waste management, and supply chain sustainability. The strategy should be aligned with the company's overall mission and values.
+  Conduct market research to identify trends and opportunities in the healthcare technology industry, focusing on the adoption of AI-powered medical diagnosis tools and telemedicine platforms. Analyze the competitive landscape and provide recommendations for a new market entrant.
 
 
   ========================================================
   DIGITAL TRANSFORMATION
   ========================================================
 
-  Prompt #1: When transitioning to a digital business model
+  Prompt #1: When transforming a traditional business into a digital enterprise
   ────────────────────────────────────────────────────────
-  Design a digital transformation roadmap for a traditional brick-and-mortar retailer, including e-commerce platform development, digital marketing strategies, and in-store technology integration. The roadmap should be designed to enhance customer experience and drive business growth.
+  Create a digital transformation roadmap for a traditional manufacturing company, including the implementation of Industry 4.0 technologies such as IoT sensors, AI-powered predictive maintenance, and cloud-based data analytics. Prioritize initiatives that enhance operational efficiency and reduce costs.
+
+
+  ========================================================
+  RISK MANAGEMENT
+  ========================================================
+
+  Prompt #1: When protecting a business from potential risks
+  ────────────────────────────────────────────────────────
+  Develop a comprehensive risk management strategy for a financial services company, including identification, assessment, and mitigation of potential risks such as cybersecurity threats, regulatory non-compliance, and market volatility. Recommend risk management tools and practices to ensure business continuity.
+
+
+  ========================================================
+  SUSTAINABILITY
+  ========================================================
+
+  Prompt #1: When improving the environmental sustainability of a business
+  ────────────────────────────────────────────────────────
+  Design a sustainability strategy for a large consumer goods company, focusing on reducing carbon footprint, implementing circular economy practices, and promoting eco-friendly products. Include recommendations for supply chain transparency, stakeholder engagement, and environmental impact assessment.
+
+
+  ========================================================
+  INNOVATION MANAGEMENT
+  ========================================================
+
+  Prompt #1: When driving innovation and growth in a business
+  ────────────────────────────────────────────────────────
+  Create an innovation management framework for a technology company, including processes for idea generation, prototyping, testing, and scaling new products and services. Emphasize the importance of cross-functional collaboration, design thinking, and continuous learning.
+
+
+  ========================================================
+  CHANGE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When implementing significant changes in a business
+  ────────────────────────────────────────────────────────
+  Develop a change management plan for a company undergoing a major restructuring, including the introduction of new business processes, organizational design, and cultural transformation. Focus on minimizing disruption, engaging stakeholders, and ensuring a smooth transition.
+
+
+  ========================================================
+  PERFORMANCE MANAGEMENT
+  ========================================================
+
+  Prompt #1: When optimizing sales team performance
+  ────────────────────────────────────────────────────────
+  Design a performance management system for a sales team, including key performance indicators, sales metrics, and incentives for exceeding targets. Recommend strategies for coaching, feedback, and talent development to enhance sales performance and achieve business objectives.
 
 
   ========================================================
   SUPPLY CHAIN MANAGEMENT
   ========================================================
 
-  Prompt #1: When seeking to optimize supply chain operations
+  Prompt #1: When optimizing global supply chain operations
   ────────────────────────────────────────────────────────
-  Analyze the supply chain of a company in the food industry and identify opportunities for improvement, including supplier selection, inventory management, and logistics optimization. Provide recommendations for reducing costs and improving delivery times.
+  Analyze the current supply chain operations of a global automotive manufacturer and provide recommendations for improving supply chain resilience, reducing lead times, and enhancing collaboration with suppliers. Consider the implementation of blockchain technology and AI-powered supply chain analytics.
+
+
+  ========================================================
+  BUSINESS DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When growing a professional services business
+  ────────────────────────────────────────────────────────
+  Create a business development strategy for a professional services firm, focusing on expanding client relationships, identifying new business opportunities, and developing strategic partnerships. Include recommendations for networking, thought leadership, and proposal development.
+
+
+  ========================================================
+  DATA-DRIVEN DECISION MAKING
+  ========================================================
+
+  Prompt #1: When making informed business decisions with data
+  ────────────────────────────────────────────────────────
+  Develop a data-driven decision-making framework for a retail company, including the use of data analytics, machine learning, and business intelligence tools to inform strategic decisions. Emphasize the importance of data quality, governance, and stakeholder engagement.
+
+
+  ========================================================
+  ORGANIZATIONAL DESIGN
+  ========================================================
+
+  Prompt #1: When scaling a startup business
+  ────────────────────────────────────────────────────────
+  Design an organizational structure for a rapidly growing startup, including recommendations for departmentalization, roles and responsibilities, and communication channels. Prioritize agility, adaptability, and innovation in the organizational design.
+
+
+  ========================================================
+  CRISIS MANAGEMENT
+  ========================================================
+
+  Prompt #1: When responding to a major crisis
+  ────────────────────────────────────────────────────────
+  Create a crisis management plan for a company facing a major reputational crisis, including strategies for issue containment, stakeholder engagement, and media relations. Focus on minimizing brand damage, restoring public trust, and ensuring business continuity.
 
 
   ========================================================
   TALENT MANAGEMENT
   ========================================================
 
-  Prompt #1: When seeking to attract and retain top talent
+  Prompt #1: When developing a talent management program
   ────────────────────────────────────────────────────────
-  Create a talent management program for a fast-growing tech startup, including strategies for attracting, retaining, and developing top talent. The program should be designed to support business growth and encourage a culture of innovation and collaboration.
+  Develop a talent management strategy for a large corporation, focusing on attracting, developing, and retaining top talent. Include recommendations for leadership development, succession planning, and diversity, equity, and inclusion initiatives.
 
 
   ========================================================
-  CUSTOMER EXPERIENCE
+  MERGERS AND ACQUISITIONS
   ========================================================
 
-  Prompt #1: When seeking to improve customer experience
+  Prompt #1: When evaluating a potential merger or acquisition
   ────────────────────────────────────────────────────────
-  Design a customer experience strategy for a luxury hotel chain, including initiatives to enhance guest satisfaction, improve loyalty, and increase retention. The strategy should be aligned with the company's brand values and reputation.
+  Analyze the potential acquisition of a smaller competitor by a large technology company, including the strategic rationale, financial implications, and integration challenges. Provide recommendations for due diligence, deal structuring, and post-merger integration.
 
 
   ========================================================
-  STRATEGIC PLANNING
+  CORPORATE SOCIAL RESPONSIBILITY
   ========================================================
 
-  Prompt #1: When creating a strategic plan for a non-profit organization
+  Prompt #1: When developing a corporate social responsibility program
   ────────────────────────────────────────────────────────
-  Develop a strategic plan for a non-profit organization, including mission statement, goals, and objectives. The plan should be designed to align with the organization's vision and values, and include metrics for measuring success.
-
-
-  ========================================================
-  OPERATIONS MANAGEMENT
-  ========================================================
-
-  Prompt #1: When seeking to improve operational efficiency
-  ────────────────────────────────────────────────────────
-  Analyze the operations of a manufacturing company and identify areas for improvement, including process optimization, quality control, and maintenance scheduling. Provide recommendations for increasing efficiency and reducing costs.
-
-
-  ========================================================
-  ENTREPRENEURSHIP
-  ========================================================
-
-  Prompt #1: When launching a new startup
-  ────────────────────────────────────────────────────────
-  Create a business plan for a new startup in the renewable energy sector, including market analysis, financial projections, and marketing strategies. The plan should be designed to secure funding and support business growth.
-
-
-  ========================================================
-  GLOBAL BUSINESS
-  ========================================================
-
-  Prompt #1: When expanding into new international markets
-  ────────────────────────────────────────────────────────
-  Develop a market entry strategy for a company expanding into the Asian market, including analysis of cultural, economic, and regulatory factors. The strategy should be designed to support business growth and minimize risks.
-
-
-  ========================================================
-  ORGANIZATIONAL DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When undergoing significant organizational change
-  ────────────────────────────────────────────────────────
-  Design an organizational development plan for a company undergoing significant change, including restructuring, cultural transformation, and leadership development. The plan should be designed to support business growth and improve organizational effectiveness.
-
-
-  ========================================================
-  TECHNOLOGY MANAGEMENT
-  ========================================================
-
-  Prompt #1: When seeking to improve technology infrastructure
-  ────────────────────────────────────────────────────────
-  Create a technology roadmap for a company in the financial services sector, including initiatives to enhance cybersecurity, improve data analytics, and support digital transformation. The roadmap should be designed to support business growth and minimize risks.
-
-
-  ========================================================
-  LEADERSHIP DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When seeking to develop leadership capabilities
-  ────────────────────────────────────────────────────────
-  Develop a leadership development program for a company seeking to improve leadership capabilities, including training programs, coaching, and mentoring. The program should be designed to support business growth and improve organizational effectiveness.
-
-
-  ========================================================
-  RISK ASSESSMENT
-  ========================================================
-
-  Prompt #1: When seeking to identify and mitigate risks
-  ────────────────────────────────────────────────────────
-  Conduct a risk assessment for a company in the healthcare sector, including analysis of regulatory, operational, and reputational risks. Identify potential risks and provide recommendations for mitigation strategies.
-
-
-  ========================================================
-  INNOVATION STRATEGY
-  ========================================================
-
-  Prompt #1: When seeking to drive innovation
-  ────────────────────────────────────────────────────────
-  Design an innovation strategy for a company in the technology sector, including initiatives to encourage experimentation, collaboration, and creativity. The strategy should be designed to support business growth and improve competitiveness.
+  Design a corporate social responsibility strategy for a multinational company, focusing on community engagement, environmental sustainability, and social impact initiatives. Include recommendations for stakeholder engagement, reporting, and governance.
 
 
   ========================================================
   DIGITAL MARKETING
   ========================================================
 
-  Prompt #1: When seeking to improve digital marketing efforts
+  Prompt #1: When launching a new product or service
   ────────────────────────────────────────────────────────
-  Create a digital marketing strategy for a company in the retail sector, including initiatives to enhance social media engagement, improve search engine optimization, and support e-commerce growth. The strategy should be designed to support business growth and improve customer experience.
+  Create a digital marketing strategy for a new product launch, including social media campaigns, influencer partnerships, email marketing, and search engine optimization. Focus on generating buzz, driving website traffic, and converting leads into sales.
 
 
   ========================================================
-  SUSTAINABILITY REPORTING
+  OPERATIONAL EXCELLENCE
   ========================================================
 
-  Prompt #1: When seeking to report on sustainability performance
+  Prompt #1: When improving operational efficiency in a manufacturing business
   ────────────────────────────────────────────────────────
-  Develop a sustainability report for a company in the energy sector, including metrics and analysis of environmental, social, and governance (ESG) performance. The report should be designed to support transparency and accountability.
+  Develop an operational excellence program for a manufacturing company, including initiatives to improve quality, reduce waste, and enhance efficiency. Emphasize the importance of lean principles, continuous improvement, and employee engagement.
 
 
   ========================================================
-  OPERATIONAL RISK
+  STRATEGIC PLANNING
   ========================================================
 
-  Prompt #1: When seeking to identify and mitigate operational risks
+  Prompt #1: When developing a strategic plan for a non-profit organization
   ────────────────────────────────────────────────────────
-  Conduct an operational risk assessment for a company in the financial services sector, including analysis of processes, systems, and personnel. Identify potential risks and provide recommendations for mitigation strategies.
+  Create a strategic plan for a non-profit organization, focusing on mission, vision, and goals. Include recommendations for stakeholder engagement, resource allocation, and performance measurement to ensure the organization achieves its objectives.
 
 
   ========================================================
-  STRATEGIC PARTNERSHIPS
+  INNOVATION STRATEGY
   ========================================================
 
-  Prompt #1: When seeking to develop strategic partnerships
+  Prompt #1: When driving innovation in a mature industry
   ────────────────────────────────────────────────────────
-  Develop a strategic partnership plan for a company in the technology sector, including initiatives to identify, develop, and maintain partnerships with key stakeholders. The plan should be designed to support business growth and improve competitiveness.
+  Design an innovation strategy for a company in a mature industry, focusing on identifying new business models, products, and services. Include recommendations for innovation governance, funding, and talent management to drive growth and stay competitive.
 
 
   ========================================================
-  TALENT ACQUISITION
+  GLOBAL EXPANSION
   ========================================================
 
-  Prompt #1: When seeking to attract and retain top talent
+  Prompt #1: When expanding a business into new international markets
   ────────────────────────────────────────────────────────
-  Create a talent acquisition strategy for a company in the healthcare sector, including initiatives to attract, recruit, and retain top talent. The strategy should be designed to support business growth and improve organizational effectiveness.
+  Develop a global expansion strategy for a company entering new international markets, including recommendations for market research, partner selection, and cultural adaptation. Focus on minimizing risks, ensuring regulatory compliance, and achieving business objectives.
 
 
   ========================================================
-  CUSTOMER INSIGHT
+  CYBERSECURITY
   ========================================================
 
-  Prompt #1: When seeking to understand customer behavior
+  Prompt #1: When protecting a business from cybersecurity threats
   ────────────────────────────────────────────────────────
-  Conduct a customer insight analysis for a company in the consumer goods sector, including research and analysis of customer behavior, preferences, and needs. Identify trends and insights that can inform marketing strategies and improve customer engagement.
+  Create a comprehensive cybersecurity strategy for a financial institution, including threat assessment, risk mitigation, and incident response. Emphasize the importance of employee training, technology investments, and continuous monitoring to protect sensitive data and systems.
 
 
   ========================================================
-  DIGITAL TRANSFORMATION STRATEGY
+  PROJECT MANAGEMENT
   ========================================================
 
-  Prompt #1: When transitioning to a digital business model
+  Prompt #1: When managing a large-scale IT project
   ────────────────────────────────────────────────────────
-  Develop a digital transformation strategy for a company in the manufacturing sector, including initiatives to enhance digital capabilities, improve operational efficiency, and support business growth. The strategy should be designed to support business growth and improve competitiveness.
+  Develop a project management framework for a large-scale IT project, including recommendations for project planning, execution, and monitoring. Focus on ensuring timely completion, budget adherence, and stakeholder satisfaction.
 
 
   ========================================================
-  BUSINESS CONTINUITY
+  BUSINESS MODEL INNOVATION
   ========================================================
 
-  Prompt #1: When seeking to ensure business continuity
+  Prompt #1: When innovating a business model in a disrupted industry
   ────────────────────────────────────────────────────────
-  Create a business continuity plan for a company in the financial services sector, including initiatives to ensure operational resilience, minimize disruption, and support recovery in the event of a crisis. The plan should be designed to support business growth and improve organizational effectiveness.
+  Design a business model innovation strategy for a company in a disrupted industry, focusing on identifying new revenue streams, partnerships, and value propositions. Include recommendations for experimentation, prototyping, and scaling new business models.
+
+
+  ========================================================
+  LEADERSHIP DEVELOPMENT
+  ========================================================
+
+  Prompt #1: When developing leadership capabilities in a business
+  ────────────────────────────────────────────────────────
+  Create a leadership development program for a company, focusing on building leadership skills, knowledge, and competencies. Include recommendations for coaching, mentoring, and training to ensure leaders are equipped to drive business success.
+
+
+  ========================================================
+  STAKEHOLDER ENGAGEMENT
+  ========================================================
+
+  Prompt #1: When engaging with stakeholders in a business
+  ────────────────────────────────────────────────────────
+  Develop a stakeholder engagement strategy for a company, focusing on identifying, prioritizing, and engaging with key stakeholders. Include recommendations for communication, collaboration, and conflict resolution to ensure stakeholder satisfaction and support.
 
 ============================================================
   Thank you for your purchase!
