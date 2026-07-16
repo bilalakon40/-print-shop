@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose like a pro with AI-powered music generation
+  Compose like a pro with AI
 ============================================================
 
-Included Prompts: 30
-Generated: July 14, 2026
+Included Prompts: 31
+Generated: July 16, 2026
 
 ============================================================
   HOW TO USE
@@ -24,270 +24,279 @@ Generated: July 14, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When starting a new pop song project
+  Prompt #1: When composing a solo piano piece
   ────────────────────────────────────────────────────────
-  Create a 16-bar melody for a pop song in the key of C major, with a tempo of 120 BPM and a mix of stepwise motion and leaps to create a sense of tension and release. The melody should feature a prominent use of the major third and perfect fifth intervals to give it a bright and uplifting feel.
+  Create a haunting melody for a solo piano piece inspired by the works of Chopin, using a mix of legato and staccato playing styles to convey a sense of longing and nostalgia. The melody should be approximately 16 bars long and feature a prominent theme and variations.
 
 
   ========================================================
-  CHORD PROGRESSION
+  MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When writing a jazz standard
+  Prompt #1: When scoring a film or video game
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz standard in the key of D minor, using a combination of extended chords such as minor 7th and major 9th chords to create a rich and complex harmonic texture. The progression should be 32 bars long and feature a series of II-V-I progressions to create a sense of harmonic resolution.
+  Generate a full orchestral score for a fantasy film, including a grand opening theme, a mystical forest scene, and an epic battle sequence. The score should be written in a cinematic style, with a mix of sweeping strings, powerful brass, and percussive elements.
 
 
   ========================================================
-  LYRICS GENERATION
+  HARMONY AND CHORD PROGRESSIONS
   ========================================================
 
-  Prompt #1: When writing a hip-hop song with a social message
+  Prompt #1: When composing jazz music
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a hip-hop song about social justice, with a focus on themes of equality and empowerment. The lyrics should be written from the perspective of a young person growing up in an urban environment and should feature a strong, consistent rhyme scheme and a clear narrative arc.
+  Develop a series of chord progressions in the style of jazz musician John Coltrane, using extended chords and modal interchange to create a sense of tension and release. The chord progressions should be suitable for a jazz quartet and feature a mix of fast-paced and slow, contemplative sections.
 
 
   ========================================================
-  SOUND DESIGN
+  LYRICS AND POETRY
   ========================================================
 
-  Prompt #1: When scoring a sci-fi film
+  Prompt #1: When writing songs for a folk-rock album
   ────────────────────────────────────────────────────────
-  Create a unique sound design for a sci-fi film score, featuring a combination of electronic and acoustic elements to create a sense of otherworldliness and futurism. The sound design should include a range of unusual instrumental textures, such as distorted synthesizers and extended vocal techniques, to create a sense of unease and tension.
+  Write a set of lyrics for a folk-rock song about social justice, inspired by the works of Bob Dylan and Woody Guthrie. The lyrics should tell a story of struggle and resilience, with a strong narrative arc and memorable, singable melodies.
 
 
   ========================================================
-  MUSIC ARRANGEMENT
+  SOUND DESIGN AND FX
   ========================================================
 
-  Prompt #1: When arranging a cover song for a live performance
+  Prompt #1: When designing sound effects for a video game
   ────────────────────────────────────────────────────────
-  Arrange a cover of a classic rock song for a live performance by a 10-piece band, featuring a combination of rock and pop elements to create a high-energy and engaging sound. The arrangement should include a range of instrumental textures, such as layered guitars and keyboards, and should feature a strong emphasis on rhythm and groove to get the audience moving.
+  Create a soundscape for a sci-fi video game, featuring a mix of electronic and organic elements to evoke a sense of otherworldliness and unease. The soundscape should include ambient textures, percussive effects, and eerie, atmospheric sound design elements.
 
 
   ========================================================
-  MUSIC THEORY
+  MUSIC THEORY AND ANALYSIS
   ========================================================
 
-  Prompt #1: When studying music theory or looking to expand harmonic possibilities
+  Prompt #1: When studying music theory or analyzing a piece of music
   ────────────────────────────────────────────────────────
-  Explain the concept of modal interchange in music theory, with a focus on how it can be used to create interesting and complex harmonies in a jazz or fusion context. The explanation should include examples of how modal interchange can be used to create tension and release, and should discuss the role of modes and scales in shaping the sound of a piece of music.
+  Analyze the harmonic structure of a given piece of music, such as the Beatles' 'Yesterday', and provide a detailed explanation of the chord progressions, key changes, and melodic motifs used in the song. The analysis should include music theory concepts and terminology.
 
 
   ========================================================
-  VOCAL PRODUCTION
+  VOCAL PROCESSING AND EDITING
   ========================================================
 
-  Prompt #1: When producing a pop song with a focus on vocal performance
+  Prompt #1: When producing and mixing a pop song
   ────────────────────────────────────────────────────────
-  Provide a step-by-step guide to producing a high-quality vocal sound for a pop song, including tips on mic selection, recording technique, and effects processing. The guide should cover the importance of capturing a strong, clear vocal performance and should discuss the role of compression, EQ, and reverb in shaping the sound of the vocal.
-
-
-  ========================================================
-  INSTRUMENTAL GENERATION
-  ========================================================
-
-  Prompt #1: When composing a classical music piece
-  ────────────────────────────────────────────────────────
-  Generate a realistic piano part for a classical music piece, featuring a complex and nuanced performance with a range of expressive dynamics and articulations. The part should be written in a style reminiscent of Chopin or Debussy, with a focus on creating a sense of elegance and refinement.
+  Develop a vocal processing chain for a pop song, including EQ, compression, reverb, and delay settings to create a bright, polished sound. The chain should be designed to enhance the vocal performance and sit well in a mix with other instruments.
 
 
   ========================================================
   ELECTRONIC MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When producing electronic music for a club or dance floor context
+  Prompt #1: When producing electronic dance music
   ────────────────────────────────────────────────────────
-  Create a techno track with a dark and minimalist sound, featuring a driving beat and a range of eerie, atmospheric sound effects. The track should be built around a simple, repetitive melody and should feature a gradual build-up of tension and energy throughout, with a focus on creating a sense of hypnotic repetition and rhythmic intensity.
+  Create a techno track using a synthesizer and drum machine, featuring a driving beat, pulsing bassline, and evolving synthesizer textures. The track should build from a minimal intro to a peak-time drop, with a focus on energy and dancefloor appeal.
 
 
   ========================================================
-  FILM SCORING
+  ACOUSTIC INSTRUMENT SIMULATION
   ========================================================
 
-  Prompt #1: When scoring a romantic comedy film
+  Prompt #1: When recording or producing music with acoustic instruments
   ────────────────────────────────────────────────────────
-  Compose a score for a romantic comedy film, featuring a lighthearted and playful theme with a range of orchestral and choral elements. The score should be written in a style reminiscent of classic Hollywood films, with a focus on creating a sense of warmth and sentimentality to complement the on-screen action.
+  Simulate the sound of a vintage acoustic guitar, including the warmth and character of a well-worn instrument. The simulation should include realistic string resonance, body tone, and playing style nuances.
 
 
   ========================================================
-  MUSIC RECOMMENDATION
+  MUSIC GENERATION FOR ADVERTISING
   ========================================================
 
-  Prompt #1: When creating a workout or exercise playlist
+  Prompt #1: When creating music for advertising or marketing campaigns
   ────────────────────────────────────────────────────────
-  Recommend a playlist of 10 songs for a workout or exercise routine, featuring a range of high-energy tracks with strong beats and motivating lyrics. The playlist should include a mix of classic rock, pop, and hip-hop tracks, with a focus on creating a sense of energy and momentum to help the listener stay motivated and engaged.
+  Generate a catchy, upbeat jingle for a commercial advertising a new energy drink, featuring a mix of bright, pulsing synthesizers and driving drum machines. The jingle should be short, memorable, and energetic, with a clear brand identity.
 
 
   ========================================================
-  AUDIO ENGINEERING
+  CLASSICAL MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When preparing a track for distribution and playback
+  Prompt #1: When composing classical music
   ────────────────────────────────────────────────────────
-  Explain the process of mastering an audio track for distribution and playback on a range of different platforms, including streaming services, CD, and vinyl. The explanation should cover the importance of optimizing the track for different playback formats and should discuss the role of EQ, compression, and limiting in preparing a track for mastering.
+  Compose a string quartet in the style of Mozart, featuring a classical sonata form and a mix of lyrical melodies and intricate counterpoint. The quartet should be written for a standard string quartet instrumentation and feature a balance of dialogue and harmony between the instruments.
 
 
   ========================================================
-  LIVE PERFORMANCE
+  LIVE PERFORMANCE AND ACCOMPANIMENT
   ========================================================
 
-  Prompt #1: When planning a live performance
+  Prompt #1: When performing live or accompanying a singer-songwriter
   ────────────────────────────────────────────────────────
-  Create a set list for a live performance by a rock band, featuring a range of original songs and covers to create a high-energy and engaging show. The set list should be designed to take the audience on a journey, with a mix of fast and slow songs, and should feature a range of visual and theatrical elements to enhance the performance.
+  Create a live performance accompaniment for a singer-songwriter, featuring a combination of pre-recorded tracks and live instrumentation. The accompaniment should include a mix of acoustic and electronic elements, with a focus on enhancing the live performance and creating a engaging audience experience.
 
 
   ========================================================
-  MUSIC EDUCATION
+  FILM AND GAME SOUNDTRACKS
   ========================================================
 
-  Prompt #1: When teaching music theory to beginners
+  Prompt #1: When scoring a film or video game
   ────────────────────────────────────────────────────────
-  Develop a lesson plan for teaching music theory to beginners, featuring a range of interactive and engaging activities to help students learn the basics of music notation, chord progressions, and melody writing. The lesson plan should be designed for a classroom setting and should include a range of assessments and evaluations to track student progress.
+  Develop a soundtrack for a historical drama film, featuring a mix of orchestral and choral elements to evoke a sense of period and place. The soundtrack should include themes for main characters, locations, and plot developments, with a focus on emotional resonance and narrative support.
 
 
   ========================================================
-  COMPOSITION
+  EXPERIMENTAL AND AVANT-GARDE MUSIC
   ========================================================
 
-  Prompt #1: When composing a piece for a string quartet
+  Prompt #1: When creating experimental or avant-garde music
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a string quartet, featuring a complex and nuanced exploration of texture and timbre. The piece should be written in a style reminiscent of contemporary classical music, with a focus on creating a sense of intimacy and emotional depth to complement the acoustic properties of the instruments.
+  Generate an experimental electronic music piece using unconventional sounds and techniques, such as granular synthesis and glitch effects. The piece should be dark, atmospheric, and thought-provoking, with a focus on pushing the boundaries of electronic music production.
 
 
   ========================================================
-  REMIXING
+  POP MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When remixing a classic track for a modern context
+  Prompt #1: When producing pop music
   ────────────────────────────────────────────────────────
-  Remix a classic disco track for a modern dance floor, featuring a range of updated production techniques and elements to create a fresh and exciting sound. The remix should include a range of new instrumental and vocal elements, such as synthesizers and drum machines, to create a sense of energy and momentum.
+  Produce a pop song for a major artist, featuring a catchy melody, driving beat, and polished vocal performance. The production should include a mix of electronic and acoustic elements, with a focus on creating a hit single and a strong commercial sound.
 
 
   ========================================================
-  SOUNDTRACK COMPOSITION
+  JAZZ AND IMPROVISATION
   ========================================================
 
-  Prompt #1: When composing a soundtrack for a video game
+  Prompt #1: When improvising or composing jazz music
   ────────────────────────────────────────────────────────
-  Compose a soundtrack for a video game, featuring a range of themes and motifs to create a sense of immersion and engagement for the player. The soundtrack should be written in a style reminiscent of fantasy and adventure films, with a focus on creating a sense of wonder and excitement to complement the on-screen action.
+  Create a jazz improvisation over a given chord progression, such as the changes to 'My Funny Valentine'. The improvisation should feature a mix of melodic motifs, harmonic substitutions, and rhythmic variations, with a focus on creating a spontaneous and engaging musical conversation.
 
 
   ========================================================
-  JINGLE CREATION
+  WORLD MUSIC AND ETHNOMUSICOLOGY
   ========================================================
 
-  Prompt #1: When creating a jingle for a commercial or advertisement
+  Prompt #1: When exploring or incorporating world music traditions
   ────────────────────────────────────────────────────────
-  Create a catchy and memorable jingle for a commercial or advertisement, featuring a simple and repetitive melody with a range of clever and engaging lyrics. The jingle should be designed to stick in the listener's head and should be written in a style reminiscent of classic advertising jingles, with a focus on creating a sense of familiarity and recognition.
+  Develop a musical piece inspired by the traditions of African music, featuring a mix of percussion, wind, and string instruments. The piece should incorporate traditional African rhythms, melodies, and instrumental techniques, with a focus on cultural authenticity and respect.
 
 
   ========================================================
-  ORCHESTRATION
+  MUSIC EDUCATION AND PEDAGOGY
   ========================================================
 
-  Prompt #1: When orchestrating a piece for a full symphony orchestra
+  Prompt #1: When teaching music theory or education
   ────────────────────────────────────────────────────────
-  Orchestrate a piece of music for a full symphony orchestra, featuring a range of instrumental textures and timbres to create a rich and complex sound. The orchestration should be written in a style reminiscent of classical music, with a focus on creating a sense of grandeur and spectacle to complement the acoustic properties of the instruments.
+  Create a music education curriculum for a high school music theory class, featuring a comprehensive overview of music fundamentals, including notation, harmony, and composition. The curriculum should include engaging lessons, exercises, and assignments to help students develop their musical knowledge and skills.
 
 
   ========================================================
-  AUDIO RESTORATION
+  AUDIO ENGINEERING AND MIXING
   ========================================================
 
-  Prompt #1: When restoring an old or damaged audio recording
+  Prompt #1: When mixing and mastering music
   ────────────────────────────────────────────────────────
-  Explain the process of restoring an old or damaged audio recording, featuring a range of techniques and tools to remove noise and imperfections and create a clean and polished sound. The explanation should cover the importance of preserving the original character and integrity of the recording, and should discuss the role of EQ, compression, and limiting in preparing a track for restoration.
+  Mix and master a rock song, featuring a balance of heavy guitars, driving drums, and soaring vocals. The mix should be energetic and powerful, with a focus on creating a clear and polished sound that translates well across different playback systems.
 
 
   ========================================================
-  MUSIC MARKETING
+  CHORAL AND VOCAL MUSIC
   ========================================================
 
-  Prompt #1: When marketing a new music release
+  Prompt #1: When composing choral or vocal music
   ────────────────────────────────────────────────────────
-  Develop a marketing plan for a new music release, featuring a range of strategies and tactics to create buzz and excitement around the release. The plan should include a range of social media and online promotional activities, such as email marketing and influencer outreach, to create a sense of anticipation and expectation among fans and potential listeners.
+  Compose a choral piece for a large ensemble, featuring a mix of harmonies, counterpoint, and homophony. The piece should be written in a classical style, with a focus on showcasing the vocal abilities of the ensemble and creating a sense of grandeur and drama.
 
 
   ========================================================
-  LIVE SOUND ENGINEERING
+  FOLK AND TRADITIONAL MUSIC
   ========================================================
 
-  Prompt #1: When mixing a live sound for a concert or performance
+  Prompt #1: When composing folk music
   ────────────────────────────────────────────────────────
-  Explain the process of mixing a live sound for a concert or performance, featuring a range of techniques and tools to create a clear and polished sound. The explanation should cover the importance of balancing levels and frequencies, and should discuss the role of EQ, compression, and reverb in shaping the sound of the performance.
+  Develop a folk song inspired by the traditions of American folk music, featuring a mix of acoustic instruments, simple harmonies, and storytelling lyrics. The song should be written in a style reminiscent of classic folk singers, with a focus on creating a sense of intimacy and authenticity.
 
 
   ========================================================
-  MUSIC LICENSING
+  RAP AND HIP-HOP MUSIC
   ========================================================
 
-  Prompt #1: When licensing music for use in a film, television show, or commercial
+  Prompt #1: When composing rap or hip-hop music
   ────────────────────────────────────────────────────────
-  Explain the process of licensing music for use in a film, television show, or commercial, featuring a range of steps and considerations to ensure that the rights and permissions are properly secured. The explanation should cover the importance of clearing rights and obtaining permissions, and should discuss the role of music supervisors and licensing agencies in facilitating the process.
+  Create a rap verse and chorus, featuring a strong, confident flow and lyrics that explore themes of social justice and personal empowerment. The rap should be written in a contemporary style, with a focus on creating a sense of urgency and energy.
 
 
   ========================================================
-  POST-PRODUCTION
+  CLASSICAL INSTRUMENTAL MUSIC
   ========================================================
 
-  Prompt #1: When mixing and mastering a film or television soundtrack
+  Prompt #1: When composing classical instrumental music
   ────────────────────────────────────────────────────────
-  Explain the process of mixing and mastering a film or television soundtrack, featuring a range of techniques and tools to create a polished and engaging sound. The explanation should cover the importance of balancing levels and frequencies, and should discuss the role of EQ, compression, and reverb in shaping the sound of the soundtrack.
+  Compose a sonata for solo piano, featuring a mix of classical forms and techniques, such as sonata allegro and rondo. The sonata should be written in a style reminiscent of the great classical composers, with a focus on showcasing technical virtuosity and expressive depth.
 
 
   ========================================================
-  MUSIC CURATION
+  MUSIC THERAPY AND WELLNESS
   ========================================================
 
-  Prompt #1: When curating a playlist for a coffee shop or cafe
+  Prompt #1: When working in music therapy or wellness
   ────────────────────────────────────────────────────────
-  Curate a playlist of 20 songs for a coffee shop or cafe, featuring a range of mellow and acoustic tracks to create a relaxing and inviting atmosphere. The playlist should include a mix of classic and contemporary artists, and should be designed to appeal to a wide range of tastes and preferences.
+  Develop a music therapy program for patients with anxiety and depression, featuring a mix of calming music, guided meditation, and creative expression. The program should be designed to promote relaxation, reduce stress, and improve mood, with a focus on creating a safe and supportive environment.
 
 
   ========================================================
-  DJ PERFORMANCE
+  LIVE EVENT AND CONCERT PRODUCTION
   ========================================================
 
-  Prompt #1: When planning a DJ performance
+  Prompt #1: When producing live events or concerts
   ────────────────────────────────────────────────────────
-  Create a set list for a DJ performance at a club or dance floor, featuring a range of high-energy tracks and transitions to create a sense of momentum and excitement. The set list should be designed to take the audience on a journey, with a mix of fast and slow songs, and should feature a range of visual and theatrical elements to enhance the performance.
+  Plan and produce a live concert event, featuring a mix of music, lighting, and visual effects. The event should be designed to create an engaging and immersive experience for the audience, with a focus on showcasing the artist's music and personality.
 
 
   ========================================================
-  VOCAL PROCESSING
+  MUSIC BUSINESS AND INDUSTRY
   ========================================================
 
-  Prompt #1: When processing and editing vocal recordings
+  Prompt #1: When working in the music industry or promoting music
   ────────────────────────────────────────────────────────
-  Explain the process of processing and editing vocal recordings, featuring a range of techniques and tools to create a polished and engaging sound. The explanation should cover the importance of correcting pitch and timing errors, and should discuss the role of EQ, compression, and reverb in shaping the sound of the vocal.
+  Develop a marketing and promotion plan for a new music release, featuring a mix of social media, advertising, and publicity strategies. The plan should be designed to create buzz and excitement around the release, with a focus on reaching a target audience and driving sales.
 
 
   ========================================================
-  INSTRUMENTAL RECORDING
+  AUDIO POST-PRODUCTION AND SOUND DESIGN
   ========================================================
 
-  Prompt #1: When recording instrumental tracks for a music production
+  Prompt #1: When working in audio post-production or sound design
   ────────────────────────────────────────────────────────
-  Explain the process of recording instrumental tracks for a music production, featuring a range of techniques and tools to create a high-quality and engaging sound. The explanation should cover the importance of selecting the right instruments and microphones, and should discuss the role of EQ, compression, and reverb in shaping the sound of the instruments.
+  Create a sound design and mix for a short film, featuring a mix of dialogue, sound effects, and music. The sound design should be immersive and engaging, with a focus on creating a believable and captivating audio environment.
 
 
   ========================================================
-  MUSIC DISTRIBUTION
+  VIRTUAL AND AUGMENTED REALITY MUSIC
   ========================================================
 
-  Prompt #1: When distributing music through online platforms and streaming services
+  Prompt #1: When working in virtual or augmented reality music
   ────────────────────────────────────────────────────────
-  Explain the process of distributing music through online platforms and streaming services, featuring a range of steps and considerations to ensure that the music reaches the widest possible audience. The explanation should cover the importance of formatting and delivering files correctly, and should discuss the role of aggregators and distributors in facilitating the process.
+  Develop an immersive music experience for a virtual reality platform, featuring a mix of 3D audio, interactive elements, and visual effects. The experience should be designed to create a sense of presence and engagement, with a focus on pushing the boundaries of music and technology.
 
 
   ========================================================
-  ARTIST DEVELOPMENT
+  MUSIC COGNITION AND PSYCHOLOGY
   ========================================================
 
-  Prompt #1: When developing an artist's career and building a fan base
+  Prompt #1: When studying music cognition or psychology
   ────────────────────────────────────────────────────────
-  Develop a plan for artist development and career growth, featuring a range of strategies and tactics to help the artist build a loyal fan base and achieve commercial success. The plan should include a range of social media and online promotional activities, such as email marketing and influencer outreach, to create a sense of anticipation and expectation among fans and potential listeners.
+  Investigate the cognitive and emotional effects of music on human behavior, featuring a mix of psychological and neurological research methods. The investigation should be designed to shed light on the complex relationships between music, brain function, and human experience.
+
+
+  ========================================================
+  MUSIC TECHNOLOGY AND SOFTWARE
+  ========================================================
+
+  Prompt #1: When developing music software or plugins
+  ────────────────────────────────────────────────────────
+  Develop a new music software plugin, featuring a unique set of effects and processing algorithms. The plugin should be designed to create a distinctive and creative sound, with a focus on innovation and usability.
+
+
+  ========================================================
+  DJ AND ELECTRONIC MUSIC PERFORMANCE
+  ========================================================
+
+  Prompt #1: When performing as a DJ or electronic musician
+  ────────────────────────────────────────────────────────
+  Create a live DJ set, featuring a mix of electronic dance music, remixes, and original productions. The set should be designed to create a high-energy and engaging experience for the audience, with a focus on showcasing technical skills and musical selection.
 
 ============================================================
   Thank you for your purchase!
