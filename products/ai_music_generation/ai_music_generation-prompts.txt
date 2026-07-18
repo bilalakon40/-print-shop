@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose like a pro with AI-powered music creation
+  Compose like a pro with AI
 ============================================================
 
-Included Prompts: 30
-Generated: July 17, 2026
+Included Prompts: 31
+Generated: July 18, 2026
 
 ============================================================
   HOW TO USE
@@ -21,198 +21,152 @@ Generated: July 17, 2026
 
 
   ========================================================
+  MELODY GENERATION
+  ========================================================
+
+  Prompt #1: When creating a new piano composition
+  ────────────────────────────────────────────────────────
+  Create a hauntingly beautiful melody for a piano piece inspired by the works of Chopin, with a focus on minor keys and arpeggiated chord progressions. The melody should be around 16 bars long and have a soaring quality to it.
+
+  Prompt #2: When writing a new pop song
+  ────────────────────────────────────────────────────────
+  Generate a melody for a pop song, with a focus on creating a catchy, memorable hook. The melody should be around 8 bars long and feature a simple, repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
+
+  Prompt #3: When writing a new children's song
+  ────────────────────────────────────────────────────────
+  Generate a melody for a children's song, with a focus on creating a simple, memorable tune. The melody should be around 12 bars long and feature a repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
+
+  Prompt #4: When writing a new classical piece
+  ────────────────────────────────────────────────────────
+  Generate a melody for a classical piece, with a focus on creating a complex, intricate structure. The melody should be around 20 bars long and feature a range of arpeggiated chord progressions and interweaving melodies, with a focus on creating a sense of beauty and elegance.
+
+  Prompt #5: When writing a new musical theater piece
+  ────────────────────────────────────────────────────────
+  Generate a melody for a musical theater piece, with a focus on creating a catchy, memorable tune. The melody should be around 16 bars long and feature a simple, repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
+
+  Prompt #6: When creating a new film score
+  ────────────────────────────────────────────────────────
+  Generate a melody for a film score, with a focus on creating a sense of tension and suspense. The melody should be around 12 bars long and feature a range of ominous, pulsing sounds and haunting melodies, with a focus on building tension and creating a sense of unease.
+
+  Prompt #7: When writing a new classical piece
+  ────────────────────────────────────────────────────────
+  Generate a melody for a classical piece, with a focus on creating a complex, intricate structure. The melody should be around 20 bars long and feature a range of arpeggiated chord progressions and interweaving melodies, with a focus on creating a sense of beauty and elegance.
+
+
+  ========================================================
+  LYRICS WRITING
+  ========================================================
+
+  Prompt #1: When writing a new song about heartbreak
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about heartbreak and lost love, with a focus on storytelling and poetic imagery. The lyrics should be from the perspective of someone who is reflecting on a past relationship and trying to come to terms with their emotions.
+
+  Prompt #2: When writing a new song about social justice
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about social justice, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is advocating for change and trying to raise awareness about a particular issue.
+
+  Prompt #3: When writing a new song about nature
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about nature, with a focus on poetic imagery and vivid description. The lyrics should be from the perspective of someone who is observing the natural world and trying to capture its beauty and wonder.
+
+  Prompt #4: When writing a new song about love
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about love, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is reflecting on a past relationship and trying to capture the emotions and feelings of that time.
+
+  Prompt #5: When writing a new song about social commentary
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about social commentary, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is observing the world and trying to capture the complexities and challenges of modern life.
+
+  Prompt #6: When writing a new song about personal growth
+  ────────────────────────────────────────────────────────
+  Write a set of lyrics for a song about personal growth, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is reflecting on their life and trying to capture the emotions and feelings of that time.
+
+
+  ========================================================
   MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: Creating a high-energy dance track for a music festival
+  Prompt #1: When creating a new piece of classical music
   ────────────────────────────────────────────────────────
-  Generate a 4-minute electronic dance music track with a tempo of 128 beats per minute, featuring a prominent synthesizer lead and a driving beat, inspired by the style of Daft Punk. The track should build up to a crescendo at the 2-minute mark and then gradually decay to a gentle outro.
+  Compose a piece of music for a string quartet, with a focus on counterpoint and interweaving melodies. The piece should be around 5 minutes long and have a dramatic arc, with a slow build-up to a climactic finale.
 
-  Prompt #2: Producing background music for a wellness app
+  Prompt #2: When creating a new piece of jazz music
   ────────────────────────────────────────────────────────
-  Create a 2-minute ambient music piece with a focus on atmospheric soundscapes and textures, incorporating field recordings of nature sounds and a minimalist piano melody. The piece should evoke a sense of calm and serenity, suitable for a relaxation or meditation soundtrack.
+  Compose a piece of music for a jazz ensemble, with a focus on improvisation and spontaneity. The piece should be around 10 minutes long and feature a range of solos and ensemble passages, with a focus on creating a sense of tension and release.
 
-
-  ========================================================
-  MUSIC STYLE TRANSFER
-  ========================================================
-
-  Prompt #1: Reimagining a popular song in a different genre
+  Prompt #3: When creating a new film score
   ────────────────────────────────────────────────────────
-  Take the melody of the song 'Happy' by Pharrell Williams and transform it into a jazz standard, complete with a swing rhythm and improvisational sections for a saxophone solo. The resulting track should have a lively, upbeat feel while maintaining the essence of the original melody.
+  Compose a piece of music for a film score, with a focus on creating a sense of tension and suspense. The piece should be around 3 minutes long and feature a range of ominous, pulsing sounds and haunting melodies, with a focus on building tension and creating a sense of unease.
 
-  Prompt #2: Adapting a rock classic for a classical music audience
+  Prompt #4: When creating a new electronic music album
   ────────────────────────────────────────────────────────
-  Convert the song 'Stairway to Heaven' by Led Zeppelin into a classical music piece, featuring a full orchestra and a grand piano, while preserving the original's hauntingly beautiful melody and poetic lyrics. The resulting track should be suitable for a symphonic concert performance.
+  Compose a piece of music for a electronic music album, with a focus on creating a sense of energy and momentum. The piece should be around 6 minutes long and feature a range of synthesizers and drum machines, with a focus on building tension and release.
 
-
-  ========================================================
-  LYRICS GENERATION
-  ========================================================
-
-  Prompt #1: Creating lyrics for a singer-songwriter artist
+  Prompt #5: When creating a new video game soundtrack
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a country-pop song about heartbreak and lost love, with a focus on storytelling and vivid imagery. The lyrics should be written from the perspective of a person who has been left behind and is struggling to move on, with a tone that is both melancholic and hopeful.
+  Compose a piece of music for a video game soundtrack, with a focus on creating a sense of adventure and exploration. The piece should be around 4 minutes long and feature a range of orchestral and choral elements, with a focus on building tension and release.
 
-  Prompt #2: Writing lyrics for a conscious hip-hop artist
+  Prompt #6: When creating a new piece of jazz music
   ────────────────────────────────────────────────────────
-  Generate a rap verse with a theme of social justice and activism, incorporating references to current events and issues such as climate change and inequality. The verse should be written in a style that is both provocative and inspiring, with a strong emphasis on rhyme and flow.
-
-
-  ========================================================
-  MUSIC GENERATION FOR VISUAL MEDIA
-  ========================================================
-
-  Prompt #1: Producing music for a film or video game trailer
-  ────────────────────────────────────────────────────────
-  Create a 1-minute soundtrack for a sci-fi movie trailer, featuring a mix of electronic and orchestral elements, with a focus on building tension and excitement. The track should have a dramatic arc, starting with a sense of anticipation and culminating in a thrilling climax.
-
-  Prompt #2: Creating music for an animated film or video game
-  ────────────────────────────────────────────────────────
-  Generate a 3-minute score for an animated short film about a character's journey through a fantastical world, incorporating a range of instrumental textures and colors to evoke a sense of wonder and enchantment. The score should be closely tied to the visuals, with a focus on enhancing the emotional impact of key scenes.
-
-
-  ========================================================
-  MUSIC RECOMMENDATION
-  ========================================================
-
-  Prompt #1: Generating music recommendations for a fitness app
-  ────────────────────────────────────────────────────────
-  Suggest a playlist of 10 songs that would be suitable for a workout routine, featuring a mix of high-energy tracks from genres such as hip-hop, rock, and electronic dance music. The playlist should be designed to provide a motivating and upbeat soundtrack for a 30-minute exercise session.
-
-  Prompt #2: Providing music recommendations for a streaming service
-  ────────────────────────────────────────────────────────
-  Recommend a list of 5 albums that would be of interest to a fan of the band Radiohead, based on their experimental and atmospheric sound. The recommended albums should feature a mix of electronic and rock elements, with a focus on complex song structures and thought-provoking lyrics.
-
-
-  ========================================================
-  MUSIC ANALYSIS
-  ========================================================
-
-  Prompt #1: Writing a music theory essay or academic paper
-  ────────────────────────────────────────────────────────
-  Analyze the song 'Bohemian Rhapsody' by Queen, providing a detailed breakdown of its structure, melody, harmony, and lyrics. The analysis should include an examination of the song's use of operatic vocals, complex composition, and innovative production techniques.
-
-  Prompt #2: Researching a musicology paper or thesis
-  ────────────────────────────────────────────────────────
-  Compare and contrast the music styles of two artists, such as Kendrick Lamar and J. Cole, in terms of their lyrical themes, production techniques, and cultural impact. The analysis should include an examination of their respective genres, influences, and contributions to the hip-hop landscape.
-
-
-  ========================================================
-  AI MUSIC COLLABORATION
-  ========================================================
-
-  Prompt #1: Co-creating music with a human artist
-  ────────────────────────────────────────────────────────
-  Collaborate with a human musician to generate a new song, using a combination of AI-generated melodies and human-composed lyrics. The resulting track should blend the creative strengths of both human and machine, with a focus on producing a unique and innovative sound.
-
-  Prompt #2: Assisting a music producer in the studio
-  ────────────────────────────────────────────────────────
-  Assist a music producer in generating a remix of an existing song, using AI algorithms to suggest new melodic ideas, harmonic progressions, and rhythmic patterns. The remix should be designed to offer a fresh and exciting reinterpretation of the original track.
-
-
-  ========================================================
-  MUSIC GENERATION FOR ADVERTISING
-  ========================================================
-
-  Prompt #1: Producing music for an advertising campaign
-  ────────────────────────────────────────────────────────
-  Create a 30-second jingle for a commercial advertising a new energy drink, featuring a catchy and upbeat melody with a focus on youthful energy and vitality. The jingle should be designed to be memorable and engaging, with a simple and repetitive structure that sticks in the listener's head.
-
-  Prompt #2: Creating music for a high-end brand advertisement
-  ────────────────────────────────────────────────────────
-  Generate a 1-minute soundtrack for a luxury car commercial, incorporating a mix of electronic and orchestral elements to evoke a sense of sophistication and elegance. The soundtrack should be designed to enhance the visual narrative of the commercial, with a focus on creating a sense of drama and prestige.
+  Compose a piece of music for a jazz ensemble, with a focus on improvisation and spontaneity. The piece should be around 10 minutes long and feature a range of solos and ensemble passages, with a focus on creating a sense of tension and release.
 
 
   ========================================================
   SOUND DESIGN
   ========================================================
 
-  Prompt #1: Creating sound effects for a video game or film
+  Prompt #1: When designing sound effects for a film or video game
   ────────────────────────────────────────────────────────
-  Design a set of sound effects for a futuristic video game, featuring a range of futuristic and otherworldly sounds such as laser blasts, alien creature noises, and spaceship engines. The sound effects should be designed to create a immersive and engaging sonic environment, with a focus on enhancing the game's overall atmosphere and realism.
+  Create a soundscape for a sci-fi film, with a focus on otherworldly textures and atmospheric sound effects. The soundscape should be around 2 minutes long and feature a range of eerie, pulsing sounds and haunting melodies.
 
-  Prompt #2: Creating soundscapes for a virtual reality experience
+  Prompt #2: When designing sound effects for a video game
   ────────────────────────────────────────────────────────
-  Generate a set of ambient soundscapes for a virtual reality experience, featuring a range of natural and environmental sounds such as ocean waves, forest noises, and city ambiance. The soundscapes should be designed to create a sense of presence and immersion, with a focus on enhancing the user's emotional and psychological connection to the virtual environment.
+  Create a sound effects library for a fantasy video game, with a focus on creating a range of magical and mystical sounds. The library should include sounds for spells, potions, and other fantasy elements, with a focus on creating a sense of wonder and enchantment.
 
-
-  ========================================================
-  MUSIC EDUCATION
-  ========================================================
-
-  Prompt #1: Creating educational content for a music learning platform
+  Prompt #3: When designing sound effects for a horror film
   ────────────────────────────────────────────────────────
-  Develop a lesson plan for teaching music theory to beginners, featuring a range of interactive exercises and quizzes to help students learn and understand fundamental concepts such as chord progressions, scales, and rhythm. The lesson plan should be designed to be engaging and accessible, with a focus on providing a solid foundation for further musical study.
+  Create a soundscape for a horror film, with a focus on creating a range of eerie, unsettling sounds. The soundscape should be around 1 minute long and feature a range of creaking doors, howling wind, and other spooky sound effects, with a focus on creating a sense of fear and unease.
 
-  Prompt #2: Creating practice materials for a music teacher or student
+  Prompt #4: When designing sound effects for a sports video game
   ────────────────────────────────────────────────────────
-  Generate a set of practice exercises for a music student learning to play the guitar, featuring a range of scales, arpeggios, and chord progressions to help improve technique and musicality. The exercises should be designed to be challenging yet rewarding, with a focus on helping the student develop a strong foundation in guitar playing.
+  Create a sound effects library for a sports video game, with a focus on creating a range of realistic, immersive sounds. The library should include sounds for crowds, commentary, and other sports-related elements, with a focus on creating a sense of excitement and energy.
 
-
-  ========================================================
-  MUSIC PERSONALIZATION
-  ========================================================
-
-  Prompt #1: Generating playlists for a music streaming service
+  Prompt #5: When designing sound effects for a futuristic film
   ────────────────────────────────────────────────────────
-  Create a personalized music playlist for a user based on their listening history and preferences, featuring a range of tracks that are tailored to their unique tastes and interests. The playlist should be designed to provide a engaging and enjoyable listening experience, with a focus on discovering new music and artists.
+  Create a soundscape for a futuristic film, with a focus on creating a range of otherworldly, futuristic sounds. The soundscape should be around 2 minutes long and feature a range of pulsing synths, haunting melodies, and other futuristic sound effects, with a focus on creating a sense of wonder and awe.
 
-  Prompt #2: Creating a music-based mental health tool
+  Prompt #6: When designing sound effects for a fantasy video game
   ────────────────────────────────────────────────────────
-  Develop a music recommendation system that takes into account a user's emotional state and mood, featuring a range of tracks that are designed to enhance or alter their emotional experience. The system should be designed to provide a personalized and empathetic listening experience, with a focus on helping the user manage their emotions and improve their well-being.
-
-
-  ========================================================
-  MUSIC THERAPY
-  ========================================================
-
-  Prompt #1: Creating music for a therapy or wellness setting
-  ────────────────────────────────────────────────────────
-  Generate a set of music tracks for use in a therapy session, featuring a range of calming and soothing sounds designed to help reduce stress and anxiety. The tracks should be designed to create a peaceful and relaxing atmosphere, with a focus on promoting emotional healing and well-being.
-
-  Prompt #2: Creating music therapy programs for older adults
-  ────────────────────────────────────────────────────────
-  Develop a music-based intervention for individuals with dementia, featuring a range of familiar and nostalgic songs designed to stimulate memory and cognition. The intervention should be designed to provide a engaging and enjoyable experience, with a focus on improving mood and reducing symptoms of dementia.
-
-
-  ========================================================
-  LIVE PERFORMANCE
-  ========================================================
-
-  Prompt #1: Creating a live concert experience
-  ────────────────────────────────────────────────────────
-  Generate a set list for a live concert featuring a range of original songs and covers, with a focus on creating a dynamic and engaging performance that showcases the artist's musical range and versatility. The set list should be designed to take the audience on a musical journey, with a focus on building energy and excitement throughout the show.
-
-  Prompt #2: Producing a live music event or festival
-  ────────────────────────────────────────────────────────
-  Develop a plan for a live music event featuring a combination of human and AI-generated music, with a focus on creating a unique and innovative performance that pushes the boundaries of musical expression. The event should be designed to showcase the creative potential of AI music generation, with a focus on providing a engaging and thought-provoking experience for the audience.
+  Create a sound effects library for a fantasy video game, with a focus on creating a range of magical and mystical sounds. The library should include sounds for spells, potions, and other fantasy elements, with a focus on creating a sense of wonder and enchantment.
 
 
   ========================================================
   MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: Creating music production materials for a remix contest
+  Prompt #1: When creating a remix for a client or a personal project
   ────────────────────────────────────────────────────────
-  Generate a set of audio stems for a music track, featuring a range of individual instruments and vocal parts that can be mixed and arranged to create a unique and personalized sound. The stems should be designed to provide a high degree of creative flexibility, with a focus on allowing producers and remixers to create new and innovative interpretations of the track.
+  Produce a remix of a popular song, with a focus on creating a darker, more introspective mood. The remix should feature a prominent bassline, haunting synths, and a driving beat, with a focus on building tension and release.
 
-  Prompt #2: Creating music production tools and resources
+  Prompt #2: When producing a live version of a song for a concert or festival
   ────────────────────────────────────────────────────────
-  Develop a music production template for a digital audio workstation, featuring a range of pre-configured tracks and settings designed to streamline the music production process. The template should be designed to provide a solid foundation for music production, with a focus on helping producers and artists to create high-quality music quickly and efficiently.
+  Produce a live version of a popular song, with a focus on creating a high-energy, dynamic performance. The live version should feature a range of instruments and vocals, with a focus on recreating the original song in a new and exciting way.
 
-
-  ========================================================
-  MUSIC COGNITION
-  ========================================================
-
-  Prompt #1: Conducting research in music cognition or neuroscience
+  Prompt #3: When producing a new hip-hop track
   ────────────────────────────────────────────────────────
-  Investigate the cognitive processes involved in music perception and cognition, featuring a range of experimental designs and methodologies to study how listeners process and understand music. The research should be designed to provide new insights into the neural and psychological mechanisms underlying music perception, with a focus on advancing our understanding of the complex and multifaceted nature of music cognition.
+  Produce a hip-hop track, with a focus on creating a strong, driving beat and a catchy, memorable hook. The track should feature a range of samples and synthesizers, with a focus on creating a sense of energy and momentum.
 
-  Prompt #2: Creating cognitive training programs for individuals with cognitive impairments
+  Prompt #4: When producing a live version of a song for a concert or festival
   ────────────────────────────────────────────────────────
-  Develop a music-based cognitive training program, featuring a range of interactive exercises and games designed to improve cognitive skills such as attention, memory, and executive function. The program should be designed to provide a engaging and enjoyable experience, with a focus on helping individuals to improve their cognitive abilities and promote overall brain health.
+  Produce a live version of a popular song, with a focus on creating a high-energy, dynamic performance. The live version should feature a range of instruments and vocals, with a focus on recreating the original song in a new and exciting way.
+
+  Prompt #5: When creating a remix for a client or a personal project
+  ────────────────────────────────────────────────────────
+  Produce a remix of a popular song, with a focus on creating a darker, more introspective mood. The remix should feature a prominent bassline, haunting synths, and a driving beat, with a focus on building tension and release.
+
+  Prompt #6: When producing a new hip-hop track
+  ────────────────────────────────────────────────────────
+  Produce a hip-hop track, with a focus on creating a strong, driving beat and a catchy, memorable hook. The track should feature a range of samples and synthesizers, with a focus on creating a sense of energy and momentum.
 
 ============================================================
   Thank you for your purchase!

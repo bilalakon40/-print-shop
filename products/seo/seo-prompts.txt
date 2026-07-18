@@ -3,8 +3,8 @@
   Rank higher on Google with AI-optimized content
 ============================================================
 
-Included Prompts: 30
-Generated: July 16, 2026
+Included Prompts: 29
+Generated: July 18, 2026
 
 ============================================================
   HOW TO USE
@@ -24,180 +24,72 @@ Generated: July 16, 2026
   KEYWORD RESEARCH
   ========================================================
 
-  Prompt #1: When planning content for a new e-commerce website
+  Prompt #1: When starting a new content project
   ────────────────────────────────────────────────────────
-  Analyze the search volume and competition for the keyword 'sustainable fashion' in the United States, and provide a list of relevant long-tail keywords that can be targeted for an e-commerce website.
+  I'm creating content about fitness routines for beginners, can you suggest a list of relevant long-tail keywords that I can target to improve my search engine rankings?
 
 
   ========================================================
   CONTENT OPTIMIZATION
   ========================================================
 
-  Prompt #1: When rewriting article titles for existing content
+  Prompt #1: When optimizing existing content
   ────────────────────────────────────────────────────────
-  Optimize the following article title for better search engine rankings: '10 Tips for Improving Your Mental Health', considering the target audience is millennials and the primary keyword is 'mental health tips'.
+  Analyze the following article title - '10 Ways to Improve Your Running Technique' - and provide suggestions for improvement to make it more SEO-friendly and attention-grabbing.
 
 
   ========================================================
   TECHNICAL SEO
   ========================================================
 
-  Prompt #1: When migrating a website to a new protocol
+  Prompt #1: When setting up a new website or migrating an existing one
   ────────────────────────────────────────────────────────
-  Explain the importance of implementing a proper 301 redirect strategy when migrating a website from HTTP to HTTPS, and provide a step-by-step guide on how to do it using Apache server.
+  Explain the importance of having a secure protocol (HTTPS) for my e-commerce website and provide step-by-step instructions on how to migrate from HTTP to HTTPS without affecting my website's search engine rankings.
 
 
   ========================================================
   CONTENT CREATION
   ========================================================
 
-  Prompt #1: When creating new content for a health and wellness website
+  Prompt #1: When launching a new brand or product
   ────────────────────────────────────────────────────────
-  Create a high-quality, engaging, and informative blog post on the topic of 'The Impact of Social Media on Mental Health', targeting a young adult audience and including relevant statistics and expert opinions.
-
-
-  ========================================================
-  LOCAL SEO
-  ========================================================
-
-  Prompt #1: When improving local search visibility for a small business
-  ────────────────────────────────────────────────────────
-  Develop a local SEO strategy for a small business, 'Green Earth Landscaping', located in Los Angeles, California, including optimizing the Google My Business listing and creating content that targets local search queries.
+  Develop a content marketing strategy for a new fashion brand targeting young adults, including topics for blog posts, social media content, and email newsletters.
 
 
   ========================================================
   LINK BUILDING
   ========================================================
 
-  Prompt #1: When building high-quality backlinks for a fitness website
+  Prompt #1: When building backlinks to improve website authority
   ────────────────────────────────────────────────────────
-  Research and identify potential link building opportunities for a fitness website, 'FitnessFusion', by analyzing the backlink profiles of competitors and finding relevant resource pages and blogs that can be targeted for guest posting.
+  Provide a list of high-quality websites and blogs in the health and wellness niche that I can reach out to for guest blogging opportunities and potential backlinks to my website.
 
 
   ========================================================
   CONTENT MARKETING
   ========================================================
 
-  Prompt #1: When launching a new product and creating buzz around it
+  Prompt #1: When planning content in advance
   ────────────────────────────────────────────────────────
-  Design a content marketing campaign for a new product launch, 'EcoCycle', a smart recycling bin, targeting environmentally conscious consumers and including social media promotions, influencer partnerships, and sponsored content.
+  Create a 3-month content calendar for a travel blog, including topics, formats, and distribution channels to attract and engage with the target audience.
 
 
   ========================================================
   SEO AUDIT
   ========================================================
 
-  Prompt #1: When evaluating the SEO health of a website
+  Prompt #1: When evaluating website performance and identifying areas for improvement
   ────────────────────────────────────────────────────────
-  Conduct a comprehensive SEO audit for the website 'www.example.com', including analyzing website structure, content quality, backlink profile, and technical SEO aspects, and provide recommendations for improvement.
+  Conduct a hypothetical SEO audit of a website selling outdoor gear and provide recommendations for improving its technical SEO, content quality, and user experience.
 
 
   ========================================================
-  CONTENT STRATEGY
+  LOCAL SEO
   ========================================================
 
-  Prompt #1: When creating a content plan for a B2B company
+  Prompt #1: When targeting local search queries
   ────────────────────────────────────────────────────────
-  Develop a content strategy for a B2B software company, 'TechCorp', that targets IT decision-makers and includes a mix of blog posts, whitepapers, case studies, and webinars, with the goal of establishing thought leadership and generating leads.
-
-
-  ========================================================
-  ANALYTICS AND TRACKING
-  ========================================================
-
-  Prompt #1: When monitoring and evaluating the success of an SEO campaign
-  ────────────────────────────────────────────────────────
-  Set up and track key performance indicators (KPIs) for a website's SEO campaign, including organic traffic, conversion rates, and keyword rankings, using Google Analytics and other tools, and provide a monthly reporting template.
-
-
-  ========================================================
-  CONTENT REPURPOSING
-  ========================================================
-
-  Prompt #1: When repurposing existing content into new formats
-  ────────────────────────────────────────────────────────
-  Repurpose a podcast episode on 'The Future of Remote Work' into a blog post, social media series, and email newsletter, targeting remote workers and including actionable tips and relevant statistics.
-
-
-  ========================================================
-  INFLUENCER MARKETING
-  ========================================================
-
-  Prompt #1: When partnering with influencers for brand promotion
-  ────────────────────────────────────────────────────────
-  Research and identify potential influencer partners for a fashion brand, 'StyleHub', that targets young adults and has a focus on sustainability, and develop a collaboration proposal that includes content creation, social media promotions, and product giveaways.
-
-
-  ========================================================
-  SEO TOOLS
-  ========================================================
-
-  Prompt #1: When selecting an SEO tool for business use
-  ────────────────────────────────────────────────────────
-  Compare and contrast the features and pricing of popular SEO tools, including Ahrefs, SEMrush, and Moz, and provide recommendations for which tool to use based on specific business needs and goals.
-
-
-  ========================================================
-  CONTENT LOCALIZATION
-  ========================================================
-
-  Prompt #1: When expanding a website into new geographic markets
-  ────────────────────────────────────────────────────────
-  Adapt a website's content for a new geographic market, 'France', including translating text, adjusting cultural references, and optimizing for local search queries, and provide a plan for maintaining and updating the localized content.
-
-
-  ========================================================
-  VOICE SEARCH OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When optimizing for voice search
-  ────────────────────────────────────────────────────────
-  Optimize a website's content for voice search queries, including using natural language, answering questions directly, and providing concise and relevant information, and provide examples of voice search queries that can be targeted.
-
-
-  ========================================================
-  E-A-T FACTORS
-  ========================================================
-
-  Prompt #1: When enhancing E-A-T factors for a website
-  ────────────────────────────────────────────────────────
-  Improve the expertise, authoritativeness, and trustworthiness (E-A-T) of a health and wellness website, 'WellnessHub', by showcasing author credentials, citing scientific sources, and displaying trust badges and certifications.
-
-
-  ========================================================
-  FEATURED SNIPPETS
-  ========================================================
-
-  Prompt #1: When targeting featured snippets
-  ────────────────────────────────────────────────────────
-  Optimize a website's content to increase the chances of getting featured snippets in search engine results pages (SERPs), including using question-and-answer formats, providing concise and relevant information, and targeting specific keywords.
-
-
-  ========================================================
-  CONTENT FRESHNESS
-  ========================================================
-
-  Prompt #1: When keeping website content up-to-date
-  ────────────────────────────────────────────────────────
-  Develop a content updating strategy for a website, 'NewsCorp', that includes regularly reviewing and updating existing content, removing outdated information, and adding fresh and relevant content to improve search engine rankings and user experience.
-
-
-  ========================================================
-  INTERNAL LINKING
-  ========================================================
-
-  Prompt #1: When improving internal linking structure
-  ────────────────────────────────────────────────────────
-  Create an internal linking strategy for a website, 'EducationHub', that includes linking to relevant and useful content, using descriptive anchor text, and improving website navigation and user experience.
-
-
-  ========================================================
-  MOBILE OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When optimizing for mobile devices
-  ────────────────────────────────────────────────────────
-  Optimize a website, 'TravelGuide', for mobile devices, including improving page speed, using responsive design, and ensuring easy navigation and user experience, and provide recommendations for mobile-specific content and features.
+  Explain the importance of local SEO for small businesses and provide tips on how to optimize a Google My Business listing to attract more local customers.
 
 
   ========================================================
@@ -206,88 +98,187 @@ Generated: July 16, 2026
 
   Prompt #1: When promoting new content
   ────────────────────────────────────────────────────────
-  Develop a content promotion strategy for a blog post, 'The Ultimate Guide to Photography', including social media promotions, email marketing, influencer outreach, and paid advertising, and provide a plan for tracking and measuring the success of the promotion.
+  Develop a social media strategy to promote a new blog post about productivity tips, including the most effective platforms, posting schedule, and engagement techniques.
 
 
   ========================================================
-  WEBSITE MIGRATION
+  ANALYTICS AND TRACKING
   ========================================================
 
-  Prompt #1: When migrating a website to a new platform
+  Prompt #1: When measuring content performance and ROI
   ────────────────────────────────────────────────────────
-  Plan and execute a website migration from an old platform to a new one, including transferring content, updating links, and ensuring minimal disruption to search engine rankings and user experience, and provide a checklist for pre- and post-migration tasks.
+  Explain how to set up and track key performance indicators (KPIs) for a content marketing campaign using Google Analytics, including metrics such as page views, bounce rate, and conversion rate.
 
 
   ========================================================
-  SEO BUDGETING
+  SEO TOOLS
   ========================================================
 
-  Prompt #1: When planning an SEO budget
+  Prompt #1: When selecting SEO tools for a project
   ────────────────────────────────────────────────────────
-  Create a budget plan for an SEO campaign, including allocating resources for keyword research, content creation, link building, and technical SEO, and provide recommendations for prioritizing spending based on business goals and objectives.
+  Compare and contrast the features and pricing plans of popular SEO tools such as Ahrefs, SEMrush, and Moz, and recommend the best option for a small business with limited budget.
 
 
   ========================================================
-  CONTENT TEAM MANAGEMENT
+  CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: When managing a content team
+  Prompt #1: When maximizing content ROI
   ────────────────────────────────────────────────────────
-  Develop a plan for managing a content team, including defining roles and responsibilities, setting deadlines and expectations, and providing training and resources for content creation and optimization, and provide a template for content calendars and workflows.
+  Suggest ways to repurpose a high-performing blog post into other content formats such as videos, podcasts, and infographics to reach a wider audience and improve engagement.
 
 
   ========================================================
-  SEO REPORTING
+  INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: When reporting on SEO progress
+  Prompt #1: When launching an influencer marketing campaign
   ────────────────────────────────────────────────────────
-  Create a monthly SEO report template that includes key performance indicators (KPIs) such as organic traffic, keyword rankings, and conversion rates, and provide recommendations for presenting and discussing SEO data with stakeholders.
+  Develop an influencer marketing strategy for a beauty brand, including how to find and partner with influencers, and how to measure the success of influencer marketing campaigns.
 
 
   ========================================================
-  TECHNICAL CONTENT
+  SEO STRATEGY
   ========================================================
 
-  Prompt #1: When optimizing website images
+  Prompt #1: When developing an overall SEO plan
   ────────────────────────────────────────────────────────
-  Create a technical guide for optimizing website images, including compressing files, using descriptive alt tags, and optimizing for page speed, and provide examples of tools and software that can be used for image optimization.
-
-
-  ========================================================
-  LOCAL CONTENT
-  ========================================================
-
-  Prompt #1: When creating content for a local business
-  ────────────────────────────────────────────────────────
-  Develop a content strategy for a local business, 'LocalCoffee', that includes creating content that targets local search queries, partnering with local influencers, and promoting local events and initiatives, and provide a plan for maintaining and updating local content.
+  Create a comprehensive SEO strategy for an e-commerce website, including keyword research, on-page optimization, link building, and content creation.
 
 
   ========================================================
   USER EXPERIENCE
   ========================================================
 
-  Prompt #1: When enhancing user experience
+  Prompt #1: When improving website usability and accessibility
   ────────────────────────────────────────────────────────
-  Improve the user experience of a website, 'UserHub', by conducting user testing, analyzing heat maps and click-through rates, and making recommendations for improving website navigation, content layout, and overall usability.
+  Explain the importance of user experience (UX) in SEO and provide tips on how to improve website usability, accessibility, and mobile responsiveness to enhance search engine rankings.
 
 
   ========================================================
-  CONVERSION RATE OPTIMIZATION
+  CONTENT DISTRIBUTION
   ========================================================
 
-  Prompt #1: When improving conversion rates
+  Prompt #1: When promoting content to a specific audience
   ────────────────────────────────────────────────────────
-  Optimize a website's conversion rates, including improving form design, streamlining checkout processes, and using persuasive copy and calls-to-action, and provide a plan for testing and measuring the effectiveness of conversion rate optimization efforts.
+  Develop a content distribution strategy for a B2B software company, including channels such as email newsletters, LinkedIn groups, and industry forums.
 
 
   ========================================================
-  ACCESSIBILITY
+  BRAND BUILDING
   ========================================================
 
-  Prompt #1: When enhancing website accessibility
+  Prompt #1: When launching a new brand or rebranding an existing one
   ────────────────────────────────────────────────────────
-  Improve the accessibility of a website, 'AccessibleHub', by following web accessibility guidelines (WCAG 2.1), including providing alternative text for images, using descriptive link text, and ensuring keyboard navigation and screen reader compatibility.
+  Create a brand building strategy for a new startup, including how to establish a unique brand voice, tone, and visual identity, and how to consistently communicate the brand message across all marketing channels.
+
+
+  ========================================================
+  LOCAL CONTENT
+  ========================================================
+
+  Prompt #1: When targeting local customers
+  ────────────────────────────────────────────────────────
+  Develop a content strategy for a local business, including how to create content that resonates with the local audience, and how to optimize the website for local search queries.
+
+
+  ========================================================
+  EVERGREEN CONTENT
+  ========================================================
+
+  Prompt #1: When creating content that remains relevant over time
+  ────────────────────────────────────────────────────────
+  Explain the benefits of creating evergreen content and provide tips on how to develop a content strategy that focuses on timeless topics and formats.
+
+
+  ========================================================
+  SEO TRENDS
+  ========================================================
+
+  Prompt #1: When staying up-to-date with industry developments
+  ────────────────────────────────────────────────────────
+  Discuss the latest trends and updates in the SEO industry, including changes to search engine algorithms, and provide insights on how to adapt to these changes and stay ahead of the competition.
+
+
+  ========================================================
+  CONTENT COLLABORATION
+  ========================================================
+
+  Prompt #1: When working with a team to create content
+  ────────────────────────────────────────────────────────
+  Develop a content collaboration strategy for a team of writers, designers, and developers, including how to assign tasks, track progress, and ensure consistency in content quality and style.
+
+
+  ========================================================
+  SEO FOR E-COMMERCE
+  ========================================================
+
+  Prompt #1: When optimizing an e-commerce website for search engines
+  ────────────────────────────────────────────────────────
+  Explain the unique SEO challenges faced by e-commerce websites and provide tips on how to optimize product pages, category pages, and other e-commerce-specific pages for search engines.
+
+
+  ========================================================
+  CONTENT MEASUREMENT
+  ========================================================
+
+  Prompt #1: When evaluating content performance and ROI
+  ────────────────────────────────────────────────────────
+  Explain how to measure the effectiveness of content marketing campaigns using metrics such as engagement, conversion rate, and ROI, and provide tips on how to use data to inform future content decisions.
+
+
+  ========================================================
+  TECHNICAL CONTENT
+  ========================================================
+
+  Prompt #1: When creating content for a technical audience
+  ────────────────────────────────────────────────────────
+  Develop a content strategy for a technical audience, including how to create high-quality, informative content that resonates with technical professionals, and how to optimize the content for search engines.
+
+
+  ========================================================
+  SEO FOR BLOGS
+  ========================================================
+
+  Prompt #1: When optimizing a blog for search engines
+  ────────────────────────────────────────────────────────
+  Explain the importance of SEO for blogs and provide tips on how to optimize blog posts for search engines, including how to conduct keyword research, optimize metadata, and build high-quality backlinks.
+
+
+  ========================================================
+  CONTENT REFRESH
+  ========================================================
+
+  Prompt #1: When updating existing content
+  ────────────────────────────────────────────────────────
+  Develop a content refresh strategy for outdated or underperforming content, including how to update and repurpose existing content to make it more relevant and engaging for the target audience.
+
+
+  ========================================================
+  SEO TOOLS FOR AGENCIES
+  ========================================================
+
+  Prompt #1: When selecting SEO tools for an agency
+  ────────────────────────────────────────────────────────
+  Compare and contrast the features and pricing plans of SEO tools such as Ahrefs, SEMrush, and Moz, and recommend the best option for a digital marketing agency with multiple clients and projects.
+
+
+  ========================================================
+  CONTENT STYLE GUIDE
+  ========================================================
+
+  Prompt #1: When developing a content style guide
+  ────────────────────────────────────────────────────────
+  Create a content style guide for a brand, including guidelines for tone, voice, language, and formatting, to ensure consistency in content quality and style across all marketing channels.
+
+
+  ========================================================
+  SEO FOR SMALL BUSINESS
+  ========================================================
+
+  Prompt #1: When optimizing a small business website for search engines
+  ────────────────────────────────────────────────────────
+  Explain the importance of SEO for small businesses and provide tips on how to optimize a small business website for search engines, including how to conduct keyword research, optimize metadata, and build high-quality backlinks.
 
 ============================================================
   Thank you for your purchase!
