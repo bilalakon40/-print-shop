@@ -1,26 +1,18 @@
 [
   {
-    "title": "Content Creator AI Prompt Pack",
-    "niche": "Content Creation",
-    "price": 9,
-    "prompts_count": 34,
-    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/ctddg"
-  },
-  {
     "title": "AI Prompts for Social Media Marketing",
     "niche": "Social Media",
     "price": 9,
-    "prompts_count": 34,
+    "prompts_count": 35,
     "description": "Stop struggling with content ideas. This pack includes 35 ChatGPT prompts designed to help you create scroll-stopping posts, captions, and threads for Instagram, TikTok, LinkedIn, and Twitter.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/omzbae"
+    "gumroad_url": "https://bybilal.gumroad.com/l/kybclx"
   },
   {
-    "title": "ChatGPT Prompts for Copywriting",
-    "niche": "Marketing & Copywriting",
-    "price": 9,
-    "prompts_count": 30,
-    "description": "Tired of staring at a blank page? This pack of 30 battle-tested ChatGPT prompts will help you write high-converting copy for landing pages, emails, ads, and sales letters in minutes.",
-    "gumroad_url": ""
+    "title": "Freelancer's ChatGPT Prompt Kit",
+    "niche": "Freelancing",
+    "price": 14,
+    "prompts_count": 40,
+    "description": "40 essential ChatGPT prompts every freelancer needs. Write winning proposals, professional emails, client contracts, portfolio descriptions, and social proof content in half the time.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/ypsrda"
   }
 ]
