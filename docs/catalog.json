@@ -1,26 +1,18 @@
 [
   {
+    "title": "Content Creator AI Prompt Pack",
+    "niche": "Content Creation",
+    "price": 9,
+    "prompts_count": 35,
+    "description": "Whether you're a YouTuber, podcaster, or blogger, this pack of 35 ChatGPT prompts helps you brainstorm topics, write scripts, create thumbnails, and repurpose content across platforms.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/iznijc"
+  },
+  {
     "title": "ChatGPT Prompts for Copywriting",
     "niche": "Marketing & Copywriting",
     "price": 9,
     "prompts_count": 30,
     "description": "Tired of staring at a blank page? This pack of 30 battle-tested ChatGPT prompts will help you write high-converting copy for landing pages, emails, ads, and sales letters in minutes.",
-    "gumroad_url": ""
-  },
-  {
-    "title": "Real Estate AI Prompt Bundle",
-    "niche": "Real Estate",
-    "price": 12,
-    "prompts_count": 24,
-    "description": "Stand out in a competitive market. This bundle of 25 ChatGPT prompts helps agents write compelling listing descriptions, social media posts, email scripts, and client communication templates.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/bslwko"
-  },
-  {
-    "title": "ChatGPT Prompts for Mindfulness and Meditation",
-    "niche": "Mindfulness and Meditation",
-    "price": 9,
-    "prompts_count": 30,
-    "description": "This prompt pack helps you create personalized meditation scripts and mindfulness exercises using ChatGPT, guiding you through stress reduction and mental well-being techniques. With 30 tailored prompts, you'll unlock a deeper sense of calm and clarity, perfect for individuals seeking holistic wellness solutions.",
     "gumroad_url": ""
   }
 ]
