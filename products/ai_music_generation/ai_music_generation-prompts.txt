@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose like a pro with AI
+  Create stunning music with AI
 ============================================================
 
-Included Prompts: 31
-Generated: July 18, 2026
+Included Prompts: 30
+Generated: July 23, 2026
 
 ============================================================
   HOW TO USE
@@ -24,149 +24,170 @@ Generated: July 18, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When creating a new piano composition
+  Prompt #1: When creating a new pop song and needing a catchy melody
   ────────────────────────────────────────────────────────
-  Create a hauntingly beautiful melody for a piano piece inspired by the works of Chopin, with a focus on minor keys and arpeggiated chord progressions. The melody should be around 16 bars long and have a soaring quality to it.
+  Generate a 16-bar melody for a pop song in the key of C major, with a tempo of 120 BPM and a mix of stepwise motion and leaps, incorporating a repeating pattern of descending arpeggios in the first four bars.
 
-  Prompt #2: When writing a new pop song
+  Prompt #2: When writing a children's song and needing a memorable and engaging melody
   ────────────────────────────────────────────────────────
-  Generate a melody for a pop song, with a focus on creating a catchy, memorable hook. The melody should be around 8 bars long and feature a simple, repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
+  Generate a melody for a children's song, using a simple and catchy motif, with a focus on creating a sense of wonder and curiosity, and incorporating a mix of repetition and variation to add interest and engagement.
 
-  Prompt #3: When writing a new children's song
+  Prompt #3: When writing an electronic dance track and needing a memorable and engaging melody
   ────────────────────────────────────────────────────────
-  Generate a melody for a children's song, with a focus on creating a simple, memorable tune. The melody should be around 12 bars long and feature a repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
-
-  Prompt #4: When writing a new classical piece
-  ────────────────────────────────────────────────────────
-  Generate a melody for a classical piece, with a focus on creating a complex, intricate structure. The melody should be around 20 bars long and feature a range of arpeggiated chord progressions and interweaving melodies, with a focus on creating a sense of beauty and elegance.
-
-  Prompt #5: When writing a new musical theater piece
-  ────────────────────────────────────────────────────────
-  Generate a melody for a musical theater piece, with a focus on creating a catchy, memorable tune. The melody should be around 16 bars long and feature a simple, repetitive structure, with a focus on emphasizing the downbeat and creating a sense of forward motion.
-
-  Prompt #6: When creating a new film score
-  ────────────────────────────────────────────────────────
-  Generate a melody for a film score, with a focus on creating a sense of tension and suspense. The melody should be around 12 bars long and feature a range of ominous, pulsing sounds and haunting melodies, with a focus on building tension and creating a sense of unease.
-
-  Prompt #7: When writing a new classical piece
-  ────────────────────────────────────────────────────────
-  Generate a melody for a classical piece, with a focus on creating a complex, intricate structure. The melody should be around 20 bars long and feature a range of arpeggiated chord progressions and interweaving melodies, with a focus on creating a sense of beauty and elegance.
+  Generate a melody for an electronic dance track, using a simple and catchy motif, with a focus on creating a sense of energy and drive, and incorporating a mix of repetition and variation to add interest and engagement, as well as a prominent use of rhythmic syncopation and melodic contour.
 
 
   ========================================================
-  LYRICS WRITING
+  CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When writing a new song about heartbreak
+  Prompt #1: When composing a jazz piece and needing a sophisticated chord progression
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about heartbreak and lost love, with a focus on storytelling and poetic imagery. The lyrics should be from the perspective of someone who is reflecting on a past relationship and trying to come to terms with their emotions.
+  Create a chord progression for a jazz standard in the key of G minor, using a combination of extended chords and altered dominants, with a slow and contemplative tempo, and incorporating a ii-V-I progression in the final eight bars.
 
-  Prompt #2: When writing a new song about social justice
+  Prompt #2: When writing a rock song and needing a solid and engaging chord progression
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about social justice, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is advocating for change and trying to raise awareness about a particular issue.
+  Create a chord progression for a rock song, using a combination of power chords and seventh chords, with a focus on creating a sense of energy and drive, and incorporating a mix of fast and slow chord changes to add variety and interest.
 
-  Prompt #3: When writing a new song about nature
+  Prompt #3: When writing a folk song and needing a solid and engaging chord progression
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about nature, with a focus on poetic imagery and vivid description. The lyrics should be from the perspective of someone who is observing the natural world and trying to capture its beauty and wonder.
-
-  Prompt #4: When writing a new song about love
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about love, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is reflecting on a past relationship and trying to capture the emotions and feelings of that time.
-
-  Prompt #5: When writing a new song about social commentary
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about social commentary, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is observing the world and trying to capture the complexities and challenges of modern life.
-
-  Prompt #6: When writing a new song about personal growth
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a song about personal growth, with a focus on storytelling and vivid imagery. The lyrics should be from the perspective of someone who is reflecting on their life and trying to capture the emotions and feelings of that time.
+  Create a chord progression for a folk song, using a combination of acoustic guitar and piano, with a focus on creating a sense of warmth and familiarity, and incorporating a mix of slow and fast chord changes to add variety and interest, as well as a prominent use of modal interchange and borrowed chords.
 
 
   ========================================================
-  MUSIC COMPOSITION
+  LYRICS GENERATION
   ========================================================
 
-  Prompt #1: When creating a new piece of classical music
+  Prompt #1: When writing a country song and needing meaningful and emotive lyrics
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a string quartet, with a focus on counterpoint and interweaving melodies. The piece should be around 5 minutes long and have a dramatic arc, with a slow build-up to a climactic finale.
+  Write lyrics for a country ballad about heartbreak and lost love, with a focus on storytelling and poetic imagery, using a consistent rhyme scheme and meter, and incorporating themes of nostalgia and longing.
 
-  Prompt #2: When creating a new piece of jazz music
+  Prompt #2: When writing a pop song and needing meaningful and relatable lyrics
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a jazz ensemble, with a focus on improvisation and spontaneity. The piece should be around 10 minutes long and feature a range of solos and ensemble passages, with a focus on creating a sense of tension and release.
+  Write lyrics for a pop song about love and relationships, using a focus on storytelling and poetic imagery, with a consistent rhyme scheme and meter, and incorporating themes of vulnerability and intimacy.
 
-  Prompt #3: When creating a new film score
+  Prompt #3: When writing a rock song and needing meaningful and impactful lyrics
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a film score, with a focus on creating a sense of tension and suspense. The piece should be around 3 minutes long and feature a range of ominous, pulsing sounds and haunting melodies, with a focus on building tension and creating a sense of unease.
-
-  Prompt #4: When creating a new electronic music album
-  ────────────────────────────────────────────────────────
-  Compose a piece of music for a electronic music album, with a focus on creating a sense of energy and momentum. The piece should be around 6 minutes long and feature a range of synthesizers and drum machines, with a focus on building tension and release.
-
-  Prompt #5: When creating a new video game soundtrack
-  ────────────────────────────────────────────────────────
-  Compose a piece of music for a video game soundtrack, with a focus on creating a sense of adventure and exploration. The piece should be around 4 minutes long and feature a range of orchestral and choral elements, with a focus on building tension and release.
-
-  Prompt #6: When creating a new piece of jazz music
-  ────────────────────────────────────────────────────────
-  Compose a piece of music for a jazz ensemble, with a focus on improvisation and spontaneity. The piece should be around 10 minutes long and feature a range of solos and ensemble passages, with a focus on creating a sense of tension and release.
+  Write lyrics for a rock song about social justice and activism, using a focus on storytelling and poetic imagery, with a consistent rhyme scheme and meter, and incorporating themes of resistance and empowerment.
 
 
   ========================================================
   SOUND DESIGN
   ========================================================
 
-  Prompt #1: When designing sound effects for a film or video game
+  Prompt #1: When creating sound effects for a film and needing an unusual and captivating sound
   ────────────────────────────────────────────────────────
-  Create a soundscape for a sci-fi film, with a focus on otherworldly textures and atmospheric sound effects. The soundscape should be around 2 minutes long and feature a range of eerie, pulsing sounds and haunting melodies.
+  Design a unique sound effect for a science fiction film, using a combination of granular synthesis and frequency modulation, to create an otherworldly and eerie atmosphere, with a focus on high-frequency content and dynamic range.
 
-  Prompt #2: When designing sound effects for a video game
+  Prompt #2: When creating sound effects for a video game and needing an unusual and captivating sound
   ────────────────────────────────────────────────────────
-  Create a sound effects library for a fantasy video game, with a focus on creating a range of magical and mystical sounds. The library should include sounds for spells, potions, and other fantasy elements, with a focus on creating a sense of wonder and enchantment.
+  Design a sound effect for a video game, using a combination of FM synthesis and ring modulation, to create a unique and otherworldly sound, with a focus on high-frequency content and dynamic range, and incorporating a mix of pitched and unpitched elements.
 
-  Prompt #3: When designing sound effects for a horror film
+  Prompt #3: When creating sound effects for a horror film and needing an unusual and captivating sound
   ────────────────────────────────────────────────────────
-  Create a soundscape for a horror film, with a focus on creating a range of eerie, unsettling sounds. The soundscape should be around 1 minute long and feature a range of creaking doors, howling wind, and other spooky sound effects, with a focus on creating a sense of fear and unease.
+  Design a sound effect for a horror film, using a combination of noise reduction and spectral processing, to create a unique and unsettling sound, with a focus on low-frequency content and dynamic range, and incorporating a mix of pitched and unpitched elements, as well as a prominent use of reverb and delay.
 
-  Prompt #4: When designing sound effects for a sports video game
-  ────────────────────────────────────────────────────────
-  Create a sound effects library for a sports video game, with a focus on creating a range of realistic, immersive sounds. The library should include sounds for crowds, commentary, and other sports-related elements, with a focus on creating a sense of excitement and energy.
 
-  Prompt #5: When designing sound effects for a futuristic film
-  ────────────────────────────────────────────────────────
-  Create a soundscape for a futuristic film, with a focus on creating a range of otherworldly, futuristic sounds. The soundscape should be around 2 minutes long and feature a range of pulsing synths, haunting melodies, and other futuristic sound effects, with a focus on creating a sense of wonder and awe.
+  ========================================================
+  MUSIC ARRANGEMENT
+  ========================================================
 
-  Prompt #6: When designing sound effects for a fantasy video game
+  Prompt #1: When adapting a classical piece for a string quartet and needing a nuanced and engaging arrangement
   ────────────────────────────────────────────────────────
-  Create a sound effects library for a fantasy video game, with a focus on creating a range of magical and mystical sounds. The library should include sounds for spells, potions, and other fantasy elements, with a focus on creating a sense of wonder and enchantment.
+  Arrange a classical piece for a string quartet, using a combination of homophonic and polyphonic textures, with a focus on showcasing the individual instruments and their unique timbres, and incorporating a dramatic buildup to a climactic finale.
+
+  Prompt #2: When adapting a jazz standard for a small ensemble and needing a nuanced and engaging arrangement
+  ────────────────────────────────────────────────────────
+  Arrange a jazz standard for a small ensemble, using a combination of homophonic and polyphonic textures, with a focus on showcasing the individual instruments and their unique timbres, and incorporating a mix of fast and slow passages to add contrast and variety.
+
+  Prompt #3: When adapting a classical piece for a solo instrument and needing a nuanced and engaging arrangement
+  ────────────────────────────────────────────────────────
+  Arrange a classical piece for a solo instrument, using a combination of homophonic and polyphonic textures, with a focus on showcasing the individual instrument and its unique timbre, and incorporating a mix of fast and slow passages to add contrast and variety, as well as a prominent use of ornamental techniques and expressive phrasing.
+
+
+  ========================================================
+  BEATS AND GROOVES
+  ========================================================
+
+  Prompt #1: When producing a hip-hop track and needing a solid and infectious beat
+  ────────────────────────────────────────────────────────
+  Create a drum pattern for a hip-hop track, using a combination of sampled breaks and programmed percussion, with a focus on creating a laid-back and groovy feel, and incorporating a mix of quarter notes and eighth notes on the hi-hats.
+
+  Prompt #2: When producing a funk track and needing a solid and infectious beat
+  ────────────────────────────────────────────────────────
+  Create a drum pattern for a funk track, using a combination of sampled breaks and programmed percussion, with a focus on creating a tight and groovy feel, and incorporating a mix of quarter notes and eighth notes on the hi-hats, as well as a prominent bass drum on beats 1 and 3.
+
+  Prompt #3: When producing a Latin jazz track and needing a solid and infectious beat
+  ────────────────────────────────────────────────────────
+  Create a drum pattern for a Latin jazz track, using a combination of sampled breaks and programmed percussion, with a focus on creating a tight and energetic feel, and incorporating a mix of quarter notes and eighth notes on the hi-hats, as well as a prominent use of congas and bongos to add rhythmic interest and flavor.
+
+
+  ========================================================
+  HARMONY AND VOICE LEADING
+  ========================================================
+
+  Prompt #1: When writing a choral piece and needing a rich and nuanced harmonic texture
+  ────────────────────────────────────────────────────────
+  Harmonize a melody for a choral piece, using a combination of close and open voicings, with a focus on smooth voice leading and a sense of resolution, and incorporating a mix of consonant and dissonant harmonies to add tension and interest.
+
+  Prompt #2: When writing a vocal piece and needing a rich and nuanced harmonic texture
+  ────────────────────────────────────────────────────────
+  Harmonize a melody for a vocal piece, using a combination of close and open voicings, with a focus on smooth voice leading and a sense of resolution, and incorporating a mix of consonant and dissonant harmonies to add tension and interest, as well as a prominent use of suspensions and appoggiaturas.
+
+  Prompt #3: When writing a choral piece and needing a rich and nuanced harmonic texture
+  ────────────────────────────────────────────────────────
+  Harmonize a melody for a choral piece, using a combination of close and open voicings, with a focus on smooth voice leading and a sense of resolution, and incorporating a mix of consonant and dissonant harmonies to add tension and interest, as well as a prominent use of suspensions and appoggiaturas, and a focus on showcasing the individual vocal parts and their unique timbres.
 
 
   ========================================================
   MUSIC PRODUCTION
   ========================================================
 
-  Prompt #1: When creating a remix for a client or a personal project
+  Prompt #1: When remixing a track and needing a high-energy and danceable mix
   ────────────────────────────────────────────────────────
-  Produce a remix of a popular song, with a focus on creating a darker, more introspective mood. The remix should feature a prominent bassline, haunting synths, and a driving beat, with a focus on building tension and release.
+  Produce a remix of an electronic dance track, using a combination of EQ and compression to enhance the sound, with a focus on creating a loud and energetic mix, and incorporating a buildup to a drop with a dramatic filter sweep.
 
-  Prompt #2: When producing a live version of a song for a concert or festival
+  Prompt #2: When mixing a live recording and needing a high-quality and engaging sound
   ────────────────────────────────────────────────────────
-  Produce a live version of a popular song, with a focus on creating a high-energy, dynamic performance. The live version should feature a range of instruments and vocals, with a focus on recreating the original song in a new and exciting way.
+  Produce a live recording of a concert, using a combination of EQ and compression to enhance the sound, with a focus on creating a balanced and polished mix, and incorporating a mix of close and ambient mic techniques to add depth and width.
 
-  Prompt #3: When producing a new hip-hop track
+  Prompt #3: When mixing a live recording and needing a high-quality and engaging sound
   ────────────────────────────────────────────────────────
-  Produce a hip-hop track, with a focus on creating a strong, driving beat and a catchy, memorable hook. The track should feature a range of samples and synthesizers, with a focus on creating a sense of energy and momentum.
+  Produce a mix of a live recording, using a combination of EQ and compression to enhance the sound, with a focus on creating a balanced and polished mix, and incorporating a mix of close and ambient mic techniques to add depth and width, as well as a prominent use of reverb and delay to enhance the sense of space and atmosphere.
 
-  Prompt #4: When producing a live version of a song for a concert or festival
-  ────────────────────────────────────────────────────────
-  Produce a live version of a popular song, with a focus on creating a high-energy, dynamic performance. The live version should feature a range of instruments and vocals, with a focus on recreating the original song in a new and exciting way.
 
-  Prompt #5: When creating a remix for a client or a personal project
-  ────────────────────────────────────────────────────────
-  Produce a remix of a popular song, with a focus on creating a darker, more introspective mood. The remix should feature a prominent bassline, haunting synths, and a driving beat, with a focus on building tension and release.
+  ========================================================
+  INSTRUMENTATION
+  ========================================================
 
-  Prompt #6: When producing a new hip-hop track
+  Prompt #1: When scoring a film and needing a dramatic and engaging orchestral sound
   ────────────────────────────────────────────────────────
-  Produce a hip-hop track, with a focus on creating a strong, driving beat and a catchy, memorable hook. The track should feature a range of samples and synthesizers, with a focus on creating a sense of energy and momentum.
+  Orchestrate a film score for a large ensemble, using a combination of brass, woodwinds, and percussion, with a focus on creating a grand and cinematic sound, and incorporating a mix of legato and staccato articulations to add variety and interest.
+
+  Prompt #2: When scoring a piece for a chamber ensemble and needing a nuanced and engaging orchestral sound
+  ────────────────────────────────────────────────────────
+  Orchestrate a piece for a chamber ensemble, using a combination of strings, woodwinds, and piano, with a focus on creating a sense of intimacy and delicacy, and incorporating a mix of legato and staccato articulations to add variety and interest, as well as a prominent use of contrapuntal techniques.
+
+  Prompt #3: When scoring a piece for a large ensemble and needing a nuanced and engaging orchestral sound
+  ────────────────────────────────────────────────────────
+  Orchestrate a piece for a large ensemble, using a combination of brass, woodwinds, and percussion, with a focus on creating a sense of grandeur and spectacle, and incorporating a mix of legato and staccato articulations to add variety and interest, as well as a prominent use of contrapuntal techniques and a focus on showcasing the individual instruments and their unique timbres.
+
+
+  ========================================================
+  COMPOSITION
+  ========================================================
+
+  Prompt #1: When writing a piece for solo piano and needing a nuanced and expressive composition
+  ────────────────────────────────────────────────────────
+  Compose a piece for solo piano, using a combination of tonal and atonal elements, with a focus on creating a sense of narrative and emotional depth, and incorporating a mix of fast and slow passages to add contrast and variety.
+
+  Prompt #2: When writing a piece for a large ensemble and needing a grand and engaging composition
+  ────────────────────────────────────────────────────────
+  Compose a piece for a large ensemble, using a combination of tonal and atonal elements, with a focus on creating a sense of drama and spectacle, and incorporating a mix of fast and slow passages to add contrast and variety, as well as a prominent use of percussion and brass to add color and energy.
+
+  Prompt #3: When writing a piece for a small ensemble and needing a nuanced and engaging composition
+  ────────────────────────────────────────────────────────
+  Compose a piece for a small ensemble, using a combination of tonal and atonal elements, with a focus on creating a sense of intimacy and delicacy, and incorporating a mix of fast and slow passages to add contrast and variety, as well as a prominent use of percussion and woodwinds to add color and energy, and a focus on showcasing the individual instruments and their unique timbres.
 
 ============================================================
   Thank you for your purchase!
