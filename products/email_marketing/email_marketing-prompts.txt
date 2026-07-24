@@ -3,8 +3,8 @@
   Write emails that get opened, read, and clicked
 ============================================================
 
-Included Prompts: 24
-Generated: July 23, 2026
+Included Prompts: 25
+Generated: July 24, 2026
 
 ============================================================
   HOW TO USE
@@ -21,219 +21,228 @@ Generated: July 23, 2026
 
 
   ========================================================
+  CAMPAIGN STRATEGY
+  ========================================================
+
+  Prompt #1: Planning a new email campaign
+  ────────────────────────────────────────────────────────
+  I'm planning to launch a new email marketing campaign for our upcoming summer sale, targeting our existing customer base. What are the most effective strategies to increase open rates and conversions for this campaign, considering our brand's tone and previous campaign performance?
+
+
+  ========================================================
+  CONTENT CREATION
+  ========================================================
+
+  Prompt #1: Promoting a new product line
+  ────────────────────────────────────────────────────────
+  Our company is launching a new product line of eco-friendly home goods, and we need to create engaging email content to promote it. Write a sample email that highlights the key features and benefits of our new product line, including a call-to-action to drive sales.
+
+
+  ========================================================
+  LIST MANAGEMENT
+  ========================================================
+
+  Prompt #1: Optimizing email list management
+  ────────────────────────────────────────────────────────
+  Our email list has grown significantly over the past year, but we've noticed a decline in engagement. Provide a step-by-step guide on how to segment our email list based on subscriber behavior, demographics, and purchase history to improve personalization and relevance.
+
+
+  ========================================================
+  AUTOMATION
+  ========================================================
+
+  Prompt #1: Implementing automated email workflows
+  ────────────────────────────────────────────────────────
+  We want to set up an automated email workflow that sends a series of welcome emails to new subscribers, including a discount code, company information, and popular product recommendations. Design a workflow that includes at least three emails, each with a specific goal and trigger.
+
+
+  ========================================================
+  ANALYTICS AND REPORTING
+  ========================================================
+
+  Prompt #1: Evaluating campaign performance
+  ────────────────────────────────────────────────────────
+  Our email marketing team needs to track the performance of our recent campaign and identify areas for improvement. What key metrics and KPIs should we focus on, and how can we use data visualization tools to create a comprehensive campaign report?
+
+
+  ========================================================
+  SUBJECT LINES AND CTAS
+  ========================================================
+
+  Prompt #1: Crafting effective subject lines and CTAs
+  ────────────────────────────────────────────────────────
+  I'm struggling to come up with effective subject lines and calls-to-action for our upcoming email campaign. Provide 10 examples of subject lines and CTAs that are proven to drive high open rates and conversions, along with explanations of what makes them successful.
+
+
+  ========================================================
+  PERSONALIZATION
+  ========================================================
+
+  Prompt #1: Implementing personalization in email marketing
+  ────────────────────────────────────────────────────────
+  Our company wants to personalize our email content based on subscriber preferences, purchase history, and behavior. How can we use data and analytics to create dynamic content that resonates with individual subscribers, and what are some best practices for implementing personalization in email marketing?
+
+
+  ========================================================
+  SEGMENTATION
+  ========================================================
+
+  Prompt #1: Segmenting email lists
+  ────────────────────────────────────────────────────────
+  We need to segment our email list to improve campaign relevance and engagement. What are the most effective ways to segment our list, including demographic, behavioral, and firmographic segmentation, and how can we use these segments to create targeted campaigns?
+
+
+  ========================================================
+  AB TESTING
+  ========================================================
+
+  Prompt #1: Conducting A/B testing
+  ────────────────────────────────────────────────────────
+  Our team wants to conduct A/B testing to optimize our email campaigns and improve performance. What are the most important elements to test, such as subject lines, CTAs, and email content, and how can we use the results to inform future campaign decisions?
+
+
+  ========================================================
+  EMAIL DESIGN
+  ========================================================
+
+  Prompt #1: Designing email templates
+  ────────────────────────────────────────────────────────
+  We're redesigning our email template to improve readability and engagement. What are the best practices for email design, including layout, typography, and imagery, and how can we ensure our template is mobile-friendly and accessible?
+
+
+  ========================================================
+  RE-ENGAGEMENT
+  ========================================================
+
+  Prompt #1: Re-engaging inactive subscribers
+  ────────────────────────────────────────────────────────
+  We have a large segment of inactive subscribers who haven't engaged with our emails in months. Develop a re-engagement campaign strategy that includes a series of emails with personalized content, offers, and incentives to win back these subscribers.
+
+
+  ========================================================
   WELCOME EMAILS
   ========================================================
 
-  Prompt #1: When setting up a new e-commerce website
+  Prompt #1: Onboarding new subscribers
   ────────────────────────────────────────────────────────
-  Create a welcome email sequence for a new e-commerce website that sells outdoor gear, including a series of three automated emails that introduce the brand, offer a discount, and showcase popular products. The tone should be friendly and inviting, with a focus on encouraging subscribers to make their first purchase.
+  Our company needs to create a welcome email series that sets the tone for our brand and encourages new subscribers to make a purchase. Write a sample welcome email that includes a discount code, company information, and a clear call-to-action.
 
 
   ========================================================
-  ABANDONED CART EMAILS
+  ABANDONED CART
   ========================================================
 
-  Prompt #1: When a customer abandons their shopping cart
+  Prompt #1: Recovering abandoned carts
   ────────────────────────────────────────────────────────
-  Write an abandoned cart email for an online fashion retailer, reminding customers about the items they left in their cart and offering a 10% discount if they complete their purchase within the next 24 hours. The email should include a clear call-to-action and a sense of urgency.
+  We want to implement an abandoned cart email campaign to recover lost sales. Design a series of emails that remind subscribers about their abandoned cart, offer incentives to complete the purchase, and provide customer support.
+
+
+  ========================================================
+  SURVEY AND FEEDBACK
+  ========================================================
+
+  Prompt #1: Collecting subscriber feedback
+  ────────────────────────────────────────────────────────
+  Our company wants to gather feedback from subscribers to improve our email content and overall customer experience. Create a sample survey email that asks relevant questions, includes a clear call-to-action, and offers an incentive for completion.
+
+
+  ========================================================
+  HOLIDAY AND SEASONAL
+  ========================================================
+
+  Prompt #1: Creating holiday-themed campaigns
+  ────────────────────────────────────────────────────────
+  We're planning a holiday-themed email campaign to promote our products and offers during the upcoming season. Develop a campaign strategy that includes a series of emails with festive content, limited-time offers, and a sense of urgency.
+
+
+  ========================================================
+  WIN-BACK
+  ========================================================
+
+  Prompt #1: Winning back lapsed customers
+  ────────────────────────────────────────────────────────
+  We have a segment of subscribers who have stopped making purchases from our company. Develop a win-back campaign strategy that includes a series of emails with personalized offers, incentives, and content to re-engage these subscribers and drive sales.
+
+
+  ========================================================
+  ONBOARDING
+  ========================================================
+
+  Prompt #1: Onboarding new customers
+  ────────────────────────────────────────────────────────
+  Our company offers a free trial for our software product, and we need to create an onboarding email series that educates new users about the product's features and benefits. Write a sample onboarding email that includes a tutorial, customer support information, and a clear call-to-action.
 
 
   ========================================================
   NEWSLETTERS
   ========================================================
 
-  Prompt #1: When sending regular updates to subscribers
+  Prompt #1: Creating a monthly newsletter
   ────────────────────────────────────────────────────────
-  Design a monthly newsletter for a digital marketing agency, featuring the latest industry trends, company news, and tips for improving email marketing campaigns. The newsletter should include a mix of text, images, and links to relevant articles and resources.
+  We want to create a monthly newsletter that showcases our company's news, industry insights, and product updates. Develop a content strategy that includes a mix of educational, promotional, and engaging content to keep subscribers informed and interested.
 
 
   ========================================================
-  PROMOTIONAL EMAILS
+  LOYALTY AND REWARDS
   ========================================================
 
-  Prompt #1: When launching a new product or service
+  Prompt #1: Launching a loyalty program
   ────────────────────────────────────────────────────────
-  Develop a promotional email campaign for a new product launch, including a series of three emails that build anticipation, provide product details, and offer a limited-time discount. The emails should be sent to a targeted list of subscribers who have shown interest in similar products.
+  Our company wants to launch a loyalty program that rewards subscribers for their purchases and engagement. Design a loyalty program that includes a points system, rewards tiers, and exclusive offers, and develop an email campaign to promote the program.
 
 
   ========================================================
-  WIN-BACK EMAILS
+  REFERRAL
   ========================================================
 
-  Prompt #1: When trying to re-engage inactive customers
+  Prompt #1: Implementing a referral program
   ────────────────────────────────────────────────────────
-  Create a win-back email campaign for a subscription-based service, targeting inactive customers who have not logged in for the past six months. The emails should offer personalized recommendations, exclusive discounts, and a clear call-to-action to re-engage with the service.
+  We want to incentivize our subscribers to refer friends and family to our company. Develop a referral campaign strategy that includes a series of emails with personalized offers, incentives, and a clear call-to-action, and design a referral program that rewards subscribers for successful referrals.
 
 
   ========================================================
-  TRANSACTION EMAILS
+  TRANSACTIONAL
   ========================================================
 
-  Prompt #1: When a customer completes a purchase
+  Prompt #1: Sending transactional emails
   ────────────────────────────────────────────────────────
-  Write a transactional email for a payment confirmation, including a clear summary of the purchase, a receipt, and a thank-you note. The email should also include a link to track the order and a contact email for customer support.
+  Our company needs to create transactional emails that confirm orders, shipments, and password resets. Write a sample transactional email that includes clear instructions, customer support information, and a professional tone.
 
 
   ========================================================
-  RE-ENGAGEMENT EMAILS
+  COMPLIANCE
   ========================================================
 
-  Prompt #1: When trying to re-engage inactive subscribers
+  Prompt #1: Ensuring email compliance
   ────────────────────────────────────────────────────────
-  Design a re-engagement email campaign for a list of subscribers who have not opened or clicked on emails in the past year. The campaign should include a series of three emails that offer personalized content, exclusive offers, and a clear call-to-action to re-opt-in to the email list.
+  Our company needs to ensure that our email marketing campaigns comply with anti-spam laws and regulations, such as GDPR and CAN-SPAM. Provide a checklist of best practices for email compliance, including opt-in requirements, unsubscribe links, and content guidelines.
 
 
   ========================================================
-  SURVEY EMAILS
+  INFLUENCER COLLABORATION
   ========================================================
 
-  Prompt #1: When collecting customer feedback
+  Prompt #1: Collaborating with influencers
   ────────────────────────────────────────────────────────
-  Create a survey email for a customer satisfaction survey, including a brief introduction, a link to the survey, and a clear explanation of how the feedback will be used. The email should also include a thank-you note and a incentive for completing the survey.
+  We want to collaborate with influencers in our industry to promote our products and services. Develop an email campaign strategy that includes outreach emails to influencers, collaboration ideas, and a clear call-to-action to drive sales and increase brand awareness.
 
 
   ========================================================
-  ANNOUNCEMENT EMAILS
+  EVENT PROMOTION
   ========================================================
 
-  Prompt #1: When announcing major company changes
+  Prompt #1: Promoting events
   ────────────────────────────────────────────────────────
-  Write an announcement email for a company merger, including a clear explanation of the changes, a message from the CEO, and a FAQ section. The email should also include a link to a press release and a contact email for questions and concerns.
+  Our company is hosting a webinar, conference, or trade show, and we need to promote it to our email list. Create a sample promotional email that includes a clear description of the event, registration information, and a sense of urgency.
 
 
   ========================================================
-  EDUCATIONAL EMAILS
+  CUSTOMER JOURNEY
   ========================================================
 
-  Prompt #1: When educating subscribers about a product or service
+  Prompt #1: Mapping the customer journey
   ────────────────────────────────────────────────────────
-  Develop an educational email series for a fitness program, including a series of five emails that provide workout tips, nutrition advice, and motivational quotes. The emails should be sent weekly and include a clear call-to-action to join the program.
-
-
-  ========================================================
-  REFERRAL EMAILS
-  ========================================================
-
-  Prompt #1: When launching a referral program
-  ────────────────────────────────────────────────────────
-  Create a referral email campaign for a referral program, including a series of three emails that introduce the program, provide referral links, and offer incentives for successful referrals. The emails should be sent to a targeted list of subscribers who have shown interest in the program.
-
-
-  ========================================================
-  HOLIDAY EMAILS
-  ========================================================
-
-  Prompt #1: When sending holiday-themed emails
-  ────────────────────────────────────────────────────────
-  Design a holiday email campaign for a retail company, including a series of three emails that offer exclusive discounts, showcase holiday products, and provide gift ideas. The emails should be sent in the weeks leading up to the holiday and include a clear call-to-action to shop now.
-
-
-  ========================================================
-  NEWSLETTER SEGMENTATION
-  ========================================================
-
-  Prompt #1: When segmenting a newsletter list
-  ────────────────────────────────────────────────────────
-  Write a segmentation email for a newsletter, targeting subscribers who have shown interest in a specific topic. The email should include a personalized introduction, a curated list of relevant articles, and a clear call-to-action to subscribe to the topic-specific newsletter.
-
-
-  ========================================================
-  LEAD NURTURING EMAILS
-  ========================================================
-
-  Prompt #1: When nurturing leads through the sales funnel
-  ────────────────────────────────────────────────────────
-  Develop a lead nurturing email campaign for a B2B company, including a series of five emails that provide educational content, industry insights, and product information. The emails should be sent weekly and include a clear call-to-action to schedule a demo or consultation.
-
-
-  ========================================================
-  EVENT EMAILS
-  ========================================================
-
-  Prompt #1: When promoting an event
-  ────────────────────────────────────────────────────────
-  Create an event email campaign for a conference, including a series of three emails that introduce the event, provide speaker information, and offer a limited-time discount for registration. The emails should be sent to a targeted list of subscribers who have shown interest in the event.
-
-
-  ========================================================
-  PERSONALIZED EMAILS
-  ========================================================
-
-  Prompt #1: When sending personalized emails
-  ────────────────────────────────────────────────────────
-  Write a personalized email for a customer's birthday, including a customized message, a special offer, and a clear call-to-action to shop now. The email should be sent on the customer's birthday and include a sense of exclusivity.
-
-
-  ========================================================
-  REACTIVATION EMAILS
-  ========================================================
-
-  Prompt #1: When trying to reactivate cancelled subscriptions
-  ────────────────────────────────────────────────────────
-  Design a reactivation email campaign for a subscription-based service, targeting customers who have cancelled their subscription. The emails should include a personalized message, a clear explanation of the benefits, and a limited-time offer to reactivate the subscription.
-
-
-  ========================================================
-  ONBOARDING EMAILS
-  ========================================================
-
-  Prompt #1: When onboarding new customers
-  ────────────────────────────────────────────────────────
-  Develop an onboarding email sequence for a new customer, including a series of three emails that introduce the product, provide tutorials, and offer support. The emails should be sent in the first week after purchase and include a clear call-to-action to get started.
-
-
-  ========================================================
-  FEEDBACK EMAILS
-  ========================================================
-
-  Prompt #1: When collecting customer feedback
-  ────────────────────────────────────────────────────────
-  Create a feedback email for a customer feedback survey, including a brief introduction, a link to the survey, and a clear explanation of how the feedback will be used. The email should also include a thank-you note and a incentive for completing the survey.
-
-
-  ========================================================
-  MILESTONE EMAILS
-  ========================================================
-
-  Prompt #1: When sending milestone emails
-  ────────────────────────────────────────────────────────
-  Write a milestone email for a customer's one-year anniversary, including a personalized message, a special offer, and a clear call-to-action to shop now. The email should be sent on the anniversary date and include a sense of appreciation.
-
-
-  ========================================================
-  CART ABANDONMENT EMAILS
-  ========================================================
-
-  Prompt #1: When a customer abandons their shopping cart
-  ────────────────────────────────────────────────────────
-  Design a cart abandonment email campaign for an e-commerce website, including a series of three emails that remind customers about the items they left in their cart and offer a limited-time discount. The emails should be sent in the hours and days after cart abandonment and include a clear call-to-action to complete the purchase.
-
-
-  ========================================================
-  BROWSE ABANDONMENT EMAILS
-  ========================================================
-
-  Prompt #1: When a customer abandons the website without making a purchase
-  ────────────────────────────────────────────────────────
-  Develop a browse abandonment email campaign for an e-commerce website, including a series of three emails that showcase the products the customer was browsing and offer a limited-time discount. The emails should be sent in the hours and days after the customer abandoned the website and include a clear call-to-action to shop now.
-
-
-  ========================================================
-  POST-PURCHASE EMAILS
-  ========================================================
-
-  Prompt #1: When a customer completes a purchase
-  ────────────────────────────────────────────────────────
-  Create a post-purchase email campaign for an e-commerce website, including a series of three emails that thank the customer for their purchase, provide product information, and offer a loyalty program. The emails should be sent in the days and weeks after purchase and include a clear call-to-action to shop again.
-
-
-  ========================================================
-  LOYALTY EMAILS
-  ========================================================
-
-  Prompt #1: When sending loyalty emails
-  ────────────────────────────────────────────────────────
-  Write a loyalty email for a rewards program, including a personalized message, a rewards balance, and a clear call-to-action to redeem rewards. The email should be sent regularly and include a sense of exclusivity.
+  We want to map out the customer journey for our subscribers, from initial engagement to long-term loyalty. Develop a customer journey map that includes touchpoints, pain points, and opportunities for personalization and improvement.
 
 ============================================================
   Thank you for your purchase!
