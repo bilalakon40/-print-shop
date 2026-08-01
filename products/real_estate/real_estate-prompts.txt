@@ -4,7 +4,7 @@
 ============================================================
 
 Included Prompts: 24
-Generated: July 28, 2026
+Generated: August 01, 2026
 
 ============================================================
   HOW TO USE
@@ -24,216 +24,146 @@ Generated: July 28, 2026
   PROPERTY VALUATION
   ========================================================
 
-  Prompt #1: When evaluating the purchase price of a property
+  Prompt #1: When determining the listing price for a property
   ────────────────────────────────────────────────────────
-  I am looking to purchase a single-family home in Los Angeles, California, with 3 bedrooms and 2 bathrooms. Can you provide a detailed analysis of the current market trends and estimate the property's value based on recent sales of similar homes in the area?
+  A 3-bedroom, 2-bathroom house in Los Angeles, California, with a total living area of 1,800 square feet and a lot size of 0.25 acres, is listed for sale. Based on recent sales data, what would be a fair market value for this property?
 
-
-  ========================================================
-  REAL ESTATE INVESTING
-  ========================================================
-
-  Prompt #1: When searching for a rental property investment opportunity
+  Prompt #2: When determining the listing price for a luxury property
   ────────────────────────────────────────────────────────
-  I have a budget of $500,000 to invest in a rental property in New York City. What type of property would you recommend, such as a condo or townhouse, and what neighborhood would offer the highest potential for rental income and long-term appreciation?
+  A 5-bedroom, 4-bathroom luxury home in Beverly Hills, California, with a total living area of 6,000 square feet and a lot size of 1 acre, is listed for sale. Based on recent sales data, what would be a fair market value for this property, and what factors would contribute to its valuation?
+
+  Prompt #3: When determining the listing price for a property
+  ────────────────────────────────────────────────────────
+  A 4-bedroom, 3-bathroom single-family home in Atlanta, Georgia, with a total living area of 2,500 square feet and a lot size of 0.5 acres, is listed for sale. Based on recent sales data, what would be a fair market value for this property, and what factors would contribute to its valuation?
 
 
   ========================================================
   HOME STAGING
   ========================================================
 
-  Prompt #1: When preparing a home for sale
+  Prompt #1: When advising clients on home staging techniques
   ────────────────────────────────────────────────────────
-  I am preparing to sell my luxury home in Miami, Florida, and I want to maximize its appeal to potential buyers. Can you provide a room-by-room guide on how to stage the interior and exterior of the property to showcase its best features and increase its sale value?
+  A homeowner in New York City is preparing to sell their 2-bedroom, 1-bathroom apartment and wants to maximize its appeal to potential buyers. Provide a list of 5 home staging tips to enhance the property's interior and exterior, including furniture arrangement and decor suggestions.
 
-
-  ========================================================
-  MORTGAGE AND FINANCING
-  ========================================================
-
-  Prompt #1: When exploring mortgage options for a home purchase
+  Prompt #2: When advising clients on home staging techniques
   ────────────────────────────────────────────────────────
-  I am a first-time homebuyer looking to purchase a $300,000 home in Chicago, Illinois. Can you explain the different types of mortgage options available to me, such as FHA or conventional loans, and recommend the best option based on my credit score and income?
+  A homeowner in Boston, Massachusetts, is preparing to sell their 3-bedroom, 2-bathroom townhouse and wants to create a welcoming atmosphere for potential buyers. Provide a room-by-room staging plan, including furniture arrangement, lighting, and decor suggestions, to enhance the property's appeal.
 
-
-  ========================================================
-  PROPERTY MANAGEMENT
-  ========================================================
-
-  Prompt #1: When hiring a property management company
+  Prompt #3: When advising clients on home staging techniques
   ────────────────────────────────────────────────────────
-  I own a portfolio of rental properties in San Francisco, California, and I am looking to hire a property management company to oversee the day-to-day operations. What services should I expect from a property management company, and what questions should I ask when interviewing potential companies?
+  A homeowner in Philadelphia, Pennsylvania, is preparing to sell their 2-bedroom, 1-bathroom row house and wants to create a modern and sleek atmosphere for potential buyers. Provide a room-by-room staging plan, including furniture arrangement, lighting, and decor suggestions, to enhance the property's appeal.
 
 
   ========================================================
   REAL ESTATE MARKETING
   ========================================================
 
-  Prompt #1: When creating a social media marketing campaign
+  Prompt #1: When developing a social media marketing plan for a real estate project
   ────────────────────────────────────────────────────────
-  I am a real estate agent looking to create a social media marketing campaign to attract new clients in the Dallas, Texas area. Can you provide a detailed plan on how to create engaging content, utilize paid advertising, and measure the success of the campaign?
+  A real estate agent in Chicago, Illinois, wants to create an effective social media campaign to promote a new luxury condo development. Describe a 30-day content strategy, including post types, hashtags, and engagement tactics to attract potential buyers.
+
+  Prompt #2: When developing a marketing plan for a real estate project
+  ────────────────────────────────────────────────────────
+  A real estate developer in Dallas, Texas, wants to create a targeted marketing campaign to promote a new mixed-use development. Describe a 60-day marketing plan, including advertising channels, promotional events, and public relations strategies, to attract potential buyers and tenants.
+
+  Prompt #3: When developing a marketing plan for a real estate project
+  ────────────────────────────────────────────────────────
+  A real estate developer in Kansas City, Missouri, wants to create a targeted marketing campaign to promote a new residential development. Describe a 90-day marketing plan, including advertising channels, promotional events, and public relations strategies, to attract potential buyers.
 
 
   ========================================================
-  HOME INSPECTION
+  MORTGAGE AND FINANCING
   ========================================================
 
-  Prompt #1: When reviewing a home inspection report
+  Prompt #1: When counseling clients on mortgage options
   ────────────────────────────────────────────────────────
-  I am in the process of purchasing a home in Denver, Colorado, and I have just received the home inspection report. Can you help me understand the report and prioritize the necessary repairs and renovations based on the inspector's findings?
+  A first-time homebuyer in Houston, Texas, is considering a 30-year fixed-rate mortgage with a 20% down payment. Calculate the monthly mortgage payment, including principal, interest, taxes, and insurance, and provide an explanation of the pros and cons of this financing option.
+
+  Prompt #2: When counseling clients on refinancing options
+  ────────────────────────────────────────────────────────
+  A homeowner in Washington, D.C., is considering refinancing their existing mortgage to take advantage of lower interest rates. Calculate the potential savings, including reduced monthly payments and total interest paid over the life of the loan, and provide an explanation of the pros and cons of refinancing.
+
+  Prompt #3: When counseling clients on financing options
+  ────────────────────────────────────────────────────────
+  A homeowner in Oklahoma City, Oklahoma, is considering a home equity loan to finance a renovation project. Calculate the potential loan amount, including the loan-to-value ratio and interest rate, and provide an explanation of the pros and cons of using a home equity loan for financing.
 
 
   ========================================================
   NEIGHBORHOOD ANALYSIS
   ========================================================
 
-  Prompt #1: When researching neighborhoods
+  Prompt #1: When helping clients decide on a neighborhood to live in
   ────────────────────────────────────────────────────────
-  I am considering moving to the Seattle, Washington area and I want to know more about the different neighborhoods. Can you provide a detailed analysis of the pros and cons of living in the Capitol Hill neighborhood, including information on schools, transportation, and local amenities?
+  A family of four is relocating to San Francisco, California, and needs to choose between the neighborhoods of Fisherman's Wharf and Haight-Ashbury. Compare the two neighborhoods in terms of safety, schools, commute time, and local amenities, and provide a recommendation based on their preferences.
 
-
-  ========================================================
-  SUSTAINABLE REAL ESTATE
-  ========================================================
-
-  Prompt #1: When searching for sustainable housing options
+  Prompt #2: When helping clients decide on a neighborhood to live in
   ────────────────────────────────────────────────────────
-  I am looking to purchase a sustainable and energy-efficient home in Austin, Texas. Can you provide information on the different types of green building certifications, such as LEED or Energy Star, and recommend neighborhoods or developments that specialize in eco-friendly homes?
+  A young professional in Nashville, Tennessee, is relocating to the city and wants to choose a neighborhood with a vibrant nightlife and easy access to public transportation. Compare the neighborhoods of Downtown and The Gulch in terms of entertainment options, commute time, and safety, and provide a recommendation based on their preferences.
 
 
   ========================================================
-  REAL ESTATE LAW
+  PROPERTY MANAGEMENT
   ========================================================
 
-  Prompt #1: When dealing with a landlord-tenant dispute
+  Prompt #1: When advising landlords on property management best practices
   ────────────────────────────────────────────────────────
-  I am involved in a dispute with my landlord over a security deposit in the Boston, Massachusetts area. Can you explain my rights as a tenant under the Massachusetts security deposit law and provide guidance on how to navigate the dispute resolution process?
+  A landlord in Miami, Florida, owns a 10-unit apartment building and wants to minimize vacancies and reduce turnover. Provide a comprehensive plan, including tenant screening, lease renewal strategies, and maintenance schedules, to optimize property management and maximize rental income.
+
+  Prompt #2: When advising landlords on property management best practices
+  ────────────────────────────────────────────────────────
+  A landlord in Portland, Oregon, owns a 20-unit apartment building and wants to implement a comprehensive maintenance plan to reduce repair costs and extend the lifespan of the property. Provide a schedule of regular maintenance tasks, including inspections, repairs, and replacements, to optimize property management and minimize downtime.
+
+
+  ========================================================
+  REAL ESTATE INVESTING
+  ========================================================
+
+  Prompt #1: When evaluating the potential of a real estate investment opportunity
+  ────────────────────────────────────────────────────────
+  An investor in Denver, Colorado, is considering purchasing a rental property, a 4-bedroom, 3-bathroom single-family home, with a purchase price of $500,000. Calculate the potential cash flow, including rental income, expenses, and tax benefits, and provide an analysis of the investment's potential return on investment.
+
+  Prompt #2: When evaluating the potential of a real estate investment opportunity
+  ────────────────────────────────────────────────────────
+  An investor in Raleigh, North Carolina, is considering purchasing a rental property, a 2-bedroom, 2-bathroom condominium, with a purchase price of $200,000. Calculate the potential cash flow, including rental income, expenses, and tax benefits, and provide an analysis of the investment's potential return on investment.
 
 
   ========================================================
   COMMERCIAL REAL ESTATE
   ========================================================
 
-  Prompt #1: When searching for a commercial lease
+  Prompt #1: When advising clients on commercial lease negotiations
   ────────────────────────────────────────────────────────
-  I am looking to lease a retail space in the downtown area of Washington, D.C. Can you provide a detailed analysis of the current market trends and recommend the best neighborhoods and properties for my business based on foot traffic, demographics, and competition?
+  A business owner in Seattle, Washington, is looking to lease a 2,000-square-foot retail space in a high-traffic area. Describe the key factors to consider when negotiating a commercial lease, including rent, term, and amenities, and provide a sample lease agreement outline.
+
+  Prompt #2: When advising clients on commercial purchase negotiations
+  ────────────────────────────────────────────────────────
+  A business owner in Minneapolis, Minnesota, is looking to purchase a 5,000-square-foot office space in a suburban area. Describe the key factors to consider when negotiating a commercial purchase agreement, including price, terms, and due diligence, and provide a sample purchase agreement outline.
+
+
+  ========================================================
+  SUSTAINABLE REAL ESTATE
+  ========================================================
+
+  Prompt #1: When advising clients on sustainable real estate practices
+  ────────────────────────────────────────────────────────
+  A homeowner in Austin, Texas, wants to reduce their environmental footprint and lower their energy bills by implementing sustainable features in their property. Provide a list of 5 eco-friendly upgrades, including solar panels, rainwater harvesting, and energy-efficient appliances, and estimate the potential return on investment for each upgrade.
+
+  Prompt #2: When advising clients on sustainable real estate practices
+  ────────────────────────────────────────────────────────
+  A homeowner in Sacramento, California, wants to reduce their water consumption and lower their utility bills by implementing water-efficient features in their property. Provide a list of 5 eco-friendly upgrades, including low-flow fixtures, greywater systems, and rainwater harvesting, and estimate the potential return on investment for each upgrade.
 
 
   ========================================================
   REAL ESTATE TECHNOLOGY
   ========================================================
 
-  Prompt #1: When implementing new technology tools
+  Prompt #1: When exploring the use of emerging technologies in real estate
   ────────────────────────────────────────────────────────
-  I am a real estate agent looking to implement a new customer relationship management (CRM) system to manage my contacts and leads. Can you recommend the best CRM software for real estate professionals and provide tips on how to integrate it with my existing workflow?
+  A real estate agent in Phoenix, Arizona, wants to leverage virtual reality technology to showcase properties to potential buyers remotely. Describe the benefits and drawbacks of using virtual reality in real estate marketing, including equipment costs, software requirements, and training needs.
 
-
-  ========================================================
-  PROPERTY TAXATION
-  ========================================================
-
-  Prompt #1: When navigating property tax laws
+  Prompt #2: When exploring the use of emerging technologies in real estate
   ────────────────────────────────────────────────────────
-  I own a vacation home in the Outer Banks, North Carolina, and I am trying to understand how to minimize my property tax liability. Can you explain the different tax exemptions and deductions available to me, such as the homestead exemption, and provide guidance on how to apply for them?
-
-
-  ========================================================
-  REAL ESTATE DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When developing a new real estate project
-  ────────────────────────────────────────────────────────
-  I am a real estate developer looking to build a new mixed-use project in the Philadelphia, Pennsylvania area. Can you provide a detailed analysis of the zoning laws and regulations that apply to my project, and recommend strategies for obtaining the necessary permits and approvals?
-
-
-  ========================================================
-  HOME MAINTENANCE
-  ========================================================
-
-  Prompt #1: When maintaining a home
-  ────────────────────────────────────────────────────────
-  I am a homeowner in the Minneapolis, Minnesota area and I want to create a maintenance schedule to prevent costly repairs. Can you provide a seasonal checklist of tasks to perform, such as gutter cleaning and HVAC maintenance, to keep my home in good condition?
-
-
-  ========================================================
-  REAL ESTATE APPRAISAL
-  ========================================================
-
-  Prompt #1: When preparing for a home appraisal
-  ────────────────────────────────────────────────────────
-  I am looking to refinance my home in the Cleveland, Ohio area and I need to get an appraisal. Can you explain the appraisal process and provide tips on how to prepare my home to ensure the highest possible appraisal value?
-
-
-  ========================================================
-  INTERNATIONAL REAL ESTATE
-  ========================================================
-
-  Prompt #1: When buying property abroad
-  ────────────────────────────────────────────────────────
-  I am looking to purchase a vacation home in Costa Rica and I want to understand the process of buying property as a foreigner. Can you provide a step-by-step guide on how to navigate the purchase process, including information on financing, taxes, and property management?
-
-
-  ========================================================
-  REAL ESTATE EDUCATION
-  ========================================================
-
-  Prompt #1: When getting started in real estate
-  ────────────────────────────────────────────────────────
-  I am a new real estate agent looking to get licensed in the state of Georgia. Can you provide a detailed overview of the licensing requirements, including the necessary coursework and exam preparation, and recommend study materials and resources?
-
-
-  ========================================================
-  SENIOR HOUSING
-  ========================================================
-
-  Prompt #1: When searching for senior housing
-  ────────────────────────────────────────────────────────
-  I am looking for senior housing options for my parents in the Arizona area and I want to know more about the different types of communities available, such as assisted living or memory care. Can you provide information on the amenities and services offered by each type of community and recommend neighborhoods or developments that cater to seniors?
-
-
-  ========================================================
-  REAL ESTATE AUCTIONS
-  ========================================================
-
-  Prompt #1: When participating in a real estate auction
-  ────────────────────────────────────────────────────────
-  I am looking to buy a foreclosed property at auction in the Detroit, Michigan area. Can you explain the auction process and provide tips on how to research and bid on properties, including information on due diligence and financing?
-
-
-  ========================================================
-  COMMUNITY DEVELOPMENT
-  ========================================================
-
-  Prompt #1: When leading a community development project
-  ────────────────────────────────────────────────────────
-  I am a community leader looking to revitalize a neglected neighborhood in the St. Louis, Missouri area. Can you provide a detailed plan on how to engage with local stakeholders, secure funding, and implement projects that promote economic growth and improve quality of life for residents?
-
-
-  ========================================================
-  REAL ESTATE ETHICS
-  ========================================================
-
-  Prompt #1: When dealing with an ethical dilemma
-  ────────────────────────────────────────────────────────
-  I am a real estate agent and I am faced with a dilemma where I have to choose between my duty to my client and my duty to disclose information to the other party. Can you provide guidance on how to navigate this situation and recommend resources for resolving ethical conflicts in real estate?
-
-
-  ========================================================
-  PROPERTY INSURANCE
-  ========================================================
-
-  Prompt #1: When purchasing or renewing property insurance
-  ────────────────────────────────────────────────────────
-  I own a home in the Houston, Texas area and I want to make sure I have adequate insurance coverage. Can you explain the different types of insurance policies available, such as flood or windstorm insurance, and provide tips on how to shop for and compare insurance quotes?
-
-
-  ========================================================
-  REAL ESTATE MARKET TRENDS
-  ========================================================
-
-  Prompt #1: When researching real estate market trends
-  ────────────────────────────────────────────────────────
-  I am looking to invest in a rental property in the Portland, Oregon area and I want to know more about the current market trends. Can you provide a detailed analysis of the local market, including information on rental yields, vacancy rates, and demographic trends, and recommend neighborhoods or property types that are likely to appreciate in value?
+  A real estate agent in Columbus, Ohio, wants to leverage social media advertising to target potential buyers and sellers in their local market. Describe the benefits and drawbacks of using social media advertising in real estate marketing, including ad targeting, budgeting, and ROI tracking.
 
 ============================================================
   Thank you for your purchase!
