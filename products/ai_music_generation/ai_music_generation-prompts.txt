@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Create Stunning Music with AI
+  Compose Like a Pro with AI
 ============================================================
 
-Included Prompts: 29
-Generated: July 30, 2026
+Included Prompts: 30
+Generated: August 03, 2026
 
 ============================================================
   HOW TO USE
@@ -24,261 +24,145 @@ Generated: July 30, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When generating melodies for hip-hop tracks
+  Prompt #1: When generating a new pop song
   ────────────────────────────────────────────────────────
-  Create a 16-bar melody for a hip-hop song in the key of C minor, using a mix of stepwise motion and leaps to create a sense of tension and release. The melody should feature a prominent use of the notes C, E-flat, and G, and should be written in a style reminiscent of Kanye West's earlier work.
+  Create a melody for a pop song with a tempo of 120 BPM, incorporating a mix of stepwise motion and leaps, and featuring a memorable hook in the chorus. The melody should be written in the key of C major and include a range of approximately one octave.
+
+  Prompt #2: When creating an EDM track
+  ────────────────────────────────────────────────────────
+  Generate a melody for an electronic dance music (EDM) track, featuring a bright and upbeat quality, with a focus on creating a sense of energy and momentum. The melody should be written in a synthesizer-friendly key such as A minor, and include a range of rhythmic interest and contour.
+
+  Prompt #3: When creating a musical theater song
+  ────────────────────────────────────────────────────────
+  Generate a melody for a musical theater song, featuring a bright and uplifting quality, with a focus on creating a sense of drama and emotional tension. The melody should be written in a key such as E flat major, and include a range of rhythmic interest and contour, with a focus on showcasing the vocalist's range and expressiveness.
+
+  Prompt #4: When creating a children's song
+  ────────────────────────────────────────────────────────
+  Generate a melody for a children's song, featuring a bright and catchy quality, with a focus on creating a sense of simplicity and innocence. The melody should be written in a key such as C major, and include a range of rhythmic interest and contour, with a focus on showcasing the vocalist's range and expressiveness.
+
+  Prompt #5: When scoring a film
+  ────────────────────────────────────────────────────────
+  Generate a melody for a film score, featuring a sense of drama and emotional tension, with a focus on creating a sense of narrative and character development. The melody should be written in a key such as D minor, and include a range of rhythmic interest and contour, with a focus on showcasing the orchestra's range and expressiveness.
+
+  Prompt #6: When scoring a video game
+  ────────────────────────────────────────────────────────
+  Generate a melody for a video game soundtrack, featuring a sense of adventure and excitement, with a focus on creating a sense of narrative and character development. The melody should be written in a key such as E major, and include a range of rhythmic interest and contour, with a focus on showcasing the orchestra's range and expressiveness.
 
 
   ========================================================
   CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When creating chord progressions for pop songs
+  Prompt #1: When creating a jazz standard
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a pop song in the key of G major, using a combination of I, V, and vi chords to create a sense of resolution and drama. The progression should be 8 bars long and should feature a repeating pattern of G - Em - C - D, with occasional deviations to add interest and variety.
+  Generate a chord progression for a jazz standard in the key of G minor, using a mix of extended chords such as seventh and ninth chords, and incorporating a ii-V-I progression in the bridge. The chord progression should be written in a slow swing style with a tempo of 90 BPM.
 
-
-  ========================================================
-  LYRICS WRITING
-  ========================================================
-
-  Prompt #1: When writing lyrics for folk songs
+  Prompt #2: When creating a country ballad
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a folk song about heartbreak and longing, using a narrative style and incorporating imagery and metaphor to convey the emotions of the song. The lyrics should be written from the perspective of a person who has been left behind by a former lover, and should feature a strong focus on storytelling and poetic language.
+  Create a chord progression for a country ballad, using a mix of simple and extended chords, with a focus on creating a sense of intimacy and emotional depth. The chord progression should be written in a slow and contemplative style, with a tempo of 80 BPM, and feature a range of pedal steel and acoustic guitar textures.
 
-
-  ========================================================
-  MUSIC STYLE TRANSFER
-  ========================================================
-
-  Prompt #1: When transferring the style of a piece of music from one genre to another
+  Prompt #3: When creating a reggae song
   ────────────────────────────────────────────────────────
-  Transform the style of a given piece of music, a jazz standard in the style of Miles Davis, into a piece of electronic dance music in the style of Calvin Harris. The transformed piece should retain the core melody and harmony of the original, but should feature a new rhythmic and textural approach that is reminiscent of modern EDM.
+  Create a chord progression for a reggae song, using a mix of simple and extended chords, with a focus on creating a sense of groove and rhythmic interest. The chord progression should be written in a style that blends roots reggae with modern production techniques, and feature a range of instrumental textures, from skanking guitar to pulsing bass.
+
+  Prompt #4: When creating a blues song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a blues song, using a mix of simple and extended chords, with a focus on creating a sense of groove and emotional depth. The chord progression should be written in a style that blends traditional blues with modern production techniques, and feature a range of instrumental textures, from gritty guitar to pulsing harmonica.
+
+  Prompt #5: When creating a pop song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a pop song, using a mix of simple and extended chords, with a focus on creating a sense of catchiness and memorability. The chord progression should be written in a style that blends traditional pop with modern production techniques, and feature a range of instrumental textures, from bright synthesizers to pulsing bass.
+
+  Prompt #6: When creating a folk song
+  ────────────────────────────────────────────────────────
+  Create a chord progression for a folk song, using a mix of simple and extended chords, with a focus on creating a sense of intimacy and emotional depth. The chord progression should be written in a style that blends traditional folk with modern production techniques, and feature a range of instrumental textures, from acoustic guitar to soaring vocal harmonies.
+
+
+  ========================================================
+  LYRICS GENERATION
+  ========================================================
+
+  Prompt #1: When creating a hip-hop song with a message
+  ────────────────────────────────────────────────────────
+  Write lyrics for a hip-hop song about social justice, featuring a strong narrative and vivid imagery, with a focus on storytelling and a clear message. The lyrics should be written from the perspective of a young adult and include a catchy hook and verse structure.
+
+  Prompt #2: When creating a folk song about love
+  ────────────────────────────────────────────────────────
+  Write lyrics for a folk song about love and relationships, featuring a strong narrative and poetic imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a singer-songwriter, and include a range of vivid metaphors and similes.
+
+  Prompt #3: When creating a rock song with a message
+  ────────────────────────────────────────────────────────
+  Write lyrics for a rock song about rebellion and social change, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
+
+  Prompt #4: When creating a hip-hop song about personal growth
+  ────────────────────────────────────────────────────────
+  Write lyrics for a hip-hop song about personal growth and self-improvement, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
+
+  Prompt #5: When creating a country song about heartbreak
+  ────────────────────────────────────────────────────────
+  Write lyrics for a country song about heartbreak and relationships, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a singer-songwriter, and include a range of catchy hooks and verse structures.
+
+  Prompt #6: When creating a rock song with a message
+  ────────────────────────────────────────────────────────
+  Write lyrics for a rock song about rebellion and social change, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
 
 
   ========================================================
   SOUND DESIGN
   ========================================================
 
-  Prompt #1: When creating sound design for film and television scores
+  Prompt #1: When scoring a sci-fi film
   ────────────────────────────────────────────────────────
-  Create a unique sound design for a science fiction film, featuring a combination of eerie ambient textures and pulsing electronic rhythms to create a sense of tension and unease. The sound design should be inspired by the work of Hans Zimmer and should feature a prominent use of distorted synthesizers and haunting vocal samples.
+  Create a soundscape for a sci-fi film, featuring a mix of electronic and orchestral elements, with a focus on creating a sense of tension and unease. The soundscape should include a range of textures and timbres, from eerie ambiance to pulsing synthesizers, and be written in a cinematic style.
 
-
-  ========================================================
-  MUSIC REMIXING
-  ========================================================
-
-  Prompt #1: When remixing classic rock songs for modern dance floors
+  Prompt #2: When creating a fantasy video game
   ────────────────────────────────────────────────────────
-  Remix a classic rock song, 'Stairway to Heaven' by Led Zeppelin, into a modern electronic dance track, using a combination of filtering, EQ, and compression to create a new and interesting sound. The remix should retain the core elements of the original song, but should feature a new rhythmic and textural approach that is reminiscent of modern EDM.
+  Design a sound effects library for a fantasy video game, featuring a range of magical and mythical creatures, with a focus on creating a sense of wonder and enchantment. The sound effects should include a range of textures and timbres, from ethereal ambiance to roaring beasts, and be written in a style that blends realism with fantasy elements.
 
-
-  ========================================================
-  COMPOSITION
-  ========================================================
-
-  Prompt #1: When composing music for classical ensembles
+  Prompt #3: When scoring a horror film
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a string quartet, featuring a complex interplay of melodic lines and harmonic textures to create a sense of drama and tension. The piece should be written in a style reminiscent of Beethoven's late string quartets, and should feature a prominent use of motivic development and thematic transformation.
+  Design a soundscape for a horror film, featuring a mix of eerie ambiance and pulsing synthesizers, with a focus on creating a sense of tension and fear. The soundscape should include a range of textures and timbres, from creaking doors to screaming synthesizers, and be written in a style that blends realism with supernatural elements.
 
-
-  ========================================================
-  VOCAL PROCESSING
-  ========================================================
-
-  Prompt #1: When processing vocals for indie rock and electronic music
+  Prompt #4: When creating a sci-fi video game
   ────────────────────────────────────────────────────────
-  Process a vocal recording to create a unique and interesting sound, using a combination of reverb, delay, and distortion to create a sense of space and atmosphere. The processed vocal should be inspired by the work of Thom Yorke and should feature a prominent use of haunting, ethereal textures and introspective lyrics.
+  Design a sound effects library for a sci-fi video game, featuring a range of futuristic and otherworldly sounds, with a focus on creating a sense of wonder and exploration. The sound effects should include a range of textures and timbres, from laser blasts to alien creatures, and be written in a style that blends realism with futuristic elements.
 
-
-  ========================================================
-  BEAT GENERATION
-  ========================================================
-
-  Prompt #1: When generating drum patterns for trap and hip-hop tracks
+  Prompt #5: When scoring a nature documentary
   ────────────────────────────────────────────────────────
-  Generate a drum pattern for a trap beat, featuring a combination of deep, booming kicks and crisp, snappy snares to create a sense of energy and momentum. The pattern should be written in a style reminiscent of modern trap producers such as Metro Boomin, and should feature a prominent use of hi-hats and percussion to add interest and variety.
+  Design a soundscape for a nature documentary, featuring a mix of natural and environmental sounds, with a focus on creating a sense of realism and immersion. The soundscape should include a range of textures and timbres, from bird songs to ocean waves, and be written in a style that blends realism with cinematic elements.
 
-
-  ========================================================
-  HARMONY GENERATION
-  ========================================================
-
-  Prompt #1: When generating harmonic progressions for jazz standards
+  Prompt #6: When creating a fantasy film
   ────────────────────────────────────────────────────────
-  Generate a harmonic progression for a jazz standard, featuring a complex interplay of extended chords and altered dominants to create a sense of tension and release. The progression should be written in a style reminiscent of John Coltrane's harmonic approach, and should feature a prominent use of modal interchange and reharmonization to add interest and variety.
+  Design a sound effects library for a fantasy film, featuring a range of magical and mythical creatures, with a focus on creating a sense of wonder and enchantment. The sound effects should include a range of textures and timbres, from ethereal ambiance to roaring beasts, and be written in a style that blends realism with fantasy elements.
 
 
   ========================================================
-  AUDIO RESTORATION
+  MUSIC ARRANGEMENT
   ========================================================
 
-  Prompt #1: When restoring damaged or degraded audio files
+  Prompt #1: When covering a classic rock song
   ────────────────────────────────────────────────────────
-  Restore a damaged audio file, a 1960s recording of a blues singer, to its original quality, using a combination of noise reduction, EQ, and compression to remove hiss, hum, and other forms of distortion. The restored audio should be inspired by the work of audio restoration engineers and should feature a prominent use of spectral repair and noise reduction techniques.
+  Arrange a cover of a classic rock song, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring electric guitar solos, and be written in a style that blends classic rock with modern production techniques.
 
-
-  ========================================================
-  MUSIC CLASSIFICATION
-  ========================================================
-
-  Prompt #1: When classifying music into genres or styles
+  Prompt #2: When creating a Christmas album
   ────────────────────────────────────────────────────────
-  Classify a piece of music, a song by The Beatles, into a specific genre or style, using a combination of machine learning algorithms and music theory to analyze the melody, harmony, and rhythm of the song. The classification should be inspired by the work of musicologists and should feature a prominent use of clustering and dimensionality reduction techniques to identify patterns and trends in the data.
+  Arrange a medley of Christmas carols, featuring a mix of traditional and modern instruments, with a focus on creating a unique and festive sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with contemporary production techniques.
 
-
-  ========================================================
-  INSTRUMENTATION
-  ========================================================
-
-  Prompt #1: When creating virtual instruments for music production
+  Prompt #3: When covering a classic soul song
   ────────────────────────────────────────────────────────
-  Create a virtual instrument, a software synthesizer, that simulates the sound of a vintage analog synthesizer, using a combination of digital signal processing and physical modeling to create a unique and interesting sound. The instrument should be inspired by the work of synthesizer designers and should feature a prominent use of filter algorithms and envelope generators to shape the sound.
+  Arrange a cover of a classic soul song, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring orchestral strings, and be written in a style that blends classic soul with modern production techniques.
 
-
-  ========================================================
-  RHYTHM GENERATION
-  ========================================================
-
-  Prompt #1: When generating rhythmic patterns for Latin and Afro-Cuban music
+  Prompt #4: When creating a classical album
   ────────────────────────────────────────────────────────
-  Generate a rhythmic pattern for a salsa song, featuring a combination of driving conga rhythms and intricate bongo patterns to create a sense of energy and momentum. The pattern should be written in a style reminiscent of modern salsa bands, and should feature a prominent use of percussion and horn section to add interest and variety.
+  Arrange a medley of classical pieces, featuring a mix of traditional and modern instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with modern production techniques.
 
-
-  ========================================================
-  TIMBRE TRANSFER
-  ========================================================
-
-  Prompt #1: When transferring the timbre of one instrument to another
+  Prompt #5: When covering a classic jazz standard
   ────────────────────────────────────────────────────────
-  Transfer the timbre of a given instrument, a violin, to another instrument, a piano, using a combination of spectral analysis and resynthesis to create a unique and interesting sound. The transferred timbre should be inspired by the work of audio engineers and should feature a prominent use of frequency domain processing and filtering to shape the sound.
+  Arrange a cover of a classic jazz standard, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring orchestral strings, and be written in a style that blends classic jazz with modern production techniques.
 
-
-  ========================================================
-  EFFECTS PROCESSING
-  ========================================================
-
-  Prompt #1: When processing guitars for rock and blues music
+  Prompt #6: When creating a musical theater album
   ────────────────────────────────────────────────────────
-  Process a guitar recording using a combination of reverb, delay, and distortion to create a unique and interesting sound, inspired by the work of guitarists such as Jimi Hendrix and Eric Clapton. The processed guitar should feature a prominent use of ambient textures and psychedelic effects to create a sense of space and atmosphere.
-
-
-  ========================================================
-  BASS LINE GENERATION
-  ========================================================
-
-  Prompt #1: When generating bass lines for funk and R&B tracks
-  ────────────────────────────────────────────────────────
-  Generate a bass line for a funk song, featuring a combination of driving rhythmic patterns and melodic interest to create a sense of energy and momentum. The bass line should be written in a style reminiscent of funk bassists such as James Jamerson, and should feature a prominent use of slapping and popping techniques to add interest and variety.
-
-
-  ========================================================
-  PERCUSSION GENERATION
-  ========================================================
-
-  Prompt #1: When generating percussion patterns for film and television scores
-  ────────────────────────────────────────────────────────
-  Generate a percussion pattern for a film score, featuring a combination of driving rhythmic patterns and atmospheric textures to create a sense of tension and drama. The pattern should be inspired by the work of film composers such as Hans Zimmer, and should feature a prominent use of percussion and orchestral elements to add interest and variety.
-
-
-  ========================================================
-  SAMPLE-BASED MUSIC
-  ========================================================
-
-  Prompt #1: When creating sample-based music for electronic and hip-hop tracks
-  ────────────────────────────────────────────────────────
-  Create a piece of music using a combination of sampled breakbeats and synthesized melodies, inspired by the work of electronic music artists such as Aphex Twin and Autechre. The piece should feature a prominent use of glitchy, stuttering effects and atmospheric textures to create a sense of tension and uncertainty.
-
-
-  ========================================================
-  ORCHESTRATION
-  ========================================================
-
-  Prompt #1: When orchestrating music for large ensembles
-  ────────────────────────────────────────────────────────
-  Orchestrate a piece of music for a large ensemble, featuring a combination of brass, woodwinds, and percussion to create a sense of grandeur and drama. The orchestration should be inspired by the work of classical composers such as Beethoven and Mahler, and should feature a prominent use of thematic development and motivic transformation to add interest and variety.
-
-
-  ========================================================
-  MUSIC VISUALIZATION
-  ========================================================
-
-  Prompt #1: When visualizing music for live performances and installations
-  ────────────────────────────────────────────────────────
-  Create a visual representation of a piece of music, using a combination of data visualization techniques and graphic design to create a unique and interesting visual representation of the music. The visualization should be inspired by the work of data visualization artists and should feature a prominent use of color, shape, and pattern to convey the mood and structure of the music.
-
-
-  ========================================================
-  GENERATIVE MUSIC
-  ========================================================
-
-  Prompt #1: When generating music for live performances and installations
-  ────────────────────────────────────────────────────────
-  Create a generative music system, using a combination of algorithms and machine learning to generate music in real-time, inspired by the work of generative music artists such as Brian Eno and Tim Hecker. The system should feature a prominent use of random processes and feedback loops to create a sense of uncertainty and surprise.
-
-
-  ========================================================
-  AUDIO SEGMENTATION
-  ========================================================
-
-  Prompt #1: When segmenting music for analysis and editing
-  ────────────────────────────────────────────────────────
-  Segment a piece of music into its individual components, such as melody, harmony, and rhythm, using a combination of machine learning algorithms and music theory to analyze the structure and organization of the music. The segmentation should be inspired by the work of musicologists and should feature a prominent use of clustering and dimensionality reduction techniques to identify patterns and trends in the data.
-
-
-  ========================================================
-  MUSIC INFORMATION RETRIEVAL
-  ========================================================
-
-  Prompt #1: When retrieving information about music for recommendation and discovery
-  ────────────────────────────────────────────────────────
-  Retrieve information about a piece of music, such as its genre, mood, and tempo, using a combination of machine learning algorithms and music theory to analyze the melody, harmony, and rhythm of the song. The retrieval should be inspired by the work of music information retrieval researchers and should feature a prominent use of natural language processing and data mining techniques to identify patterns and trends in the data.
-
-
-  ========================================================
-  LIVE PERFORMANCE
-  ========================================================
-
-  Prompt #1: When generating live performances of music for concerts and festivals
-  ────────────────────────────────────────────────────────
-  Generate a live performance of a piece of music, using a combination of algorithms and machine learning to create a unique and interesting interpretation of the music, inspired by the work of live electronic music artists such as Daft Punk and Justice. The performance should feature a prominent use of interactive elements and real-time processing to create a sense of spontaneity and energy.
-
-
-  ========================================================
-  COLLABORATIVE MUSIC
-  ========================================================
-
-  Prompt #1: When collaborating on music with multiple musicians
-  ────────────────────────────────────────────────────────
-  Create a collaborative music system, using a combination of algorithms and machine learning to enable multiple musicians to collaborate on a piece of music in real-time, inspired by the work of collaborative music artists such as The Postal Service and Four Tet. The system should feature a prominent use of networked communication and data exchange to facilitate collaboration and creativity.
-
-
-  ========================================================
-  MUSIC EDUCATION
-  ========================================================
-
-  Prompt #1: When teaching music theory and practice to students
-  ────────────────────────────────────────────────────────
-  Create an interactive music education system, using a combination of algorithms and machine learning to teach music theory and practice to students, inspired by the work of music educators and researchers. The system should feature a prominent use of gamification and feedback mechanisms to engage students and promote learning.
-
-
-  ========================================================
-  MUSIC THERAPY
-  ========================================================
-
-  Prompt #1: When providing music therapy for patients
-  ────────────────────────────────────────────────────────
-  Create a music therapy system, using a combination of algorithms and machine learning to provide personalized music recommendations and interventions for patients, inspired by the work of music therapists and researchers. The system should feature a prominent use of natural language processing and data mining techniques to identify patterns and trends in the data and provide effective therapy.
-
-
-  ========================================================
-  MUSIC RECOMMENDATION
-  ========================================================
-
-  Prompt #1: When recommending music to users
-  ────────────────────────────────────────────────────────
-  Create a music recommendation system, using a combination of algorithms and machine learning to recommend music to users based on their listening history and preferences, inspired by the work of music recommendation researchers and companies such as Spotify and Apple Music. The system should feature a prominent use of collaborative filtering and natural language processing to identify patterns and trends in the data and provide effective recommendations.
+  Arrange a medley of musical theater songs, featuring a mix of traditional and modern instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with modern production techniques.
 
 ============================================================
   Thank you for your purchase!
