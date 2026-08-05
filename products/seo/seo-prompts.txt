@@ -3,8 +3,8 @@
   Rank higher on Google with AI-optimized content
 ============================================================
 
-Included Prompts: 29
-Generated: July 27, 2026
+Included Prompts: 31
+Generated: August 05, 2026
 
 ============================================================
   HOW TO USE
@@ -24,261 +24,279 @@ Generated: July 27, 2026
   KEYWORD RESEARCH
   ========================================================
 
-  Prompt #1: When creating content for a specific niche or industry
+  Prompt #1: When researching keywords for a new article or blog post
   ────────────────────────────────────────────────────────
-  Analyze the keyword 'sustainable fashion' and provide a list of 10 long-tail keywords that could be used to create informative and engaging content for an eco-friendly clothing brand. Consider search volume, competition, and relevance when selecting the keywords.
+  I'm creating content about fitness tips for beginners and I want to rank high on Google. Can you provide me with a list of relevant long-tail keywords and phrases that I can incorporate into my article, along with their search volume and competition level?
 
 
   ========================================================
   CONTENT OPTIMIZATION
   ========================================================
 
-  Prompt #1: When rewriting or refining existing content titles
+  Prompt #1: When optimizing existing content for better search engine rankings
   ────────────────────────────────────────────────────────
-  Optimize the following article title for SEO: '10 Ways to Improve Your Yoga Practice'. Suggest alternative titles that incorporate relevant keywords, and provide a brief explanation for each suggestion. Ensure the titles are descriptive, attention-grabbing, and within the 60-character limit.
-
-
-  ========================================================
-  CONTENT CREATION
-  ========================================================
-
-  Prompt #1: When creating in-depth, informative content on a specific topic
-  ────────────────────────────────────────────────────────
-  Create a high-quality, 500-word blog post on the topic of 'The Benefits of Meditation for Mental Health'. Include an introduction, three main points, and a conclusion. Use a conversational tone and incorporate relevant statistics and research findings to support the claims.
+  I've written a 500-word article about the benefits of meditation for stress relief, but I'm not sure if it's optimized for search engines. Can you analyze my content and provide suggestions for improving its readability, keyword density, and meta tags to increase its visibility on Google?
 
 
   ========================================================
   TECHNICAL SEO
   ========================================================
 
-  Prompt #1: When auditing or improving website performance
+  Prompt #1: When troubleshooting technical SEO issues on a website
   ────────────────────────────────────────────────────────
-  Explain the importance of website loading speed for search engine rankings and provide 5 actionable tips to improve the loading speed of an e-commerce website built on Shopify. Consider factors such as image compression, caching, and code optimization.
+  My website is built on WordPress and I'm experiencing issues with page loading speed, which is affecting my search engine rankings. Can you provide me with a step-by-step guide on how to optimize my website's images, minify CSS and JavaScript files, and leverage browser caching to improve page load times?
 
 
   ========================================================
-  LOCAL SEO
+  CONTENT CREATION
   ========================================================
 
-  Prompt #1: When creating a location-specific SEO plan
+  Prompt #1: When planning a content marketing campaign or series of blog posts
   ────────────────────────────────────────────────────────
-  Develop a local SEO strategy for a dental clinic in New York City. Include suggestions for optimizing the website, creating content, and building high-quality local citations. Consider the target audience, competition, and local search trends when creating the strategy.
-
-
-  ========================================================
-  CONTENT MARKETING
-  ========================================================
-
-  Prompt #1: When developing a comprehensive content marketing strategy
-  ────────────────────────────────────────────────────────
-  Design a content marketing campaign for a fitness brand that targets millennials. Include a content calendar, social media strategy, and influencer partnership ideas. Ensure the campaign is aligned with the brand's goals and resonates with the target audience.
-
-
-  ========================================================
-  SEO AUDIT
-  ========================================================
-
-  Prompt #1: When evaluating website performance and identifying areas for improvement
-  ────────────────────────────────────────────────────────
-  Conduct a basic SEO audit on the website example.com and identify 5 areas for improvement. Consider factors such as website structure, content quality, and technical optimization. Provide recommendations for addressing each issue and explain the potential impact on search engine rankings.
+  I need to create a series of blog posts about sustainable fashion and its impact on the environment. Can you help me come up with a content calendar that includes topics, keywords, and outlines for each post, as well as suggestions for engaging headlines and introductions?
 
 
   ========================================================
   LINK BUILDING
   ========================================================
 
-  Prompt #1: When building high-quality backlinks to a website
+  Prompt #1: When building backlinks to a specific article or website
   ────────────────────────────────────────────────────────
-  Research and suggest 10 high-quality websites that could be potential link partners for a health and wellness blog. Consider factors such as relevance, authority, and engagement when selecting the websites. Provide a brief explanation for each suggestion and include contact information for outreach purposes.
+  I've published a high-quality article about the importance of recycling and I want to get it featured on other reputable websites to build backlinks. Can you provide me with a list of potential websites and bloggers in the environmental niche that I can reach out to for guest posting opportunities, as well as a sample outreach email template?
 
 
   ========================================================
-  CONTENT REPURPOSING
+  SEO AUDIT
   ========================================================
 
-  Prompt #1: When repurposing existing content for multiple channels
+  Prompt #1: When troubleshooting a decline in website traffic or search engine rankings
   ────────────────────────────────────────────────────────
-  Repurpose a podcast episode on the topic of 'Productivity Hacks for Entrepreneurs' into a series of 5 social media posts, including Facebook, Twitter, Instagram, LinkedIn, and Pinterest. Ensure each post is engaging, informative, and optimized for the respective platform.
+  I've noticed a significant drop in my website's organic traffic over the past month and I'm not sure what's causing it. Can you perform a comprehensive SEO audit of my website, including analysis of my keyword rankings, technical SEO issues, and link profile, and provide recommendations for improvement?
+
+
+  ========================================================
+  CONTENT MARKETING
+  ========================================================
+
+  Prompt #1: When launching a new product or service and creating a content marketing campaign
+  ────────────────────────────────────────────────────────
+  I'm launching a new product line of eco-friendly cleaning products and I want to create a content marketing campaign to promote it. Can you help me develop a content strategy that includes social media posts, email newsletters, and blog articles, as well as suggestions for influencer partnerships and paid advertising?
+
+
+  ========================================================
+  LOCAL SEO
+  ========================================================
+
+  Prompt #1: When optimizing a website or business for local search engine rankings
+  ────────────────────────────────────────────────────────
+  I own a small business that offers yoga classes in New York City and I want to improve my visibility in local search results. Can you provide me with tips and strategies for optimizing my Google My Business listing, building high-quality local citations, and creating content that targets local keywords and phrases?
 
 
   ========================================================
   ANALYTICS AND TRACKING
   ========================================================
 
-  Prompt #1: When measuring and evaluating content performance
+  Prompt #1: When setting up and using analytics tools to track website traffic and SEO performance
   ────────────────────────────────────────────────────────
-  Explain how to set up and track key performance indicators (KPIs) for a content marketing campaign using Google Analytics. Include suggestions for measuring engagement, conversions, and return on investment (ROI). Provide examples of how to create custom dashboards and reports to monitor progress.
+  I've set up Google Analytics on my website, but I'm not sure how to use it to track my SEO efforts and measure the effectiveness of my content marketing campaigns. Can you provide me with a guide on how to set up goals, track conversions, and analyze user behavior on my website, as well as suggestions for using data to inform my SEO strategy?
 
 
   ========================================================
   SEO TOOLS
   ========================================================
 
-  Prompt #1: When selecting or evaluating SEO tools
+  Prompt #1: When selecting and using SEO tools to support SEO efforts
   ────────────────────────────────────────────────────────
-  Compare and contrast the features and functionality of Ahrefs and SEMrush, two popular SEO tools. Include a discussion on keyword research, technical audits, and backlink analysis. Provide recommendations for which tool is best suited for specific use cases and budgets.
+  I'm looking for a reliable SEO tool to help me with keyword research, technical SEO audits, and backlink analysis. Can you compare and contrast popular SEO tools such as Ahrefs, SEMrush, and Moz, and provide recommendations for which tool is best suited for my specific needs and budget?
 
 
   ========================================================
-  CONTENT STRATEGY
+  CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: When creating a comprehensive content plan
+  Prompt #1: When repurposing existing content into new formats
   ────────────────────────────────────────────────────────
-  Develop a content strategy for a B2B software company that targets IT professionals. Include suggestions for content types, channels, and distribution methods. Consider the buyer's journey, customer pain points, and industry trends when creating the strategy.
+  I've created a high-quality article about the benefits of mindfulness and I want to repurpose it into other formats to reach a wider audience. Can you suggest ways to repurpose my content into social media posts, email newsletters, videos, and podcasts, as well as provide tips for optimizing each format for better engagement and SEO?
 
 
   ========================================================
-  INFLUENCER MARKETING
+  SEO STRATEGY
   ========================================================
 
-  Prompt #1: When partnering with influencers for content promotion
+  Prompt #1: When developing an SEO strategy for a new website or business
   ────────────────────────────────────────────────────────
-  Research and identify 5 influencers in the beauty and cosmetics industry who could be potential partners for a skincare brand. Consider factors such as audience engagement, content quality, and brand alignment when selecting the influencers. Provide a brief explanation for each suggestion and include contact information for outreach purposes.
+  I'm creating a new website for my business and I want to develop a comprehensive SEO strategy that includes keyword research, technical SEO, content creation, and link building. Can you provide me with a step-by-step guide on how to create an SEO strategy that aligns with my business goals and target audience, as well as suggestions for measuring and tracking the effectiveness of my SEO efforts?
 
 
   ========================================================
-  SEO WRITING
+  USER EXPERIENCE
   ========================================================
 
-  Prompt #1: When creating optimized product descriptions
+  Prompt #1: When improving the user experience and engagement on a website
   ────────────────────────────────────────────────────────
-  Write a 200-word product description for an e-commerce website that sells eco-friendly cleaning products. Incorporate relevant keywords, such as 'sustainable', 'non-toxic', and 'biodegradable', while maintaining a conversational tone and emphasizing the benefits of the product.
+  I've noticed that my website has a high bounce rate and low average session duration, which is affecting my search engine rankings. Can you provide me with tips and strategies for improving my website's user experience, including suggestions for streamlining navigation, optimizing images, and creating engaging content?
 
 
   ========================================================
-  LOCAL CONTENT
+  MOBILE OPTIMIZATION
   ========================================================
 
-  Prompt #1: When creating location-specific content
+  Prompt #1: When optimizing a website for mobile devices
   ────────────────────────────────────────────────────────
-  Create a list of 10 local content ideas for a real estate website that targets homebuyers in Los Angeles. Include suggestions for blog posts, videos, and social media content that highlight the local community, amenities, and lifestyle. Consider the target audience and local search trends when creating the ideas.
-
-
-  ========================================================
-  VIDEO SEO
-  ========================================================
-
-  Prompt #1: When optimizing video content for search engines
-  ────────────────────────────────────────────────────────
-  Optimize a YouTube video on the topic of 'How to Start a Garden' for search engine rankings. Include suggestions for keyword research, title and description optimization, and thumbnail creation. Provide tips for increasing engagement, such as annotations, cards, and end screens.
-
-
-  ========================================================
-  PODCAST SEO
-  ========================================================
-
-  Prompt #1: When optimizing podcast episodes for search engines
-  ────────────────────────────────────────────────────────
-  Improve the search engine rankings of a podcast episode on the topic of 'Mindfulness and Meditation'. Include suggestions for keyword research, title and description optimization, and transcript creation. Provide tips for increasing visibility, such as guest blogging and social media promotion.
-
-
-  ========================================================
-  E-A-T FACTORS
-  ========================================================
-
-  Prompt #1: When improving website credibility and trust
-  ────────────────────────────────────────────────────────
-  Explain the concept of E-A-T (Expertise, Authoritativeness, Trustworthiness) factors in SEO and provide 5 tips for improving E-A-T signals on a website. Consider factors such as author bios, credentials, and reviews when creating the suggestions.
+  I've noticed that my website is not mobile-friendly, which is affecting my search engine rankings and user experience. Can you provide me with a step-by-step guide on how to optimize my website for mobile devices, including suggestions for responsive design, page loading speed, and mobile-specific content?
 
 
   ========================================================
   CONTENT PROMOTION
   ========================================================
 
-  Prompt #1: When promoting existing content
+  Prompt #1: When promoting existing content to a wider audience
   ────────────────────────────────────────────────────────
-  Develop a content promotion strategy for a blog post on the topic of 'The Future of Artificial Intelligence'. Include suggestions for social media, email marketing, and influencer outreach. Consider the target audience, competition, and industry trends when creating the strategy.
-
-
-  ========================================================
-  SEO MYTHS
-  ========================================================
-
-  Prompt #1: When educating clients or team members about SEO best practices
-  ────────────────────────────────────────────────────────
-  Debunk 5 common SEO myths, such as 'keyword stuffing is effective' or 'social media has no impact on SEO'. Provide evidence-based explanations for each myth and offer alternative strategies for improving search engine rankings.
-
-
-  ========================================================
-  CONTENT CALENDAR
-  ========================================================
-
-  Prompt #1: When planning and organizing content in advance
-  ────────────────────────────────────────────────────────
-  Create a content calendar for a fashion brand that includes 12 blog posts, 6 social media posts, and 3 email newsletters for the upcoming quarter. Consider the target audience, industry trends, and brand goals when planning the content.
-
-
-  ========================================================
-  TECHNICAL CONTENT
-  ========================================================
-
-  Prompt #1: When creating in-depth, technical content
-  ────────────────────────────────────────────────────────
-  Write a technical guide on the topic of 'How to Implement SSL Encryption on a Website'. Include step-by-step instructions, code examples, and troubleshooting tips. Consider the target audience and their level of technical expertise when creating the guide.
+  I've created a high-quality article about the importance of mental health and I want to promote it to a wider audience. Can you suggest ways to promote my content on social media, email newsletters, and other channels, as well as provide tips for collaborating with influencers and other content creators?
 
 
   ========================================================
   SEO TRENDS
   ========================================================
 
-  Prompt #1: When staying up-to-date with the latest SEO developments
+  Prompt #1: When staying up-to-date with the latest SEO trends and best practices
   ────────────────────────────────────────────────────────
-  Discuss the current trends in SEO, including the impact of artificial intelligence, voice search, and mobile-first indexing. Provide insights on how to adapt to these trends and improve search engine rankings.
+  I want to stay up-to-date with the latest SEO trends and best practices, including changes to Google's algorithm and new technologies that are impacting the SEO landscape. Can you provide me with a summary of the latest SEO trends and developments, as well as suggestions for how to incorporate them into my SEO strategy?
 
 
   ========================================================
-  CONTENT DISTRIBUTION
+  E-A-T FACTORS
   ========================================================
 
-  Prompt #1: When promoting content to a specific audience
+  Prompt #1: When optimizing a website for E-A-T factors
   ────────────────────────────────────────────────────────
-  Develop a content distribution strategy for a B2B company that targets industry leaders. Include suggestions for LinkedIn, Twitter, and Facebook, as well as email newsletters and guest blogging. Consider the target audience, competition, and industry trends when creating the strategy.
+  I've heard that Google's E-A-T factors are important for establishing trust and authority with my website's audience, but I'm not sure how to optimize for them. Can you provide me with tips and strategies for demonstrating expertise, authoritativeness, and trustworthiness on my website, including suggestions for high-quality content, transparent policies, and credible sources?
 
 
   ========================================================
-  SEO TOOLS COMPARISON
+  CORE WEB VITALS
   ========================================================
 
-  Prompt #1: When selecting or evaluating SEO tools
+  Prompt #1: When optimizing a website for Core Web Vitals
   ────────────────────────────────────────────────────────
-  Compare the features and pricing of Moz, Ahrefs, and SEMrush, three popular SEO tools. Include a discussion on keyword research, technical audits, and backlink analysis. Provide recommendations for which tool is best suited for specific use cases and budgets.
+  I've noticed that my website is not meeting Google's Core Web Vitals standards, which is affecting my search engine rankings. Can you provide me with a step-by-step guide on how to optimize my website's page loading speed, interactivity, and visual stability, as well as suggestions for tools and resources to help me measure and improve my Core Web Vitals?
 
 
   ========================================================
-  CONTENT MEASUREMENT
+  IMAGE OPTIMIZATION
   ========================================================
 
-  Prompt #1: When evaluating content performance and making data-driven decisions
+  Prompt #1: When optimizing images for search engines
   ────────────────────────────────────────────────────────
-  Explain how to measure the effectiveness of a content marketing campaign using key performance indicators (KPIs) such as engagement, conversions, and return on investment (ROI). Include suggestions for tracking and analyzing data using Google Analytics.
+  I've noticed that my website's images are not optimized for search engines, which is affecting my image search rankings. Can you provide me with tips and strategies for optimizing my images, including suggestions for file format, compression, alt tags, and descriptive text?
 
 
   ========================================================
-  SEO AUDIT TOOLS
+  VIDEO OPTIMIZATION
   ========================================================
 
-  Prompt #1: When conducting technical SEO audits
+  Prompt #1: When optimizing a video for search engines
   ────────────────────────────────────────────────────────
-  Compare the features and functionality of Screaming Frog, Ahrefs, and SEMrush, three popular SEO audit tools. Include a discussion on website crawling, technical audits, and keyword research. Provide recommendations for which tool is best suited for specific use cases and budgets.
+  I've created a high-quality video about the benefits of meditation and I want to optimize it for search engines. Can you provide me with suggestions for optimizing my video's title, description, tags, and thumbnail, as well as tips for promoting my video on YouTube and other video sharing platforms?
 
 
   ========================================================
-  CONTENT STRATEGY TEMPLATE
+  PODCAST OPTIMIZATION
   ========================================================
 
-  Prompt #1: When planning and organizing content marketing efforts
+  Prompt #1: When optimizing a podcast for search engines
   ────────────────────────────────────────────────────────
-  Create a content strategy template that includes sections for target audience, content goals, and distribution channels. Consider the buyer's journey, customer pain points, and industry trends when creating the template.
+  I've launched a new podcast about entrepreneurship and I want to optimize it for search engines. Can you provide me with tips and strategies for optimizing my podcast's title, description, tags, and transcripts, as well as suggestions for promoting my podcast on Apple Podcasts, Spotify, and other platforms?
 
 
   ========================================================
-  LOCAL SEO AUDIT
+  VOICE SEARCH OPTIMIZATION
   ========================================================
 
-  Prompt #1: When evaluating local SEO performance and identifying areas for improvement
+  Prompt #1: When optimizing a website for voice search
   ────────────────────────────────────────────────────────
-  Conduct a local SEO audit on the website example.com and identify 5 areas for improvement. Consider factors such as Google My Business listing, local citations, and website optimization. Provide recommendations for addressing each issue and explain the potential impact on local search rankings.
+  I've noticed that my website is not optimized for voice search, which is affecting my search engine rankings. Can you provide me with suggestions for optimizing my website's content and structure for voice search, including tips for natural language, long-tail keywords, and featured snippets?
+
+
+  ========================================================
+  LOCAL CONTENT CREATION
+  ========================================================
+
+  Prompt #1: When creating content for a local business or audience
+  ────────────────────────────────────────────────────────
+  I own a small business that offers plumbing services in Los Angeles and I want to create content that targets local keywords and phrases. Can you provide me with suggestions for creating high-quality, location-specific content that showcases my expertise and authority in the plumbing industry?
+
+
+  ========================================================
+  CONTENT REFRESH
+  ========================================================
+
+  Prompt #1: When refreshing outdated content on a website
+  ────────────────────────────────────────────────────────
+  I've noticed that my website's content is outdated and no longer relevant to my target audience. Can you provide me with a step-by-step guide on how to refresh my content, including suggestions for updating existing articles, creating new content, and repurposing old content into new formats?
+
+
+  ========================================================
+  INTERNAL LINKING
+  ========================================================
+
+  Prompt #1: When optimizing a website's internal linking structure
+  ────────────────────────────────────────────────────────
+  I've noticed that my website's internal linking structure is not optimized for search engines, which is affecting my website's crawlability and indexability. Can you provide me with tips and strategies for creating a robust internal linking structure, including suggestions for anchor text, link depth, and link equity?
+
+
+  ========================================================
+  XML SITEMAP
+  ========================================================
+
+  Prompt #1: When creating and submitting an XML sitemap
+  ────────────────────────────────────────────────────────
+  I've created a new website and I want to ensure that it's properly indexed by search engines. Can you provide me with a step-by-step guide on how to create and submit an XML sitemap, as well as suggestions for optimizing my sitemap for better crawlability and indexability?
+
+
+  ========================================================
+  ROBOTS.TXT
+  ========================================================
+
+  Prompt #1: When optimizing a website's robots.txt file
+  ────────────────────────────────────────────────────────
+  I've noticed that my website's robots.txt file is not optimized for search engines, which is affecting my website's crawlability and indexability. Can you provide me with tips and strategies for creating and optimizing a robots.txt file, including suggestions for crawl delays, disallowed pages, and sitemap submissions?
+
+
+  ========================================================
+  SCHEMA MARKUP
+  ========================================================
+
+  Prompt #1: When implementing schema markup on a website
+  ────────────────────────────────────────────────────────
+  I've heard that schema markup is important for search engine rankings and user experience, but I'm not sure how to implement it on my website. Can you provide me with a step-by-step guide on how to add schema markup to my website, including suggestions for types of markup, tools, and best practices?
+
+
+  ========================================================
+  GOOGLE SEARCH CONSOLE
+  ========================================================
+
+  Prompt #1: When using Google Search Console to monitor and improve search engine rankings
+  ────────────────────────────────────────────────────────
+  I've set up Google Search Console on my website, but I'm not sure how to use it to monitor and improve my search engine rankings. Can you provide me with a guide on how to use Google Search Console to track my website's search traffic, impressions, and click-through rates, as well as suggestions for troubleshooting common issues and optimizing my website for better performance?
+
+
+  ========================================================
+  BING SEO
+  ========================================================
+
+  Prompt #1: When optimizing a website for Bing search engine
+  ────────────────────────────────────────────────────────
+  I've noticed that my website is not ranking well on Bing, which is affecting my search engine traffic. Can you provide me with tips and strategies for optimizing my website for Bing, including suggestions for keyword research, content creation, and technical SEO?
+
+
+  ========================================================
+  YANDEX SEO
+  ========================================================
+
+  Prompt #1: When optimizing a website for Yandex search engine
+  ────────────────────────────────────────────────────────
+  I've noticed that my website is not ranking well on Yandex, which is affecting my search engine traffic in Russia and other Eastern European countries. Can you provide me with tips and strategies for optimizing my website for Yandex, including suggestions for keyword research, content creation, and technical SEO?
 
 ============================================================
   Thank you for your purchase!
