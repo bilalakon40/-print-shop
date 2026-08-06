@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Compose Like a Pro with AI
+  Create Stunning Music Tracks with Ease
 ============================================================
 
 Included Prompts: 30
-Generated: August 03, 2026
+Generated: August 06, 2026
 
 ============================================================
   HOW TO USE
@@ -24,145 +24,145 @@ Generated: August 03, 2026
   MELODY GENERATION
   ========================================================
 
-  Prompt #1: When generating a new pop song
+  Prompt #1: When generating classical music pieces
   ────────────────────────────────────────────────────────
-  Create a melody for a pop song with a tempo of 120 BPM, incorporating a mix of stepwise motion and leaps, and featuring a memorable hook in the chorus. The melody should be written in the key of C major and include a range of approximately one octave.
+  Create a 16-bar melody in the style of Mozart, with a tempo of 120 BPM and a key of C major, incorporating a mix of stepwise motion and leaps to create a sense of tension and resolution. The melody should be written for a solo piano and feature a clear distinction between the exposition and development sections.
 
-  Prompt #2: When creating an EDM track
+  Prompt #2: When generating music for educational or children's content
   ────────────────────────────────────────────────────────
-  Generate a melody for an electronic dance music (EDM) track, featuring a bright and upbeat quality, with a focus on creating a sense of energy and momentum. The melody should be written in a synthesizer-friendly key such as A minor, and include a range of rhythmic interest and contour.
+  Create a melody for a children's song about friendship, featuring a simple and catchy tune with a repetitive structure and a clear distinction between the verse and chorus. The melody should be easy to sing along to and should include a range of emotional expression, from happy to sad.
 
-  Prompt #3: When creating a musical theater song
+  Prompt #3: When generating music for video games
   ────────────────────────────────────────────────────────
-  Generate a melody for a musical theater song, featuring a bright and uplifting quality, with a focus on creating a sense of drama and emotional tension. The melody should be written in a key such as E flat major, and include a range of rhythmic interest and contour, with a focus on showcasing the vocalist's range and expressiveness.
+  Create a melody for a video game theme song, featuring a catchy and memorable tune with a repetitive structure and a clear distinction between the different sections of the game. The melody should be designed to evoke a sense of excitement and adventure, with a focus on creating a sense of anticipation and expectation.
 
-  Prompt #4: When creating a children's song
+  Prompt #4: When generating music for musical theater or stage productions
   ────────────────────────────────────────────────────────
-  Generate a melody for a children's song, featuring a bright and catchy quality, with a focus on creating a sense of simplicity and innocence. The melody should be written in a key such as C major, and include a range of rhythmic interest and contour, with a focus on showcasing the vocalist's range and expressiveness.
+  Create a melody for a musical theater piece, featuring a complex and nuanced tune with a range of emotional expression and a clear distinction between the different characters and plot points. The melody should be designed to evoke a sense of drama and tension, with a focus on creating a sense of anticipation and expectation.
 
-  Prompt #5: When scoring a film
+  Prompt #5: When generating music for television or film themes
   ────────────────────────────────────────────────────────
-  Generate a melody for a film score, featuring a sense of drama and emotional tension, with a focus on creating a sense of narrative and character development. The melody should be written in a key such as D minor, and include a range of rhythmic interest and contour, with a focus on showcasing the orchestra's range and expressiveness.
+  Create a melody for a theme song for a television show, featuring a catchy and memorable tune with a repetitive structure and a clear distinction between the different sections of the show. The melody should be designed to evoke a sense of excitement and adventure, with a focus on creating a sense of anticipation and expectation.
 
-  Prompt #6: When scoring a video game
+  Prompt #6: When generating music for educational or children's content
   ────────────────────────────────────────────────────────
-  Generate a melody for a video game soundtrack, featuring a sense of adventure and excitement, with a focus on creating a sense of narrative and character development. The melody should be written in a key such as E major, and include a range of rhythmic interest and contour, with a focus on showcasing the orchestra's range and expressiveness.
+  Create a melody for a children's educational song about science, featuring a simple and catchy tune with a repetitive structure and a clear distinction between the different sections of the song. The melody should be designed to evoke a sense of curiosity and wonder, with a focus on creating a sense of engagement and participation.
 
 
   ========================================================
-  CHORD PROGRESSION
+  MUSIC STYLE TRANSFER
   ========================================================
 
-  Prompt #1: When creating a jazz standard
+  Prompt #1: When adapting popular songs to different genres
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz standard in the key of G minor, using a mix of extended chords such as seventh and ninth chords, and incorporating a ii-V-I progression in the bridge. The chord progression should be written in a slow swing style with a tempo of 90 BPM.
+  Take the song 'Happy' by Pharrell Williams and transform it into a jazz standard in the style of Miles Davis, complete with a slower tempo, extended chord progressions, and improvisational sections. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of jazz music.
 
-  Prompt #2: When creating a country ballad
+  Prompt #2: When adapting rock music to classical styles
   ────────────────────────────────────────────────────────
-  Create a chord progression for a country ballad, using a mix of simple and extended chords, with a focus on creating a sense of intimacy and emotional depth. The chord progression should be written in a slow and contemplative style, with a tempo of 80 BPM, and feature a range of pedal steel and acoustic guitar textures.
+  Take the song 'Bohemian Rhapsody' by Queen and transform it into a classical opera piece in the style of Verdi, complete with complex harmonies, operatic vocals, and a dramatic narrative arc. The resulting piece should maintain the core structure and melody of the original while incorporating the distinctive characteristics of opera music.
 
-  Prompt #3: When creating a reggae song
+  Prompt #3: When adapting rock music to folk or country styles
   ────────────────────────────────────────────────────────
-  Create a chord progression for a reggae song, using a mix of simple and extended chords, with a focus on creating a sense of groove and rhythmic interest. The chord progression should be written in a style that blends roots reggae with modern production techniques, and feature a range of instrumental textures, from skanking guitar to pulsing bass.
+  Take the song 'Stairway to Heaven' by Led Zeppelin and transform it into a bluegrass piece in the style of Bill Monroe, complete with banjo, fiddle, and harmonies. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of bluegrass music.
 
-  Prompt #4: When creating a blues song
+  Prompt #4: When adapting popular music to classical styles
   ────────────────────────────────────────────────────────
-  Create a chord progression for a blues song, using a mix of simple and extended chords, with a focus on creating a sense of groove and emotional depth. The chord progression should be written in a style that blends traditional blues with modern production techniques, and feature a range of instrumental textures, from gritty guitar to pulsing harmonica.
+  Take the song 'Viva la Vida' by Coldplay and transform it into a classical piece in the style of Beethoven, complete with a full orchestra and a focus on creating a sense of grandeur and drama. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of classical music.
 
-  Prompt #5: When creating a pop song
+  Prompt #5: When adapting rock music to funk or soul styles
   ────────────────────────────────────────────────────────
-  Create a chord progression for a pop song, using a mix of simple and extended chords, with a focus on creating a sense of catchiness and memorability. The chord progression should be written in a style that blends traditional pop with modern production techniques, and feature a range of instrumental textures, from bright synthesizers to pulsing bass.
+  Take the song 'Smells Like Teen Spirit' by Nirvana and transform it into a funk piece in the style of James Brown, complete with a driving beat and a focus on creating a sense of energy and tension. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of funk music.
 
-  Prompt #6: When creating a folk song
+  Prompt #6: When adapting rock music to reggae or world music styles
   ────────────────────────────────────────────────────────
-  Create a chord progression for a folk song, using a mix of simple and extended chords, with a focus on creating a sense of intimacy and emotional depth. The chord progression should be written in a style that blends traditional folk with modern production techniques, and feature a range of instrumental textures, from acoustic guitar to soaring vocal harmonies.
+  Take the song 'Hotel California' by the Eagles and transform it into a reggae piece in the style of Bob Marley, complete with a laid-back groove and a focus on creating a sense of relaxation and introspection. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of reggae music.
 
 
   ========================================================
   LYRICS GENERATION
   ========================================================
 
-  Prompt #1: When creating a hip-hop song with a message
+  Prompt #1: When creating original song lyrics
   ────────────────────────────────────────────────────────
-  Write lyrics for a hip-hop song about social justice, featuring a strong narrative and vivid imagery, with a focus on storytelling and a clear message. The lyrics should be written from the perspective of a young adult and include a catchy hook and verse structure.
+  Write a set of lyrics for a folk ballad about a person who has lost their way in life, featuring a narrative that explores themes of self-discovery and perseverance. The lyrics should be written in a poetic style, with a consistent rhyme scheme and meter, and should include a clear story arc with a beginning, middle, and end.
 
-  Prompt #2: When creating a folk song about love
+  Prompt #2: When creating original lyrics for hip-hop or rap music
   ────────────────────────────────────────────────────────
-  Write lyrics for a folk song about love and relationships, featuring a strong narrative and poetic imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a singer-songwriter, and include a range of vivid metaphors and similes.
+  Write a set of lyrics for a hip-hop song about social justice, featuring a narrative that explores themes of inequality and activism. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear call to action and a message of hope and empowerment.
 
-  Prompt #3: When creating a rock song with a message
+  Prompt #3: When creating original lyrics for country music
   ────────────────────────────────────────────────────────
-  Write lyrics for a rock song about rebellion and social change, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
+  Write a set of lyrics for a country song about heartbreak, featuring a narrative that explores themes of love, loss, and longing. The lyrics should be written in a storytelling style, with a consistent rhyme scheme and meter, and should include a clear emotional arc and a sense of resolution or closure.
 
-  Prompt #4: When creating a hip-hop song about personal growth
+  Prompt #4: When creating original lyrics for rock music
   ────────────────────────────────────────────────────────
-  Write lyrics for a hip-hop song about personal growth and self-improvement, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
+  Write a set of lyrics for a rock song about rebellion, featuring a narrative that explores themes of resistance and social change. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear call to action and a message of hope and empowerment.
 
-  Prompt #5: When creating a country song about heartbreak
+  Prompt #5: When creating original lyrics for pop music
   ────────────────────────────────────────────────────────
-  Write lyrics for a country song about heartbreak and relationships, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a singer-songwriter, and include a range of catchy hooks and verse structures.
+  Write a set of lyrics for a pop song about love, featuring a narrative that explores themes of romance and relationships. The lyrics should be written in a storytelling style, with a consistent rhyme scheme and meter, and should include a clear emotional arc and a sense of resolution or closure.
 
-  Prompt #6: When creating a rock song with a message
+  Prompt #6: When creating original lyrics for hip-hop or rap music
   ────────────────────────────────────────────────────────
-  Write lyrics for a rock song about rebellion and social change, featuring a strong narrative and vivid imagery, with a focus on storytelling and emotional authenticity. The lyrics should be written from the perspective of a young adult, and include a range of catchy hooks and verse structures.
+  Write a set of lyrics for a hip-hop song about self-empowerment, featuring a narrative that explores themes of personal growth and development. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear message of hope and inspiration.
 
 
   ========================================================
-  SOUND DESIGN
+  HARMONY AND CHORD PROGRESSION
   ========================================================
 
-  Prompt #1: When scoring a sci-fi film
+  Prompt #1: When creating harmonic foundations for pop songs
   ────────────────────────────────────────────────────────
-  Create a soundscape for a sci-fi film, featuring a mix of electronic and orchestral elements, with a focus on creating a sense of tension and unease. The soundscape should include a range of textures and timbres, from eerie ambiance to pulsing synthesizers, and be written in a cinematic style.
+  Generate a chord progression for a pop song in the style of Taylor Swift, featuring a I-V-vi-IV progression with added seventh chords and suspensions to create a sense of tension and release. The chord progression should be suitable for a verse-chorus structure and should include a clear distinction between the two sections.
 
-  Prompt #2: When creating a fantasy video game
+  Prompt #2: When creating harmonic foundations for jazz music
   ────────────────────────────────────────────────────────
-  Design a sound effects library for a fantasy video game, featuring a range of magical and mythical creatures, with a focus on creating a sense of wonder and enchantment. The sound effects should include a range of textures and timbres, from ethereal ambiance to roaring beasts, and be written in a style that blends realism with fantasy elements.
+  Generate a chord progression for a jazz song in the style of John Coltrane, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a improvisational structure and should include a clear distinction between the different sections of the song.
 
-  Prompt #3: When scoring a horror film
+  Prompt #3: When creating harmonic foundations for EDM or dance music
   ────────────────────────────────────────────────────────
-  Design a soundscape for a horror film, featuring a mix of eerie ambiance and pulsing synthesizers, with a focus on creating a sense of tension and fear. The soundscape should include a range of textures and timbres, from creaking doors to screaming synthesizers, and be written in a style that blends realism with supernatural elements.
+  Generate a chord progression for an electronic dance music (EDM) track, featuring a driving beat and a focus on creating a sense of energy and tension. The chord progression should be suitable for a build-up to a drop, with a clear distinction between the different sections of the song and a range of harmonic interest and complexity.
 
-  Prompt #4: When creating a sci-fi video game
+  Prompt #4: When creating harmonic foundations for folk music
   ────────────────────────────────────────────────────────
-  Design a sound effects library for a sci-fi video game, featuring a range of futuristic and otherworldly sounds, with a focus on creating a sense of wonder and exploration. The sound effects should include a range of textures and timbres, from laser blasts to alien creatures, and be written in a style that blends realism with futuristic elements.
+  Generate a chord progression for a folk song in the style of Bob Dylan, featuring a simple and memorable progression with a focus on creating a sense of intimacy and emotional connection. The chord progression should be suitable for a solo acoustic guitar or vocal performance, with a clear distinction between the verse and chorus and a range of harmonic interest and complexity.
 
-  Prompt #5: When scoring a nature documentary
+  Prompt #5: When creating harmonic foundations for jazz-funk or fusion music
   ────────────────────────────────────────────────────────
-  Design a soundscape for a nature documentary, featuring a mix of natural and environmental sounds, with a focus on creating a sense of realism and immersion. The soundscape should include a range of textures and timbres, from bird songs to ocean waves, and be written in a style that blends realism with cinematic elements.
+  Generate a chord progression for a jazz-funk fusion piece, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a improvisational structure and should include a clear distinction between the different sections of the song, with a range of harmonic interest and complexity.
 
-  Prompt #6: When creating a fantasy film
+  Prompt #6: When creating harmonic foundations for classical music
   ────────────────────────────────────────────────────────
-  Design a sound effects library for a fantasy film, featuring a range of magical and mythical creatures, with a focus on creating a sense of wonder and enchantment. The sound effects should include a range of textures and timbres, from ethereal ambiance to roaring beasts, and be written in a style that blends realism with fantasy elements.
+  Generate a chord progression for a classical piece in the style of Chopin, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a solo piano performance, with a clear distinction between the different sections of the piece and a range of harmonic interest and complexity.
 
 
   ========================================================
-  MUSIC ARRANGEMENT
+  MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When covering a classic rock song
+  Prompt #1: When creating background music for film or video games
   ────────────────────────────────────────────────────────
-  Arrange a cover of a classic rock song, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring electric guitar solos, and be written in a style that blends classic rock with modern production techniques.
+  Compose a piece of ambient electronic music in the style of Brian Eno, featuring a combination of synthesizers, field recordings, and found sounds. The piece should be designed to evoke a sense of calm and contemplation, with a slow tempo and a focus on texture and atmosphere.
 
-  Prompt #2: When creating a Christmas album
+  Prompt #2: When creating music for film or video game soundtracks
   ────────────────────────────────────────────────────────
-  Arrange a medley of Christmas carols, featuring a mix of traditional and modern instruments, with a focus on creating a unique and festive sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with contemporary production techniques.
+  Compose a piece of music for a film soundtrack, featuring a combination of orchestral and choral elements. The piece should be designed to evoke a sense of drama and tension, with a focus on building to a climactic conclusion and a range of emotional expression.
 
-  Prompt #3: When covering a classic soul song
+  Prompt #3: When creating music for advertising or marketing campaigns
   ────────────────────────────────────────────────────────
-  Arrange a cover of a classic soul song, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring orchestral strings, and be written in a style that blends classic soul with modern production techniques.
+  Compose a piece of music for a commercial advertisement, featuring a combination of upbeat and catchy elements with a focus on creating a sense of excitement and engagement. The piece should be designed to evoke a sense of happiness and satisfaction, with a clear and memorable melody and a range of emotional expression.
 
-  Prompt #4: When creating a classical album
+  Prompt #4: When creating music for wellness or meditation practices
   ────────────────────────────────────────────────────────
-  Arrange a medley of classical pieces, featuring a mix of traditional and modern instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with modern production techniques.
+  Compose a piece of music for a yoga or meditation practice, featuring a combination of calming and soothing elements with a focus on creating a sense of relaxation and inner peace. The piece should be designed to evoke a sense of calm and contemplation, with a slow tempo and a range of atmospheric and ambient textures.
 
-  Prompt #5: When covering a classic jazz standard
+  Prompt #5: When creating music for video game trailers or promotional materials
   ────────────────────────────────────────────────────────
-  Arrange a cover of a classic jazz standard, featuring a mix of acoustic and electric instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate acoustic guitar to soaring orchestral strings, and be written in a style that blends classic jazz with modern production techniques.
+  Compose a piece of music for a video game trailer, featuring a combination of epic and cinematic elements with a focus on creating a sense of drama and tension. The piece should be designed to evoke a sense of excitement and adventure, with a clear and memorable melody and a range of emotional expression.
 
-  Prompt #6: When creating a musical theater album
+  Prompt #6: When creating music for film or video game soundtracks
   ────────────────────────────────────────────────────────
-  Arrange a medley of musical theater songs, featuring a mix of traditional and modern instruments, with a focus on creating a unique and contemporary sound. The arrangement should include a range of instrumental textures, from intimate piano to soaring orchestral strings, and be written in a style that blends classical with modern production techniques.
+  Compose a piece of music for a film score, featuring a combination of orchestral and choral elements with a focus on creating a sense of drama and tension. The piece should be designed to evoke a sense of excitement and adventure, with a clear and memorable melody and a range of emotional expression.
 
 ============================================================
   Thank you for your purchase!
