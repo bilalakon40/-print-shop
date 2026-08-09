@@ -1,18 +1,26 @@
 [
   {
-    "title": "SEO Content System: ChatGPT Prompts",
-    "niche": "SEO & Content",
-    "price": 12,
-    "prompts_count": 29,
-    "description": "Create SEO-optimized content that Google loves. This pack includes 30 prompts for keyword research, outline generation, article writing, meta descriptions, and content optimization.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/qsjtrk"
+    "title": "ChatGPT Prompts for Email Marketing",
+    "niche": "Email Marketing",
+    "price": 9,
+    "prompts_count": 24,
+    "description": "Email is still the highest-ROI marketing channel. This pack of 25 prompts helps you write welcome sequences, sales emails, newsletters, and follow-ups that actually convert.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/aykpiy"
   },
   {
-    "title": "E-Commerce AI Prompts for Shopify Sellers",
-    "niche": "E-Commerce",
-    "price": 12,
-    "prompts_count": 24,
-    "description": "Scale your Shopify store with AI. This pack of 25 ChatGPT prompts helps you write irresistible product descriptions, optimize listings, create email flows, and handle customer service faster.",
-    "gumroad_url": "https://bybilal.gumroad.com/l/vrhysb"
+    "title": "Freelancer's ChatGPT Prompt Kit",
+    "niche": "Freelancing",
+    "price": 14,
+    "prompts_count": 40,
+    "description": "40 essential ChatGPT prompts every freelancer needs. Write winning proposals, professional emails, client contracts, portfolio descriptions, and social proof content in half the time.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/bmcoda"
+  },
+  {
+    "title": "ChatGPT Prompts for AI Music Generation",
+    "niche": "AI Music Generation",
+    "price": 9,
+    "prompts_count": 28,
+    "description": "This prompt pack helps music producers and artists generate new ideas, explore different styles, and automate repetitive tasks using ChatGPT, streamlining their music creation workflow. With these 30 expert-crafted prompts, users can unlock the full potential of AI-powered music generation and take their sound to the next level.",
+    "gumroad_url": "https://bybilal.gumroad.com/l/pxjrt"
   }
 ]

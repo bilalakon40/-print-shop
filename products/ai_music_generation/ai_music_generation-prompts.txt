@@ -1,10 +1,10 @@
 ============================================================
   ChatGPT Prompts for AI Music Generation
-  Create Stunning Music Tracks with Ease
+  Compose like a pro with AI-powered music creation
 ============================================================
 
-Included Prompts: 30
-Generated: August 06, 2026
+Included Prompts: 28
+Generated: August 09, 2026
 
 ============================================================
   HOW TO USE
@@ -21,148 +21,185 @@ Generated: August 06, 2026
 
 
   ========================================================
-  MELODY GENERATION
+  MUSIC COMPOSITION
   ========================================================
 
-  Prompt #1: When generating classical music pieces
+  Prompt #1: When creating music for a film or theatrical performance that requires a classical touch
   ────────────────────────────────────────────────────────
-  Create a 16-bar melody in the style of Mozart, with a tempo of 120 BPM and a key of C major, incorporating a mix of stepwise motion and leaps to create a sense of tension and resolution. The melody should be written for a solo piano and feature a clear distinction between the exposition and development sections.
+  Generate a musical composition in the style of Mozart, with a focus on piano and violin, for a 5-minute piece that evokes a sense of nostalgia and longing. The composition should include a clear intro, build-up, and climax, and should be written in a classical sonata form.
 
-  Prompt #2: When generating music for educational or children's content
+  Prompt #2: When producing music for a sci-fi film or a high-energy electronic music festival
   ────────────────────────────────────────────────────────
-  Create a melody for a children's song about friendship, featuring a simple and catchy tune with a repetitive structure and a clear distinction between the verse and chorus. The melody should be easy to sing along to and should include a range of emotional expression, from happy to sad.
+  Create a futuristic electronic music track with a prominent synthesizer lead, driving beat, and haunting vocal samples, inspired by the works of Daft Punk and Justice. The track should be around 4 minutes long and should have a clear structure, including an intro, build-up, drop, and outro.
 
-  Prompt #3: When generating music for video games
-  ────────────────────────────────────────────────────────
-  Create a melody for a video game theme song, featuring a catchy and memorable tune with a repetitive structure and a clear distinction between the different sections of the game. The melody should be designed to evoke a sense of excitement and adventure, with a focus on creating a sense of anticipation and expectation.
 
-  Prompt #4: When generating music for musical theater or stage productions
-  ────────────────────────────────────────────────────────
-  Create a melody for a musical theater piece, featuring a complex and nuanced tune with a range of emotional expression and a clear distinction between the different characters and plot points. The melody should be designed to evoke a sense of drama and tension, with a focus on creating a sense of anticipation and expectation.
+  ========================================================
+  MUSIC GENERATION FOR EMOTIONS
+  ========================================================
 
-  Prompt #5: When generating music for television or film themes
+  Prompt #1: When creating music for a wellness or meditation app that aims to help users relax and unwind
   ────────────────────────────────────────────────────────
-  Create a melody for a theme song for a television show, featuring a catchy and memorable tune with a repetitive structure and a clear distinction between the different sections of the show. The melody should be designed to evoke a sense of excitement and adventure, with a focus on creating a sense of anticipation and expectation.
+  Generate a piece of music that captures the feeling of a warm summer evening, with a focus on acoustic guitar, gentle percussion, and soothing vocal melodies. The music should be uplifting and relaxing, and should evoke a sense of freedom and joy.
 
-  Prompt #6: When generating music for educational or children's content
+  Prompt #2: When producing music for a dramatic film or a theatrical performance that requires a more somber tone
   ────────────────────────────────────────────────────────
-  Create a melody for a children's educational song about science, featuring a simple and catchy tune with a repetitive structure and a clear distinction between the different sections of the song. The melody should be designed to evoke a sense of curiosity and wonder, with a focus on creating a sense of engagement and participation.
+  Create a musical piece that conveys a sense of melancholy and introspection, with a focus on solo piano and haunting string melodies. The music should be contemplative and emotive, and should explore the complexities of the human experience.
 
 
   ========================================================
   MUSIC STYLE TRANSFER
   ========================================================
 
-  Prompt #1: When adapting popular songs to different genres
+  Prompt #1: When creating music for a commercial or advertising campaign that requires a unique blend of traditional and modern styles
   ────────────────────────────────────────────────────────
-  Take the song 'Happy' by Pharrell Williams and transform it into a jazz standard in the style of Miles Davis, complete with a slower tempo, extended chord progressions, and improvisational sections. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of jazz music.
+  Take a traditional folk song from Eastern Europe and re-imagine it in the style of a modern pop song, with a focus on catchy melodies, driving rhythms, and contemporary production techniques. The resulting song should be around 3 minutes long and should have a clear verse-chorus structure.
 
-  Prompt #2: When adapting rock music to classical styles
+  Prompt #2: When producing music for an underground electronic music club or a futuristic-themed event
   ────────────────────────────────────────────────────────
-  Take the song 'Bohemian Rhapsody' by Queen and transform it into a classical opera piece in the style of Verdi, complete with complex harmonies, operatic vocals, and a dramatic narrative arc. The resulting piece should maintain the core structure and melody of the original while incorporating the distinctive characteristics of opera music.
-
-  Prompt #3: When adapting rock music to folk or country styles
-  ────────────────────────────────────────────────────────
-  Take the song 'Stairway to Heaven' by Led Zeppelin and transform it into a bluegrass piece in the style of Bill Monroe, complete with banjo, fiddle, and harmonies. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of bluegrass music.
-
-  Prompt #4: When adapting popular music to classical styles
-  ────────────────────────────────────────────────────────
-  Take the song 'Viva la Vida' by Coldplay and transform it into a classical piece in the style of Beethoven, complete with a full orchestra and a focus on creating a sense of grandeur and drama. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of classical music.
-
-  Prompt #5: When adapting rock music to funk or soul styles
-  ────────────────────────────────────────────────────────
-  Take the song 'Smells Like Teen Spirit' by Nirvana and transform it into a funk piece in the style of James Brown, complete with a driving beat and a focus on creating a sense of energy and tension. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of funk music.
-
-  Prompt #6: When adapting rock music to reggae or world music styles
-  ────────────────────────────────────────────────────────
-  Take the song 'Hotel California' by the Eagles and transform it into a reggae piece in the style of Bob Marley, complete with a laid-back groove and a focus on creating a sense of relaxation and introspection. The resulting piece should maintain the core melody and structure of the original while incorporating the distinctive characteristics of reggae music.
+  Transform a classic jazz standard into a futuristic electronic music track, with a focus on glitchy beats, synthesizer leads, and experimental sound design. The resulting track should be around 5 minutes long and should have a clear intro-build-up-drop structure.
 
 
   ========================================================
   LYRICS GENERATION
   ========================================================
 
-  Prompt #1: When creating original song lyrics
+  Prompt #1: When creating music for a pop artist or a commercial music release that requires a focus on storytelling and emotional connection
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a folk ballad about a person who has lost their way in life, featuring a narrative that explores themes of self-discovery and perseverance. The lyrics should be written in a poetic style, with a consistent rhyme scheme and meter, and should include a clear story arc with a beginning, middle, and end.
+  Write a set of lyrics for a pop song that explores the theme of heartbreak and recovery, with a focus on catchy melodies, simple harmonies, and a clear narrative structure. The lyrics should be around 200-250 words long and should have a clear verse-chorus-bridge structure.
 
-  Prompt #2: When creating original lyrics for hip-hop or rap music
+  Prompt #2: When producing music for a hip-hop artist or a social justice campaign that requires a strong and impactful message
   ────────────────────────────────────────────────────────
-  Write a set of lyrics for a hip-hop song about social justice, featuring a narrative that explores themes of inequality and activism. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear call to action and a message of hope and empowerment.
-
-  Prompt #3: When creating original lyrics for country music
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a country song about heartbreak, featuring a narrative that explores themes of love, loss, and longing. The lyrics should be written in a storytelling style, with a consistent rhyme scheme and meter, and should include a clear emotional arc and a sense of resolution or closure.
-
-  Prompt #4: When creating original lyrics for rock music
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a rock song about rebellion, featuring a narrative that explores themes of resistance and social change. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear call to action and a message of hope and empowerment.
-
-  Prompt #5: When creating original lyrics for pop music
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a pop song about love, featuring a narrative that explores themes of romance and relationships. The lyrics should be written in a storytelling style, with a consistent rhyme scheme and meter, and should include a clear emotional arc and a sense of resolution or closure.
-
-  Prompt #6: When creating original lyrics for hip-hop or rap music
-  ────────────────────────────────────────────────────────
-  Write a set of lyrics for a hip-hop song about self-empowerment, featuring a narrative that explores themes of personal growth and development. The lyrics should be written in a strong and assertive tone, with a consistent rhyme scheme and meter, and should include a clear message of hope and inspiration.
+  Generate a set of lyrics for a hip-hop song that tackles the theme of social justice and activism, with a focus on complex rhyme schemes, layered wordplay, and a clear message. The lyrics should be around 250-300 words long and should have a clear intro-verse-chorus structure.
 
 
   ========================================================
-  HARMONY AND CHORD PROGRESSION
+  MUSIC COLLABORATION
   ========================================================
 
-  Prompt #1: When creating harmonic foundations for pop songs
+  Prompt #1: When creating music for a high-profile collaboration or a experimental music project that pushes the boundaries of genre and style
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a pop song in the style of Taylor Swift, featuring a I-V-vi-IV progression with added seventh chords and suspensions to create a sense of tension and release. The chord progression should be suitable for a verse-chorus structure and should include a clear distinction between the two sections.
+  Imagine a musical collaboration between Kendrick Lamar and Radiohead, and generate a song that blends their styles and explores the theme of technological addiction. The song should be around 5 minutes long and should have a clear structure, including an intro, build-up, drop, and outro.
 
-  Prompt #2: When creating harmonic foundations for jazz music
+  Prompt #2: When producing music for a film or theatrical performance that requires a unique blend of pop and orchestral elements
   ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz song in the style of John Coltrane, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a improvisational structure and should include a clear distinction between the different sections of the song.
-
-  Prompt #3: When creating harmonic foundations for EDM or dance music
-  ────────────────────────────────────────────────────────
-  Generate a chord progression for an electronic dance music (EDM) track, featuring a driving beat and a focus on creating a sense of energy and tension. The chord progression should be suitable for a build-up to a drop, with a clear distinction between the different sections of the song and a range of harmonic interest and complexity.
-
-  Prompt #4: When creating harmonic foundations for folk music
-  ────────────────────────────────────────────────────────
-  Generate a chord progression for a folk song in the style of Bob Dylan, featuring a simple and memorable progression with a focus on creating a sense of intimacy and emotional connection. The chord progression should be suitable for a solo acoustic guitar or vocal performance, with a clear distinction between the verse and chorus and a range of harmonic interest and complexity.
-
-  Prompt #5: When creating harmonic foundations for jazz-funk or fusion music
-  ────────────────────────────────────────────────────────
-  Generate a chord progression for a jazz-funk fusion piece, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a improvisational structure and should include a clear distinction between the different sections of the song, with a range of harmonic interest and complexity.
-
-  Prompt #6: When creating harmonic foundations for classical music
-  ────────────────────────────────────────────────────────
-  Generate a chord progression for a classical piece in the style of Chopin, featuring a complex series of extended chords and modal interchange. The chord progression should be suitable for a solo piano performance, with a clear distinction between the different sections of the piece and a range of harmonic interest and complexity.
+  Envision a musical collaboration between Billie Eilish and Hans Zimmer, and generate a song that combines their styles and explores the theme of environmentalism. The song should be around 4 minutes long and should have a clear structure, including an intro, build-up, drop, and outro.
 
 
   ========================================================
-  MUSIC COMPOSITION
+  SOUNDTRACK GENERATION
   ========================================================
 
-  Prompt #1: When creating background music for film or video games
+  Prompt #1: When creating music for a film or video game that requires a dark and immersive soundtrack
   ────────────────────────────────────────────────────────
-  Compose a piece of ambient electronic music in the style of Brian Eno, featuring a combination of synthesizers, field recordings, and found sounds. The piece should be designed to evoke a sense of calm and contemplation, with a slow tempo and a focus on texture and atmosphere.
+  Generate a musical soundtrack for a sci-fi film set in a dystopian future, with a focus on dark and ominous soundscapes, driving electronic beats, and haunting vocal melodies. The soundtrack should be around 30 minutes long and should have a clear narrative structure, including intro, build-up, climax, and resolution.
 
-  Prompt #2: When creating music for film or video game soundtracks
+  Prompt #2: When producing music for a film or television show that requires a lighthearted and romantic soundtrack
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a film soundtrack, featuring a combination of orchestral and choral elements. The piece should be designed to evoke a sense of drama and tension, with a focus on building to a climactic conclusion and a range of emotional expression.
+  Create a musical soundtrack for a romantic comedy film set in Paris, with a focus on light and airy soundscapes, whimsical instrumental melodies, and charming vocal harmonies. The soundtrack should be around 20 minutes long and should have a clear narrative structure, including intro, build-up, climax, and resolution.
 
-  Prompt #3: When creating music for advertising or marketing campaigns
-  ────────────────────────────────────────────────────────
-  Compose a piece of music for a commercial advertisement, featuring a combination of upbeat and catchy elements with a focus on creating a sense of excitement and engagement. The piece should be designed to evoke a sense of happiness and satisfaction, with a clear and memorable melody and a range of emotional expression.
 
-  Prompt #4: When creating music for wellness or meditation practices
-  ────────────────────────────────────────────────────────
-  Compose a piece of music for a yoga or meditation practice, featuring a combination of calming and soothing elements with a focus on creating a sense of relaxation and inner peace. The piece should be designed to evoke a sense of calm and contemplation, with a slow tempo and a range of atmospheric and ambient textures.
+  ========================================================
+  MUSIC PERSONALIZATION
+  ========================================================
 
-  Prompt #5: When creating music for video game trailers or promotional materials
+  Prompt #1: When creating music for a music streaming service or a personalized music recommendation platform
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a video game trailer, featuring a combination of epic and cinematic elements with a focus on creating a sense of drama and tension. The piece should be designed to evoke a sense of excitement and adventure, with a clear and memorable melody and a range of emotional expression.
+  Generate a personalized musical composition for a listener who enjoys the music of Max Richter and Olafur Arnalds, with a focus on soothing piano melodies, gentle string textures, and calming soundscapes. The composition should be around 10 minutes long and should have a clear structure, including intro, build-up, and resolution.
 
-  Prompt #6: When creating music for film or video game soundtracks
+  Prompt #2: When producing music for a music streaming service or a personalized music recommendation platform
   ────────────────────────────────────────────────────────
-  Compose a piece of music for a film score, featuring a combination of orchestral and choral elements with a focus on creating a sense of drama and tension. The piece should be designed to evoke a sense of excitement and adventure, with a clear and memorable melody and a range of emotional expression.
+  Create a personalized musical playlist for a listener who enjoys the music of David Bowie and Prince, with a focus on eclectic and genre-bending tracks, bold and experimental sound design, and a clear narrative thread. The playlist should be around 60 minutes long and should have a clear structure, including intro, build-up, climax, and resolution.
+
+
+  ========================================================
+  MUSIC ANALYSIS
+  ========================================================
+
+  Prompt #1: When creating music education content or analytical music reviews
+  ────────────────────────────────────────────────────────
+  Analyze the musical composition 'Clair de Lune' by Claude Debussy, and generate a detailed report on its structure, harmony, melody, and rhythm. The report should be around 500-600 words long and should include specific examples and musical terminology.
+
+  Prompt #2: When creating music criticism or analytical music reviews
+  ────────────────────────────────────────────────────────
+  Examine the musical style of the artist Kendrick Lamar, and generate a detailed report on his lyrical themes, musical influences, and production techniques. The report should be around 500-600 words long and should include specific examples and musical terminology.
+
+
+  ========================================================
+  MUSIC RECOMMENDATION
+  ========================================================
+
+  Prompt #1: When creating music recommendations for a music streaming service or a personalized music discovery platform
+  ────────────────────────────────────────────────────────
+  Recommend a list of 10 musical artists or bands that are similar to the style of the band Tame Impala, with a focus on psychedelic rock, indie electronic, and experimental soundscapes. The list should include a brief description of each artist and a specific song or album recommendation.
+
+  Prompt #2: When creating music recommendations for a music streaming service or a personalized music discovery platform
+  ────────────────────────────────────────────────────────
+  Generate a list of 10 musical tracks that are similar to the style of the song 'Stairway to Heaven' by Led Zeppelin, with a focus on classic rock, folk rock, and epic soundscapes. The list should include a brief description of each track and a specific album or artist recommendation.
+
+
+  ========================================================
+  MUSIC PRODUCTION
+  ========================================================
+
+  Prompt #1: When creating music production tutorials or online courses
+  ────────────────────────────────────────────────────────
+  Generate a step-by-step guide on how to produce a musical track using the digital audio workstation Ableton Live, with a focus on creating a deep house track with a prominent synthesizer lead and driving beat. The guide should be around 1000-1200 words long and should include specific examples and production techniques.
+
+  Prompt #2: When creating music production tutorials or online courses
+  ────────────────────────────────────────────────────────
+  Create a detailed tutorial on how to create a musical composition using the music production software FL Studio, with a focus on creating a hip-hop beat with a prominent drum pattern and layered synthesizer textures. The tutorial should be around 1000-1200 words long and should include specific examples and production techniques.
+
+
+  ========================================================
+  AI MUSIC GENERATION
+  ========================================================
+
+  Prompt #1: When creating music for a futuristic-themed event or a experimental music project
+  ────────────────────────────────────────────────────────
+  Generate a musical composition using a combination of machine learning algorithms and musical rules, with a focus on creating a unique and innovative sound that blends elements of electronic and classical music. The composition should be around 5 minutes long and should have a clear structure, including intro, build-up, and resolution.
+
+  Prompt #2: When creating music for a futuristic-themed event or a experimental music project
+  ────────────────────────────────────────────────────────
+  Create a musical piece that explores the possibilities of generative music, with a focus on using algorithms and machine learning to create a unique and ever-changing soundscape. The piece should be around 10 minutes long and should have a clear structure, including intro, build-up, and resolution.
+
+
+  ========================================================
+  MUSIC THERAPY
+  ========================================================
+
+  Prompt #1: When creating music for a music therapy session or a wellness program
+  ────────────────────────────────────────────────────────
+  Generate a musical composition that is specifically designed for music therapy, with a focus on creating a calming and soothing atmosphere that can help to reduce stress and anxiety. The composition should be around 10 minutes long and should have a clear structure, including intro, build-up, and resolution.
+
+  Prompt #2: When creating music for a music therapy session or a healthcare program
+  ────────────────────────────────────────────────────────
+  Create a musical piece that is designed to help individuals with dementia, with a focus on creating a familiar and comforting soundscape that can help to stimulate memories and emotions. The piece should be around 5 minutes long and should have a clear structure, including intro, build-up, and resolution.
+
+
+  ========================================================
+  LIVE PERFORMANCE
+  ========================================================
+
+  Prompt #1: When creating music for a live concert or a music festival
+  ────────────────────────────────────────────────────────
+  Generate a musical composition that is specifically designed for live performance, with a focus on creating a high-energy and engaging atmosphere that can help to captivate and entertain a live audience. The composition should be around 5 minutes long and should have a clear structure, including intro, build-up, and climax.
+
+  Prompt #2: When creating music for a live concert or a solo performance
+  ────────────────────────────────────────────────────────
+  Create a musical piece that is designed to be performed by a solo artist, with a focus on creating a intimate and emotional atmosphere that can help to connect with the audience on a personal level. The piece should be around 5 minutes long and should have a clear structure, including intro, build-up, and resolution.
+
+
+  ========================================================
+  MUSIC EDUCATION
+  ========================================================
+
+  Prompt #1: When creating music education content or online courses
+  ────────────────────────────────────────────────────────
+  Generate a musical composition that is specifically designed for music education, with a focus on creating a clear and concise example of a specific musical concept or technique. The composition should be around 2-3 minutes long and should have a clear structure, including intro, example, and conclusion.
+
+  Prompt #2: When creating music education content or online courses
+  ────────────────────────────────────────────────────────
+  Create a musical piece that is designed to help students learn about music theory, with a focus on creating a engaging and interactive soundscape that can help to illustrate key concepts and principles. The piece should be around 5 minutes long and should have a clear structure, including intro, example, and conclusion.
 
 ============================================================
   Thank you for your purchase!
