@@ -3,8 +3,8 @@
   Publish high-quality blog posts 5x faster
 ============================================================
 
-Included Prompts: 31
-Generated: August 02, 2026
+Included Prompts: 32
+Generated: August 14, 2026
 
 ============================================================
   HOW TO USE
@@ -21,282 +21,181 @@ Generated: August 02, 2026
 
 
   ========================================================
-  SEO OPTIMIZATION
-  ========================================================
-
-  Prompt #1: When creating a new blog post and wanting to improve its search engine ranking
-  ────────────────────────────────────────────────────────
-  Write a comprehensive guide on how to optimize a blog post for search engines, including tips on keyword research, meta tags, and internal linking, using the example of a fashion blog post about summer trends.
-
-
-  ========================================================
   CONTENT CREATION
   ========================================================
 
-  Prompt #1: When planning a new blog post and needing help with structure and content
+  Prompt #1: When creating in-depth guides on AI in content creation
   ────────────────────────────────────────────────────────
-  Create a detailed outline for a blog post about the benefits of meditation for mental health, including an introduction, three main points, and a conclusion, and write the first paragraph of the post.
+  Write a comprehensive blog post on the benefits of using artificial intelligence in content creation, including examples of AI-powered tools that can help with research, writing, and editing. The post should be at least 1000 words and include a brief introduction to AI, its applications in content creation, and a conclusion that summarizes the main points.
 
-
-  ========================================================
-  SOCIAL MEDIA PROMOTION
-  ========================================================
-
-  Prompt #1: When launching a new product and wanting to create buzz on social media
+  Prompt #2: When creating content creation guides for new bloggers
   ────────────────────────────────────────────────────────
-  Develop a social media strategy for promoting a blog post about a new product launch, including tweets, Facebook posts, and Instagram stories, and provide examples of engaging visuals and hashtags.
+  Write a blog post on the importance of creating high-quality, engaging, and informative content for bloggers, including strategies for conducting research, writing compelling headlines, and optimizing images. The post should include examples of successful content creation strategies and tips on how to use tools like Grammarly and Hemingway Editor.
 
-
-  ========================================================
-  INFLUENCER COLLABORATION
-  ========================================================
-
-  Prompt #1: When looking to partner with an influencer to promote a product or service
+  Prompt #3: When creating content creation guides for new bloggers
   ────────────────────────────────────────────────────────
-  Write a pitch email to a popular lifestyle influencer, proposing a collaboration for a sponsored blog post about a new wellness product, including details on the product, the target audience, and the benefits of the collaboration.
+  Write a blog post on the importance of creating high-quality, engaging, and informative content for bloggers, including strategies for conducting research, writing compelling headlines, and optimizing images. The post should include examples of successful content creation strategies and tips on how to use tools like Grammarly and Hemingway Editor.
+
+  Prompt #4: When creating content creation guides for new bloggers
+  ────────────────────────────────────────────────────────
+  Write a blog post on the importance of creating high-quality, engaging, and informative content for bloggers, including strategies for conducting research, writing compelling headlines, and optimizing images. The post should include examples of successful content creation strategies and tips on how to use tools like Grammarly and Hemingway Editor.
+
+
+  ========================================================
+  SEO OPTIMIZATION
+  ========================================================
+
+  Prompt #1: When creating SEO tutorials for new bloggers
+  ────────────────────────────────────────────────────────
+  Create a step-by-step guide on how to optimize a blog post for search engines, including tips on keyword research, meta tags, and internal linking. The guide should be written for beginners and include examples of how to use tools like Google Keyword Planner and Ahrefs.
+
+  Prompt #2: When creating technical SEO tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a step-by-step guide on how to conduct a technical SEO audit for a blog, including tips on how to check for broken links, optimize images, and improve page speed. The guide should include examples of successful technical SEO audits and tips on how to use tools like Screaming Frog and Ahrefs.
+
+  Prompt #3: When creating technical SEO tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a step-by-step guide on how to conduct a technical SEO audit for a blog, including tips on how to check for broken links, optimize images, and improve page speed. The guide should include examples of successful technical SEO audits and tips on how to use tools like Screaming Frog and Ahrefs.
+
+  Prompt #4: When creating technical SEO tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a step-by-step guide on how to conduct a technical SEO audit for a blog, including tips on how to check for broken links, optimize images, and improve page speed. The guide should include examples of successful technical SEO audits and tips on how to use tools like Screaming Frog and Ahrefs.
+
+
+  ========================================================
+  SOCIAL MEDIA MARKETING
+  ========================================================
+
+  Prompt #1: When creating social media marketing guides for bloggers
+  ────────────────────────────────────────────────────────
+  Write a blog post on the importance of social media marketing for bloggers, including strategies for increasing engagement, growing followers, and driving traffic to a blog. The post should include examples of successful social media campaigns and tips on how to use platforms like Facebook, Twitter, and Instagram.
+
+  Prompt #2: When creating social media marketing guides for bloggers
+  ────────────────────────────────────────────────────────
+  Write a blog post on the importance of using social media to promote a blog, including strategies for increasing engagement, growing followers, and driving traffic to a blog. The post should include examples of successful social media marketing campaigns and tips on how to use platforms like Facebook, Twitter, and Instagram.
+
+  Prompt #3: When creating social media marketing guides for bloggers
+  ────────────────────────────────────────────────────────
+  Write a blog post on the importance of using social media to promote a blog, including strategies for increasing engagement, growing followers, and driving traffic to a blog. The post should include examples of successful social media marketing campaigns and tips on how to use platforms like Facebook, Twitter, and Instagram.
 
 
   ========================================================
   EMAIL MARKETING
   ========================================================
 
-  Prompt #1: When setting up an email marketing campaign and wanting to engage new subscribers
+  Prompt #1: When creating email marketing tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Create a welcome email sequence for a blog about personal finance, including three emails with helpful tips and resources, and a call-to-action to subscribe to the blog's newsletter.
+  Create a comprehensive guide on how to build an email list and create effective email marketing campaigns for bloggers, including tips on how to write compelling subject lines, create engaging content, and use email marketing automation tools. The guide should include examples of successful email marketing campaigns and tips on how to avoid spam filters.
+
+  Prompt #2: When creating email marketing tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a comprehensive guide on how to create effective email marketing campaigns for bloggers, including tips on how to write compelling subject lines, create engaging content, and use email marketing automation tools. The guide should include examples of successful email marketing campaigns and tips on how to avoid spam filters.
+
+  Prompt #3: When creating email marketing tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a comprehensive guide on how to create effective email marketing campaigns for bloggers, including tips on how to write compelling subject lines, create engaging content, and use email marketing automation tools. The guide should include examples of successful email marketing campaigns and tips on how to avoid spam filters.
 
 
   ========================================================
   CONTENT REPURPOSING
   ========================================================
 
-  Prompt #1: When having a successful blog post and wanting to reach a wider audience
+  Prompt #1: When creating content repurposing guides for bloggers
   ────────────────────────────────────────────────────────
-  Suggest ways to repurpose a popular blog post about productivity tips into other formats, such as a video, podcast, or infographic, and provide examples of how to adapt the content for each format.
+  Write a blog post on the benefits of repurposing content for bloggers, including strategies for turning blog posts into videos, podcasts, and social media posts. The post should include examples of successful content repurposing campaigns and tips on how to use tools like Lumen5 and Rev.com.
 
-
-  ========================================================
-  ANALYTICS AND TRACKING
-  ========================================================
-
-  Prompt #1: When wanting to measure the success of a blog post and make data-driven decisions
+  Prompt #2: When creating content repurposing guides for bloggers
   ────────────────────────────────────────────────────────
-  Explain how to use Google Analytics to track the performance of a blog post about travel destinations, including setting up goals, tracking engagement metrics, and analyzing audience demographics.
+  Write a blog post on the benefits of repurposing content for bloggers, including strategies for turning blog posts into videos, podcasts, and social media posts. The post should include examples of successful content repurposing campaigns and tips on how to use tools like Lumen5 and Rev.com.
 
-
-  ========================================================
-  GUEST BLOGGING
-  ========================================================
-
-  Prompt #1: When looking to build backlinks and establish authority in a niche
+  Prompt #3: When creating content repurposing guides for bloggers
   ────────────────────────────────────────────────────────
-  Write a guest post about the importance of sustainability in business, including examples of companies that have successfully implemented sustainable practices, and provide a brief author bio and call-to-action to visit the author's website.
+  Write a blog post on the benefits of repurposing content for bloggers, including strategies for turning blog posts into videos, podcasts, and social media posts. The post should include examples of successful content repurposing campaigns and tips on how to use tools like Lumen5 and Rev.com.
 
 
   ========================================================
-  CONTENT CALENDAR
+  INFLUENCER MARKETING
   ========================================================
 
-  Prompt #1: When planning and organizing content in advance
+  Prompt #1: When creating influencer marketing tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Create a content calendar for a blog about food and recipes, including post ideas, publishing schedules, and social media promotion plans, for the next three months.
+  Create a guide on how to collaborate with influencers as a blogger, including tips on how to find influencers, reach out to them, and create successful influencer marketing campaigns. The guide should include examples of successful influencer marketing campaigns and tips on how to measure the effectiveness of influencer marketing efforts.
 
-
-  ========================================================
-  READER ENGAGEMENT
-  ========================================================
-
-  Prompt #1: When wanting to build a loyal community around a blog
+  Prompt #2: When creating influencer marketing tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Develop a strategy to increase reader engagement on a blog about technology, including tips on creating interactive content, responding to comments, and hosting giveaways and contests.
+  Create a guide on how to collaborate with influencers as a blogger, including tips on how to find influencers, reach out to them, and create successful influencer marketing campaigns. The guide should include examples of successful influencer marketing campaigns and tips on how to measure the effectiveness of influencer marketing efforts.
+
+  Prompt #3: When creating influencer marketing tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Create a guide on how to collaborate with influencers as a blogger, including tips on how to find influencers, reach out to them, and create successful influencer marketing campaigns. The guide should include examples of successful influencer marketing campaigns and tips on how to measure the effectiveness of influencer marketing efforts.
 
 
   ========================================================
   AFFILIATE MARKETING
   ========================================================
 
-  Prompt #1: When looking to monetize a blog through affiliate marketing
+  Prompt #1: When creating affiliate marketing tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Write a review of a popular affiliate marketing program for bloggers, including its features, benefits, and potential earnings, and provide examples of how to promote the program on a blog about online marketing.
+  Write a comprehensive guide on how to get started with affiliate marketing as a blogger, including tips on how to choose affiliate programs, create affiliate links, and disclose affiliate relationships to readers. The guide should include examples of successful affiliate marketing campaigns and tips on how to avoid common pitfalls.
+
+  Prompt #2: When creating affiliate marketing tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Write a comprehensive guide on how to get started with affiliate marketing as a blogger, including tips on how to choose affiliate programs, create affiliate links, and disclose affiliate relationships to readers. The guide should include examples of successful affiliate marketing campaigns and tips on how to avoid common pitfalls.
+
+  Prompt #3: When creating affiliate marketing tutorials for bloggers
+  ────────────────────────────────────────────────────────
+  Write a comprehensive guide on how to get started with affiliate marketing as a blogger, including tips on how to choose affiliate programs, create affiliate links, and disclose affiliate relationships to readers. The guide should include examples of successful affiliate marketing campaigns and tips on how to avoid common pitfalls.
 
 
   ========================================================
   BLOG MONETIZATION
   ========================================================
 
-  Prompt #1: When looking to earn revenue from a blog
+  Prompt #1: When creating blog monetization guides for new bloggers
   ────────────────────────────────────────────────────────
-  Explain the different ways to monetize a blog about health and wellness, including display advertising, sponsored content, and selling digital products, and provide tips on how to get started with each method.
+  Create a blog post on the different ways to monetize a blog, including strategies for displaying ads, selling digital products, and offering services. The post should include examples of successful blog monetization strategies and tips on how to use tools like Google AdSense and Amazon Associates.
 
-
-  ========================================================
-  CONTENT UPGRADES
-  ========================================================
-
-  Prompt #1: When having a popular blog post and wanting to provide more value to readers
+  Prompt #2: When creating blog monetization guides for new bloggers
   ────────────────────────────────────────────────────────
-  Suggest ways to upgrade a blog post about marketing tips into a comprehensive guide, including adding more examples, case studies, and actionable advice, and provide examples of how to promote the upgraded content.
+  Create a blog post on the different ways to monetize a blog, including strategies for displaying ads, selling digital products, and offering services. The post should include examples of successful blog monetization strategies and tips on how to use tools like Google AdSense and Amazon Associates.
 
-
-  ========================================================
-  PODCAST GUESTING
-  ========================================================
-
-  Prompt #1: When looking to appear as a guest on a podcast and promote a blog or business
+  Prompt #3: When creating blog monetization guides for new bloggers
   ────────────────────────────────────────────────────────
-  Prepare a pitch for a podcast about entrepreneurship, including a brief introduction, a summary of the topic to be discussed, and a call-to-action to listen to the podcast episode.
+  Create a blog post on the different ways to monetize a blog, including strategies for displaying ads, selling digital products, and offering services. The post should include examples of successful blog monetization strategies and tips on how to use tools like Google AdSense and Amazon Associates.
 
 
   ========================================================
-  VIDEO CONTENT
+  CONTENT CALENDAR
   ========================================================
 
-  Prompt #1: When creating video content to promote a blog or business
+  Prompt #1: When creating content calendar tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Develop a script for a video about the benefits of blogging for business, including an introduction, three main points, and a conclusion, and provide examples of engaging visuals and animations.
+  Write a guide on how to create a content calendar for bloggers, including tips on how to plan and organize content, schedule posts, and track engagement. The guide should include examples of successful content calendars and tips on how to use tools like Trello and CoSchedule.
 
-
-  ========================================================
-  BLOGGING TOOLS
-  ========================================================
-
-  Prompt #1: When choosing a blogging platform and wanting to make an informed decision
+  Prompt #2: When creating content calendar tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Review and compare different blogging platforms, including WordPress, Medium, and Ghost, and provide recommendations on which one to use based on specific needs and goals.
+  Write a guide on how to create a content calendar for bloggers, including tips on how to plan and organize content, schedule posts, and track engagement. The guide should include examples of successful content calendars and tips on how to use tools like Trello and CoSchedule.
 
-
-  ========================================================
-  WRITING STYLE
-  ========================================================
-
-  Prompt #1: When looking to improve writing skills and develop a unique voice
+  Prompt #3: When creating content calendar tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Analyze the writing style of a popular blogger and provide tips on how to emulate their tone, voice, and language, including examples of how to use storytelling techniques and persuasive writing.
+  Write a guide on how to create a content calendar for bloggers, including tips on how to plan and organize content, schedule posts, and track engagement. The guide should include examples of successful content calendars and tips on how to use tools like Trello and CoSchedule.
 
 
   ========================================================
-  BLOG DESIGN
+  ANALYTICS AND TRACKING
   ========================================================
 
-  Prompt #1: When wanting to enhance the visual appeal of a blog
+  Prompt #1: When creating analytics tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Suggest ways to improve the design of a blog about photography, including tips on typography, color schemes, and layout, and provide examples of how to use images and graphics to enhance the user experience.
+  Create a comprehensive guide on how to use analytics tools to track blog performance, including tips on how to set up Google Analytics, track key metrics, and use data to inform content decisions. The guide should include examples of successful analytics campaigns and tips on how to avoid common mistakes.
 
-
-  ========================================================
-  SEO AUDIT
-  ========================================================
-
-  Prompt #1: When wanting to identify and fix technical SEO issues on a blog
+  Prompt #2: When creating analytics tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Conduct a technical SEO audit of a blog about finance, including checking for broken links, optimizing images, and improving page speed, and provide recommendations for improvement.
+  Create a comprehensive guide on how to use analytics tools to track blog performance, including tips on how to set up Google Analytics, track key metrics, and use data to inform content decisions. The guide should include examples of successful analytics campaigns and tips on how to avoid common mistakes.
 
-
-  ========================================================
-  CONTENT LOCALIZATION
-  ========================================================
-
-  Prompt #1: When wanting to reach a global audience and adapt content to local markets
+  Prompt #3: When creating analytics tutorials for bloggers
   ────────────────────────────────────────────────────────
-  Explain how to adapt a blog post about cultural events to different regions and languages, including tips on translation, localization, and cultural sensitivity, and provide examples of how to use geotargeting and language-specific content.
-
-
-  ========================================================
-  INFLUENCER RESEARCH
-  ========================================================
-
-  Prompt #1: When looking to partner with influencers in a specific niche
-  ────────────────────────────────────────────────────────
-  Research and identify potential influencers in the beauty niche, including their audience demographics, engagement rates, and content quality, and provide examples of how to reach out and collaborate with them.
-
-
-  ========================================================
-  BLOG MIGRATION
-  ========================================================
-
-  Prompt #1: When switching blogging platforms and wanting to ensure a smooth transition
-  ────────────────────────────────────────────────────────
-  Explain the steps to migrate a blog from one platform to another, including transferring content, setting up redirects, and updating links, and provide tips on how to minimize downtime and prevent SEO issues.
-
-
-  ========================================================
-  CONTENT COLLABORATION
-  ========================================================
-
-  Prompt #1: When wanting to collaborate with other bloggers and create high-quality content
-  ────────────────────────────────────────────────────────
-  Develop a plan for collaborating with other bloggers on a series of posts about sustainable living, including tips on co-creating content, promoting each other's work, and engaging with each other's audiences.
-
-
-  ========================================================
-  READER SURVEYS
-  ========================================================
-
-  Prompt #1: When wanting to understand reader preferences and improve content quality
-  ────────────────────────────────────────────────────────
-  Create a survey to gather feedback from readers of a blog about education, including questions on content preferences, engagement, and demographics, and provide examples of how to analyze and act on the survey results.
-
-
-  ========================================================
-  BLOG SECURITY
-  ========================================================
-
-  Prompt #1: When wanting to ensure the security and integrity of a blog
-  ────────────────────────────────────────────────────────
-  Explain the importance of blog security and provide tips on how to protect a blog from hackers and malware, including using strong passwords, updating software, and monitoring for suspicious activity.
-
-
-  ========================================================
-  CONTENT REPLICATION
-  ========================================================
-
-  Prompt #1: When having a successful blog post and wanting to replicate its success
-  ────────────────────────────────────────────────────────
-  Suggest ways to replicate the success of a popular blog post about fitness, including tips on creating similar content, promoting it to the same audience, and using similar keywords and hashtags.
-
-
-  ========================================================
-  AUDIENCE ENGAGEMENT
-  ========================================================
-
-  Prompt #1: When wanting to build a loyal and engaged audience around a blog
-  ────────────────────────────────────────────────────────
-  Develop a strategy to increase audience engagement on a blog about music, including tips on creating interactive content, hosting live events, and encouraging user-generated content.
-
-
-  ========================================================
-  BLOG MONETIZATION STRATEGIES
-  ========================================================
-
-  Prompt #1: When looking to earn revenue from a blog and wanting to explore different monetization strategies
-  ────────────────────────────────────────────────────────
-  Explain the different strategies for monetizing a blog about travel, including display advertising, affiliate marketing, and sponsored content, and provide tips on how to get started with each method.
-
-
-  ========================================================
-  CONTENT MARKETING
-  ========================================================
-
-  Prompt #1: When wanting to use content marketing to attract and engage with a target audience
-  ────────────────────────────────────────────────────────
-  Create a content marketing plan for a blog about marketing, including tips on creating valuable content, promoting it to the target audience, and measuring its effectiveness.
-
-
-  ========================================================
-  BLOGGING COMMUNITIES
-  ========================================================
-
-  Prompt #1: When wanting to connect with other bloggers and build relationships in a niche
-  ────────────────────────────────────────────────────────
-  Research and identify blogging communities and forums related to the niche of food blogging, including tips on how to participate, engage with other bloggers, and build relationships with potential collaborators.
-
-
-  ========================================================
-  SEO TRENDS
-  ========================================================
-
-  Prompt #1: When wanting to stay up-to-date with the latest SEO trends and optimize content for better search engine rankings
-  ────────────────────────────────────────────────────────
-  Analyze the latest SEO trends and provide tips on how to optimize a blog post about technology for voice search, including tips on using natural language, long-tail keywords, and optimizing for featured snippets.
+  Create a comprehensive guide on how to use analytics tools to track blog performance, including tips on how to set up Google Analytics, track key metrics, and use data to inform content decisions. The guide should include examples of successful analytics campaigns and tips on how to avoid common mistakes.
 
 ============================================================
   Thank you for your purchase!
